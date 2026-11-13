@@ -87,8 +87,9 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--amarillo)}
 .lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--suave);margin:12px 0 4px}
 .lt-p:first-child{margin-top:0}.lt-p:hover{color:var(--amarillo)}
-.btn-previa{display:inline-block;margin-left:8px;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
- color:var(--negro);background:var(--amarillo);padding:3px 8px;border-radius:99px;vertical-align:1px}
+.partido .centro{display:flex;flex-direction:column;align-items:center;gap:5px}
+.btn-previa{display:inline-block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
+ color:var(--negro);background:var(--amarillo);padding:3px 9px;border-radius:99px}
 .btn-previa:hover{background:#fff}article h2{scroll-margin-top:16px}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
@@ -343,10 +344,11 @@ def _fila_agenda(p: dict, prof: str = "") -> str:
         centro = f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>'
     else:
         centro = f'<b class="hora">{_e((p.get("fecha") or "")[11:16] or "--:--")}</b>'
-    boton = (f' <a class="btn-previa" href="{prof}{PREVIAS[p["id"]]}">Previa</a>'
-             if p.get("id") in PREVIAS and p.get("goles_local") is None else "")
+    if p.get("id") in PREVIAS and p.get("goles_local") is None:  # botón debajo de la hora
+        centro = (f'<span class="centro">{centro}'
+                  f'<a class="btn-previa" href="{prof}{PREVIAS[p["id"]]}">Previa</a></span>')
     return (f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>{centro}'
-            f'<span>{_e(es(p["visitante"]))}{boton}</span></div>')
+            f'<span>{_e(es(p["visitante"]))}</span></div>')
 
 
 def _agenda(agenda: dict, prof: str = "") -> str:
