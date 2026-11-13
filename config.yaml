@@ -50,6 +50,9 @@ competiciones:
 # Límites para controlar coste y no saturar a los seguidores
 # Pon true cuando la conexión con Instagram (Make o app de Meta) esté probada
 instagram_activo: true
+# Desde esta fecha, Instagram publica el plan diario (2 partidos destacados + previa + horarios)
+# en vez de una publicación por competición
+instagram_plan_desde: "2026-11-15"
 # Competiciones que salen solo en la web (nunca en Instagram)
 solo_web: ["Copa del Rey"]
 # Competiciones con muchos grupos: en Instagram van en UNA publicación (un grupo por imagen)

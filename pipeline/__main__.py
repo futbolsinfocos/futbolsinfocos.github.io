@@ -210,6 +210,8 @@ def main():
     g.add_argument("--demo", action="store_true")
     g.add_argument("--sin-previas", action="store_true", help="no escribir las previas del día siguiente")
     sub.add_parser("web")
+    r = sub.add_parser("redes", help="genera las 4 publicaciones de Instagram de un día")
+    r.add_argument("--fecha", required=True, help="día de publicación (los destacados son del día anterior)")
     sub.add_parser("rehacer-tarjetas", help="redibuja las imágenes aún no publicadas con el diseño actual")
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
@@ -224,10 +226,15 @@ def main():
             creados += generar_previas(cfg, dia_previa, args.demo)
         hoy = date.fromisoformat(args.fecha) + timedelta(days=1)
         generar_agenda(cfg, [hoy.isoformat(), (hoy + timedelta(days=1)).isoformat()], args.demo)
+        from .redes import generar_redes  # plan diario de Instagram: 2 destacados + previa + horarios
+        creados += generar_redes(cfg, args.fecha, hoy.isoformat())
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
     elif args.orden == "rehacer-tarjetas":
         rehacer_tarjetas(cfg)
+    elif args.orden == "redes":
+        from .redes import generar_redes
+        generar_redes(cfg, (date.fromisoformat(args.fecha) - timedelta(days=1)).isoformat(), args.fecha)
     elif args.orden == "web":
         print("Web generada en", web.construir(cfg))
     elif args.orden == "instagram":

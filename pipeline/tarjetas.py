@@ -397,3 +397,116 @@ def tarjeta_cierre(cuenta: str, url_web: str, destino: Path) -> Path:
     texto(img, (540, 1060), "SÍGUENOS · ACTIVA LAS NOTIFICACIONES", 48, GRIS, ancla="m", estrecho=0.85)
     pie(img, d, cuenta, "Enlace en la bio")
     return guardar(img, destino)
+
+
+# ---------- plan diario de Instagram ----------
+
+def tarjeta_destacado(articulo: dict, p: dict, cuenta: str, destino: Path) -> Path:
+    """Partido destacado: equipos y marcador en grande, goleadores de cada lado."""
+    paquete = {"liga": {"etiqueta": articulo["etiqueta"]}, "fecha": articulo["fecha"], "partidos": [p]}
+    titulo, grupo = _partes(paquete)
+    img, d = fondo()
+    cabecera(img, d, "Partido destacado", _junta(titulo, grupo, division(p), _ronda(paquete)))
+    d.polygon([(0, 290), (ANCHO, 250), (ANCHO, 940), (0, 980)], fill=(26, 26, 26))
+    d.line([(0, 290), (ANCHO, 250)], fill=AMARILLO, width=8)
+    d.line([(0, 980), (ANCHO, 940)], fill=AMARILLO, width=8)
+    gl, gv = p["goles_local"], p["goles_visitante"]
+    texto(img, (540, 400), p["local"].upper(), 140, BLANCO if gl >= gv else GRIS, ancla="m", estrecho=0.78, ancho_max=980)
+    marcador = f"{gl}-{gv}"
+    w = ancho_texto(marcador, 230, TITULAR, 0.85) + 160
+    x0 = 540 - w // 2
+    d.polygon([(x0 + 30, 490), (x0 + w + 30, 490), (x0 + w, 700), (x0, 700)], fill=AMARILLO)
+    texto(img, (535, 595), marcador, 230, NEGRO, ancla="m", estrecho=0.85)
+    texto(img, (540, 810), p["visitante"].upper(), 140, BLANCO if gv >= gl else GRIS, ancla="m", estrecho=0.78, ancho_max=980)
+    f = fuente(TEXTO, 30)
+    gol = lambda g: f"{g['jugador']} {g['min']}'" + (" (p)" if "Penalty" in (g.get("tipo") or "") else "")
+    izq = [gol(g) for g in p.get("goleadores", []) if g.get("equipo") == p["local"]]
+    der = [gol(g) for g in p.get("goleadores", []) if g.get("equipo") == p["visitante"]]
+    y = 1010
+    for i in range(min(max(len(izq), len(der)), 4)):
+        if i < len(izq):
+            d.text((510, y), izq[i], font=f, fill=GRIS, anchor="ra")
+        if i < len(der):
+            d.text((570, y), der[i], font=f, fill=GRIS, anchor="la")
+        y += 42
+    if p.get("estadio") and y < 1150:
+        d.text((540, 1180), p["estadio"].upper(), font=fuente(TEXTO, 26), fill=GRIS, anchor="mm")
+    pie(img, d, cuenta, "Desliza ›")
+    return guardar(img, destino)
+
+
+def _filas_con_rotulos(img, d, filas: list, y0: int, y1: int, tam_max: int = 56, hora_ancho: int = 190):
+    """Dibuja filas 'LOCAL [hora] VISITANTE' con rótulos amarillos (str) intercalados."""
+    alto = min(150, (y1 - y0) // max(len(filas), 1))
+    y = y0 + max(0, (y1 - y0 - alto * len(filas)) // 2)
+    for p in filas:
+        if isinstance(p, str):
+            tam = min(40, alto - 22)
+            w = min(ancho_texto(p.upper(), tam, TITULAR, 0.85) + 70, ANCHO - 120)
+            d.polygon([(60, y + 8), (60 + w, y + 8), (40 + w, y + alto - 6), (60, y + alto - 6)], fill=AMARILLO)
+            texto(img, (84, y + (alto + 2) // 2), p.upper(), tam, NEGRO, estrecho=0.85, ancho_max=w - 50)
+            y += alto
+            continue
+        h = alto - 12
+        cx = 540
+        d.polygon([(60, y), (1030, y), (1022, y + h), (52, y + h)], fill=BARRA)
+        d.polygon([(cx - hora_ancho // 2, y), (cx + hora_ancho // 2, y), (cx + hora_ancho // 2 - 8, y + h),
+                   (cx - hora_ancho // 2 - 8, y + h)], fill=AMARILLO)
+        tam = min(tam_max, h - 26)
+        texto(img, (cx - 4, y + h // 2), _hora(p), tam + 6, NEGRO, ancla="m", estrecho=0.9)
+        texto(img, (cx - hora_ancho // 2 - 25, y + h // 2), p["local"].upper(), tam, BLANCO, ancla="r", estrecho=0.82,
+              ancho_max=cx - hora_ancho // 2 - 110)
+        texto(img, (cx + hora_ancho // 2 + 25, y + h // 2), p["visitante"].upper(), tam, BLANCO, estrecho=0.82,
+              ancho_max=cx - hora_ancho // 2 - 110)
+        y += alto
+    return y
+
+
+def tarjeta_previa_variada(partidos: list[dict], fecha: str, cuenta: str, destino: Path) -> Path:
+    """Los partidos más interesantes de hoy, de varias competiciones, con su rótulo."""
+    img, d = fondo()
+    cabecera(img, d, "Hoy no te pierdas", f"{dia_semana(fecha)} {fecha_corta(fecha)}")
+    filas, ultima = [], None
+    for p in partidos:
+        if p["etiqueta"] != ultima:
+            filas.append(p["etiqueta"])
+            ultima = p["etiqueta"]
+        filas.append(p)
+    _filas_con_rotulos(img, d, filas, 250, 1180)
+    pie(img, d, cuenta, "Previas en la web")
+    return guardar(img, destino)
+
+
+def tarjetas_horarios(comps: list[dict], fecha: str, cuenta: str, carpeta: Path, base: str,
+                      filas_max: int = 12, paginas_max: int = 10) -> list[Path]:
+    """Todos los partidos del día por competición (por categoría), en tantas imágenes como haga falta (máx. 10)."""
+    paginas, actual = [], []
+    natural = lambda t: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", t)]
+    # España primero; dentro, por categoría y grupo (Grupo 2 antes que Grupo 10)
+    orden = lambda c: (c.get("grupo", "espana") != "espana", c.get("prioridad", 3), natural(c["etiqueta"]))
+    for c in sorted(comps, key=orden):
+        ps = sorted(c["partidos"], key=lambda p: p.get("fecha") or "")
+        for i, p in enumerate(ps):
+            necesita = 2 if (i == 0 or not actual) else 1
+            if len(actual) + necesita > filas_max:
+                paginas.append(actual)
+                actual = []
+            if i == 0 or not actual:
+                actual.append(c["etiqueta"])
+            actual.append(p)
+    if actual:
+        paginas.append(actual)
+    total = sum(1 for pg in paginas for f in pg if isinstance(f, dict))
+    paginas = paginas[:paginas_max]
+    mostrados = sum(1 for pg in paginas for f in pg if isinstance(f, dict))
+    salida = []
+    for n, filas in enumerate(paginas, 1):
+        img, d = fondo()
+        cabecera(img, d, "Horarios de hoy",
+                 _junta(f"{dia_semana(fecha)} {fecha_corta(fecha)}", f"{n}/{len(paginas)}" if len(paginas) > 1 else ""))
+        y = _filas_con_rotulos(img, d, filas, 225, 1160, tam_max=44, hora_ancho=150)
+        if n == len(paginas) and total > mostrados:
+            d.text((70, min(y + 4, 1160)), f"+{total - mostrados} partidos más en la web", font=fuente(TEXTO, 26), fill=GRIS)
+        pie(img, d, cuenta, "Desliza ›" if n < len(paginas) else "Todo en la web")
+        salida.append(guardar(img, carpeta / f"{base}-{n}.jpg"))
+    return salida

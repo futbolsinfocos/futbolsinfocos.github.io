@@ -127,11 +127,36 @@ def _contenido_lote(lote: list, cfg: dict, base: str) -> tuple[list[str], str]:
     return urls, texto[:2200]
 
 
+def publicar_plan(cfg: dict, hoy: str, simular: bool = False) -> list[str]:
+    """Plan diario: publica las publicaciones de contenido/instagram/<hoy>-*.json (destacados, previa, horarios)."""
+    base = cfg["medio"]["url_web"].rstrip("/")
+    posts = [(p, json.loads(p.read_text())) for p in sorted((CONTENIDO / "instagram").glob(f"{hoy}-*.json"))]
+    pendientes = sorted([x for x in posts if not x[1].get("ig_media_id") and not x[1].get("ig_omitir")],
+                        key=lambda x: x[1].get("orden", 9))
+    make = os.environ.get("MAKE_WEBHOOK_URL")
+    ig = None if simular else (Make(make) if make else Instagram())
+    hechos = []
+    for ruta, post in pendientes:
+        urls = [f"{base}/{img}" for img in post["imagenes"]][:10]
+        if len(urls) == 1:  # Make solo publica carruseles: se añade la imagen de cierre de la marca
+            urls.append(f"{base}/img/cierre.jpg")
+        if simular:
+            print(f"[simulación] Publicaría {post['slug']} con {len(urls)} imagen(es)")
+            continue
+        post["ig_media_id"], post["ig_publicado_en"] = ig.publicar(urls, post["texto_instagram"][:2200]), hoy
+        ruta.write_text(json.dumps(post, ensure_ascii=False, indent=2))
+        hechos.append(post["slug"])
+    return hechos
+
+
 def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     """Publica los artículos aún no subidos a Instagram, por prioridad, respetando el límite diario."""
     if not cfg.get("instagram_activo", True) and not simular:
         print("Instagram desactivado en config.yaml (instagram_activo: false); no se publica nada.")
         return []
+    desde = cfg.get("instagram_plan_desde")
+    if desde and date.today().isoformat() >= str(desde):
+        return publicar_plan(cfg, date.today().isoformat(), simular)
     base = cfg["medio"]["url_web"].rstrip("/")
     archivos = sorted((CONTENIDO / "articulos").glob("*.json"))
     arts = [(p, json.loads(p.read_text())) for p in archivos]
