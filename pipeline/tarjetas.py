@@ -81,7 +81,8 @@ def tarjeta_resultados(paquete: dict, nombre_medio: str, destino: Path) -> Path:
     if len(paquete["partidos"]) > 9:
         d.text((70, ALTO - 150), f"+{len(paquete['partidos']) - 9} partidos más en la web",
                font=fuente(30), fill=SUAVE)
-    d.text((70, ALTO - 90), "Desliza para ver la clasificación →", font=fuente(30), fill=ACENTO)
+    if paquete.get("clasificacion"):
+        d.text((70, ALTO - 90), "Desliza para ver la clasificación →", font=fuente(30), fill=ACENTO)
     destino.parent.mkdir(parents=True, exist_ok=True)
     img.save(destino, "JPEG", quality=92)
     return destino

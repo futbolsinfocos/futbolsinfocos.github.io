@@ -21,7 +21,8 @@ Normas estrictas:
 - Destaca lo noticiable con los datos: goleadas, remontadas (si el orden de goles lo muestra), \
 cambios de liderato, equipos en zona alta o baja según la clasificación.
 - El cuerpo va en Markdown: un párrafo de resumen de la jornada, luego un apartado por partido \
-destacado y un cierre con la clasificación (top 3 y colista)."""
+destacado y un cierre con la clasificación (top 3 y colista). Si la clasificación viene vacía \
+(por ejemplo, en una copa), no escribas ese apartado ni menciones que falta."""
 
 ESQUEMA = {
     "type": "object",
