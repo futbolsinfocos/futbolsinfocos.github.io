@@ -36,11 +36,15 @@ competiciones:
   - {pais: Italy, patron: "^Serie A$", etiqueta: "Serie A", grupo: internacional, prioridad: 2}
   - {pais: Italy, patron: "^Serie B$", etiqueta: "Serie B", grupo: internacional, prioridad: 1}
   - {pais: Italy, patron: "^Serie C", etiqueta: "Serie C", grupo: internacional, prioridad: 3}
+  - {pais: Germany, patron: "^Bundesliga$", etiqueta: "Bundesliga", grupo: internacional, prioridad: 2}
   - {pais: Germany, patron: "^2\\. Bundesliga$", etiqueta: "2. Bundesliga", grupo: internacional, prioridad: 1}
   - {pais: Germany, patron: "^3\\. Liga$", etiqueta: "3. Liga", grupo: internacional, prioridad: 2}
+  - {pais: France, patron: "^Ligue 1$", etiqueta: "Ligue 1", grupo: internacional, prioridad: 2}
   - {pais: France, patron: "^Ligue 2$", etiqueta: "Ligue 2", grupo: internacional, prioridad: 1}
   - {pais: France, patron: "^National 1$|^National$", etiqueta: "National", grupo: internacional, prioridad: 3}
+  - {pais: Portugal, patron: "^Primeira Liga$|^Liga Portugal$|^Liga Portugal Betclic", etiqueta: "Liga Portugal", grupo: internacional, prioridad: 2}
   - {pais: Portugal, patron: "^Segunda Liga$|^Liga Portugal 2", etiqueta: "Liga Portugal 2", grupo: internacional, prioridad: 2}
+  - {pais: Netherlands, patron: "^Eredivisie$", etiqueta: "Eredivisie", grupo: internacional, prioridad: 2}
   - {pais: Netherlands, patron: "^Eerste Divisie$", etiqueta: "Eerste Divisie", grupo: internacional, prioridad: 2}
 
 # Límites para controlar coste y no saturar a los seguidores
