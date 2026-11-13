@@ -172,6 +172,20 @@ def _ronda(paquete: dict) -> str:
     return ronda(next((p.get("jornada") for p in paquete["partidos"] if p.get("jornada")), None))
 
 
+def division(p: dict) -> str:
+    """'League A - 5' → 'Liga A' (Nations League). Vacío si la competición no tiene divisiones."""
+    m = re.match(r"^League ([A-D])\b", p.get("jornada") or "")
+    return f"Liga {m.group(1)}" if m else ""
+
+
+def por_division(partidos: list[dict]) -> list[tuple[str, list[dict]]]:
+    """Agrupa los partidos por división (A, B, C, D) manteniendo el orden dentro de cada una."""
+    grupos: dict[str, list[dict]] = {}
+    for p in partidos:
+        grupos.setdefault(division(p), []).append(p)
+    return sorted(grupos.items())
+
+
 # ---------- tarjetas ----------
 
 def dato_resultados(paquete: dict) -> str:
@@ -233,12 +247,14 @@ def tarjetas_resultados(paquete: dict, cuenta: str, carpeta: Path, base: str) ->
     """Marcadores estilo tele, POR_TARJETA partidos por imagen. Primero los de más goles."""
     titulo, grupo = _partes(paquete)
     partidos = sorted(paquete["partidos"], key=lambda p: -((p["goles_local"] or 0) + (p["goles_visitante"] or 0)))
-    trozos = [partidos[i:i + POR_TARJETA] for i in range(0, len(partidos), POR_TARJETA)][:7]
+    # cada imagen lleva partidos de una sola división (Nations League: Liga A, B, C, D por separado)
+    trozos = [(div, ps[i:i + POR_TARJETA]) for div, ps in por_division(partidos)
+              for i in range(0, len(ps), POR_TARJETA)][:7]
     hay_clasif = bool(paquete.get("clasificacion"))
     salida = []
-    for n, trozo in enumerate(trozos, 1):
+    for n, (div, trozo) in enumerate(trozos, 1):
         img, d = fondo()
-        sub = _junta(titulo, grupo, _ronda(paquete))
+        sub = _junta(titulo, grupo, div, _ronda(paquete))
         if len(trozos) > 1:
             sub = _junta(sub, f"{n}/{len(trozos)}")
         cabecera(img, d, "Resultados", sub)
@@ -295,35 +311,45 @@ def _hora(p: dict) -> str:
     return (p.get("fecha") or "")[11:16] or "--:--"
 
 
-def tarjeta_previa(paquete: dict, cuenta: str, destino: Path) -> Path:
-    """Un partido: cara a cara en grande. Varios: lista con la hora de cada uno."""
+def _paginas_previa(partidos: list[dict]) -> list[list]:
+    """Reparte los partidos en imágenes de hasta POR_PREVIA filas, con el rótulo de división delante."""
+    paginas, actual = [], []
+    for div, ps in por_division(partidos):
+        for p in ps:
+            if len(actual) >= POR_PREVIA + (1 if div else 0):
+                paginas.append(actual)
+                actual = []
+            if div and (not actual or div not in actual):
+                actual.append(div)
+            actual.append(p)
+    return paginas + [actual] if actual else paginas
+
+
+def tarjetas_previa(paquete: dict, cuenta: str, carpeta: Path, base: str) -> list[Path]:
+    """Previa para Instagram. Un partido: cara a cara. Varios: lista con horas, en tantas imágenes como haga falta.
+    La primera imagen se guarda como <base>.jpg (es también la de la web); las siguientes, <base>-2.jpg…"""
     titulo, grupo = _partes(paquete)
     partidos = paquete["partidos"]
-    img, d = fondo()
-    cabecera(img, d, "Previa", _junta(titulo, grupo, _ronda(paquete)))
     if len(partidos) == 1:
-        p = partidos[0]
-        d.polygon([(0, 300), (ANCHO, 260), (ANCHO, 1000), (0, 1040)], fill=(26, 26, 26))
-        d.line([(0, 300), (ANCHO, 260)], fill=AMARILLO, width=8)
-        d.line([(0, 1040), (ANCHO, 1000)], fill=AMARILLO, width=8)
-        texto(img, (540, 450), p["local"].upper(), 210, BLANCO, ancla="m", estrecho=0.78, ancho_max=980)
-        d.polygon([(470, 590), (640, 590), (610, 690), (440, 690)], fill=AMARILLO)
-        texto(img, (540, 640), "VS", 80, NEGRO, ancla="m", estrecho=0.9)
-        texto(img, (540, 830), p["visitante"].upper(), 210, BLANCO, ancla="m", estrecho=0.78, ancho_max=980)
-        rotulo = f"{dia_semana(p.get('fecha') or paquete['fecha']).upper()} · {_hora(p)}"
-        w = ancho_texto(rotulo, 70, TITULAR, 0.85) + 140
-        x0 = 540 - w // 2
-        d.polygon([(x0 + 20, 1060), (x0 + w + 20, 1060), (x0 + w, 1160), (x0, 1160)], fill=BLANCO)
-        texto(img, (530, 1110), rotulo, 70, NEGRO, ancla="m", estrecho=0.85)
-        if p.get("estadio"):
-            d.text((540, 1190), p["estadio"].upper(), font=fuente(TEXTO, 28), fill=GRIS, anchor="mm")
-    else:
+        return [_previa_cara_a_cara(paquete, partidos[0], cuenta, carpeta / f"{base}.jpg")]
+    paginas = _paginas_previa(partidos)[:9]
+    salida = []
+    for n, filas in enumerate(paginas, 1):
+        img, d = fondo()
+        sub = _junta(titulo, grupo, _ronda(paquete), f"{n}/{len(paginas)}" if len(paginas) > 1 else "")
+        cabecera(img, d, "Previa", sub)
         d.text((70, 250), f"{dia_semana(paquete['fecha']).upper()} {fecha_corta(paquete['fecha']).upper()}",
                font=fuente(ROTULO, 30), fill=GRIS)
-        lista = partidos[:POR_PREVIA]
-        alto = min(150, (1180 - 310) // len(lista))
-        y = 310 + max(0, (1180 - 310 - alto * len(lista)) // 2)
-        for p in lista:
+        alto = min(150, (1180 - 310) // len(filas))
+        y = 310 + max(0, (1180 - 310 - alto * len(filas)) // 2)
+        for p in filas:
+            if isinstance(p, str):  # rótulo de división
+                w = ancho_texto(p.upper(), 40, TITULAR, 0.85) + 70
+                d.polygon([(60, y + alto - 62), (60 + w, y + alto - 62), (40 + w, y + alto - 14), (60, y + alto - 14)],
+                          fill=AMARILLO)
+                texto(img, (84, y + alto - 38), p.upper(), 40, NEGRO, estrecho=0.85)
+                y += alto
+                continue
             h = alto - 14
             d.polygon([(60, y), (1030, y), (1022, y + h), (52, y + h)], fill=BARRA)
             d.polygon([(445, y), (635, y), (627, y + h), (437, y + h)], fill=AMARILLO)
@@ -332,8 +358,28 @@ def tarjeta_previa(paquete: dict, cuenta: str, destino: Path) -> Path:
             texto(img, (415, y + h // 2), p["local"].upper(), tam, BLANCO, ancla="r", estrecho=0.82, ancho_max=340)
             texto(img, (665, y + h // 2), p["visitante"].upper(), tam, BLANCO, estrecho=0.82, ancho_max=340)
             y += alto
-        if len(partidos) > POR_PREVIA:
-            d.text((70, y + 6), f"+{len(partidos) - POR_PREVIA} partidos más en la web",
-                   font=fuente(TEXTO, 28), fill=GRIS)
+        pie(img, d, cuenta, "Desliza ›" if n < len(paginas) else "Previa en la web")
+        salida.append(guardar(img, carpeta / (f"{base}.jpg" if n == 1 else f"{base}-{n}.jpg")))
+    return salida
+
+
+def _previa_cara_a_cara(paquete: dict, p: dict, cuenta: str, destino: Path) -> Path:
+    titulo, grupo = _partes(paquete)
+    img, d = fondo()
+    cabecera(img, d, "Previa", _junta(titulo, grupo, division(p), _ronda(paquete)))
+    d.polygon([(0, 300), (ANCHO, 260), (ANCHO, 1000), (0, 1040)], fill=(26, 26, 26))
+    d.line([(0, 300), (ANCHO, 260)], fill=AMARILLO, width=8)
+    d.line([(0, 1040), (ANCHO, 1000)], fill=AMARILLO, width=8)
+    texto(img, (540, 450), p["local"].upper(), 210, BLANCO, ancla="m", estrecho=0.78, ancho_max=980)
+    d.polygon([(470, 590), (640, 590), (610, 690), (440, 690)], fill=AMARILLO)
+    texto(img, (540, 640), "VS", 80, NEGRO, ancla="m", estrecho=0.9)
+    texto(img, (540, 830), p["visitante"].upper(), 210, BLANCO, ancla="m", estrecho=0.78, ancho_max=980)
+    rotulo = f"{dia_semana(p.get('fecha') or paquete['fecha']).upper()} · {_hora(p)}"
+    w = ancho_texto(rotulo, 70, TITULAR, 0.85) + 140
+    x0 = 540 - w // 2
+    d.polygon([(x0 + 20, 1060), (x0 + w + 20, 1060), (x0 + w, 1160), (x0, 1160)], fill=BLANCO)
+    texto(img, (530, 1110), rotulo, 70, NEGRO, ancla="m", estrecho=0.85)
+    if p.get("estadio"):
+        d.text((540, 1190), p["estadio"].upper(), font=fuente(TEXTO, 28), fill=GRIS, anchor="mm")
     pie(img, d, cuenta, "Previa en la web")
     return guardar(img, destino)

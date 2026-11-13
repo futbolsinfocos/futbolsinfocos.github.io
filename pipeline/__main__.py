@@ -85,9 +85,13 @@ def rehacer_tarjetas(cfg: dict) -> None:
             continue
         paq = {"liga": {"etiqueta": a["etiqueta"]}, "fecha": a["fecha"]}
         if a.get("tipo") == "previa":
-            img = tarjetas.tarjeta_previa({**paq, "partidos": a["proximos"]}, cfg["medio"]["instagram"],
-                                          CONTENIDO / a["imagenes_web"][0])
-            print("✔", img.name)
+            web_img = CONTENIDO / a["imagenes_web"][0]
+            imgs = tarjetas.tarjetas_previa({**paq, "partidos": a["proximos"]}, cfg["medio"]["instagram"],
+                                            web_img.parent, web_img.stem)
+            if "imagenes" in a:  # solo las previas nuevas van a Instagram; las antiguas, solo web
+                a["imagenes"] = [str(i.relative_to(CONTENIDO)) for i in imgs]
+                ruta.write_text(json.dumps(a, ensure_ascii=False, indent=2))
+            print("✔", web_img.name, len(imgs), "imágenes")
             continue
         for viejo in a.get("imagenes", []):
             (CONTENIDO / viejo).unlink(missing_ok=True)
@@ -150,13 +154,13 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
         except Exception as e:
             print(f"ERROR en la previa de {liga['etiqueta']}: {e}", file=sys.stderr)
             continue
-        img = tarjetas.tarjeta_previa(paq, cfg["medio"]["instagram"], CONTENIDO / "img" / fecha / f"{s}.jpg")
+        imgs = tarjetas.tarjetas_previa(paq, cfg["medio"]["instagram"], CONTENIDO / "img" / fecha, s)
         articulo = {
             "slug": s, "tipo": "previa", "fecha": fecha, "etiqueta": liga["etiqueta"],
             "competicion": liga["competicion"], "grupo": liga["grupo"], "prioridad": liga["prioridad"],
             **{k: texto[k] for k in ("titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags")},
-            # Solo web: sin "imagenes", Instagram no la recoge (las crónicas mandan en Instagram)
-            "imagenes_web": [str(img.relative_to(CONTENIDO))],
+            "imagenes_web": [str(imgs[0].relative_to(CONTENIDO))],
+            "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],  # carrusel de Instagram
             "proximos": [{k: p.get(k) for k in ("id", "fecha", "estadio", "ciudad", "jornada", "arbitro",
                                                  "local", "visitante", "escudo_local", "escudo_visitante")}
                          for p in paq["partidos"]],

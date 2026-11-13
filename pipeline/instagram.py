@@ -57,7 +57,8 @@ class Instagram:
 
 def texto_post(a: dict, cfg: dict) -> str:
     etiquetas = " ".join("#" + h.lstrip("#").replace(" ", "") for h in a.get("hashtags", [])[:8])
-    return f"{a['texto_instagram']}\n\n📰 Crónica completa: enlace en la bio\n\n{etiquetas}"[:2200]
+    que = "Previa" if a.get("tipo") == "previa" else "Crónica"
+    return f"{a['texto_instagram']}\n\n📰 {que} completa: enlace en la bio\n\n{etiquetas}"[:2200]
 
 
 def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
@@ -67,7 +68,9 @@ def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     arts = [(p, json.loads(p.read_text())) for p in archivos]
     hoy = date.today().isoformat()
     ya_hoy = sum(1 for _, a in arts if a.get("ig_publicado_en", "")[:10] == hoy)
-    pendientes = sorted([x for x in arts if not x[1].get("ig_media_id") and x[1].get("imagenes")],
+    # las previas solo valen el mismo día del partido: una previa atrasada no se publica
+    pendientes = sorted([x for x in arts if not x[1].get("ig_media_id") and x[1].get("imagenes")
+                         and (x[1].get("tipo") != "previa" or x[1]["fecha"] == hoy)],
                         key=lambda x: (x[1].get("prioridad", 3), x[1]["fecha"]))
     hueco = max(cfg["limites"]["max_posts_instagram_dia"] - ya_hoy, 0)
     ig = None if simular else Instagram()
