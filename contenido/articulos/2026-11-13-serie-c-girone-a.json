@@ -1,0 +1,42 @@
+{
+  "slug": "2026-11-13-serie-c-girone-a",
+  "fecha": "2026-11-13",
+  "etiqueta": "Serie C · Girone A",
+  "competicion": "Serie C",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Ospitaletto gana 1-0 al Dolomiti Bellunesi en la jornada 14",
+  "entradilla": "El Ospitaletto se impuso por la mínima al Dolomiti Bellunesi en el Stadio Comunale Gino Corioni. Fue el único partido del viernes en el Girone A de la Serie C.",
+  "cuerpo_markdown": "La jornada 14 del Girone A de la Serie C arrancó el viernes con un solo partido. El Ospitaletto ganó 1-0 al Dolomiti Bellunesi en casa. Victoria corta, pero suficiente para sumar los tres puntos.\n\n## Ospitaletto 1-0 Dolomiti Bellunesi\n\nEl Stadio Comunale Gino Corioni, en Ospitaletto, fue el escenario del encuentro. Los locales se llevaron el triunfo con un único gol. El Dolomiti Bellunesi se marchó sin marcar y sin puntuar.",
+  "texto_instagram": "⚽ Viernes de Serie C en el Girone A: el Ospitaletto gana por la mínima al Dolomiti Bellunesi en la jornada 14 🔥\n\nOspitaletto 1-0 Dolomiti Bellunesi",
+  "hashtags": [
+    "#SerieC",
+    "#GironeA",
+    "#Ospitaletto",
+    "#DolomitiBellunesi",
+    "#FutbolItaliano"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-serie-c-girone-a-1.jpg",
+    "img/2026-11-13/2026-11-13-serie-c-girone-a-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1608368,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Stadio Comunale Gino Corioni",
+      "ciudad": "Ospitaletto",
+      "arbitro": "G. Decimo",
+      "jornada": "Girone A - 14",
+      "liga_id": 138,
+      "local": "Ospitaletto",
+      "visitante": "Dolomiti Bellunesi",
+      "escudo_local": "https://media.api-sports.io/football/teams/24696.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17820.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

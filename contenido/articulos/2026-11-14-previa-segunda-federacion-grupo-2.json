@@ -1,0 +1,102 @@
+{
+  "slug": "2026-11-14-previa-segunda-federacion-grupo-2",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Segunda Federación · Grupo 2",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Ebro-Utebo, Osasuna II-SD Logroñés y Barcelona B-Girona II, en la jornada 11",
+  "entradilla": "La jornada 11 del Grupo 2 de Segunda Federación incluye hoy sábado tres partidos. El último, Barcelona B-Girona II, se juega a las 18.00 en el Estadi Johan Cruyff.",
+  "cuerpo_markdown": "## Ebro - Utebo\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nEbro y Utebo se enfrentan este sábado a las 16.00 en la jornada 11 del Grupo 2.\n\n[Leer la previa completa →](../previas/2026-11-14-ebro-utebo.html)\n\n## Osasuna II - SD Logroñés\n\n<p class=\"ficha\"><b>17:00</b> · Tajonar Facilities Stadium (Pamplona) · Jornada 11</p>\n\nEl filial rojillo recibe a la SD Logroñés este sábado a las 17.00 en Pamplona.\n\n[Leer la previa completa →](../previas/2026-11-14-osasuna-ii-sd-logrones.html)\n\n## Barcelona B - Girona II\n\n<p class=\"ficha\"><b>18:00</b> · Estadi Johan Cruyff (Barcelona) · Jornada 11</p>\n\nEl filial azulgrana recibe al Girona II este sábado a las 18.00 en Barcelona.\n\n[Leer la previa completa →](../previas/2026-11-14-barcelona-b-girona-ii.html)",
+  "texto_instagram": "⚽ Segunda Federación · Grupo 2. Tres partidos de la jornada 11 este sábado. Cierra la tarde Barcelona B-Girona II en el Estadi Johan Cruyff.\n\n16.00 Ebro-Utebo\n17.00 Osasuna II-SD Logroñés\n18.00 Barcelona B-Girona II",
+  "hashtags": [
+    "#SegundaFederación",
+    "#SegundaRFEF",
+    "#Grupo2",
+    "#BarçaAtlètic",
+    "#Osasuna",
+    "#SDLogroñés",
+    "#Girona"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-segunda-federacion-grupo-2.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-segunda-federacion-grupo-2.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572428,
+      "fecha": "2026-11-14T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 2 - 11",
+      "arbitro": null,
+      "local": "Ebro",
+      "visitante": "Utebo",
+      "escudo_local": "https://media.api-sports.io/football/teams/5261.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9891.png"
+    },
+    {
+      "id": 1572431,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": "Tajonar Facilities Stadium",
+      "ciudad": "Pamplona",
+      "jornada": "Group 2 - 11",
+      "arbitro": null,
+      "local": "Osasuna II",
+      "visitante": "SD Logroñés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9584.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9411.png"
+    },
+    {
+      "id": 1572427,
+      "fecha": "2026-11-14T18:00:00+01:00",
+      "estadio": "Estadi Johan Cruyff",
+      "ciudad": "Barcelona",
+      "jornada": "Group 2 - 11",
+      "arbitro": null,
+      "local": "Barcelona B",
+      "visitante": "Girona II",
+      "escudo_local": "https://media.api-sports.io/football/teams/712.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15343.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1572428,
+      "slug": "2026-11-14-ebro-utebo",
+      "titular": "El Ebro recibe al Utebo en la jornada 11 de Segunda Federación",
+      "entradilla": "Ebro y Utebo se enfrentan este sábado a las 16.00 en la jornada 11 del Grupo 2.",
+      "parrafos": [
+        "El Ebro recibe al Utebo este sábado 14 de noviembre a las 16.00, hora peninsular, en partido de la jornada 11 del Grupo 2 de Segunda Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1572431,
+      "slug": "2026-11-14-osasuna-ii-sd-logrones",
+      "titular": "Osasuna II y SD Logroñés se miden en Tajonar",
+      "entradilla": "El filial rojillo recibe a la SD Logroñés este sábado a las 17.00 en Pamplona.",
+      "parrafos": [
+        "Osasuna II y SD Logroñés juegan este sábado 14 de noviembre a las 17.00, hora peninsular, en el Tajonar Facilities Stadium de Pamplona, en la jornada 11 del Grupo 2 de Segunda Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1572427,
+      "slug": "2026-11-14-barcelona-b-girona-ii",
+      "titular": "Barcelona B y Girona II, derbi de filiales en el Johan Cruyff",
+      "entradilla": "El filial azulgrana recibe al Girona II este sábado a las 18.00 en Barcelona.",
+      "parrafos": [
+        "El Barcelona B recibe al Girona II este sábado 14 de noviembre a las 18.00, hora peninsular, en el Estadi Johan Cruyff de Barcelona, en partido de la jornada 11 del Grupo 2 de Segunda Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ]
+}

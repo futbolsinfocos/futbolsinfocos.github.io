@@ -1,0 +1,68 @@
+{
+  "slug": "2026-11-13-laliga-hypermotion",
+  "fecha": "2026-11-13",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Leganés supera al Burgos (3-1) en Butarque con todo resuelto en media hora",
+  "entradilla": "El Leganés se impuso 3-1 al Burgos en el partido que abrió la Jornada 14 de LaLiga Hypermotion. Los tres goles locales llegaron entre el minuto 17 y el 30.",
+  "cuerpo_markdown": "El viernes arrancó la Jornada 14 de LaLiga Hypermotion con victoria del Leganés. Los pepineros ganaron 3-1 al Burgos en el Municipal de Butarque. Encarrilaron el partido en apenas trece minutos de la primera parte. El Burgos solo pudo maquillar el marcador al final.\n\n## Leganés 3-1 Burgos\n\nEl partido, dirigido por Gonzalo Romero Freixas, se abrió en el minuto 17. Dani Rodriguez transformó un penalti para el 1-0.\n\nDiez minutos después llegó el segundo. Oier Luengo Redondo marcó en propia puerta en el 27 y amplió la ventaja local.\n\nEn el 30, Álex Millán firmó el 3-0. El Leganés tenía el encuentro encarrilado antes de la media hora.\n\nEl Burgos encontró premio en el minuto 90. Irian Ribas Carrasco hizo el 3-1 definitivo.",
+  "texto_instagram": "⚽ El Leganés gana 3-1 al Burgos en Butarque y deja el partido resuelto en la primera media hora de la Jornada 14 de LaLiga Hypermotion 🔥\n\nLeganés 3-1 Burgos: Dani Rodriguez (17' pen.), Oier Luengo Redondo (27' p.p.), Álex Millán (30'); Irian Ribas Carrasco (90') 📊",
+  "hashtags": [
+    "#LaLigaHypermotion",
+    "#Leganés",
+    "#Burgos",
+    "#LeganésBurgos",
+    "#SegundaDivisión",
+    "#Jornada14"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-laliga-hypermotion-1.jpg",
+    "img/2026-11-13/2026-11-13-laliga-hypermotion-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570019,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Municipal de Butarque",
+      "ciudad": "Leganes",
+      "arbitro": "Gonzalo Romero Freixas",
+      "jornada": "Regular Season - 14",
+      "liga_id": 141,
+      "local": "Leganés",
+      "visitante": "Burgos",
+      "escudo_local": "https://media.api-sports.io/football/teams/537.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9580.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 17,
+          "equipo": "Leganés",
+          "jugador": "Dani Rodriguez",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 27,
+          "equipo": "Leganés",
+          "jugador": "Oier Luengo Redondo",
+          "tipo": "Own Goal"
+        },
+        {
+          "min": 30,
+          "equipo": "Leganés",
+          "jugador": "Álex Millán",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Burgos",
+          "jugador": "Irian Ribas Carrasco",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}

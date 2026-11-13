@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-14-previa-laliga-hypermotion",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Cinco partidos de la jornada 14 de LaLiga Hypermotion este sábado",
+  "entradilla": "La jornada 14 de LaLiga Hypermotion reúne este sábado cinco partidos. Abre el Valladolid-Castellón, a las 14:00, y cierra el Oviedo-Girona, a las 21:00.",
+  "cuerpo_markdown": "## Claves de la jornada\n\n- La jornada se reparte en cuatro horarios: 14:00, 16:15, 18:30 y 21:00.\n- Almería-FC Andorra y Mallorca-Córdoba coinciden a las 18:30.\n\n## Valladolid - Castellón\n\n<p class=\"ficha\"><b>14:00</b> · Estadio José Zorrilla (Valladolid) · Jornada 14</p>\n\nValladolid y Castellón abren la jornada 14 de LaLiga Hypermotion en el Estadio José Zorrilla.\n\n[Leer la previa completa →](../previas/2026-11-14-valladolid-castellon.html)\n\n## Real Sociedad II - Sporting de Gijón\n\n<p class=\"ficha\"><b>16:15</b> · Estadio Ciudad Deportiva Zubieta (San Sebastian) · Jornada 14</p>\n\nReal Sociedad II y Sporting de Gijón se miden en la jornada 14 de LaLiga Hypermotion.\n\n[Leer la previa completa →](../previas/2026-11-14-real-sociedad-ii-sporting-de-gijon.html)\n\n## Almería - FC Andorra\n\n<p class=\"ficha\"><b>18:30</b> · UD Almería Stadium (Almeria) · Jornada 14</p>\n\nAlmería y FC Andorra juegan a las 18:30 en el UD Almería Stadium.\n\n[Leer la previa completa →](../previas/2026-11-14-almeria-fc-andorra.html)\n\n## Mallorca - Córdoba\n\n<p class=\"ficha\"><b>18:30</b> · Estadi Mallorca Son Moix (Parma) · Jornada 14</p>\n\nMallorca y Córdoba se enfrentan a las 18:30 en la jornada 14 de LaLiga Hypermotion.\n\n[Leer la previa completa →](../previas/2026-11-14-mallorca-cordoba.html)\n\n## Oviedo - Girona\n\n<p class=\"ficha\"><b>21:00</b> · Nuevo Carlos Tartiere (Oviedo) · Jornada 14</p>\n\nEl Oviedo recibe al Girona a las 21:00 en el último partido del sábado.\n\n[Leer la previa completa →](../previas/2026-11-14-oviedo-girona.html)",
+  "texto_instagram": "⚽ Jornada 14 de LaLiga Hypermotion este sábado con cinco partidos. Abre el Valladolid-Castellón en el José Zorrilla y cierra el Oviedo-Girona en el Carlos Tartiere.\n\n14:00 Valladolid - Castellón\n16:15 Real Sociedad II - Sporting de Gijón\n18:30 Almería - FC Andorra\n18:30 Mallorca - Córdoba\n21:00 Oviedo - Girona",
+  "hashtags": [
+    "#LaLigaHypermotion",
+    "#SegundaDivisión",
+    "#Jornada14",
+    "#RealValladolid",
+    "#Sporting",
+    "#RealOviedo"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-laliga-hypermotion.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-laliga-hypermotion.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570024,
+      "fecha": "2026-11-14T14:00:00+01:00",
+      "estadio": "Estadio José Zorrilla",
+      "ciudad": "Valladolid",
+      "jornada": "Regular Season - 14",
+      "arbitro": null,
+      "local": "Valladolid",
+      "visitante": "Castellón",
+      "escudo_local": "https://media.api-sports.io/football/teams/720.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5254.png"
+    },
+    {
+      "id": 1570022,
+      "fecha": "2026-11-14T16:15:00+01:00",
+      "estadio": "Estadio Ciudad Deportiva Zubieta",
+      "ciudad": "San Sebastian",
+      "jornada": "Regular Season - 14",
+      "arbitro": null,
+      "local": "Real Sociedad II",
+      "visitante": "Sporting de Gijón",
+      "escudo_local": "https://media.api-sports.io/football/teams/9585.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/731.png"
+    },
+    {
+      "id": 1570015,
+      "fecha": "2026-11-14T18:30:00+01:00",
+      "estadio": "UD Almería Stadium",
+      "ciudad": "Almeria",
+      "jornada": "Regular Season - 14",
+      "arbitro": null,
+      "local": "Almería",
+      "visitante": "FC Andorra",
+      "escudo_local": "https://media.api-sports.io/football/teams/723.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/8157.png"
+    },
+    {
+      "id": 1570020,
+      "fecha": "2026-11-14T18:30:00+01:00",
+      "estadio": "Estadi Mallorca Son Moix",
+      "ciudad": "Parma",
+      "jornada": "Regular Season - 14",
+      "arbitro": null,
+      "local": "Mallorca",
+      "visitante": "Córdoba",
+      "escudo_local": "https://media.api-sports.io/football/teams/798.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/713.png"
+    },
+    {
+      "id": 1570021,
+      "fecha": "2026-11-14T21:00:00+01:00",
+      "estadio": "Nuevo Carlos Tartiere",
+      "ciudad": "Oviedo",
+      "jornada": "Regular Season - 14",
+      "arbitro": null,
+      "local": "Oviedo",
+      "visitante": "Girona",
+      "escudo_local": "https://media.api-sports.io/football/teams/718.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/547.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1570024,
+      "slug": "2026-11-14-valladolid-castellon",
+      "titular": "El Valladolid recibe al Castellón en la jornada 14",
+      "entradilla": "Valladolid y Castellón abren la jornada 14 de LaLiga Hypermotion en el Estadio José Zorrilla.",
+      "parrafos": [
+        "El Valladolid recibe al Castellón este sábado 14 de noviembre, a las 14:00, en el Estadio José Zorrilla de Valladolid, en partido de la jornada 14 de LaLiga Hypermotion."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570022,
+      "slug": "2026-11-14-real-sociedad-ii-sporting-de-gijon",
+      "titular": "La Real Sociedad II recibe al Sporting de Gijón en Zubieta",
+      "entradilla": "Real Sociedad II y Sporting de Gijón se miden en la jornada 14 de LaLiga Hypermotion.",
+      "parrafos": [
+        "La Real Sociedad II recibe al Sporting de Gijón este sábado 14 de noviembre, a las 16:15, en el Estadio Ciudad Deportiva Zubieta de San Sebastián, en partido de la jornada 14 de LaLiga Hypermotion."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570015,
+      "slug": "2026-11-14-almeria-fc-andorra",
+      "titular": "El Almería recibe al FC Andorra en la jornada 14",
+      "entradilla": "Almería y FC Andorra juegan a las 18:30 en el UD Almería Stadium.",
+      "parrafos": [
+        "El Almería recibe al FC Andorra este sábado 14 de noviembre, a las 18:30, en el UD Almería Stadium, en partido de la jornada 14 de LaLiga Hypermotion."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570020,
+      "slug": "2026-11-14-mallorca-cordoba",
+      "titular": "El Mallorca recibe al Córdoba en Son Moix",
+      "entradilla": "Mallorca y Córdoba se enfrentan a las 18:30 en la jornada 14 de LaLiga Hypermotion.",
+      "parrafos": [
+        "El Mallorca recibe al Córdoba este sábado 14 de noviembre, a las 18:30, en el Estadi Mallorca Son Moix, en partido de la jornada 14 de LaLiga Hypermotion."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570021,
+      "slug": "2026-11-14-oviedo-girona",
+      "titular": "Oviedo y Girona cierran la jornada 14 en el Carlos Tartiere",
+      "entradilla": "El Oviedo recibe al Girona a las 21:00 en el último partido del sábado.",
+      "parrafos": [
+        "El Oviedo recibe al Girona este sábado 14 de noviembre, a las 21:00, en el Nuevo Carlos Tartiere de Oviedo, en partido de la jornada 14 de LaLiga Hypermotion."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ]
+}

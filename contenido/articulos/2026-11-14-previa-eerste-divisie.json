@@ -1,0 +1,191 @@
+{
+  "slug": "2026-11-14-previa-eerste-divisie",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Eerste Divisie",
+  "competicion": "Eerste Divisie",
+  "grupo": "internacional",
+  "prioridad": 2,
+  "titular": "La Eerste Divisie disputa este sábado siete partidos de la jornada 15",
+  "entradilla": "La jornada 15 de la Eerste Divisie reúne siete partidos este sábado. Abre el NAC Breda-Emmen a las 16.30 y los otros seis se juegan a las 20.00.",
+  "cuerpo_markdown": "## NAC Breda - Emmen\n\n<p class=\"ficha\"><b>16:30</b> · Rat Verlegh Stadion (Breda) · Jornada 15</p>\n\nNAC Breda recibe al Emmen este sábado a las 16.30 en el Rat Verlegh Stadion.\n\n[Leer la previa completa →](../previas/2026-11-14-nac-breda-emmen.html)\n\n## Almere City FC - Helmond Sport\n\n<p class=\"ficha\"><b>20:00</b> · Yanmar Stadion (Almere) · Jornada 15</p>\n\nAlmere City FC y Helmond Sport juegan este sábado a las 20.00 en el Yanmar Stadion.\n\n[Leer la previa completa →](../previas/2026-11-14-almere-city-fc-helmond-sport.html)\n\n## De Graafschap - FC OSS\n\n<p class=\"ficha\"><b>20:00</b> · De Vijverberg (Dutinghem) · Jornada 15</p>\n\nDe Graafschap recibe al FC OSS este sábado a las 20.00.\n\n[Leer la previa completa →](../previas/2026-11-14-de-graafschap-fc-oss.html)\n\n## Dordrecht - Heracles\n\n<p class=\"ficha\"><b>20:00</b> · GN Bouw Stadion (Dordrecht) · Jornada 15</p>\n\nDordrecht y Heracles juegan este sábado a las 20.00 en el GN Bouw Stadion.\n\n[Leer la previa completa →](../previas/2026-11-14-dordrecht-heracles.html)\n\n## Roda - FC Volendam\n\n<p class=\"ficha\"><b>20:00</b> · Parkstad Limburg (Kerkrade) · Jornada 15</p>\n\nRoda recibe al FC Volendam este sábado a las 20.00 en el Parkstad Limburg.\n\n[Leer la previa completa →](../previas/2026-11-14-roda-fc-volendam.html)\n\n## VVV Venlo - FC Eindhoven\n\n<p class=\"ficha\"><b>20:00</b> · Seacon Stadion De Koel (Venlo) · Jornada 15</p>\n\nVVV Venlo y FC Eindhoven juegan este sábado a las 20.00 en el Seacon Stadion De Koel.\n\n[Leer la previa completa →](../previas/2026-11-14-vvv-venlo-fc-eindhoven.html)\n\n## Waalwijk - Den Bosch\n\n<p class=\"ficha\"><b>20:00</b> · Mandemakers Stadion (Waalwijk) · Jornada 15</p>\n\nWaalwijk recibe al Den Bosch este sábado a las 20.00.\n\n[Leer la previa completa →](../previas/2026-11-14-waalwijk-den-bosch.html)",
+  "texto_instagram": "⚽ Jornada 15 de la Eerste Divisie este sábado: siete partidos. El NAC Breda-Emmen abre a las 16.30 y el resto se juega a las 20.00.\n\nNAC Breda - Emmen · 16.30\nAlmere City FC - Helmond Sport · 20.00\nDe Graafschap - FC OSS · 20.00\nDordrecht - Heracles · 20.00\nRoda - FC Volendam · 20.00\nVVV Venlo - FC Eindhoven · 20.00\nWaalwijk - Den Bosch · 20.00",
+  "hashtags": [
+    "#EersteDivisie",
+    "#FútbolNeerlandés",
+    "#NACBreda",
+    "#Jornada15"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-eerste-divisie.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-eerste-divisie.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1551877,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Rat Verlegh Stadion",
+      "ciudad": "Breda",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "NAC Breda",
+      "visitante": "Emmen",
+      "escudo_local": "https://media.api-sports.io/football/teams/203.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/208.png"
+    },
+    {
+      "id": 1551878,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "Yanmar Stadion",
+      "ciudad": "Almere",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "Almere City FC",
+      "visitante": "Helmond Sport",
+      "escudo_local": "https://media.api-sports.io/football/teams/419.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/424.png"
+    },
+    {
+      "id": 1551879,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "De Vijverberg",
+      "ciudad": "Dutinghem",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "De Graafschap",
+      "visitante": "FC OSS",
+      "escudo_local": "https://media.api-sports.io/football/teams/199.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/423.png"
+    },
+    {
+      "id": 1551880,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "GN Bouw Stadion",
+      "ciudad": "Dordrecht",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "Dordrecht",
+      "visitante": "Heracles",
+      "escudo_local": "https://media.api-sports.io/football/teams/409.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/206.png"
+    },
+    {
+      "id": 1551881,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "Parkstad Limburg",
+      "ciudad": "Kerkrade",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "Roda",
+      "visitante": "FC Volendam",
+      "escudo_local": "https://media.api-sports.io/football/teams/414.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/416.png"
+    },
+    {
+      "id": 1551882,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "Seacon Stadion De Koel",
+      "ciudad": "Venlo",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "VVV Venlo",
+      "visitante": "FC Eindhoven",
+      "escudo_local": "https://media.api-sports.io/football/teams/204.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/422.png"
+    },
+    {
+      "id": 1551883,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": "Mandemakers Stadion",
+      "ciudad": "Waalwijk",
+      "jornada": "Regular Season - 15",
+      "arbitro": null,
+      "local": "Waalwijk",
+      "visitante": "Den Bosch",
+      "escudo_local": "https://media.api-sports.io/football/teams/417.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/421.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1551877,
+      "slug": "2026-11-14-nac-breda-emmen",
+      "titular": "NAC Breda y Emmen abren la jornada 15 en Breda",
+      "entradilla": "NAC Breda recibe al Emmen este sábado a las 16.30 en el Rat Verlegh Stadion.",
+      "parrafos": [
+        "NAC Breda y Emmen se enfrentan este sábado 14 de noviembre a las 16.30, hora de Madrid, en el Rat Verlegh Stadion de Breda, en partido de la jornada 15 de la Eerste Divisie. Es el primer encuentro de la jornada."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551878,
+      "slug": "2026-11-14-almere-city-fc-helmond-sport",
+      "titular": "Almere City FC recibe al Helmond Sport en la jornada 15",
+      "entradilla": "Almere City FC y Helmond Sport juegan este sábado a las 20.00 en el Yanmar Stadion.",
+      "parrafos": [
+        "Almere City FC y Helmond Sport se miden este sábado 14 de noviembre a las 20.00, hora de Madrid, en el Yanmar Stadion de Almere, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551879,
+      "slug": "2026-11-14-de-graafschap-fc-oss",
+      "titular": "De Graafschap y FC OSS se miden en De Vijverberg",
+      "entradilla": "De Graafschap recibe al FC OSS este sábado a las 20.00.",
+      "parrafos": [
+        "De Graafschap y FC OSS se enfrentan este sábado 14 de noviembre a las 20.00, hora de Madrid, en De Vijverberg de Doetinchem, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551880,
+      "slug": "2026-11-14-dordrecht-heracles",
+      "titular": "Dordrecht recibe al Heracles en la jornada 15",
+      "entradilla": "Dordrecht y Heracles juegan este sábado a las 20.00 en el GN Bouw Stadion.",
+      "parrafos": [
+        "Dordrecht y Heracles se miden este sábado 14 de noviembre a las 20.00, hora de Madrid, en el GN Bouw Stadion de Dordrecht, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551881,
+      "slug": "2026-11-14-roda-fc-volendam",
+      "titular": "Roda y FC Volendam se enfrentan en Kerkrade",
+      "entradilla": "Roda recibe al FC Volendam este sábado a las 20.00 en el Parkstad Limburg.",
+      "parrafos": [
+        "Roda y FC Volendam se enfrentan este sábado 14 de noviembre a las 20.00, hora de Madrid, en el Parkstad Limburg de Kerkrade, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551882,
+      "slug": "2026-11-14-vvv-venlo-fc-eindhoven",
+      "titular": "VVV Venlo recibe al FC Eindhoven en la jornada 15",
+      "entradilla": "VVV Venlo y FC Eindhoven juegan este sábado a las 20.00 en el Seacon Stadion De Koel.",
+      "parrafos": [
+        "VVV Venlo y FC Eindhoven se miden este sábado 14 de noviembre a las 20.00, hora de Madrid, en el Seacon Stadion De Koel de Venlo, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1551883,
+      "slug": "2026-11-14-waalwijk-den-bosch",
+      "titular": "Waalwijk y Den Bosch se miden en el Mandemakers Stadion",
+      "entradilla": "Waalwijk recibe al Den Bosch este sábado a las 20.00.",
+      "parrafos": [
+        "Waalwijk y Den Bosch se enfrentan este sábado 14 de noviembre a las 20.00, hora de Madrid, en el Mandemakers Stadion de Waalwijk, en la jornada 15 de la Eerste Divisie."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ]
+}

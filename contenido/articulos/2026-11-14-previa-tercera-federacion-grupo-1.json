@@ -1,0 +1,77 @@
+{
+  "slug": "2026-11-14-previa-tercera-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Portonovo SD-Celtiga y Lalin-Coruña, este sábado en la Tercera Federación",
+  "entradilla": "La jornada 11 del Grupo 1 de la Tercera Federación incluye hoy dos partidos. Portonovo SD y Celtiga juegan a las 18.30 y Lalin y Coruña, a las 20.00.",
+  "cuerpo_markdown": "## Portonovo SD - Celtiga\n\n<p class=\"ficha\"><b>18:30</b> · Jornada 11</p>\n\nPortonovo SD recibe a Celtiga este sábado a las 18.30 en partido del Grupo 1 de la Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-portonovo-sd-celtiga.html)\n\n## Lalin - Coruña\n\n<p class=\"ficha\"><b>20:00</b> · Jornada 11</p>\n\nLalin y Coruña juegan este sábado a las 20.00 en el Grupo 1 de la Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-lalin-coruna.html)",
+  "texto_instagram": "⚽ Jornada 11 del Grupo 1 de la Tercera Federación. Este sábado se juegan dos partidos: Portonovo SD recibe a Celtiga y Lalin, al Coruña.\n\n18.30 Portonovo SD - Celtiga\n20.00 Lalin - Coruña",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo1",
+    "#PortonovoCeltiga",
+    "#LalinCoruña",
+    "#FutbolGallego"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1612799,
+      "fecha": "2026-11-14T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 11",
+      "arbitro": null,
+      "local": "Portonovo SD",
+      "visitante": "Celtiga",
+      "escudo_local": "https://media.api-sports.io/football/teams/28096.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26533.png"
+    },
+    {
+      "id": 1612798,
+      "fecha": "2026-11-14T20:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 11",
+      "arbitro": null,
+      "local": "Lalin",
+      "visitante": "Coruña",
+      "escudo_local": "https://media.api-sports.io/football/teams/28095.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26534.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1612799,
+      "slug": "2026-11-14-portonovo-sd-celtiga",
+      "titular": "Portonovo SD y Celtiga se enfrentan en la jornada 11",
+      "entradilla": "Portonovo SD recibe a Celtiga este sábado a las 18.30 en partido del Grupo 1 de la Tercera Federación.",
+      "parrafos": [
+        "Portonovo SD y Celtiga se miden este sábado 14 de noviembre a las 18.30 (hora peninsular), en partido de la jornada 11 del Grupo 1 de la Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1612798,
+      "slug": "2026-11-14-lalin-coruna",
+      "titular": "Lalin recibe al Coruña en la jornada 11 de Tercera Federación",
+      "entradilla": "Lalin y Coruña juegan este sábado a las 20.00 en el Grupo 1 de la Tercera Federación.",
+      "parrafos": [
+        "Lalin y Coruña se enfrentan este sábado 14 de noviembre a las 20.00 (hora peninsular), en partido de la jornada 11 del Grupo 1 de la Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ]
+}

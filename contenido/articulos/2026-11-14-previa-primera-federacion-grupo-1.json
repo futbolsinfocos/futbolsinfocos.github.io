@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-14-previa-primera-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Cinco partidos de la jornada 12 en el Grupo 1 de Primera Federación",
+  "entradilla": "La jornada 12 del Grupo 1 de Primera Federación reúne hoy, sábado, cinco partidos. Abre el Athletic Club II-Racing de Ferrol a las 13:00 en Lezama.",
+  "cuerpo_markdown": "## Athletic Club II - Racing de Ferrol\n\n<p class=\"ficha\"><b>13:00</b> · Lezama Facilities · Jornada 12</p>\n\nAthletic Club II y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-athletic-club-ii-racing-de-ferrol.html)\n\n## Real Unión - Cultural Leonesa\n\n<p class=\"ficha\"><b>16:30</b> · Stadium Gal (Irun) · Jornada 12</p>\n\nEl Real Unión recibe hoy a las 16:30 a la Cultural Leonesa en Irun, en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-real-union-cultural-leonesa.html)\n\n## UD Ourense - Mérida AD\n\n<p class=\"ficha\"><b>16:30</b> · Estadio de O Couto · Jornada 12</p>\n\nUD Ourense y Mérida AD juegan hoy a las 16:30 en la jornada 12 del Grupo 1.\n\n[Leer la previa completa →](../previas/2026-11-14-ud-ourense-merida-ad.html)\n\n## CD Coria - Unionistas de Salamanca\n\n<p class=\"ficha\"><b>18:45</b> · Estadio La Isla (Coria) · Jornada 12</p>\n\nCD Coria y Unionistas de Salamanca juegan hoy a las 18:45 en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-cd-coria-unionistas-de-salamanca.html)\n\n## Deportivo La Coruña II - Barakaldo\n\n<p class=\"ficha\"><b>18:45</b> · Ciudad Deportiva de Abegondo · Jornada 12</p>\n\nEl Deportivo La Coruña II recibe hoy a las 18:45 al Barakaldo en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-la-coruna-ii-barakaldo.html)",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 1 de Primera Federación. Cinco partidos este sábado, a partir de las 13:00 en Lezama con el Athletic Club II-Racing de Ferrol.\n\n13:00 Athletic Club II - Racing de Ferrol\n16:30 Real Unión - Cultural Leonesa\n16:30 UD Ourense - Mérida AD\n18:45 CD Coria - Unionistas de Salamanca\n18:45 Deportivo La Coruña II - Barakaldo",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#PrimeraRFEF",
+    "#Grupo1",
+    "#Jornada12"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-primera-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-primera-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570826,
+      "fecha": "2026-11-14T13:00:00+01:00",
+      "estadio": "Lezama Facilities",
+      "ciudad": "Lezama",
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Athletic Club II",
+      "visitante": "Racing de Ferrol",
+      "escudo_local": "https://media.api-sports.io/football/teams/9579.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9409.png"
+    },
+    {
+      "id": 1570832,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Stadium Gal",
+      "ciudad": "Irun",
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Real Unión",
+      "visitante": "Cultural Leonesa",
+      "escudo_local": "https://media.api-sports.io/football/teams/9586.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/725.png"
+    },
+    {
+      "id": 1570834,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Estadio de O Couto",
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "UD Ourense",
+      "visitante": "Mérida AD",
+      "escudo_local": "https://media.api-sports.io/football/teams/9617.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/10140.png"
+    },
+    {
+      "id": 1570827,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": "Estadio La Isla",
+      "ciudad": "Coria",
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "CD Coria",
+      "visitante": "Unionistas de Salamanca",
+      "escudo_local": "https://media.api-sports.io/football/teams/9827.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5281.png"
+    },
+    {
+      "id": 1570829,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": "Ciudad Deportiva de Abegondo",
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Deportivo La Coruña II",
+      "visitante": "Barakaldo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9610.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5251.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1570826,
+      "slug": "2026-11-14-athletic-club-ii-racing-de-ferrol",
+      "titular": "El Athletic Club II recibe al Racing de Ferrol en Lezama",
+      "entradilla": "Athletic Club II y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.",
+      "parrafos": [
+        "El Athletic Club II y el Racing de Ferrol se enfrentan este sábado 14 de noviembre a las 13:00 en las instalaciones de Lezama, en partido de la jornada 12 del Grupo 1 de Primera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570832,
+      "slug": "2026-11-14-real-union-cultural-leonesa",
+      "titular": "Real Unión y Cultural Leonesa juegan en el Stadium Gal",
+      "entradilla": "El Real Unión recibe hoy a las 16:30 a la Cultural Leonesa en Irun, en la jornada 12.",
+      "parrafos": [
+        "El Real Unión y la Cultural Leonesa se miden este sábado 14 de noviembre a las 16:30 en el Stadium Gal de Irun, en la jornada 12 del Grupo 1 de Primera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570834,
+      "slug": "2026-11-14-ud-ourense-merida-ad",
+      "titular": "La UD Ourense recibe al Mérida AD en O Couto",
+      "entradilla": "UD Ourense y Mérida AD juegan hoy a las 16:30 en la jornada 12 del Grupo 1.",
+      "parrafos": [
+        "La UD Ourense y el Mérida AD se enfrentan este sábado 14 de noviembre a las 16:30 en el Estadio de O Couto, en partido de la jornada 12 del Grupo 1 de Primera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570827,
+      "slug": "2026-11-14-cd-coria-unionistas-de-salamanca",
+      "titular": "El CD Coria recibe a Unionistas de Salamanca en La Isla",
+      "entradilla": "CD Coria y Unionistas de Salamanca juegan hoy a las 18:45 en la jornada 12.",
+      "parrafos": [
+        "El CD Coria y Unionistas de Salamanca se miden este sábado 14 de noviembre a las 18:45 en el Estadio La Isla de Coria, en la jornada 12 del Grupo 1 de Primera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1570829,
+      "slug": "2026-11-14-deportivo-la-coruna-ii-barakaldo",
+      "titular": "Deportivo La Coruña II y Barakaldo juegan en Abegondo",
+      "entradilla": "El Deportivo La Coruña II recibe hoy a las 18:45 al Barakaldo en la jornada 12.",
+      "parrafos": [
+        "El Deportivo La Coruña II y el Barakaldo se enfrentan este sábado 14 de noviembre a las 18:45 en la Ciudad Deportiva de Abegondo, en partido de la jornada 12 del Grupo 1 de Primera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ]
+}

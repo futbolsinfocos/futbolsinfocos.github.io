@@ -1,0 +1,60 @@
+{
+  "slug": "2026-11-13-tercera-federacion-grupo-15",
+  "fecha": "2026-11-13",
+  "etiqueta": "Tercera Federación · Grupo 15",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Goleada del Doneztebe en Kozkor y festival de goles entre San Juan y Gazte Berriak",
+  "entradilla": "La Jornada 11 del Grupo 15 de Tercera Federación arrancó con dieciséis goles en dos partidos. El Doneztebe FT ganó 0-4 en el campo del Beti Kozkor y San Juan y Gazte Berriak empataron 4-4.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 15 de Tercera Federación dejó un viernes de goles. Dos partidos y dieciséis tantos. El Doneztebe FT firmó una goleada a domicilio y San Juan y Gazte Berriak se repartieron los puntos en un duelo de ida y vuelta.\n\n## Beti Kozkor 0-4 Doneztebe FT\n\nEl Doneztebe FT salió reforzado de su visita al Beti Kozkor. Cuatro goles a domicilio y portería a cero. El conjunto local no encontró la forma de marcar y encajó una derrota contundente ante su público.\n\n## San Juan 4-4 Gazte Berriak\n\nEl partido más loco de la noche. San Juan y Gazte Berriak marcaron cuatro goles cada uno. Ocho tantos en total y un punto para cada equipo tras un choque sin dueño.",
+  "texto_instagram": "⚽ Viernes de goles en el Grupo 15 de Tercera Federación: 16 tantos en dos partidos. Goleada del Doneztebe FT a domicilio y empate loco en San Juan 🔥\n\nBeti Kozkor 0-4 Doneztebe FT\nSan Juan 4-4 Gazte Berriak 🤯",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo15",
+    "#BetiKozkor",
+    "#DoneztebeFT",
+    "#SanJuan",
+    "#GazteBerriak",
+    "#FutbolNavarro"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-tercera-federacion-grupo-15-1.jpg",
+    "img/2026-11-13/2026-11-13-tercera-federacion-grupo-15-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617078,
+      "fecha": "2026-11-13T20:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 15 - 11",
+      "liga_id": 453,
+      "local": "Beti Kozkor",
+      "visitante": "Doneztebe FT",
+      "escudo_local": "https://media.api-sports.io/football/teams/9844.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28120.png",
+      "goles_local": 0,
+      "goles_visitante": 4,
+      "goleadores": []
+    },
+    {
+      "id": 1617077,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 15 - 11",
+      "liga_id": 453,
+      "local": "San Juan",
+      "visitante": "Gazte Berriak",
+      "escudo_local": "https://media.api-sports.io/football/teams/9855.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28121.png",
+      "goles_local": 4,
+      "goles_visitante": 4,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

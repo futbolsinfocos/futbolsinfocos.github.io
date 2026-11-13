@@ -1,0 +1,62 @@
+{
+  "slug": "2026-11-13-primera-federacion-grupo-1",
+  "fecha": "2026-11-13",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Cacereño remonta en Ponferrada y gana 1-2 a la Ponferradina",
+  "entradilla": "El Cacereño se impuso 1-2 a la Ponferradina en la Jornada 12 del Grupo 1 de Primera Federación. Los visitantes remontaron en el último cuarto de hora tras el gol local de D. Andujar.",
+  "cuerpo_markdown": "La Jornada 12 del Grupo 1 de Primera Federación arrancó el viernes en Ponferrada con una remontada. El Cacereño se llevó los tres puntos tras ir por detrás en el marcador. Todo se decidió en la segunda parte.\n\n## Ponferradina 1-2 Cacereño\n\nEl primer tiempo terminó sin goles. La Ponferradina golpeó primero en el minuto 60, con un tanto de D. Andujar. La ventaja local duró un cuarto de hora.\n\nEn el 76, S. Navarro firmó el empate para el Cacereño. Cinco minutos después, en el 81, I. Martinez Munoz completó la remontada. El 1-2 ya no se movió y los visitantes se marcharon de Ponferrada con la victoria.",
+  "texto_instagram": "🔄 ¡Remontada del Cacereño en Ponferrada! Los visitantes levantaron el gol de D. Andujar con dos tantos en cinco minutos en la Jornada 12 de Primera Federación ⚽\n\nPonferradina 1-2 Cacereño: D. Andujar (60') | S. Navarro (76'), I. Martinez Munoz (81') 🔥",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#PrimeraRFEF",
+    "#Ponferradina",
+    "#Cacereño",
+    "#Jornada12",
+    "#FutbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-primera-federacion-grupo-1-1.jpg",
+    "img/2026-11-13/2026-11-13-primera-federacion-grupo-1-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570831,
+      "fecha": "2026-11-13T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Ponferrada",
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "Ponferradina",
+      "visitante": "Cacereño",
+      "escudo_local": "https://media.api-sports.io/football/teams/4907.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9384.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 60,
+          "equipo": "Ponferradina",
+          "jugador": "D. Andujar",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 76,
+          "equipo": "Cacereño",
+          "jugador": "S. Navarro",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 81,
+          "equipo": "Cacereño",
+          "jugador": "I. Martinez Munoz",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}
