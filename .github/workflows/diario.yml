@@ -42,10 +42,13 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m pipeline generar --fecha ${{ steps.f.outputs.fecha }}
+        id: g
+        run: |
+          python -m pipeline generar --fecha ${{ steps.f.outputs.fecha }}
+          if [ -s data/ultimo_resumen.txt ]; then echo "hay=si" >> "$GITHUB_OUTPUT"; else echo "hay=no" >> "$GITHUB_OUTPUT"; echo "Nada nuevo que publicar hoy."; fi
 
       - name: Modo revisión → abrir Pull Request
-        if: steps.f.outputs.modo == 'revision'
+        if: steps.f.outputs.modo == 'revision' && steps.g.outputs.hay == 'si'
         uses: peter-evans/create-pull-request@v7
         with:
           branch: edicion/${{ steps.f.outputs.fecha }}
@@ -62,7 +65,7 @@ jobs:
             a continuación, los posts de Instagram. Si algo no te gusta, borra ese archivo o cierra el PR.
 
       - name: Modo automático → publicar directamente
-        if: steps.f.outputs.modo == 'automatico'
+        if: steps.f.outputs.modo == 'automatico' && steps.g.outputs.hay == 'si'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

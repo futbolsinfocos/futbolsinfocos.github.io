@@ -111,6 +111,9 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
 def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
     """Devuelve un 'paquete' por competición/grupo con partidos, clasificación y goleadores."""
     ligas = api.resolver_ligas(config["competiciones"])
+    print(f"Competiciones encontradas en API-Football: {len(ligas)}")
+    for l in ligas:
+        print(f"  - [{l['id']}] {l['etiqueta']} (temporada {l['temporada']})")
     partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"])
     paquetes = []
     presupuesto = config["limites"]["max_llamadas_detalle"]
