@@ -1,0 +1,74 @@
+# Cada mañana: descarga resultados de ayer, redacta crónicas y genera imágenes.
+# modo: revision   → abre un Pull Request para que lo apruebes (Merge) desde el móvil.
+# modo: automatico → lo sube directamente y lanza la publicación.
+name: Edición diaria
+
+on:
+  schedule:
+    - cron: "30 5 * * *"     # 06:30 en invierno / 07:30 en verano (hora de Madrid)
+    - cron: "15 22 * * 6,0"  # sábado y domingo por la noche: resultados del mismo día
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: "Fecha AAAA-MM-DD (vacío = ayer)"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency: edicion
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+
+      - name: Elegir fecha
+        id: f
+        run: |
+          if [ -n "${{ github.event.inputs.fecha }}" ]; then F="${{ github.event.inputs.fecha }}"
+          elif [ "${{ github.event.schedule }}" = "15 22 * * 6,0" ]; then F=$(TZ=Europe/Madrid date +%F)
+          else F=$(TZ=Europe/Madrid date -d yesterday +%F); fi
+          echo "fecha=$F" >> "$GITHUB_OUTPUT"
+          echo "modo=$(python -c "import yaml;print(yaml.safe_load(open('config.yaml'))['modo'])")" >> "$GITHUB_OUTPUT"
+
+      - name: Generar contenido
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline generar --fecha ${{ steps.f.outputs.fecha }}
+
+      - name: Modo revisión → abrir Pull Request
+        if: steps.f.outputs.modo == 'revision'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: edicion/${{ steps.f.outputs.fecha }}
+          title: "Edición ${{ steps.f.outputs.fecha }}"
+          commit-message: "Edición ${{ steps.f.outputs.fecha }}"
+          add-paths: |
+            contenido/**
+            data/**
+          body: |
+            Contenido generado automáticamente para el **${{ steps.f.outputs.fecha }}**.
+
+            Revisa titulares y textos en la pestaña *Files changed* (puedes editar cualquier
+            archivo desde el móvil). Si está bien, pulsa **Merge**: se publicará la web y,
+            a continuación, los posts de Instagram. Si algo no te gusta, borra ese archivo o cierra el PR.
+
+      - name: Modo automático → publicar directamente
+        if: steps.f.outputs.modo == 'automatico'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "edicion-bot"; git config user.email "edicion-bot@users.noreply.github.com"
+          git add contenido data
+          git diff --cached --quiet && exit 0
+          git commit -m "Edición ${{ steps.f.outputs.fecha }}"
+          git push
+          gh workflow run publicar.yml

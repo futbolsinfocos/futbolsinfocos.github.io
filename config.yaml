@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────────────────────
+#  Configuración del medio. Todo lo editable está aquí.
+# ─────────────────────────────────────────────────────────────
+
+medio:
+  nombre: "Sin Focos"
+  lema: "El fútbol que no sale en la tele"
+  instagram: "@sinfocosfutbol"
+  url_web: "https://albertoaca1024-web.github.io/futbol_auto"   # URL pública donde se sirve la web
+  idioma: "es"
+  zona_horaria: "Europe/Madrid"
+
+# Modo de publicación:
+#   revision   → cada mañana se abre un "pull request" con lo generado. Lo apruebas desde el
+#                móvil (botón Merge) y entonces se publica web + Instagram.  (RECOMENDADO al inicio)
+#   automatico → se publica directamente sin revisión humana.
+modo: revision
+
+# Competiciones. Se resuelven contra API-Football por país + patrón de nombre (regex),
+# así no hay que saberse los IDs. Si conoces el ID, puedes poner `id:` directamente.
+competiciones:
+  # ── España ──
+  - {pais: Spain, patron: "^Segunda División$", etiqueta: "LaLiga Hypermotion", grupo: espana, prioridad: 1}
+  - {pais: Spain, patron: "^Primera División RFEF", etiqueta: "Primera Federación", grupo: espana, prioridad: 1}
+  - {pais: Spain, patron: "^Segunda División RFEF", etiqueta: "Segunda Federación", grupo: espana, prioridad: 2}
+  - {pais: Spain, patron: "^Tercera División RFEF", etiqueta: "Tercera Federación", grupo: espana, prioridad: 3}
+  # ── Internacional (segundas y terceras categorías) ──
+  - {pais: England, patron: "^Championship$", etiqueta: "Championship", grupo: internacional, prioridad: 1}
+  - {pais: England, patron: "^League One$", etiqueta: "League One", grupo: internacional, prioridad: 2}
+  - {pais: England, patron: "^League Two$", etiqueta: "League Two", grupo: internacional, prioridad: 3}
+  - {pais: Italy, patron: "^Serie B$", etiqueta: "Serie B", grupo: internacional, prioridad: 1}
+  - {pais: Italy, patron: "^Serie C", etiqueta: "Serie C", grupo: internacional, prioridad: 3}
+  - {pais: Germany, patron: "^2\\. Bundesliga$", etiqueta: "2. Bundesliga", grupo: internacional, prioridad: 1}
+  - {pais: Germany, patron: "^3\\. Liga$", etiqueta: "3. Liga", grupo: internacional, prioridad: 2}
+  - {pais: France, patron: "^Ligue 2$", etiqueta: "Ligue 2", grupo: internacional, prioridad: 1}
+  - {pais: France, patron: "^National 1$|^National$", etiqueta: "National", grupo: internacional, prioridad: 3}
+  - {pais: Portugal, patron: "^Segunda Liga$|^Liga Portugal 2", etiqueta: "Liga Portugal 2", grupo: internacional, prioridad: 2}
+  - {pais: Netherlands, patron: "^Eerste Divisie$", etiqueta: "Eerste Divisie", grupo: internacional, prioridad: 2}
+
+# Límites para controlar coste y no saturar a los seguidores
+limites:
+  max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)
+  max_posts_instagram_dia: 6     # Instagram permite 50/día vía API; 4-6 es lo sano
+  max_llamadas_detalle: 40       # llamadas extra a la API para goleadores (solo prioridad 1)
+
+# Redacción con IA
+ia:
+  modelo: "claude-opus-5-5"      # alternativa mucho más barata: "claude-haiku-5-5"
+  esfuerzo: "low"                # low basta para crónicas cortas a partir de datos
