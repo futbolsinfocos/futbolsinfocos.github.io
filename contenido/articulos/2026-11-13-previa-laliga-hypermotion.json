@@ -1,0 +1,34 @@
+{
+  "slug": "2026-11-13-previa-laliga-hypermotion",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Leganés y Burgos abren la jornada 14 de LaLiga Hypermotion en Butarque",
+  "entradilla": "El Municipal de Butarque acoge este viernes el Leganés - Burgos, a las 20:30. Es el partido que pone en marcha la jornada 14 de Segunda División.",
+  "cuerpo_markdown": "La jornada 14 de LaLiga Hypermotion arranca este viernes 13 de noviembre. Hay un único partido en el programa del día. El Leganés recibe al Burgos en Butarque. Es la cita que abre el fin de semana en Segunda División.\n\n## Leganés - Burgos\n\nEl balón echa a rodar a las 20:30 en el Municipal de Butarque. Es un partido de la jornada 14 de la temporada regular. El Leganés juega en casa ante su gente. El Burgos viaja a Madrid con la misión de inaugurar la jornada con buen pie. Noche de viernes y fútbol de Segunda para empezar el fin de semana.",
+  "texto_instagram": "⚽ ¡Arranca la jornada 14 de LaLiga Hypermotion!\n\n🏟️ Leganés - Burgos\n🕣 A las 20:30\n📍 Municipal de Butarque\n\nViernes de fútbol en Segunda División. ¿Quién se lleva el partido que abre la jornada?",
+  "hashtags": [
+    "#LaLigaHypermotion",
+    "#SegundaDivisión",
+    "#LeganésBurgos",
+    "#Leganés",
+    "#BurgosCF",
+    "#Butarque"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-laliga-hypermotion.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570019,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Municipal de Butarque",
+      "jornada": "Regular Season - 14",
+      "local": "Leganés",
+      "visitante": "Burgos"
+    }
+  ]
+}

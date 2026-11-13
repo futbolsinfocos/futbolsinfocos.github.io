@@ -1,0 +1,33 @@
+{
+  "slug": "2026-11-13-previa-serie-c-girone-a",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Serie C · Girone A",
+  "competicion": "Serie C",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Ospitaletto y Dolomiti Bellunesi abren la jornada 14 del Girone A de la Serie C",
+  "entradilla": "El Stadio Comunale Gino Corioni acoge esta noche, a las 20:30, el único partido del día en el Girone A de la Serie C.",
+  "cuerpo_markdown": "La Serie C italiana vuelve a la carga. El Girone A disputa hoy un único encuentro, correspondiente a la jornada 14. Un partido en solitario que se lleva todos los focos del viernes.\n\n## Ospitaletto - Dolomiti Bellunesi\n\nEl balón echará a rodar a las 20:30 en el Stadio Comunale Gino Corioni. El Ospitaletto ejerce de local ante el Dolomiti Bellunesi en un duelo de la jornada 14 del Girone A. Es el partido que abre la cita y el único del día en el grupo.",
+  "texto_instagram": "⚽ Hoy hay Serie C · Girone A.\n\n🏟️ Ospitaletto - Dolomiti Bellunesi\n🕣 A las 20:30, en el Stadio Comunale Gino Corioni.\n\nJornada 14 y único partido del día en el grupo. ¡No te lo pierdas! 🇮🇹",
+  "hashtags": [
+    "#SerieC",
+    "#GironeA",
+    "#Ospitaletto",
+    "#DolomitiBellunesi",
+    "#FútbolItaliano"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-serie-c-girone-a.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1608368,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Stadio Comunale Gino Corioni",
+      "jornada": "Girone A - 14",
+      "local": "Ospitaletto",
+      "visitante": "Dolomiti Bellunesi"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "2026-11-13-previa-primera-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Ponferradina y Cacereño abren la jornada 12 en Primera Federación",
+  "entradilla": "El Grupo 1 de Primera Federación tiene hoy un único partido. Ponferradina y Cacereño se miden a las 19:00 en la jornada 12.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 1 de Primera Federación arranca este viernes. Solo hay un partido en el calendario de hoy. Ponferradina y Cacereño son los encargados de levantar el telón.\n\n## Ponferradina - Cacereño\n\nEl partido empieza a las 19:00. La Ponferradina ejerce de local ante el Cacereño. Es el duelo que abre la duodécima jornada del grupo. Tres puntos en juego para empezar el fin de semana con ventaja sobre el resto.",
+  "texto_instagram": "⚽ Hoy hay fútbol en Primera Federación · Grupo 1\n\n🗓️ Jornada 12\nPonferradina - Cacereño\n⏰ A las 19:00\n\nEl viernes abre la jornada con este duelo. ¿Quién se lleva los tres puntos? 🔥",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#PrimeraRFEF",
+    "#Ponferradina",
+    "#Cacereño",
+    "#FutbolEspañol"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-primera-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570831,
+      "fecha": "2026-11-13T19:00:00+01:00",
+      "estadio": null,
+      "jornada": "Group 1 - 12",
+      "local": "Ponferradina",
+      "visitante": "Cacereño"
+    }
+  ]
+}

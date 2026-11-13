@@ -1,0 +1,33 @@
+{
+  "slug": "2026-11-13-previa-copa-del-rey",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Copa del Rey",
+  "competicion": "Copa del Rey",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Salamanca UDS recibe al Celta de Vigo en la Copa del Rey",
+  "entradilla": "La Copa del Rey abre hoy su ronda de 128 con un duelo atractivo. Salamanca UDS y Celta de Vigo se miden a las 21:00.",
+  "cuerpo_markdown": "La Copa del Rey vuelve con su ronda de 128. Es la eliminatoria de los sueños para los modestos. Hoy hay un partido en el calendario y tiene sabor copero: un equipo de categoría inferior frente a un rival de LaLiga.\n\n## Salamanca UDS - Celta de Vigo\n\nEl balón echa a rodar a las 21:00. Salamanca UDS ejerce de anfitrión ante el Celta de Vigo en la ronda de 128. Es un cruce a partido único, donde cualquier detalle puede decidir quién sigue adelante en el torneo.",
+  "texto_instagram": "🏆 ¡Vuelve la Copa del Rey! Hoy arranca la ronda de 128 con un duelo con mucho sabor copero.\n\n⚽ Salamanca UDS - Celta de Vigo\n🕘 A las 21:00\n\nPartido único, todo o nada. ¿Quién pasa de ronda?",
+  "hashtags": [
+    "#CopaDelRey",
+    "#SalamancaUDS",
+    "#CeltaDeVigo",
+    "#Fútbol",
+    "#Previa"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-copa-del-rey.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1644376,
+      "fecha": "2026-11-13T21:00:00+01:00",
+      "estadio": null,
+      "jornada": "Round of 128",
+      "local": "Salamanca UDS",
+      "visitante": "Celta de Vigo"
+    }
+  ]
+}
