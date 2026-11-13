@@ -44,7 +44,7 @@ competiciones:
 limites:
   max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)
   max_posts_instagram_dia: 6     # Instagram permite 50/día vía API; 4-6 es lo sano
-  max_llamadas_detalle: 40       # llamadas extra a la API para goleadores (solo prioridad 1)
+  max_llamadas_detalle: 25       # llamadas extra para goleadores (solo prioridad 1). Plan gratis: 100 llamadas/día
 
 # Redacción con IA
 ia:

@@ -8,6 +8,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import time
 from pathlib import Path
 
 import requests
@@ -24,9 +25,23 @@ class ApiFootball:
             raise RuntimeError("Falta API_FOOTBALL_KEY (o usa --demo)")
         self.llamadas = 0
 
+    # El plan gratuito permite 10 llamadas por minuto: dejamos una pausa entre llamadas
+    PAUSA = float(os.environ.get("API_FOOTBALL_PAUSA", "6.5"))
+    _ultima = 0.0
+
     def _get(self, ruta: str, **params) -> list:
-        r = requests.get(f"{BASE}/{ruta}", params=params,
-                         headers={"x-apisports-key": self.clave}, timeout=30)
+        for intento in range(3):
+            espera = self.PAUSA - (time.monotonic() - self._ultima)
+            if espera > 0:
+                time.sleep(espera)
+            r = requests.get(f"{BASE}/{ruta}", params=params,
+                             headers={"x-apisports-key": self.clave}, timeout=30)
+            self._ultima = time.monotonic()
+            if r.status_code == 429 and intento < 2:
+                print("Límite por minuto de API-Football alcanzado; esperando 60 s…")
+                time.sleep(60)
+                continue
+            break
         r.raise_for_status()
         self.llamadas += 1
         datos = r.json()
@@ -130,7 +145,10 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
             for p in suyos:
                 if presupuesto <= 0:
                     break
-                p["goleadores"] = api.goleadores(p["id"])
+                try:
+                    p["goleadores"] = api.goleadores(p["id"])
+                except Exception as e:  # sin goleadores la crónica sale igual
+                    print(f"Sin goleadores para {p['local']}-{p['visitante']}: {e}")
                 presupuesto -= 1
         paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos,
                          "clasificacion": api.clasificacion(liga["id"], liga["temporada"])})
