@@ -1,0 +1,133 @@
+{
+  "slug": "2026-11-12-copa-del-rey",
+  "fecha": "2026-11-12",
+  "etiqueta": "Copa del Rey",
+  "competicion": "Copa del Rey",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Copa del Rey: el Betis sufre en Navalcarnero y el Levante gana en la prórroga",
+  "entradilla": "Tres partidos de la ronda de 128 de la Copa del Rey se disputaron el 12 de noviembre. Albacete, Real Betis y Levante sacaron adelante sus eliminatorias, aunque dos de ellas se decidieron en el tramo final.",
+  "cuerpo_markdown": "Jornada de Copa del Rey con tres eliminatorias de la ronda de 128. El Albacete resolvió pronto en Puertollano. El Real Betis necesitó el descuento para ganar en Navalcarnero. El Levante remontó en Tarancón y cerró el pase en el minuto 120.\n\n## Navalcarnero 2-3 Real Betis\n\nPartido de ida y vuelta en Santo Domingo. **R. Riquelme** adelantó al Betis en el minuto 5. Tras el descanso, el Navalcarnero le dio la vuelta: **A. Leis** empató en el 49 y **K. Vazquez** puso el 2-1 en el 79. El Betis reaccionó al final. **R. Marina** igualó en el 90 y **R. Riquelme**, con su segundo gol, firmó el 2-3 en el 96.\n\n## Tarancón 1-2 Levante\n\nEl Tarancón se adelantó en el minuto 53 con un gol de **S. Nieto**. El Levante empató en el 80 por medio de **P. Ratkov**. El encuentro llegó al minuto 120, cuando **Dela** marcó de penalti el gol de la victoria visitante.\n\n## Calvo Sotelo 0-3 Albacete\n\nEl Albacete dejó encarrilado el partido en dos minutos. **R. Gonzalez** marcó en el 17 y **M. Soberon** en el 19. **A. Rubio** cerró el 0-3 en el 83, en el Estadio Municipal Ciudadde Puertollano.\n\n## Clasificación\n\nAl tratarse de una eliminatoria de Copa, no hay clasificación disponible para esta ronda.",
+  "texto_instagram": "🏆 Copa del Rey, ronda de 128\n\n⚽ Navalcarnero 2-3 Real Betis: el Navalcarnero llegó a ir 2-1, pero R. Marina (90') y R. Riquelme (96') dieron la vuelta al marcador.\n⚽ Tarancón 1-2 Levante: S. Nieto adelantó al Tarancón; P. Ratkov empató y Dela, de penalti en el 120', selló el pase.\n⚽ Calvo Sotelo 0-3 Albacete: goles de R. Gonzalez, M. Soberon y A. Rubio.\n\n🔥 ¡Dos remontadas en el tramo final!",
+  "hashtags": [
+    "#CopaDelRey",
+    "#Navalcarnero",
+    "#RealBetis",
+    "#Tarancon",
+    "#Levante",
+    "#CalvoSotelo",
+    "#Albacete",
+    "#FutbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-12/2026-11-12-copa-del-rey-1.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1644370,
+      "fecha": "2026-11-12T18:30:00+01:00",
+      "estadio": "Estadio Municipal Ciudadde Puertollano",
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "local": "Calvo Sotelo",
+      "visitante": "Albacete",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 17,
+          "equipo": "Albacete",
+          "jugador": "R. Gonzalez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 19,
+          "equipo": "Albacete",
+          "jugador": "M. Soberon",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Albacete",
+          "jugador": "A. Rubio",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1644363,
+      "fecha": "2026-11-12T19:00:00+01:00",
+      "estadio": "Santo Domingo",
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "local": "Navalcarnero",
+      "visitante": "Real Betis",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 5,
+          "equipo": "Real Betis",
+          "jugador": "R. Riquelme",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 49,
+          "equipo": "Navalcarnero",
+          "jugador": "A. Leis",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 79,
+          "equipo": "Navalcarnero",
+          "jugador": "K. Vazquez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Real Betis",
+          "jugador": "R. Marina",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 96,
+          "equipo": "Real Betis",
+          "jugador": "R. Riquelme",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1644379,
+      "fecha": "2026-11-12T19:00:00+01:00",
+      "estadio": "Estadio Municipal de Tarancon",
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "local": "Tarancón",
+      "visitante": "Levante",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 53,
+          "equipo": "Tarancón",
+          "jugador": "S. Nieto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 80,
+          "equipo": "Levante",
+          "jugador": "P. Ratkov",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 120,
+          "equipo": "Levante",
+          "jugador": "Dela",
+          "tipo": "Penalty"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}

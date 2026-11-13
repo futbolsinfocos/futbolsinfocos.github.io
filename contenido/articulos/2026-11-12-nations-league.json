@@ -1,0 +1,122 @@
+{
+  "slug": "2026-11-12-nations-league",
+  "fecha": "2026-11-12",
+  "etiqueta": "Nations League",
+  "competicion": "Nations League",
+  "grupo": "internacional",
+  "prioridad": 2,
+  "titular": "Italia tumba a Francia en San Siro y España gana en Praga en la Liga A",
+  "entradilla": "La quinta jornada de la Nations League deja un 3-1 de Italia ante Francia y triunfos de España, Inglaterra y Bélgica. En la Liga C, Albania, Bielorrusia y Montenegro suman de tres.",
+  "cuerpo_markdown": "Ocho partidos en la quinta jornada de la UEFA Nations League. En la Liga A, Italia firmó el resultado del día: 3-1 a Francia en San Siro. España ganó 0-2 en el Stadion Letná ante la República Checa. Inglaterra se impuso 2-1 a Croacia en Wembley y Bélgica venció 1-2 en casa de Turquía. En la Liga C hubo victorias de Albania, Bielorrusia y Montenegro, y empate entre Armenia y Chipre.\n\n## Italy 3-1 France\n\nEl choque grande de la noche cayó del lado local. Italia marcó tres goles a Francia en San Siro/Giuseppe Meazza. Fue el triunfo más amplio entre selecciones de la Liga A en la jornada.\n\n## Czech Republic 0-2 Spain\n\nEspaña ganó en el Stadion Letná. Dos goles y portería a cero ante la República Checa.\n\n## England 2-1 Croatia\n\nVictoria corta de Inglaterra en Wembley. Croacia marcó, pero no le alcanzó.\n\n## Türkiye 1-2 Belgium\n\nBélgica se llevó los tres puntos del Gürsel Aksel Stadium en el partido de las 18:00.\n\n## Liga C\n\nAlbania venció 2-0 a Finlandia en el Arena Kombëtare. Bielorrusia ganó 0-2 en San Marino. Montenegro superó 2-1 a Letonia en el Gradski Stadion. Armenia y Chipre empataron 1-1 en el Vazgen Sargsyan Republican Stadium.\n\n## Clasificación\n\nLos datos recibidos no incluyen la clasificación, por lo que no es posible detallar el top 3 ni el colista tras esta jornada.",
+  "texto_instagram": "⚽ Noche de Nations League. Italia golea 3-1 a Francia en San Siro 🇮🇹. España gana 0-2 en Praga ante la República Checa 🇪🇸. Inglaterra vence 2-1 a Croacia en Wembley y Bélgica asalta Turquía (1-2). En la Liga C: Albania 2-0 Finlandia, San Marino 0-2 Bielorrusia, Montenegro 2-1 Letonia y Armenia 1-1 Chipre. 📊",
+  "hashtags": [
+    "#NationsLeague",
+    "#ItaliaFrancia",
+    "#España",
+    "#Inglaterra",
+    "#Bélgica",
+    "#Fútbol"
+  ],
+  "imagenes": [
+    "img/2026-11-12/2026-11-12-nations-league-1.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1528958,
+      "fecha": "2026-11-12T18:00:00+01:00",
+      "estadio": "Gürsel Aksel Stadium",
+      "jornada": "League A - 5",
+      "liga_id": 5,
+      "local": "Türkiye",
+      "visitante": "Belgium",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1528959,
+      "fecha": "2026-11-12T18:00:00+01:00",
+      "estadio": "Vazgen Sargsyan Republican Stadium",
+      "jornada": "League C - 5",
+      "liga_id": 5,
+      "local": "Armenia",
+      "visitante": "Cyprus",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1528960,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "San Siro/Giuseppe Meazza",
+      "jornada": "League A - 5",
+      "liga_id": 5,
+      "local": "Italy",
+      "visitante": "France",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1528961,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "Stadion Letná",
+      "jornada": "League A - 5",
+      "liga_id": 5,
+      "local": "Czech Republic",
+      "visitante": "Spain",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1528962,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "Wembley Stadium",
+      "jornada": "League A - 5",
+      "liga_id": 5,
+      "local": "England",
+      "visitante": "Croatia",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1528963,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "Arena Kombëtare",
+      "jornada": "League C - 5",
+      "liga_id": 5,
+      "local": "Albania",
+      "visitante": "Finland",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1528964,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "San Marino Stadium",
+      "jornada": "League C - 5",
+      "liga_id": 5,
+      "local": "San Marino",
+      "visitante": "Belarus",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1545613,
+      "fecha": "2026-11-12T20:45:00+01:00",
+      "estadio": "Gradski Stadion",
+      "jornada": "League C - 5",
+      "liga_id": 5,
+      "local": "Montenegro",
+      "visitante": "Latvia",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}
