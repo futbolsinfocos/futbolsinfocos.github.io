@@ -16,6 +16,7 @@ from pathlib import Path
 
 import markdown
 
+from .nombres import es
 from .tarjetas import fecha_larga
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -33,10 +34,13 @@ CSS = """
 body{margin:0;background:var(--fondo);color:var(--tinta);font:16px/1.55 Inter,system-ui,sans-serif}
 a{color:inherit;text-decoration:none}img{display:block;max-width:100%}
 .tit{font-family:Oswald,'Arial Narrow',Impact,sans-serif;text-transform:uppercase;letter-spacing:.01em}
-.ticker{background:var(--amarillo);color:var(--negro);overflow-x:auto;white-space:nowrap;scrollbar-width:none}
-.ticker::-webkit-scrollbar{display:none}
-.ticker .in{display:inline-flex;gap:26px;padding:8px 16px;font:700 14px Inter,sans-serif}
-.ticker .in>a{display:inline-flex;align-items:center}
+.ticker{background:var(--amarillo);color:var(--negro);overflow:hidden;white-space:nowrap}
+.ticker .in{display:inline-flex;width:max-content;animation:rueda var(--dur,40s) linear infinite}
+.ticker:hover .in,.ticker:focus-within .in{animation-play-state:paused}
+.ticker .tira{display:inline-flex;gap:26px;padding:8px 13px;font:700 14px Inter,sans-serif}
+.ticker .tira>a{display:inline-flex;align-items:center}
+@keyframes rueda{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){.ticker{overflow-x:auto}.ticker .in{animation:none}.ticker .tira[aria-hidden]{display:none}}
 .ticker b{background:var(--negro);color:var(--amarillo);padding:1px 7px;border-radius:3px;margin:0 7px;font-variant-numeric:tabular-nums}
 .ticker .lt{font-size:11px;text-transform:uppercase;letter-spacing:.08em;opacity:.7}
 header{display:flex;align-items:center;gap:14px;max-width:1180px;margin:0 auto;padding:16px}
@@ -110,9 +114,14 @@ def _ticker(arts: list[dict], prof: str) -> str:
     for a in sorted((a for a in con_partidos if a["fecha"] == ultimo), key=lambda a: a.get("prioridad", 3)):
         piezas.append(f'<a class="lt" href="{prof}ligas/{_slug_liga(a["etiqueta"])}.html">{_e(a["etiqueta"])}</a>')
         for p in a["partidos"]:
-            piezas.append(f'<a href="{prof}articulos/{a["slug"]}.html">{_e(p["local"])}'
-                          f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>{_e(p["visitante"])}</a>')
-    return f'<div class="ticker"><div class="in">{"".join(piezas)}</div></div>'
+            piezas.append(f'<a href="{prof}articulos/{a["slug"]}.html">{_e(es(p["local"]))}'
+                          f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>{_e(es(p["visitante"]))}</a>')
+    # La tira se repite dos veces y se desplaza en bucle: al llegar a la mitad vuelve al principio
+    # sin que se note. Velocidad constante: ~3 s por elemento.
+    tira = "".join(piezas)
+    segundos = max(20, round(len(piezas) * 3.2))
+    return (f'<div class="ticker" style="--dur:{segundos}s"><div class="in">'
+            f'<div class="tira">{tira}</div><div class="tira" aria-hidden="true">{tira}</div></div></div>')
 
 
 def _pagina(cfg: dict, titulo: str, cuerpo: str, prof: str = "", descripcion: str = "",
@@ -191,13 +200,13 @@ def _slug_liga(etiqueta: str) -> str:
 
 
 def _filas_partidos(partidos: list[dict]) -> str:
-    return "".join(f'<div class="partido"><span class="l">{_e(p["local"])}</span>'
-                   f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b><span>{_e(p["visitante"])}</span></div>'
+    return "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>'
+                   f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b><span>{_e(es(p["visitante"]))}</span></div>'
                    for p in partidos)
 
 
 def _tabla(tabla: list[dict]) -> str:
-    filas = "".join(f'<tr><td><b class="pos">{t["pos"]}</b></td><td>{_e(t["equipo"])}</td><td>{t.get("pj", "")}</td>'
+    filas = "".join(f'<tr><td><b class="pos">{t["pos"]}</b></td><td>{_e(es(t["equipo"]))}</td><td>{t.get("pj", "")}</td>'
                     f'<td>{t.get("dg", "")}</td><td><strong>{t["pts"]}</strong></td></tr>' for t in tabla)
     return f'<div class="comp"><table><tr><th>#</th><th>Equipo</th><th>PJ</th><th>DG</th><th>Pts</th></tr>{filas}</table></div>'
 
@@ -262,8 +271,8 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     previa = next((a for a in lista if a.get("proximos")), None)
     ultima_jugada = next((a["fecha"] for a in lista if a.get("partidos")), "")
     if previa and previa["fecha"] > ultima_jugada:
-        filas = "".join(f'<div class="partido"><span class="l">{_e(p["local"])}</span>'
-                        f'<b class="hora">{_e(p["fecha"][11:16] or "--:--")}</b><span>{_e(p["visitante"])}</span></div>'
+        filas = "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>'
+                        f'<b class="hora">{_e(p["fecha"][11:16] or "--:--")}</b><span>{_e(es(p["visitante"]))}</span></div>'
                         for p in previa["proximos"])
         out += (f'<h2 class="sec tit">Próximos partidos</h2><div class="comp"><h3 class="tit">'
                 f'<a href="{_url(previa, prof)}">{fecha_larga(previa["fecha"])} · Leer la previa →</a></h3>{filas}</div>')

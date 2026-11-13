@@ -27,8 +27,8 @@
       "estadio": "Gürsel Aksel Stadium",
       "jornada": "League A - 5",
       "liga_id": 5,
-      "local": "Türkiye",
-      "visitante": "Belgium",
+      "local": "Turquía",
+      "visitante": "Bélgica",
       "goles_local": 1,
       "goles_visitante": 2,
       "goleadores": []
@@ -40,7 +40,7 @@
       "jornada": "League C - 5",
       "liga_id": 5,
       "local": "Armenia",
-      "visitante": "Cyprus",
+      "visitante": "Chipre",
       "goles_local": 1,
       "goles_visitante": 1,
       "goleadores": []
@@ -51,8 +51,8 @@
       "estadio": "San Siro/Giuseppe Meazza",
       "jornada": "League A - 5",
       "liga_id": 5,
-      "local": "Italy",
-      "visitante": "France",
+      "local": "Italia",
+      "visitante": "Francia",
       "goles_local": 3,
       "goles_visitante": 1,
       "goleadores": []
@@ -63,8 +63,8 @@
       "estadio": "Stadion Letná",
       "jornada": "League A - 5",
       "liga_id": 5,
-      "local": "Czech Republic",
-      "visitante": "Spain",
+      "local": "Chequia",
+      "visitante": "España",
       "goles_local": 0,
       "goles_visitante": 2,
       "goleadores": []
@@ -75,8 +75,8 @@
       "estadio": "Wembley Stadium",
       "jornada": "League A - 5",
       "liga_id": 5,
-      "local": "England",
-      "visitante": "Croatia",
+      "local": "Inglaterra",
+      "visitante": "Croacia",
       "goles_local": 2,
       "goles_visitante": 1,
       "goleadores": []
@@ -88,7 +88,7 @@
       "jornada": "League C - 5",
       "liga_id": 5,
       "local": "Albania",
-      "visitante": "Finland",
+      "visitante": "Finlandia",
       "goles_local": 2,
       "goles_visitante": 0,
       "goleadores": []
@@ -100,7 +100,7 @@
       "jornada": "League C - 5",
       "liga_id": 5,
       "local": "San Marino",
-      "visitante": "Belarus",
+      "visitante": "Bielorrusia",
       "goles_local": 0,
       "goles_visitante": 2,
       "goleadores": []
@@ -112,7 +112,7 @@
       "jornada": "League C - 5",
       "liga_id": 5,
       "local": "Montenegro",
-      "visitante": "Latvia",
+      "visitante": "Letonia",
       "goles_local": 2,
       "goles_visitante": 1,
       "goleadores": []
