@@ -17,6 +17,7 @@ from pathlib import Path
 import yaml
 
 from . import redactor, tarjetas, web
+from .previas import historial
 from .web import CONTENIDO, RAIZ
 
 
@@ -112,6 +113,11 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
             continue
         equipos = {p["local"] for p in paq["partidos"]} | {p["visitante"] for p in paq["partidos"]}
         paq["forma"] = forma_equipos(equipos, fecha)
+        guardados = [json.loads(x.read_text()) for x in (CONTENIDO / "articulos").glob("*.json")]
+        for p in paq["partidos"]:
+            h = historial([g for g in guardados if g["fecha"] < fecha], p["local"], p["visitante"])
+            if h:
+                p["historial"] = h
         try:
             texto = redactor.redactar_previa(paq, cfg, demo=demo)
         except Exception as e:
@@ -124,8 +130,12 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
             **{k: texto[k] for k in ("titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags")},
             # Solo web: sin "imagenes", Instagram no la recoge (las crónicas mandan en Instagram)
             "imagenes_web": [str(img.relative_to(CONTENIDO))],
-            "proximos": [{k: p[k] for k in ("id", "fecha", "estadio", "jornada", "local", "visitante")}
+            "proximos": [{k: p.get(k) for k in ("id", "fecha", "estadio", "ciudad", "jornada", "arbitro",
+                                                 "local", "visitante", "escudo_local", "escudo_visitante")}
                          for p in paq["partidos"]],
+            "forma": paq["forma"],
+            # Previa completa de cada partido, con página propia en previas/<slug>.html
+            "previas_partido": texto.get("previas_partido", []),
         }
         destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
         creados.append(s)

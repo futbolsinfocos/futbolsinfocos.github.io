@@ -16,7 +16,10 @@ from pathlib import Path
 
 import markdown
 
+from urllib.parse import quote
+
 from .nombres import es
+from .previas import dia_partido, jornada_es
 from .tarjetas import fecha_larga
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -26,7 +29,7 @@ SALIDA = RAIZ / "_site"
 FUENTES = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
            '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
            '<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700'
-           '&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">')
+           '&family=Inter:wght@400;600;700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">')
 
 CSS = """
 :root{--fondo:#0d0d0d;--panel:#181818;--linea:#2a2a2a;--tinta:#f2f2f2;--suave:#a8a8a8;--amarillo:#FFD400;--negro:#111}
@@ -91,6 +94,54 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .btn-previa{display:inline-block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
  color:var(--negro);background:var(--amarillo);padding:3px 9px;border-radius:99px}
 .btn-previa:hover{background:#fff}article h2{scroll-margin-top:16px}
+article .ficha{margin:-2px 0 10px;font-size:14px;color:var(--suave)}article .ficha b{color:var(--amarillo)}
+article .forma{font-size:13px;color:var(--suave);margin:0 0 12px;line-height:2}
+article .forma .eq{display:inline-block;min-width:150px;margin-right:6px}
+article .forma span[class^=f]{display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;border-radius:4px;
+ margin-right:3px;font-weight:700;font-size:12px;color:#111}
+.fG{background:#3ec46d}.fE{background:#bdbdbd}.fP{background:#e5534b}
+/* Previa de un partido (página propia, estilo periódico) */
+.pp{max-width:1100px;margin:0 auto;padding-top:14px}
+.pp .miga{font:500 13px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--amarillo)}
+.pp .miga span{color:#888}.pp .miga a:hover{color:#fff}
+.pp h1{font-size:clamp(30px,5.2vw,52px);line-height:1.05;margin:12px 0 14px;max-width:920px}
+.pp .entr{font:400 clamp(18px,2.4vw,21px)/1.5 'Source Serif 4',Georgia,serif;color:#cfcfcf;max-width:820px;margin:0 0 18px}
+.pp .firma{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between;font-size:13px;color:var(--suave);
+ border-top:1px solid var(--linea);border-bottom:1px solid var(--linea);padding:10px 0;margin-bottom:26px}
+.pp .firma b{color:#eee}
+.comparte{display:flex;gap:8px}.comparte a,.comparte button{font:700 12px Inter,sans-serif;border-radius:99px;padding:6px 12px;
+ border:1px solid var(--linea);background:var(--panel);color:#eee;cursor:pointer}
+.comparte a:hover,.comparte button:hover{border-color:var(--amarillo);color:var(--amarillo)}
+.marcador{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;background:var(--panel);
+ border:1px solid var(--linea);border-radius:12px;padding:20px 26px;margin-bottom:30px}
+.marcador .eq{display:flex;align-items:center;gap:14px;font:700 clamp(17px,2.6vw,26px)/1.1 Oswald,sans-serif;text-transform:uppercase}
+.marcador .eq.v{flex-direction:row-reverse;text-align:right}
+.escudo{position:relative;flex:none;width:58px;height:58px;border-radius:50%;background:#262626;color:var(--amarillo);
+ display:flex;align-items:center;justify-content:center;font:700 18px Oswald,sans-serif}
+.escudo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:var(--panel)}
+.marcador .hora{text-align:center;padding:0 10px}.marcador .hora b{display:block;font:700 clamp(28px,4vw,40px)/1 Oswald,sans-serif;color:var(--amarillo)}
+.marcador .hora span{font-size:12px;color:var(--suave);text-transform:uppercase;letter-spacing:.08em}
+.pp .cols{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:44px;align-items:start}
+.pp .texto p{font:400 19px/1.7 'Source Serif 4',Georgia,serif;color:#e4e4e4;margin:0 0 20px}
+.pp .texto .cap{float:left;font:700 60px/.85 Oswald,sans-serif;color:var(--amarillo);margin:6px 8px 0 0}
+.pp .texto h2{font:700 22px Oswald,sans-serif;text-transform:uppercase;color:var(--amarillo);margin:32px 0 14px;letter-spacing:.03em}
+.claves{list-style:none;padding:0;margin:0}.claves li{border-left:4px solid var(--amarillo);padding:10px 16px;margin-bottom:12px;
+ background:var(--panel);font-size:16px;line-height:1.5}.claves b{color:#fff}
+.pp aside .caja{background:var(--panel);border:1px solid var(--linea);border-radius:12px;padding:18px 20px;margin-bottom:18px}
+.pp aside h3{font:700 16px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px;color:var(--amarillo)}
+.dato{display:flex;justify-content:space-between;gap:12px;font-size:14px;padding:8px 0;border-bottom:1px solid #222;text-align:right}
+.dato:last-child{border:0}.dato span{color:var(--suave);text-align:left}
+.racha{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px;margin:10px 0}
+.racha i{display:inline-block;width:24px;height:24px;line-height:24px;text-align:center;border-radius:4px;font:700 12px Inter,sans-serif;
+ font-style:normal;color:#111;margin-left:3px}
+.pp .nota{font-size:12px;color:#777;margin:6px 0 0}
+.mas{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.mas a{background:var(--panel);border-radius:12px;padding:14px 16px;border-left:4px solid var(--amarillo);display:block}
+.mas small{color:var(--amarillo);font-weight:700}.mas strong{display:block;font:600 18px/1.2 Oswald,sans-serif;text-transform:uppercase;margin:4px 0}
+.mas span{font-size:14px;color:var(--suave)}.mas a:hover strong{color:var(--amarillo)}
+@media(max-width:820px){.pp .cols{display:flex;flex-direction:column;gap:6px}.pp aside{order:-1;width:100%}
+ .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq{flex-direction:column;text-align:center;gap:8px}
+ .marcador .eq.v{flex-direction:column;text-align:center}.pp .texto p{font-size:18px}}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
@@ -323,10 +374,13 @@ def _ancla(texto: str) -> str:
 
 
 def _mapa_previas(arts: list[dict]) -> dict:
-    """id de partido → enlace a su apartado dentro de la previa (o a la previa entera)."""
+    """id de partido → enlace a su previa: su página propia o, en previas antiguas, su apartado en la de la jornada."""
     mapa = {}
     for a in arts:
         if a.get("tipo") != "previa":
+            continue
+        if a.get("previas_partido"):
+            mapa.update({pp["id"]: f'previas/{pp["slug"]}.html' for pp in a["previas_partido"]})
             continue
         titulos = [l[3:].strip() for l in a.get("cuerpo_markdown", "").splitlines() if l.startswith("## ")]
         for p in a.get("proximos", []):
@@ -334,6 +388,77 @@ def _mapa_previas(arts: list[dict]) -> dict:
             t = next((t for t in titulos if loc in t.lower() and vis in t.lower()), None)
             mapa[p["id"]] = f'articulos/{a["slug"]}.html' + (f"#{_ancla(t)}" if t else "")
     return mapa
+
+
+def _escudo(nombre: str, url: str | None) -> str:
+    """Escudo del equipo; si no hay o no carga, sus iniciales."""
+    ini = "".join(w[0] for w in re.findall(r"[A-Za-zÀ-ÿ]+", nombre) if w[0].isupper())[:3] or nombre[:2]
+    img = f'<img src="{_e(url)}" alt="" loading="lazy" onerror="this.remove()">' if url else ""
+    return f'<span class="escudo" aria-hidden="true">{_e(ini)}{img}</span>'
+
+
+def _parrafo_inicial(t: str) -> str:
+    """Primer párrafo con la letra (o palabra corta, p. ej. 'El') grande del principio, como en prensa."""
+    m = re.match(r"^(\S+?)(\s.*)$", t, re.S)
+    if m and len(m.group(1)) <= 3 and m.group(1).isalpha():
+        return f'<p><span class="cap">{_e(m.group(1))}</span>{_e(m.group(2))}</p>'
+    return f'<p><span class="cap">{_e(t[:1])}</span>{_e(t[1:])}</p>'
+
+
+def _pagina_previa(cfg: dict, a: dict, pp: dict, p: dict) -> str:
+    """Previa de un partido en su propia página, maquetada como una noticia de periódico."""
+    prof = "../"
+    loc, vis = es(p["local"]), es(p["visitante"])
+    jornada = jornada_es(p.get("jornada"))
+    hora = (p.get("fecha") or "")[11:16]
+    url = f'{cfg["medio"]["url_web"].rstrip("/")}/previas/{pp["slug"]}.html'
+    comparte = (f'<div class="comparte"><a href="https://wa.me/?text={quote(pp["titular"] + " " + url)}" target="_blank" rel="noopener">WhatsApp</a>'
+                f'<a href="https://twitter.com/intent/tweet?text={quote(pp["titular"])}&amp;url={quote(url)}" target="_blank" rel="noopener">X</a>'
+                f'<button type="button" onclick="navigator.clipboard&&navigator.clipboard.writeText(\'{url}\').then(()=>{{this.textContent=\'¡Copiado!\'}})">'
+                'Copiar enlace</button></div>')
+    out = (f'<div class="pp"><div class="miga"><a href="{prof}ligas/{_slug_liga(a["etiqueta"])}.html">Previa · {_e(a["etiqueta"])}</a>'
+           + (f' <span>· {_e(jornada)}</span>' if jornada else "") + '</div>'
+           f'<h1 class="tit">{_e(pp["titular"])}</h1><p class="entr">{_e(pp["entradilla"])}</p>'
+           f'<div class="firma"><div><b>Redacción {_e(cfg["medio"]["nombre"])}</b> · Madrid · {fecha_larga(a["fecha"])}</div>{comparte}</div>'
+           f'<div class="marcador"><div class="eq">{_escudo(loc, p.get("escudo_local"))}<span>{_e(loc)}</span></div>'
+           f'<div class="hora"><b>{_e(hora or "--:--")}</b><span>{_e(dia_partido(p.get("fecha")))}</span></div>'
+           f'<div class="eq v">{_escudo(vis, p.get("escudo_visitante"))}<span>{_e(vis)}</span></div></div>')
+    # Texto
+    parrafos = pp.get("parrafos") or []
+    texto = (_parrafo_inicial(parrafos[0]) if parrafos else "") + "".join(f"<p>{_e(t)}</p>" for t in parrafos[1:])
+    if pp.get("precedente"):
+        texto += f'<h2>El último precedente</h2><p>{_e(pp["precedente"])}</p>'
+    if pp.get("claves"):
+        texto += '<h2>Las claves</h2><ul class="claves">' + "".join(
+            f'<li><b>{_e(c["titulo"].rstrip("."))}.</b> {_e(c["texto"])}</li>' for c in pp["claves"]) + "</ul>"
+    # Cuadro de datos y racha
+    sede = p.get("estadio") or "Por confirmar"
+    arbitro = re.sub(r",.*$", "", p.get("arbitro") or "") or "Por confirmar"
+    datos = [("Competición", a["etiqueta"]), ("Jornada", jornada.removeprefix("Jornada ")), ("Estadio", sede), ("Ciudad", p.get("ciudad")),
+             ("Día", dia_partido(p.get("fecha")).capitalize()), ("Hora", hora), ("Árbitro", arbitro)]
+    caja = '<div class="caja"><h3>Ficha del partido</h3>' + "".join(
+        f'<div class="dato"><span>{k}</span>{_e(v)}</div>' for k, v in datos if v) + "</div>"
+    forma = a.get("forma") or {}
+    if forma.get(p["local"]) or forma.get(p["visitante"]):
+        filas = ""
+        for e in (p["local"], p["visitante"]):
+            res = "".join(f'<i class="f{r["resultado"]}" title="{_e(r["marcador"] + " vs " + es(r["rival"]))}">{r["resultado"]}</i>'
+                          for r in reversed(forma.get(e, [])))
+            filas += f'<div class="racha">{_e(es(e))}<span>{res or "<small>Sin datos</small>"}</span></div>'
+        caja += (f'<div class="caja"><h3>Cómo llegan</h3>{filas}'
+                 '<p class="nota">Últimos partidos publicados; el más reciente, a la derecha.</p></div>')
+    out += f'<div class="cols"><div class="texto">{texto}</div><aside>{caja}</aside></div>'
+    # Más previas de la misma jornada
+    partidos = {x["id"]: x for x in a.get("proximos", [])}
+    otras = [o for o in a.get("previas_partido", []) if o["id"] != pp["id"] and o["id"] in partidos]
+    if otras:
+        out += '<h2 class="sec tit">Más previas de la jornada</h2><div class="mas">' + "".join(
+            f'<a href="{o["slug"]}.html"><small>{_e((partidos[o["id"]].get("fecha") or "")[11:16])}</small>'
+            f'<strong>{_e(es(partidos[o["id"]]["local"]))} - {_e(es(partidos[o["id"]]["visitante"]))}</strong>'
+            + ("" if o["titular"].endswith("previa del partido") else f'<span>{_e(o["titular"])}</span>')
+            + '</a>' for o in otras) + "</div>"
+    out += (f'<a class="volver" href="{_url(a, prof)}">← Previa de toda la jornada de {_e(a["etiqueta"])}</a></div>')
+    return out
 
 
 PREVIAS: dict = {}  # se rellena en construir()
@@ -460,6 +585,15 @@ def construir(cfg: dict) -> Path:
                   + '<a class="volver" href="../index.html">← Volver a la portada</a></article>')
         (SALIDA / "articulos" / f"{a['slug']}.html").write_text(
             _pagina(cfg, f"{a['titular']} · {nombre}", cuerpo, "../", a["entradilla"], ticker=_ticker(arts, "../")))
+
+    (SALIDA / "previas").mkdir()
+    for a in arts:  # una página por partido con su previa completa
+        partidos = {p["id"]: p for p in a.get("proximos", [])}
+        for pp in a.get("previas_partido", []):
+            if pp["id"] in partidos:
+                (SALIDA / "previas" / f'{pp["slug"]}.html').write_text(
+                    _pagina(cfg, f'{pp["titular"]} · {nombre}', _pagina_previa(cfg, a, pp, partidos[pp["id"]]), "../",
+                            pp["entradilla"], ticker=_ticker(arts, "../")))
 
     _rss(cfg, arts[:40])
     (SALIDA / ".nojekyll").write_text("")
