@@ -22,7 +22,10 @@ Normas estrictas:
 cambios de liderato, equipos en zona alta o baja según la clasificación.
 - El cuerpo va en Markdown: un párrafo de resumen de la jornada, luego un apartado por partido \
 destacado y un cierre con la clasificación (top 3 y colista). Si la clasificación viene vacía \
-(por ejemplo, en una copa), no escribas ese apartado ni menciones que falta."""
+(por ejemplo, en una copa), no escribas ese apartado ni menciones que falta.
+- Si los partidos son de varias divisiones de la misma competición (la jornada dice "Liga A", "Liga B"…, \
+como en la Nations League), ordénalos por división de la A a la D y sepáralos con un subtítulo por división, \
+tanto en el cuerpo como en texto_instagram (una línea "Liga A", sus partidos; "Liga B", los suyos…)."""
 
 ESQUEMA = {
     "type": "object",
@@ -30,7 +33,7 @@ ESQUEMA = {
         "titular": {"type": "string", "description": "Máx. 90 caracteres, sin clickbait"},
         "entradilla": {"type": "string", "description": "1-2 frases"},
         "cuerpo_markdown": {"type": "string"},
-        "texto_instagram": {"type": "string", "description": "Máx. 600 caracteres, con 2-3 emojis"},
+        "texto_instagram": {"type": "string", "description": "Pie de Instagram: 1-2 frases de resumen con lo más destacado de la jornada y después una línea por partido con resultado y goleadores (minuto). Máx. 900 caracteres, 2-3 emojis"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "partido_destacado_id": {"type": "integer"},
     },
@@ -61,13 +64,18 @@ Es mejor una previa corta que una previa hueca.
 - Cuando haya forma o historial, conviértelos en información útil: rachas ("tres victorias seguidas"), \
 goles a favor y en contra, resultado del último enfrentamiento. Cifras exactas, sin adjetivos de más.
 - Nombres de equipos tal cual vienen.
+- Si los partidos son de varias divisiones de la misma competición (la jornada dice "Liga A", "Liga B"…, \
+como en la Nations League), ordénalos por división de la A a la D y sepáralos con un subtítulo por división, \
+tanto en el cuerpo como en texto_instagram (una línea "Liga A", sus partidos; "Liga B", los suyos…).
 
 Campos generales (artículo de la jornada):
 - titular: informativo, máx. 90 caracteres, sin dos puntos al principio ni signos de exclamación.
 - entradilla: 1-2 frases con lo esencial (cuántos partidos, el más destacado y por qué).
 - presentacion: 1 párrafo corto de contexto de la jornada con datos reales; vacío si no aporta nada nuevo.
 - claves: 0-3 frases con datos concretos de la jornada. Lista vacía si no hay datos.
-- texto_instagram: lista de los partidos con su hora, 1-2 emojis como máximo, sin relleno.
+- texto_instagram: pie de la publicación de Instagram. Primero un resumen de la previa en 2-4 frases \
+con datos reales (cómo llegan los equipos según "forma", último enfrentamiento según "historial", partido \
+destacado); después, la lista de partidos con su hora. Máx. 900 caracteres, 1-2 emojis, sin relleno.
 - partido_destacado_id: el partido más relevante según los datos (o el primero).
 
 Previa de cada partido (campo "partidos", un elemento por cada partido recibido, con su id):
@@ -116,7 +124,9 @@ ESQUEMA_PREVIA = {
 def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
     if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         return redactar_plantilla(paquete)
-    return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", paquete, config, ESQUEMA)
+    from .previas import jornada_es
+    datos = {**paquete, "partidos": [{**p, "jornada": jornada_es(p.get("jornada"))} for p in paquete["partidos"]]}
+    return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", datos, config, ESQUEMA)
 
 
 def redactar_previa(paquete: dict, config: dict, demo: bool = False) -> dict:

@@ -1,6 +1,7 @@
 """Punto de entrada.
 
   python -m pipeline generar [--fecha AAAA-MM-DD] [--demo]   → datos + crónicas + imágenes
+  python -m pipeline rehacer-tarjetas                        → redibuja imágenes no publicadas (nuevo diseño)
   python -m pipeline web                                     → construye _site/
   python -m pipeline instagram [--simular]                   → publica lo pendiente en Instagram
 """
@@ -52,11 +53,7 @@ def generar(cfg: dict, fecha: str, demo: bool):
         except Exception as e:  # una competición fallida no tumba el resto
             print(f"ERROR redactando {liga['etiqueta']}: {e}", file=sys.stderr)
             continue
-        carpeta = CONTENIDO / "img" / fecha
-        imgs = [tarjetas.tarjeta_resultados(paq, cfg["medio"]["nombre"], carpeta / f"{s}-1.jpg")]
-        clas = tarjetas.tarjeta_clasificacion(paq, cfg["medio"]["nombre"], carpeta / f"{s}-2.jpg")
-        if clas:
-            imgs.append(clas)
+        imgs = imagenes_cronica(paq, texto["titular"], cfg, s)
         articulo = {
             "slug": s, "fecha": fecha, "etiqueta": liga["etiqueta"], "competicion": liga["competicion"],
             "grupo": liga["grupo"], "prioridad": liga["prioridad"],
@@ -68,6 +65,40 @@ def generar(cfg: dict, fecha: str, demo: bool):
         creados.append(s)
         print(f"✔ {liga['etiqueta']}: {texto['titular']}")
     return creados
+
+
+def imagenes_cronica(paq: dict, titular: str, cfg: dict, s: str) -> list[Path]:
+    """Carrusel de Instagram: portada con el titular + marcadores (+ clasificación si la hay)."""
+    cuenta, carpeta = cfg["medio"]["instagram"], CONTENIDO / "img" / paq["fecha"]
+    imgs = [tarjetas.tarjeta_portada(paq, titular, cuenta, carpeta / f"{s}-1.jpg",
+                                     dato=tarjetas.dato_resultados(paq))]
+    imgs += tarjetas.tarjetas_resultados(paq, cuenta, carpeta, s)
+    clas = tarjetas.tarjeta_clasificacion(paq, cuenta, carpeta / f"{s}-clasificacion.jpg")
+    return imgs + ([clas] if clas else [])
+
+
+def rehacer_tarjetas(cfg: dict) -> None:
+    """Vuelve a dibujar las imágenes de lo aún no publicado en Instagram (tras cambiar el diseño)."""
+    for ruta in sorted((CONTENIDO / "articulos").glob("*.json")):
+        a = json.loads(ruta.read_text())
+        if a.get("ig_media_id"):
+            continue
+        paq = {"liga": {"etiqueta": a["etiqueta"]}, "fecha": a["fecha"]}
+        if a.get("tipo") == "previa":
+            web_img = CONTENIDO / a["imagenes_web"][0]
+            imgs = tarjetas.tarjetas_previa({**paq, "partidos": a["proximos"]}, cfg["medio"]["instagram"],
+                                            web_img.parent, web_img.stem)
+            if "imagenes" in a:  # solo las previas nuevas van a Instagram; las antiguas, solo web
+                a["imagenes"] = [str(i.relative_to(CONTENIDO)) for i in imgs]
+                ruta.write_text(json.dumps(a, ensure_ascii=False, indent=2))
+            print("✔", web_img.name, len(imgs), "imágenes")
+            continue
+        for viejo in a.get("imagenes", []):
+            (CONTENIDO / viejo).unlink(missing_ok=True)
+        paq.update(partidos=a["partidos"], clasificacion=a.get("clasificacion") or [])
+        a["imagenes"] = [str(i.relative_to(CONTENIDO)) for i in imagenes_cronica(paq, a["titular"], cfg, a["slug"])]
+        ruta.write_text(json.dumps(a, ensure_ascii=False, indent=2))
+        print("✔", a["slug"], len(a["imagenes"]), "imágenes")
 
 
 def forma_equipos(equipos: set[str], antes_de: str, n: int = 5) -> dict:
@@ -123,13 +154,13 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
         except Exception as e:
             print(f"ERROR en la previa de {liga['etiqueta']}: {e}", file=sys.stderr)
             continue
-        img = tarjetas.tarjeta_previa(paq, cfg["medio"]["nombre"], CONTENIDO / "img" / fecha / f"{s}.jpg")
+        imgs = tarjetas.tarjetas_previa(paq, cfg["medio"]["instagram"], CONTENIDO / "img" / fecha, s)
         articulo = {
             "slug": s, "tipo": "previa", "fecha": fecha, "etiqueta": liga["etiqueta"],
             "competicion": liga["competicion"], "grupo": liga["grupo"], "prioridad": liga["prioridad"],
             **{k: texto[k] for k in ("titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags")},
-            # Solo web: sin "imagenes", Instagram no la recoge (las crónicas mandan en Instagram)
-            "imagenes_web": [str(img.relative_to(CONTENIDO))],
+            "imagenes_web": [str(imgs[0].relative_to(CONTENIDO))],
+            "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],  # carrusel de Instagram
             "proximos": [{k: p.get(k) for k in ("id", "fecha", "estadio", "ciudad", "jornada", "arbitro",
                                                  "local", "visitante", "escudo_local", "escudo_visitante")}
                          for p in paq["partidos"]],
@@ -179,8 +210,10 @@ def main():
     g.add_argument("--demo", action="store_true")
     g.add_argument("--sin-previas", action="store_true", help="no escribir las previas del día siguiente")
     sub.add_parser("web")
+    sub.add_parser("rehacer-tarjetas", help="redibuja las imágenes aún no publicadas con el diseño actual")
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
+    i.add_argument("--prueba-make", action="store_true", help="manda un post de ejemplo al webhook de Make")
     args = ap.parse_args()
     cfg = yaml.safe_load((RAIZ / "config.yaml").read_text())
 
@@ -193,11 +226,16 @@ def main():
         generar_agenda(cfg, [hoy.isoformat(), (hoy + timedelta(days=1)).isoformat()], args.demo)
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
+    elif args.orden == "rehacer-tarjetas":
+        rehacer_tarjetas(cfg)
     elif args.orden == "web":
         print("Web generada en", web.construir(cfg))
     elif args.orden == "instagram":
-        from .instagram import publicar_pendientes
-        print("Publicados:", publicar_pendientes(cfg, simular=args.simular))
+        from .instagram import prueba_make, publicar_pendientes
+        if args.prueba_make:
+            prueba_make(cfg)
+        else:
+            print("Publicados:", publicar_pendientes(cfg, simular=args.simular))
 
 
 if __name__ == "__main__":
