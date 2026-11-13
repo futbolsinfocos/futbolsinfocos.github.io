@@ -87,6 +87,46 @@ def texto_post(a: dict, cfg: dict) -> str:
     return f"{a['texto_instagram']}\n\n📰 {que} completa: enlace en la bio\n\n{etiquetas}"[:2200]
 
 
+def _agrupar(pendientes: list, cfg: dict) -> list[list]:
+    """Una publicación por competición: los grupos de las competiciones de `agrupar_instagram`
+    (p. ej. Segunda y Tercera Federación) van juntos en un carrusel, un grupo por imagen."""
+    agrupar = set(cfg.get("agrupar_instagram", []))
+    lotes, idx = [], {}
+    for x in pendientes:
+        a = x[1]
+        if a.get("competicion") in agrupar:
+            clave = (a.get("tipo", "cronica"), a["fecha"], a["competicion"])
+            if clave in idx:
+                lotes[idx[clave]].append(x)
+                continue
+            idx[clave] = len(lotes)
+        lotes.append([x])
+    return lotes
+
+
+def _contenido_lote(lote: list, cfg: dict, base: str) -> tuple[list[str], str]:
+    if len(lote) == 1:
+        a = lote[0][1]
+        return [f"{base}/{img}" for img in a["imagenes"]], texto_post(a, cfg)
+    arts = [x[1] for x in sorted(lote, key=lambda x: x[1]["etiqueta"])]
+    # una imagen por grupo (la primera de cada uno), como mucho 10
+    urls = [f"{base}/{a['imagenes'][0]}" for a in arts][:10]
+    que = "Previa" if arts[0].get("tipo") == "previa" else "Resultados"
+    hueco = max(150, 1700 // len(arts))
+    partes = [f"{que} · {arts[0]['competicion']}"]
+    for a in arts:
+        t = a["texto_instagram"].strip()
+        partes.append(t if len(t) <= hueco else t[:hueco].rsplit("\n", 1)[0] + "…")
+    tags = []
+    for a in arts:
+        for h in a.get("hashtags", []):
+            h = "#" + h.lstrip("#").replace(" ", "")
+            if h not in tags:
+                tags.append(h)
+    texto = "\n\n".join(partes) + f"\n\n📰 Toda la información: enlace en la bio\n\n{' '.join(tags[:10])}"
+    return urls, texto[:2200]
+
+
 def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     """Publica los artículos aún no subidos a Instagram, por prioridad, respetando el límite diario."""
     if not cfg.get("instagram_activo", True) and not simular:
@@ -96,24 +136,27 @@ def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     archivos = sorted((CONTENIDO / "articulos").glob("*.json"))
     arts = [(p, json.loads(p.read_text())) for p in archivos]
     hoy = date.today().isoformat()
-    ya_hoy = sum(1 for _, a in arts if a.get("ig_publicado_en", "")[:10] == hoy)
-    # las previas solo valen el mismo día del partido: una previa atrasada no se publica
+    ya_hoy = len({a.get("ig_media_id") for _, a in arts if a.get("ig_publicado_en", "")[:10] == hoy})
+    # las previas solo valen el mismo día del partido; ig_omitir = solo web (lo decide quien revisa)
     pendientes = sorted([x for x in arts if not x[1].get("ig_media_id") and x[1].get("imagenes")
+                         and not x[1].get("ig_omitir")
                          and (x[1].get("tipo") != "previa" or x[1]["fecha"] == hoy)],
-                        key=lambda x: (x[1].get("prioridad", 3), x[1]["fecha"]))
+                        key=lambda x: (x[1].get("prioridad", 3), x[1]["fecha"], x[1].get("tipo") == "previa"))
     hueco = max(cfg["limites"]["max_posts_instagram_dia"] - ya_hoy, 0)
     make = os.environ.get("MAKE_WEBHOOK_URL")
     ig = None if simular else (Make(make) if make else Instagram())
     hechos = []
-    for ruta, a in pendientes[:hueco]:
-        urls = [f"{base}/{img}" for img in a["imagenes"]]
+    for lote in _agrupar(pendientes, cfg)[:hueco]:
+        urls, texto = _contenido_lote(lote, cfg, base)
         if len(urls) == 1:  # Make solo publica carruseles: se añade la imagen de cierre de la marca
             urls.append(f"{base}/img/cierre.jpg")
+        slugs = [a["slug"] for _, a in lote]
         if simular:
-            print(f"[simulación] Publicaría {a['slug']} con {len(urls)} imagen(es)")
+            print(f"[simulación] Publicaría {' + '.join(slugs)} con {len(urls)} imagen(es)")
             continue
-        a["ig_media_id"] = ig.publicar(urls, texto_post(a, cfg))
-        a["ig_publicado_en"] = hoy
-        ruta.write_text(json.dumps(a, ensure_ascii=False, indent=2))
-        hechos.append(a["slug"])
+        media = ig.publicar(urls, texto)
+        for ruta, a in lote:
+            a["ig_media_id"], a["ig_publicado_en"] = media, hoy
+            ruta.write_text(json.dumps(a, ensure_ascii=False, indent=2))
+        hechos += slugs
     return hechos

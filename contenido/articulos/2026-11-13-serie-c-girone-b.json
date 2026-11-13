@@ -1,0 +1,44 @@
+{
+  "slug": "2026-11-13-serie-c-girone-b",
+  "fecha": "2026-11-13",
+  "etiqueta": "Serie C · Girone B",
+  "competicion": "Serie C",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Latina golea 4-0 al Campobasso FC en la jornada 14 del Girone B",
+  "entradilla": "El Latina firmó una goleada contundente ante el Campobasso FC en el Stadio Domenico Francioni. Un 4-0 sin discusión en el único partido del viernes en el Girone B de la Serie C.",
+  "cuerpo_markdown": "La jornada 14 del Girone B de la Serie C arrancó el viernes con un único partido. Y dejó goleada. El Latina se impuso por 4-0 al Campobasso FC en el Stadio Domenico Francioni.\n\n## Latina 4-0 Campobasso FC\n\nEl Latina hizo valer su condición de local en Latina. Cuatro goles a favor y portería a cero ante el Campobasso FC. El encuentro, dirigido por E. Eremitaggio, terminó con una victoria amplia de los locales. El visitante no logró marcar en todo el partido.",
+  "texto_instagram": "⚽ Goleada del Latina en el arranque de la jornada 14 del Girone B de la Serie C 🔥 Cuatro goles y portería a cero ante el Campobasso FC en el Stadio Domenico Francioni 🏟️\n\nLatina 4-0 Campobasso FC",
+  "hashtags": [
+    "#SerieC",
+    "#GironeB",
+    "#Latina",
+    "#Campobasso",
+    "#CalcioItaliano",
+    "#FútbolItaliano"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-serie-c-girone-b-1.jpg",
+    "img/2026-11-13/2026-11-13-serie-c-girone-b-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1608744,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Stadio Domenico Francioni",
+      "ciudad": "Latina",
+      "arbitro": "E. Eremitaggio",
+      "jornada": "Girone B - 14",
+      "liga_id": 942,
+      "local": "Latina",
+      "visitante": "Campobasso FC",
+      "escudo_local": "https://media.api-sports.io/football/teams/804.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9510.png",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [],
+  "ig_omitir": true
+}

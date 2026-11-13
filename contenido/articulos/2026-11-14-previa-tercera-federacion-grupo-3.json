@@ -1,0 +1,169 @@
+{
+  "slug": "2026-11-14-previa-tercera-federacion-grupo-3",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Seis partidos de la jornada 11 en el Grupo 3 de Tercera Federación",
+  "entradilla": "La Tercera Federación · Grupo 3 disputa este sábado seis partidos de la jornada 11, entre las 16:00 y las 19:00. Abren Escobedo-Naval Reinosa y Solares-Sámano.",
+  "cuerpo_markdown": "## Escobedo - Naval Reinosa\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nEl Escobedo recibe al Naval Reinosa este sábado a las 16:00 en la jornada 11 del Grupo 3.\n\n[Leer la previa completa →](../previas/2026-11-14-escobedo-naval-reinosa.html)\n\n## Solares - Sámano\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nSolares y Sámano juegan este sábado a las 16:00 en el Grupo 3 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-solares-samano.html)\n\n## Selaya - Velarde\n\n<p class=\"ficha\"><b>16:15</b> · Jornada 11</p>\n\nEl Selaya recibe al Velarde este sábado a las 16:15.\n\n[Leer la previa completa →](../previas/2026-11-14-selaya-velarde.html)\n\n## Atlético Mineros - Bezana\n\n<p class=\"ficha\"><b>16:30</b> · Jornada 11</p>\n\nAtlético Mineros y Bezana se miden este sábado a las 16:30 en el Grupo 3.\n\n[Leer la previa completa →](../previas/2026-11-14-atletico-mineros-bezana.html)\n\n## Laredo - Torina\n\n<p class=\"ficha\"><b>17:30</b> · Jornada 11</p>\n\nEl Laredo recibe al Torina este sábado a las 17:30.\n\n[Leer la previa completa →](../previas/2026-11-14-laredo-torina.html)\n\n## Atlético Albericia - Barquereño\n\n<p class=\"ficha\"><b>19:00</b> · Jornada 11</p>\n\nEl Atlético Albericia recibe al Barquereño a las 19:00 en el último partido del día en el Grupo 3.\n\n[Leer la previa completa →](../previas/2026-11-14-atletico-albericia-barquereno.html)",
+  "texto_instagram": "⚽ Jornada 11 en la Tercera Federación · Grupo 3. Seis partidos este sábado, entre las 16:00 y las 19:00.\n\n16:00 Escobedo - Naval Reinosa\n16:00 Solares - Sámano\n16:15 Selaya - Velarde\n16:30 Atlético Mineros - Bezana\n17:30 Laredo - Torina\n19:00 Atlético Albericia - Barquereño",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo3",
+    "#FutbolCantabro",
+    "#Jornada11"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-3.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-3.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1613408,
+      "fecha": "2026-11-14T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Escobedo",
+      "visitante": "Naval Reinosa",
+      "escudo_local": "https://media.api-sports.io/football/teams/9386.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28098.png"
+    },
+    {
+      "id": 1613412,
+      "fecha": "2026-11-14T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Solares",
+      "visitante": "Sámano",
+      "escudo_local": "https://media.api-sports.io/football/teams/9647.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9648.png"
+    },
+    {
+      "id": 1613411,
+      "fecha": "2026-11-14T16:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Selaya",
+      "visitante": "Velarde",
+      "escudo_local": "https://media.api-sports.io/football/teams/9645.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20451.png"
+    },
+    {
+      "id": 1613406,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Atlético Mineros",
+      "visitante": "Bezana",
+      "escudo_local": "https://media.api-sports.io/football/teams/22132.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9639.png"
+    },
+    {
+      "id": 1613409,
+      "fecha": "2026-11-14T17:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Laredo",
+      "visitante": "Torina",
+      "escudo_local": "https://media.api-sports.io/football/teams/9394.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9650.png"
+    },
+    {
+      "id": 1613405,
+      "fecha": "2026-11-14T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 11",
+      "arbitro": null,
+      "local": "Atlético Albericia",
+      "visitante": "Barquereño",
+      "escudo_local": "https://media.api-sports.io/football/teams/9637.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/8152.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1613408,
+      "slug": "2026-11-14-escobedo-naval-reinosa",
+      "titular": "Escobedo y Naval Reinosa abren la jornada 11 en Tercera Federación",
+      "entradilla": "El Escobedo recibe al Naval Reinosa este sábado a las 16:00 en la jornada 11 del Grupo 3.",
+      "parrafos": [
+        "El Escobedo y el Naval Reinosa se enfrentan este sábado 14 de noviembre a las 16:00, hora de Madrid, en partido de la jornada 11 del Grupo 3 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613412,
+      "slug": "2026-11-14-solares-samano",
+      "titular": "El Solares recibe al Sámano en la jornada 11",
+      "entradilla": "Solares y Sámano juegan este sábado a las 16:00 en el Grupo 3 de Tercera Federación.",
+      "parrafos": [
+        "El Solares y el Sámano se miden este sábado 14 de noviembre a las 16:00, hora de Madrid, en la jornada 11 del Grupo 3 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613411,
+      "slug": "2026-11-14-selaya-velarde",
+      "titular": "Selaya y Velarde se enfrentan en la jornada 11 de Tercera Federación",
+      "entradilla": "El Selaya recibe al Velarde este sábado a las 16:15.",
+      "parrafos": [
+        "El Selaya y el Velarde juegan este sábado 14 de noviembre a las 16:15, hora de Madrid, en la jornada 11 del Grupo 3 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613406,
+      "slug": "2026-11-14-atletico-mineros-bezana",
+      "titular": "El Atlético Mineros recibe al Bezana en la jornada 11",
+      "entradilla": "Atlético Mineros y Bezana se miden este sábado a las 16:30 en el Grupo 3.",
+      "parrafos": [
+        "El Atlético Mineros y el Bezana se enfrentan este sábado 14 de noviembre a las 16:30, hora de Madrid, en la jornada 11 del Grupo 3 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613409,
+      "slug": "2026-11-14-laredo-torina",
+      "titular": "Laredo y Torina juegan la jornada 11 del Grupo 3",
+      "entradilla": "El Laredo recibe al Torina este sábado a las 17:30.",
+      "parrafos": [
+        "El Laredo y el Torina se miden este sábado 14 de noviembre a las 17:30, hora de Madrid, en la jornada 11 del Grupo 3 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613405,
+      "slug": "2026-11-14-atletico-albericia-barquereno",
+      "titular": "Atlético Albericia y Barquereño cierran la jornada del sábado",
+      "entradilla": "El Atlético Albericia recibe al Barquereño a las 19:00 en el último partido del día en el Grupo 3.",
+      "parrafos": [
+        "El Atlético Albericia y el Barquereño se enfrentan este sábado 14 de noviembre a las 19:00, hora de Madrid, en la jornada 11 del Grupo 3 de Tercera Federación. Es el último partido de la jornada de sábado."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ],
+  "ig_omitir": true
+}

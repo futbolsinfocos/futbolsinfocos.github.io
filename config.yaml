@@ -50,6 +50,8 @@ competiciones:
 # Límites para controlar coste y no saturar a los seguidores
 # Pon true cuando la conexión con Instagram (Make o app de Meta) esté probada
 instagram_activo: true
+# Competiciones con muchos grupos: en Instagram van en UNA publicación (un grupo por imagen)
+agrupar_instagram: ["Segunda Federación", "Tercera Federación"]
 
 limites:
   max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)

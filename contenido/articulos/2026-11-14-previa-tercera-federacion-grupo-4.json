@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-14-previa-tercera-federacion-grupo-4",
+  "tipo": "previa",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 4",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Cinco partidos de la jornada 11 de Tercera Federación, Grupo 4, este sábado",
+  "entradilla": "La jornada 11 del Grupo 4 de Tercera Federación reúne hoy cinco partidos entre las 16:00 y las 17:00. El Eibar III recibe al Derio en Ipurua.",
+  "cuerpo_markdown": "## Deportivo Alavés III - Aretxabaleta\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nDeportivo Alavés III y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-alaves-iii-aretxabaleta.html)\n\n## Eibar III - Derio\n\n<p class=\"ficha\"><b>16:00</b> · Estadio Municipal de Ipurua (Eibar) · Jornada 11</p>\n\nEibar III y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.\n\n[Leer la previa completa →](../previas/2026-11-14-eibar-iii-derio.html)\n\n## Touring - Pasaia KE\n\n<p class=\"ficha\"><b>16:30</b> · Jornada 11</p>\n\nTouring y Pasaia KE se miden este sábado a las 16:30 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-touring-pasaia-ke.html)\n\n## Erandio - San Ignacio\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nErandio y San Ignacio juegan este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-erandio-san-ignacio.html)\n\n## Sodupe - Santurtzi\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nSodupe y Santurtzi se miden este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-sodupe-santurtzi.html)",
+  "texto_instagram": "⚽ Jornada 11 de Tercera Federación, Grupo 4. Cinco partidos este sábado, entre las 16:00 y las 17:00. El Eibar III recibe al Derio en Ipurua.\n\n16:00 Deportivo Alavés III - Aretxabaleta\n16:00 Eibar III - Derio\n16:30 Touring - Pasaia KE\n17:00 Erandio - San Ignacio\n17:00 Sodupe - Santurtzi",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo4",
+    "#FutbolVasco",
+    "#Jornada11"
+  ],
+  "imagenes_web": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-4.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-previa-tercera-federacion-grupo-4.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1613711,
+      "fecha": "2026-11-14T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Deportivo Alavés III",
+      "visitante": "Aretxabaleta",
+      "escudo_local": "https://media.api-sports.io/football/teams/22134.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24571.png"
+    },
+    {
+      "id": 1613714,
+      "fecha": "2026-11-14T16:00:00+01:00",
+      "estadio": "Estadio Municipal de Ipurua",
+      "ciudad": "Eibar",
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Eibar III",
+      "visitante": "Derio",
+      "escudo_local": "https://media.api-sports.io/football/teams/25023.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22135.png"
+    },
+    {
+      "id": 1613719,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Touring",
+      "visitante": "Pasaia KE",
+      "escudo_local": "https://media.api-sports.io/football/teams/20261.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9661.png"
+    },
+    {
+      "id": 1613715,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Erandio",
+      "visitante": "San Ignacio",
+      "escudo_local": "https://media.api-sports.io/football/teams/28099.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9663.png"
+    },
+    {
+      "id": 1613718,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Sodupe",
+      "visitante": "Santurtzi",
+      "escudo_local": "https://media.api-sports.io/football/teams/9666.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9664.png"
+    }
+  ],
+  "forma": {},
+  "previas_partido": [
+    {
+      "id": 1613711,
+      "slug": "2026-11-14-deportivo-alaves-iii-aretxabaleta",
+      "titular": "El Deportivo Alavés III recibe al Aretxabaleta en la jornada 11",
+      "entradilla": "Deportivo Alavés III y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.",
+      "parrafos": [
+        "El Deportivo Alavés III y el Aretxabaleta juegan este sábado 14 de noviembre, a las 16:00, el partido correspondiente a la jornada 11 del Grupo 4 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613714,
+      "slug": "2026-11-14-eibar-iii-derio",
+      "titular": "El Eibar III y el Derio se enfrentan en Ipurua",
+      "entradilla": "Eibar III y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.",
+      "parrafos": [
+        "El Eibar III recibe al Derio este sábado 14 de noviembre, a las 16:00, en el Estadio Municipal de Ipurua, en Eibar. El partido corresponde a la jornada 11 del Grupo 4 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613719,
+      "slug": "2026-11-14-touring-pasaia-ke",
+      "titular": "El Touring recibe al Pasaia KE en la jornada 11",
+      "entradilla": "Touring y Pasaia KE se miden este sábado a las 16:30 en el Grupo 4 de Tercera Federación.",
+      "parrafos": [
+        "El Touring y el Pasaia KE disputan este sábado 14 de noviembre, a las 16:30, el partido de la jornada 11 del Grupo 4 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613715,
+      "slug": "2026-11-14-erandio-san-ignacio",
+      "titular": "El Erandio recibe al San Ignacio en la jornada 11",
+      "entradilla": "Erandio y San Ignacio juegan este sábado a las 17:00 en el Grupo 4 de Tercera Federación.",
+      "parrafos": [
+        "El Erandio y el San Ignacio se enfrentan este sábado 14 de noviembre, a las 17:00, en la jornada 11 del Grupo 4 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    },
+    {
+      "id": 1613718,
+      "slug": "2026-11-14-sodupe-santurtzi",
+      "titular": "El Sodupe recibe al Santurtzi en la jornada 11",
+      "entradilla": "Sodupe y Santurtzi se miden este sábado a las 17:00 en el Grupo 4 de Tercera Federación.",
+      "parrafos": [
+        "El Sodupe y el Santurtzi juegan este sábado 14 de noviembre, a las 17:00, el partido de la jornada 11 del Grupo 4 de Tercera Federación."
+      ],
+      "precedente": "",
+      "claves": []
+    }
+  ],
+  "ig_omitir": true
+}
