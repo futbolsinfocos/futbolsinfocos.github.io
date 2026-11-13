@@ -135,6 +135,7 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
     for l in ligas:
         print(f"  - [{l['id']}] {l['etiqueta']} (temporada {l['temporada']})")
     partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"])
+    print(f"Partidos terminados el {fecha} en estas competiciones: {len(partidos)}")
     paquetes = []
     presupuesto = config["limites"]["max_llamadas_detalle"]
     for liga in sorted(ligas, key=lambda l: l["prioridad"]):
@@ -150,6 +151,10 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
                 except Exception as e:  # sin goleadores la crónica sale igual
                     print(f"Sin goleadores para {p['local']}-{p['visitante']}: {e}")
                 presupuesto -= 1
-        paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos,
-                         "clasificacion": api.clasificacion(liga["id"], liga["temporada"])})
+        try:
+            tabla = api.clasificacion(liga["id"], liga["temporada"])
+        except Exception as e:  # el plan gratuito no da clasificaciones de la temporada actual
+            print(f"Sin clasificación para {liga['etiqueta']}: {e}")
+            tabla = []
+        paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
     return paquetes[: config["limites"]["max_articulos_dia"]]
