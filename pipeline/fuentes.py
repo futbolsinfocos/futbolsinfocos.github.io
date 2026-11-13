@@ -13,6 +13,8 @@ from pathlib import Path
 
 import requests
 
+from .nombres import es
+
 BASE = "https://v3.football.api-sports.io"
 RAIZ = Path(__file__).resolve().parent.parent
 CACHE_LIGAS = RAIZ / "data" / "ligas_resueltas.json"
@@ -104,12 +106,12 @@ class ApiFootball:
         if not resp:
             return []
         tabla = resp[0]["league"]["standings"][0]
-        return [{"pos": t["rank"], "equipo": t["team"]["name"], "pts": t["points"],
+        return [{"pos": t["rank"], "equipo": es(t["team"]["name"]), "pts": t["points"],
                  "pj": t["all"]["played"], "dg": t["goalsDiff"]} for t in tabla]
 
     def goleadores(self, partido_id: int) -> list[dict]:
         eventos = self._get("fixtures/events", fixture=partido_id)
-        return [{"min": e["time"]["elapsed"], "equipo": e["team"]["name"],
+        return [{"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]),
                  "jugador": e["player"]["name"], "tipo": e["detail"]}
                 for e in eventos if e["type"] == "Goal" and e["detail"] != "Missed Penalty"]
 
@@ -125,8 +127,8 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
         "estadio": (f["fixture"].get("venue") or {}).get("name"),
         "jornada": f["league"].get("round"),
         "liga_id": liga["id"],
-        "local": f["teams"]["home"]["name"],
-        "visitante": f["teams"]["away"]["name"],
+        "local": es(f["teams"]["home"]["name"]),
+        "visitante": es(f["teams"]["away"]["name"]),
         "goles_local": f["goals"]["home"],
         "goles_visitante": f["goals"]["away"],
         "goleadores": [],
