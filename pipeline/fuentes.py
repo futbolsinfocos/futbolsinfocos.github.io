@@ -129,6 +129,8 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
         "id": f["fixture"]["id"],
         "fecha": f["fixture"]["date"],
         "estadio": (f["fixture"].get("venue") or {}).get("name"),
+        "ciudad": (f["fixture"].get("venue") or {}).get("city"),
+        "arbitro": f["fixture"].get("referee"),
         "jornada": f["league"].get("round"),
         "liga_id": liga["id"],
         "local": es(f["teams"]["home"]["name"]),

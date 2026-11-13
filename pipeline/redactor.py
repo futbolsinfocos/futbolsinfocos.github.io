@@ -40,36 +40,75 @@ ESQUEMA = {
 }
 
 
-SISTEMA_PREVIA = """Eres redactor de un diario digital de fútbol (categorías inferiores y ligas \
-europeas). Escribes la PREVIA de los partidos que se juegan hoy en una competición.
-Escribes en español de España, tono periodístico cercano, frases cortas.
+SISTEMA_PREVIA = """Eres redactor de la sección de previas de un diario deportivo serio. Escribes la \
+previa de los partidos que se juegan hoy en una competición. Español de España, estilo de agencia: \
+sobrio, preciso, informativo. Frases cortas.
+
+Qué recibes (JSON): la competición, los partidos (equipos, hora de Madrid, estadio, ciudad, jornada, \
+árbitro) y, cuando los hay, "forma" (últimos resultados publicados de cada equipo, G/E/P con marcador) \
+e "historial" (enfrentamientos previos entre esos dos equipos que tenemos publicados).
+
+Lo que NO hace falta que escribas: la hora, el estadio, la ciudad, la jornada y el árbitro ya salen en una \
+ficha fija debajo del título de cada partido. No los repitas salvo que aporten algo (p. ej. un horario distinto).
 
 Normas estrictas:
-- Usa EXCLUSIVAMENTE los datos del JSON recibido: partidos (equipos, hora, estadio, jornada) y \
-"forma" (últimos resultados de cada equipo que tenemos publicados; puede faltar).
-- Prohibido inventar alineaciones, bajas, lesiones, declaraciones, cuotas, pronósticos de resultado, \
-historial entre equipos o clasificación si no viene en los datos.
-- Si un equipo no tiene "forma", no digas nada de cómo llega.
-- Las horas vienen en hora de Madrid: escríbelas como "a las 18:30".
-- Los nombres de equipos se copian tal cual vienen.
-- El cuerpo va en Markdown: un párrafo de presentación de la jornada y un apartado breve por \
-partido (## Local - Visitante) con hora, estadio si viene y cómo llegan según la forma.
-- texto_instagram: anuncia los partidos del día. partido_destacado_id: el partido más atractivo."""
+- Usa EXCLUSIVAMENTE los datos del JSON. Prohibido inventar alineaciones, bajas, lesiones, declaraciones, \
+cuotas, pronósticos, posiciones en la tabla, rachas o contexto histórico que no estén en los datos.
+- Nada de relleno ni clichés: prohibido "el balón echa a rodar", "abrir boca", "cita", "duelo de \
+alto voltaje", "con la misión de", "ante su gente", "noche mágica" y similares. Si no hay datos que \
+analizar de un partido, deja su texto VACÍO. Es mejor una previa corta que una previa hueca.
+- Cuando haya forma o historial, conviértelos en información útil: rachas ("tres victorias seguidas"), \
+goles a favor y en contra, resultado del último enfrentamiento. Cifras exactas, sin adjetivos de más.
+- Nombres de equipos tal cual vienen.
+
+Campos:
+- titular: informativo, máx. 90 caracteres, sin dos puntos al principio ni signos de exclamación. \
+Destaca el partido o el dato más relevante.
+- entradilla: 1-2 frases con lo esencial (cuántos partidos, el más destacado y por qué).
+- presentacion: 1 párrafo corto de contexto de la jornada con datos reales; vacío si no aporta nada nuevo.
+- claves: 0-3 frases con datos concretos (rachas, historial). Lista vacía si no hay datos.
+- partidos: un elemento por partido (id) con "texto": 1-3 frases de análisis con datos, o "" si no hay.
+- texto_instagram: lista de los partidos con su hora, 1-2 emojis como máximo, sin relleno.
+- partido_destacado_id: el partido más relevante según los datos (o el de mayor categoría)."""
+
+ESQUEMA_PREVIA = {
+    "type": "object",
+    "properties": {
+        "titular": {"type": "string"},
+        "entradilla": {"type": "string"},
+        "presentacion": {"type": "string"},
+        "claves": {"type": "array", "items": {"type": "string"}},
+        "partidos": {"type": "array", "items": {
+            "type": "object",
+            "properties": {"id": {"type": "integer"}, "texto": {"type": "string"}},
+            "required": ["id", "texto"], "additionalProperties": False}},
+        "texto_instagram": {"type": "string"},
+        "hashtags": {"type": "array", "items": {"type": "string"}},
+        "partido_destacado_id": {"type": "integer"},
+    },
+    "required": ["titular", "entradilla", "presentacion", "claves", "partidos", "texto_instagram",
+                 "hashtags", "partido_destacado_id"],
+    "additionalProperties": False,
+}
 
 
 def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
     if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         return redactar_plantilla(paquete)
-    return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", paquete, config)
+    return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", paquete, config, ESQUEMA)
 
 
 def redactar_previa(paquete: dict, config: dict, demo: bool = False) -> dict:
     if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         return previa_plantilla(paquete)
-    return _llamar(SISTEMA_PREVIA, "Escribe la previa de los partidos de hoy. Datos:\n", paquete, config)
+    from .previas import cuerpo, jornada_es
+    datos = {**paquete, "partidos": [{**p, "jornada": jornada_es(p.get("jornada"))} for p in paquete["partidos"]]}
+    texto = _llamar(SISTEMA_PREVIA, "Escribe la previa de los partidos de hoy. Datos:\n", datos, config, ESQUEMA_PREVIA)
+    texto["cuerpo_markdown"] = cuerpo(paquete, texto)
+    return texto
 
 
-def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict) -> dict:
+def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema: dict) -> dict:
     import anthropic
 
     client = anthropic.Anthropic()
@@ -79,7 +118,7 @@ def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict) -> dict
         max_tokens=16000,
         system=sistema,
         output_config={"effort": config["ia"].get("esfuerzo", "low"),
-                       "format": {"type": "json_schema", "schema": ESQUEMA}},
+                       "format": {"type": "json_schema", "schema": esquema}},
         messages=[{"role": "user", "content":
                    instruccion + json.dumps(paquete, ensure_ascii=False)}],
     )
@@ -126,16 +165,18 @@ def hora(iso: str) -> str:
 
 
 def previa_plantilla(paquete: dict) -> dict:
-    """Previa sin IA (modo demo o sin clave)."""
+    """Previa sin IA (modo demo o sin clave): solo datos, con la misma ficha que la versión con IA."""
+    from .previas import cuerpo
     liga = paquete["liga"]["etiqueta"]
     ps = paquete["partidos"]
-    lineas = [f"- **{p['local']} - {p['visitante']}** · {hora(p['fecha'])}" for p in ps]
-    return {
-        "titular": f"Previa de {liga}: {len(ps)} partido{'s' if len(ps) != 1 else ''} hoy",
-        "entradilla": f"Hoy se juega en {liga}: {ps[0]['local']} - {ps[0]['visitante']} abre la jornada a las {hora(ps[0]['fecha'])}.",
-        "cuerpo_markdown": "## Partidos de hoy\n\n" + "\n".join(lineas),
+    texto = {
+        "titular": f"{ps[0]['local']} - {ps[0]['visitante']} abre la jornada de {liga}",
+        "entradilla": f"{len(ps)} partido{'s' if len(ps) != 1 else ''} hoy en {liga}. El primero, a las {hora(ps[0]['fecha'])}.",
+        "presentacion": "", "claves": [], "partidos": [],
         "texto_instagram": f"📅 Hoy en {liga}\n" + "\n".join(
             f"{hora(p['fecha'])} {p['local']} - {p['visitante']}" for p in ps),
         "hashtags": ["futbol", liga.split(" ·")[0].replace(" ", "").lower()],
         "partido_destacado_id": ps[0]["id"],
     }
+    texto["cuerpo_markdown"] = cuerpo(paquete, texto)
+    return texto

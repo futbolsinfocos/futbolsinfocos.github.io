@@ -91,6 +91,12 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .btn-previa{display:inline-block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
  color:var(--negro);background:var(--amarillo);padding:3px 9px;border-radius:99px}
 .btn-previa:hover{background:#fff}article h2{scroll-margin-top:16px}
+article .ficha{margin:-2px 0 10px;font-size:14px;color:var(--suave)}article .ficha b{color:var(--amarillo)}
+article .forma{font-size:13px;color:var(--suave);margin:0 0 12px;line-height:2}
+article .forma .eq{display:inline-block;min-width:150px;margin-right:6px}
+article .forma span[class^=f]{display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;border-radius:4px;
+ margin-right:3px;font-weight:700;font-size:12px;color:#111}
+.fG{background:#3ec46d}.fE{background:#bdbdbd}.fP{background:#e5534b}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
