@@ -87,6 +87,9 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--amarillo)}
 .lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--suave);margin:12px 0 4px}
 .lt-p:first-child{margin-top:0}.lt-p:hover{color:var(--amarillo)}
+.btn-previa{display:inline-block;margin-left:8px;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
+ color:var(--negro);background:var(--amarillo);padding:3px 8px;border-radius:99px;vertical-align:1px}
+.btn-previa:hover{background:#fff}article h2{scroll-margin-top:16px}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
@@ -313,13 +316,37 @@ def _dia(fecha: str) -> str:
     return f"{DIAS[d.weekday()].capitalize()}, {fecha_larga(fecha)}"
 
 
-def _fila_agenda(p: dict) -> str:
+def _ancla(texto: str) -> str:
+    """Id de un título dentro de un artículo (el mismo que pone el extension 'toc' de markdown)."""
+    return _slug_liga(re.sub(r"[*_`]", "", texto))
+
+
+def _mapa_previas(arts: list[dict]) -> dict:
+    """id de partido → enlace a su apartado dentro de la previa (o a la previa entera)."""
+    mapa = {}
+    for a in arts:
+        if a.get("tipo") != "previa":
+            continue
+        titulos = [l[3:].strip() for l in a.get("cuerpo_markdown", "").splitlines() if l.startswith("## ")]
+        for p in a.get("proximos", []):
+            loc, vis = es(p["local"]).lower(), es(p["visitante"]).lower()
+            t = next((t for t in titulos if loc in t.lower() and vis in t.lower()), None)
+            mapa[p["id"]] = f'articulos/{a["slug"]}.html' + (f"#{_ancla(t)}" if t else "")
+    return mapa
+
+
+PREVIAS: dict = {}  # se rellena en construir()
+
+
+def _fila_agenda(p: dict, prof: str = "") -> str:
     if p.get("goles_local") is not None and p.get("goles_visitante") is not None:
         centro = f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>'
     else:
         centro = f'<b class="hora">{_e((p.get("fecha") or "")[11:16] or "--:--")}</b>'
+    boton = (f' <a class="btn-previa" href="{prof}{PREVIAS[p["id"]]}">Previa</a>'
+             if p.get("id") in PREVIAS and p.get("goles_local") is None else "")
     return (f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>{centro}'
-            f'<span>{_e(es(p["visitante"]))}</span></div>')
+            f'<span>{_e(es(p["visitante"]))}{boton}</span></div>')
 
 
 def _agenda(agenda: dict, prof: str = "") -> str:
@@ -379,6 +406,8 @@ def _resultados(arts: list[dict]) -> str:
 def construir(cfg: dict) -> Path:
     arts = cargar_articulos()
     agenda = cargar_agenda()
+    PREVIAS.clear()
+    PREVIAS.update(_mapa_previas(arts))
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     (SALIDA / "articulos").mkdir(parents=True)
@@ -424,7 +453,8 @@ def construir(cfg: dict) -> Path:
         cuerpo = (f'<article><a class="tag" href="../ligas/{_slug_liga(a["etiqueta"])}.html">{_e(_etiqueta(a))} →</a><h1 class="tit">{_e(a["titular"])}</h1>'
                   f'<p class="fecha">{fecha_larga(a["fecha"])}</p><p class="entradilla">{_e(a["entradilla"])}</p>'
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
-                  + markdown.markdown(a["cuerpo_markdown"], extensions=["tables"])
+                  + markdown.markdown(a["cuerpo_markdown"], extensions=["tables", "toc"],
+                                      extension_configs={"toc": {"slugify": lambda t, sep: _ancla(t)}})
                   + '<a class="volver" href="../index.html">← Volver a la portada</a></article>')
         (SALIDA / "articulos" / f"{a['slug']}.html").write_text(
             _pagina(cfg, f"{a['titular']} · {nombre}", cuerpo, "../", a["entradilla"], ticker=_ticker(arts, "../")))
