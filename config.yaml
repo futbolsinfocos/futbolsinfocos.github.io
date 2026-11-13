@@ -48,6 +48,9 @@ competiciones:
   - {pais: Netherlands, patron: "^Eerste Divisie$", etiqueta: "Eerste Divisie", grupo: internacional, prioridad: 2}
 
 # Límites para controlar coste y no saturar a los seguidores
+# Pon true cuando la conexión con Instagram (Make o app de Meta) esté probada
+instagram_activo: false
+
 limites:
   max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)
   max_previas_dia: 12            # previas de los partidos del día (solo web por ahora)

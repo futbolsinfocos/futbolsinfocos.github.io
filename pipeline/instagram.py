@@ -89,6 +89,9 @@ def texto_post(a: dict, cfg: dict) -> str:
 
 def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     """Publica los artículos aún no subidos a Instagram, por prioridad, respetando el límite diario."""
+    if not cfg.get("instagram_activo", True) and not simular:
+        print("Instagram desactivado en config.yaml (instagram_activo: false); no se publica nada.")
+        return []
     base = cfg["medio"]["url_web"].rstrip("/")
     archivos = sorted((CONTENIDO / "articulos").glob("*.json"))
     arts = [(p, json.loads(p.read_text())) for p in archivos]
