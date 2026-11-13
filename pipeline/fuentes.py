@@ -18,6 +18,7 @@ from .nombres import es
 BASE = "https://v3.football.api-sports.io"
 RAIZ = Path(__file__).resolve().parent.parent
 CACHE_LIGAS = RAIZ / "data" / "ligas_resueltas.json"
+_FIXTURES: dict[tuple, list] = {}
 
 
 class ApiFootball:
@@ -92,7 +93,10 @@ class ApiFootball:
     def partidos_del_dia(self, fecha: str, ligas: list[dict], zona: str,
                          estados: tuple = ("FT", "AET", "PEN")) -> list[dict]:
         ids = {l["id"]: l for l in ligas}
-        todos = self._get("fixtures", date=fecha, timezone=zona)
+        clave = (fecha, zona)  # previas y agenda piden el mismo día: una sola llamada
+        if clave not in _FIXTURES:
+            _FIXTURES[clave] = self._get("fixtures", date=fecha, timezone=zona)
+        todos = _FIXTURES[clave]
         salida = []
         for f in todos:
             liga = ids.get(f["league"]["id"])
@@ -178,3 +182,19 @@ def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
         if suyos:
             paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos})
     return paquetes[: config["limites"].get("max_previas_dia", 12)]
+
+
+def recopilar_agenda(fechas: list[str], config: dict, api: ApiFootball) -> dict:
+    """Todos los partidos (jugados o no) de cada fecha, agrupados por competición/grupo."""
+    ligas = api.resolver_ligas(config["competiciones"])
+    agenda = {}
+    for fecha in fechas:
+        partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"],
+                                        estados=("NS", "TBD", "1H", "HT", "2H", "ET", "P", "BT", "LIVE",
+                                                 "FT", "AET", "PEN", "PST", "SUSP", "INT"))
+        agenda[fecha] = [{"etiqueta": l["etiqueta"], "competicion": l["competicion"], "grupo": l["grupo"],
+                          "prioridad": l["prioridad"],
+                          "partidos": sorted((p for p in partidos if p["liga_id"] == l["id"]), key=lambda p: p["fecha"])}
+                         for l in sorted(ligas, key=lambda l: (l["prioridad"], l["etiqueta"]))
+                         if any(p["liga_id"] == l["id"] for p in partidos)]
+    return agenda

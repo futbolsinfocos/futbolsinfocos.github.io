@@ -133,6 +133,34 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
     return creados
 
 
+def generar_agenda(cfg: dict, fechas: list[str], demo: bool) -> None:
+    """Guarda en contenido/agenda.json los partidos de hoy y mañana para la página 'Partidos'."""
+    if demo:
+        from .demo import paquetes_demo
+        agenda = {}
+        for fecha in fechas:
+            agenda[fecha] = [{"etiqueta": p["liga"]["etiqueta"], "competicion": p["liga"]["competicion"],
+                              "grupo": p["liga"]["grupo"], "prioridad": p["liga"]["prioridad"],
+                              "partidos": [{**x, "fecha": f"{fecha}T{17 + i % 4}:{'00' if i % 2 else '30'}:00+01:00",
+                                            "goles_local": None, "goles_visitante": None}
+                                           for i, x in enumerate(p["partidos"])]}
+                             for p in paquetes_demo(fecha)]
+    else:
+        from .fuentes import ApiFootball, recopilar_agenda
+        try:
+            agenda = recopilar_agenda(fechas, cfg, ApiFootball())
+        except Exception as e:  # la agenda no tumba la edición
+            print(f"Sin agenda: {e}", file=sys.stderr)
+            return
+    campos = ("id", "fecha", "estadio", "jornada", "local", "visitante", "goles_local", "goles_visitante")
+    for dia in agenda.values():
+        for comp in dia:
+            comp["partidos"] = [{k: p.get(k) for k in campos} for p in comp["partidos"]]
+    CONTENIDO.mkdir(parents=True, exist_ok=True)
+    (CONTENIDO / "agenda.json").write_text(json.dumps(agenda, ensure_ascii=False, indent=2))
+    print("Agenda: " + ", ".join(f"{d} ({sum(len(c['partidos']) for c in v)} partidos)" for d, v in agenda.items()))
+
+
 def main():
     ap = argparse.ArgumentParser(prog="pipeline")
     sub = ap.add_subparsers(dest="orden", required=True)
@@ -151,6 +179,8 @@ def main():
         if not args.sin_previas:  # previas de los partidos del día siguiente a --fecha (por defecto, hoy)
             dia_previa = (date.fromisoformat(args.fecha) + timedelta(days=1)).isoformat()
             creados += generar_previas(cfg, dia_previa, args.demo)
+        hoy = date.fromisoformat(args.fecha) + timedelta(days=1)
+        generar_agenda(cfg, [hoy.isoformat(), (hoy + timedelta(days=1)).isoformat()], args.demo)
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
     elif args.orden == "web":

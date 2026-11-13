@@ -85,6 +85,8 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .ligas a{background:var(--panel);border-radius:12px;padding:16px 18px;border-left:4px solid var(--amarillo);display:block}
 .ligas a span{font-size:20px;font-weight:600;display:block}.ligas a:hover span{color:var(--amarillo)}.ligas small{color:var(--suave)}
 .liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--amarillo)}
+.lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--suave);margin:12px 0 4px}
+.lt-p:first-child{margin-top:0}.lt-p:hover{color:var(--amarillo)}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
@@ -92,7 +94,7 @@ footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weig
 """
 
 NAV = [("index.html", "Portada"), ("espana.html", "España"), ("internacional.html", "Internacional"),
-       ("ligas.html", "Ligas"), ("resultados.html", "Resultados")]
+       ("partidos.html", "Partidos"), ("ligas.html", "Ligas"), ("resultados.html", "Resultados")]
 
 
 def _e(t) -> str:
@@ -176,7 +178,7 @@ def _url(a: dict, prof: str) -> str:
     return f'{prof}articulos/{a["slug"]}.html'
 
 
-def _portada(lista: list[dict], prof: str = "") -> str:
+def _portada(lista: list[dict], prof: str = "", extra: str = "") -> str:
     if not lista:
         return '<div class="vacio">Aún no hay noticias. La próxima edición sale mañana a primera hora.</div>'
     a0, resto = lista[0], lista[1:]
@@ -186,6 +188,7 @@ def _portada(lista: list[dict], prof: str = "") -> str:
                    f'<p>{_e(a["entradilla"])}</p></a>' for a in resto[:2])
     out = f'<section class="hero">{hero}<div class="mini">{mini}</div></section>' if mini else \
           f'<section class="hero" style="grid-template-columns:1fr">{hero}</section>'
+    out += extra
     if resto[2:]:
         out += '<h2 class="sec tit">Más noticias</h2><section class="grid">' + "".join(
             f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(_etiqueta(a))}</span>'
@@ -291,6 +294,73 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     return out
 
 
+DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
+
+# Cambia "viernes, 13 de noviembre" por "Hoy"/"Mañana" según el día en que se mire la web
+SCRIPT_DIAS = """<script>(function(){function iso(d){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
+var h=new Date(),m=new Date();m.setDate(h.getDate()+1);var n={};n[iso(h)]='Hoy · ';n[iso(m)]='Mañana · ';
+document.querySelectorAll('[data-dia]').forEach(function(e){var p=n[e.getAttribute('data-dia')];if(p)e.textContent=p+e.textContent;});
+document.querySelectorAll('[data-pasado]').forEach(function(e){if(e.getAttribute('data-pasado')<iso(h))e.style.display='none';});})();</script>"""
+
+
+def cargar_agenda() -> dict:
+    f = CONTENIDO / "agenda.json"
+    return json.loads(f.read_text()) if f.exists() else {}
+
+
+def _dia(fecha: str) -> str:
+    d = date.fromisoformat(fecha)
+    return f"{DIAS[d.weekday()].capitalize()}, {fecha_larga(fecha)}"
+
+
+def _fila_agenda(p: dict) -> str:
+    if p.get("goles_local") is not None and p.get("goles_visitante") is not None:
+        centro = f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>'
+    else:
+        centro = f'<b class="hora">{_e((p.get("fecha") or "")[11:16] or "--:--")}</b>'
+    return (f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>{centro}'
+            f'<span>{_e(es(p["visitante"]))}</span></div>')
+
+
+def _agenda(agenda: dict, prof: str = "") -> str:
+    out = '<h1 class="sec tit">Partidos</h1>'
+    if not agenda:
+        return out + '<div class="vacio">El calendario se actualiza cada mañana.</div>'
+    for fecha in sorted(agenda):
+        comps = agenda[fecha]
+        total = sum(len(c["partidos"]) for c in comps)
+        out += (f'<section class="dia" data-pasado="{fecha}"><h2 class="tit" data-dia="{fecha}" '
+                f'style="font-size:20px;color:var(--amarillo)">{_dia(fecha)}</h2>')
+        if not total:
+            out += '<div class="vacio">No hay partidos de nuestras ligas este día.</div></section>'
+            continue
+        for c in comps:
+            out += (f'<div class="comp"><h3 class="tit"><a href="{prof}ligas/{_slug_liga(c["etiqueta"])}.html">'
+                    f'{_e(c["etiqueta"])} →</a></h3>{"".join(_fila_agenda(p) for p in c["partidos"])}</div>')
+        out += "</section>"
+    return out + SCRIPT_DIAS
+
+
+def _agenda_portada(agenda: dict) -> str:
+    """Bloque compacto en la portada con los partidos del primer día de la agenda."""
+    for fecha in sorted(agenda):
+        comps = [c for c in agenda[fecha] if c["partidos"]]
+        if not comps:
+            continue
+        filas, n = "", 0
+        for c in comps:
+            if n >= 8:
+                break
+            filas += (f'<a class="lt-p" href="ligas/{_slug_liga(c["etiqueta"])}.html">{_e(c["etiqueta"])}</a>'
+                      + "".join(_fila_agenda(p) for p in c["partidos"][:8 - n]))
+            n += len(c["partidos"][:8 - n])
+        total = sum(len(c["partidos"]) for c in comps)
+        return (f'<div data-pasado="{fecha}"><h2 class="sec tit">Partidos · <span data-dia="{fecha}">{_dia(fecha)}</span></h2>'
+                f'<div class="comp">{filas}<h3 class="tit" style="margin:10px 0 0">'
+                f'<a href="partidos.html">Ver todos los partidos ({total}) →</a></h3></div></div>')
+    return ""
+
+
 def _resultados(arts: list[dict]) -> str:
     """Todos los resultados de los últimos 7 días con partidos, agrupados por día y competición."""
     dias = sorted({a["fecha"] for a in arts if a.get("partidos")}, reverse=True)[:7]
@@ -308,6 +378,7 @@ def _resultados(arts: list[dict]) -> str:
 
 def construir(cfg: dict) -> Path:
     arts = cargar_articulos()
+    agenda = cargar_agenda()
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     (SALIDA / "articulos").mkdir(parents=True)
@@ -325,7 +396,12 @@ def construir(cfg: dict) -> Path:
                                     ("espana.html", "espana", f"España · {nombre}"),
                                     ("internacional.html", "internacional", f"Internacional · {nombre}")]:
         lista = [a for a in arts if filtro is None or a["grupo"] == filtro][:60]
-        (SALIDA / archivo).write_text(_pagina(cfg, titulo, _portada(lista), activa=archivo, ticker=_ticker(arts, "")))
+        extra = (_agenda_portada(agenda) + SCRIPT_DIAS) if archivo == "index.html" and agenda else ""
+        (SALIDA / archivo).write_text(_pagina(cfg, titulo, _portada(lista, extra=extra), activa=archivo,
+                                              ticker=_ticker(arts, "")))
+    (SALIDA / "partidos.html").write_text(
+        _pagina(cfg, f"Partidos de hoy y mañana · {nombre}", _agenda(agenda), activa="partidos.html",
+                descripcion="Horarios de los partidos de hoy y mañana", ticker=_ticker(arts, "")))
     (SALIDA / "resultados.html").write_text(
         _pagina(cfg, f"Resultados · {nombre}", _resultados(arts), activa="resultados.html", ticker=_ticker(arts, "")))
 
