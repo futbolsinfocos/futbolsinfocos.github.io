@@ -49,12 +49,12 @@ competiciones:
 
 # Límites para controlar coste y no saturar a los seguidores
 # Pon true cuando la conexión con Instagram (Make o app de Meta) esté probada
-instagram_activo: false
+instagram_activo: true
 
 limites:
   max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)
   max_previas_dia: 12            # previas de los partidos del día (solo web por ahora)
-  max_posts_instagram_dia: 6     # Instagram permite 50/día vía API; 4-6 es lo sano
+  max_posts_instagram_dia: 1     # Instagram permite 50/día vía API; 4-6 es lo sano
   max_llamadas_detalle: 25       # llamadas extra para goleadores (solo prioridad 1). Plan gratis: 100 llamadas/día
 
 # Redacción con IA
