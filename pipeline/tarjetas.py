@@ -383,3 +383,17 @@ def _previa_cara_a_cara(paquete: dict, p: dict, cuenta: str, destino: Path) -> P
         d.text((540, 1190), p["estadio"].upper(), font=fuente(TEXTO, 28), fill=GRIS, anchor="mm")
     pie(img, d, cuenta, "Previa en la web")
     return guardar(img, destino)
+
+
+def tarjeta_cierre(cuenta: str, url_web: str, destino: Path) -> Path:
+    """Última imagen fija para los posts de una sola imagen (Instagram por Make solo publica carruseles)."""
+    img, d = fondo()
+    d.polygon([(0, 380), (ANCHO, 330), (ANCHO, 900), (0, 950)], fill=(26, 26, 26))
+    d.line([(0, 380), (ANCHO, 330)], fill=AMARILLO, width=8)
+    d.line([(0, 950), (ANCHO, 900)], fill=AMARILLO, width=8)
+    texto(img, (540, 520), "EL FÚTBOL QUE", 120, BLANCO, ancla="m", estrecho=0.8)
+    texto(img, (540, 650), "NO SALE EN LA TELE", 120, AMARILLO, ancla="m", estrecho=0.8, ancho_max=980)
+    d.text((540, 800), url_web.replace("https://", "").upper(), font=fuente(ROTULO, 40), fill=BLANCO, anchor="mm")
+    texto(img, (540, 1060), "SÍGUENOS · ACTIVA LAS NOTIFICACIONES", 48, GRIS, ancla="m", estrecho=0.85)
+    pie(img, d, cuenta, "Enlace en la bio")
+    return guardar(img, destino)

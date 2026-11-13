@@ -213,6 +213,7 @@ def main():
     sub.add_parser("rehacer-tarjetas", help="redibuja las imágenes aún no publicadas con el diseño actual")
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
+    i.add_argument("--prueba-make", action="store_true", help="manda un post de ejemplo al webhook de Make")
     args = ap.parse_args()
     cfg = yaml.safe_load((RAIZ / "config.yaml").read_text())
 
@@ -230,8 +231,11 @@ def main():
     elif args.orden == "web":
         print("Web generada en", web.construir(cfg))
     elif args.orden == "instagram":
-        from .instagram import publicar_pendientes
-        print("Publicados:", publicar_pendientes(cfg, simular=args.simular))
+        from .instagram import prueba_make, publicar_pendientes
+        if args.prueba_make:
+            prueba_make(cfg)
+        else:
+            print("Publicados:", publicar_pendientes(cfg, simular=args.simular))
 
 
 if __name__ == "__main__":

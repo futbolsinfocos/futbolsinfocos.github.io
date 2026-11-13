@@ -55,6 +55,29 @@ class Instagram:
         return self._post(f"{self.usuario}/media_publish", creation_id=c)["id"]
 
 
+class Make:
+    """Alternativa sin app de Meta: manda el post a un escenario de Make.com (webhook) que publica en Instagram.
+    El escenario recibe {"texto", "imagenes": [{"url", "tipo"}]} y usa el módulo de carrusel de Instagram."""
+
+    def __init__(self, url: str):
+        self.url = url
+
+    def publicar(self, urls: list[str], texto: str) -> str:
+        r = requests.post(self.url, json={"texto": texto, "imagenes": [{"url": u, "tipo": "IMAGE"} for u in urls]},
+                          timeout=60)
+        if r.status_code >= 400:
+            raise RuntimeError(f"Make: {r.status_code} {r.text}")
+        return f"make-{int(time.time())}"
+
+
+def prueba_make(cfg: dict) -> None:
+    """Manda un post de ejemplo al webhook de Make para que aprenda el formato de los datos."""
+    base = cfg["medio"]["url_web"].rstrip("/")
+    a = json.loads((CONTENIDO / "articulos" / "2026-11-12-copa-del-rey.json").read_text())
+    Make(os.environ["MAKE_WEBHOOK_URL"]).publicar([f"{base}/{i}" for i in a["imagenes"]], "PRUEBA · " + a["titular"])
+    print("Enviado el post de prueba a Make")
+
+
 def texto_post(a: dict, cfg: dict) -> str:
     etiquetas = " ".join("#" + h.lstrip("#").replace(" ", "") for h in a.get("hashtags", [])[:8])
     que = "Previa" if a.get("tipo") == "previa" else "Crónica"
@@ -73,10 +96,13 @@ def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
                          and (x[1].get("tipo") != "previa" or x[1]["fecha"] == hoy)],
                         key=lambda x: (x[1].get("prioridad", 3), x[1]["fecha"]))
     hueco = max(cfg["limites"]["max_posts_instagram_dia"] - ya_hoy, 0)
-    ig = None if simular else Instagram()
+    make = os.environ.get("MAKE_WEBHOOK_URL")
+    ig = None if simular else (Make(make) if make else Instagram())
     hechos = []
     for ruta, a in pendientes[:hueco]:
         urls = [f"{base}/{img}" for img in a["imagenes"]]
+        if len(urls) == 1:  # Make solo publica carruseles: se añade la imagen de cierre de la marca
+            urls.append(f"{base}/img/cierre.jpg")
         if simular:
             print(f"[simulación] Publicaría {a['slug']} con {len(urls)} imagen(es)")
             continue

@@ -7,6 +7,11 @@ on:
     branches: [main]
     paths: ["contenido/**", "pipeline/**", "config.yaml"]
   workflow_dispatch:
+    inputs:
+      prueba_make:
+        description: "Solo mandar un post de prueba a Make (para configurar el escenario)"
+        type: boolean
+        default: false
   schedule:
     - cron: "0 11,17 * * *"   # reintenta posts pendientes (reparte los del fin de semana)
 
@@ -44,8 +49,10 @@ jobs:
         env:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
         run: |
-          if [ -z "$IG_ACCESS_TOKEN" ]; then echo "Instagram aún no configurado; se omite."; exit 0; fi
+          if [ "${{ inputs.prueba_make }}" = "true" ]; then python -m pipeline instagram --prueba-make; exit 0; fi
+          if [ -z "$IG_ACCESS_TOKEN" ] && [ -z "$MAKE_WEBHOOK_URL" ]; then echo "Instagram aún no configurado; se omite."; exit 0; fi
           python -m pipeline instagram
       - name: Guardar qué se ha publicado
         run: |
