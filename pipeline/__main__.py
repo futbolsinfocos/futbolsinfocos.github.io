@@ -69,12 +69,77 @@ def generar(cfg: dict, fecha: str, demo: bool):
     return creados
 
 
+def forma_equipos(equipos: set[str], antes_de: str, n: int = 5) -> dict:
+    """Últimos resultados publicados de cada equipo (de las crónicas ya guardadas), del más reciente al más antiguo."""
+    forma: dict[str, list[dict]] = {e: [] for e in equipos}
+    arts = sorted((json.loads(p.read_text()) for p in (CONTENIDO / "articulos").glob("*.json")),
+                  key=lambda a: a["fecha"], reverse=True)
+    for a in arts:
+        if a.get("tipo") == "previa" or a["fecha"] >= antes_de:
+            continue
+        for p in a.get("partidos", []):
+            for eq, gf, gc, rival, campo in [(p["local"], p["goles_local"], p["goles_visitante"], p["visitante"], "casa"),
+                                             (p["visitante"], p["goles_visitante"], p["goles_local"], p["local"], "fuera")]:
+                if eq in forma and len(forma[eq]) < n and gf is not None:
+                    forma[eq].append({"fecha": a["fecha"], "rival": rival, "campo": campo, "marcador": f"{gf}-{gc}",
+                                      "resultado": "G" if gf > gc else "E" if gf == gc else "P"})
+    return {e: f for e, f in forma.items() if f}
+
+
+def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
+    """Una previa por competición/grupo con partidos por jugar en `fecha` (normalmente, hoy)."""
+    if demo:
+        from .demo import paquetes_demo
+        paquetes = [{"liga": p["liga"], "fecha": fecha,
+                     "partidos": [{**x, "fecha": f"{fecha}T{17 + i % 4}:{'00' if i % 2 else '30'}:00+01:00",
+                                   "goles_local": None, "goles_visitante": None, "goleadores": []}
+                                  for i, x in enumerate(p["partidos"])]}
+                    for p in paquetes_demo(fecha)]
+    else:
+        from .fuentes import ApiFootball, recopilar_previas
+        try:
+            paquetes = recopilar_previas(fecha, cfg, ApiFootball())
+        except Exception as e:  # p. ej. fecha fuera del rango del plan gratuito: las previas no tumban la edición
+            print(f"Sin previas para el {fecha}: {e}", file=sys.stderr)
+            return []
+    (CONTENIDO / "articulos").mkdir(parents=True, exist_ok=True)
+    creados = []
+    for paq in paquetes:
+        liga = paq["liga"]
+        s = slug(f"{fecha}-previa-{liga['etiqueta']}")
+        destino = CONTENIDO / "articulos" / f"{s}.json"
+        if destino.exists():
+            continue
+        equipos = {p["local"] for p in paq["partidos"]} | {p["visitante"] for p in paq["partidos"]}
+        paq["forma"] = forma_equipos(equipos, fecha)
+        try:
+            texto = redactor.redactar_previa(paq, cfg, demo=demo)
+        except Exception as e:
+            print(f"ERROR en la previa de {liga['etiqueta']}: {e}", file=sys.stderr)
+            continue
+        img = tarjetas.tarjeta_previa(paq, cfg["medio"]["nombre"], CONTENIDO / "img" / fecha / f"{s}.jpg")
+        articulo = {
+            "slug": s, "tipo": "previa", "fecha": fecha, "etiqueta": liga["etiqueta"],
+            "competicion": liga["competicion"], "grupo": liga["grupo"], "prioridad": liga["prioridad"],
+            **{k: texto[k] for k in ("titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags")},
+            # Solo web: sin "imagenes", Instagram no la recoge (las crónicas mandan en Instagram)
+            "imagenes_web": [str(img.relative_to(CONTENIDO))],
+            "proximos": [{k: p[k] for k in ("id", "fecha", "estadio", "jornada", "local", "visitante")}
+                         for p in paq["partidos"]],
+        }
+        destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
+        creados.append(s)
+        print(f"✔ Previa {liga['etiqueta']}: {texto['titular']}")
+    return creados
+
+
 def main():
     ap = argparse.ArgumentParser(prog="pipeline")
     sub = ap.add_subparsers(dest="orden", required=True)
     g = sub.add_parser("generar")
     g.add_argument("--fecha", default=(date.today() - timedelta(days=1)).isoformat())
     g.add_argument("--demo", action="store_true")
+    g.add_argument("--sin-previas", action="store_true", help="no escribir las previas del día siguiente")
     sub.add_parser("web")
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
@@ -83,6 +148,9 @@ def main():
 
     if args.orden == "generar":
         creados = generar(cfg, args.fecha, args.demo)
+        if not args.sin_previas:  # previas de los partidos del día siguiente a --fecha (por defecto, hoy)
+            dia_previa = (date.fromisoformat(args.fecha) + timedelta(days=1)).isoformat()
+            creados += generar_previas(cfg, dia_previa, args.demo)
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
     elif args.orden == "web":

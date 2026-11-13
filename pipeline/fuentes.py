@@ -87,13 +87,14 @@ class ApiFootball:
         return resueltas
 
     # ── Datos del día ──
-    def partidos_del_dia(self, fecha: str, ligas: list[dict], zona: str) -> list[dict]:
+    def partidos_del_dia(self, fecha: str, ligas: list[dict], zona: str,
+                         estados: tuple = ("FT", "AET", "PEN")) -> list[dict]:
         ids = {l["id"]: l for l in ligas}
         todos = self._get("fixtures", date=fecha, timezone=zona)
         salida = []
         for f in todos:
             liga = ids.get(f["league"]["id"])
-            if not liga or f["fixture"]["status"]["short"] not in ("FT", "AET", "PEN"):
+            if not liga or f["fixture"]["status"]["short"] not in estados:
                 continue
             salida.append(normalizar_partido(f, liga))
         return salida
@@ -162,3 +163,16 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
             tabla = []
         paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
     return paquetes[: config["limites"]["max_articulos_dia"]]
+
+
+def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
+    """Partidos aún por jugar en `fecha`, un paquete por competición/grupo (para las previas)."""
+    ligas = api.resolver_ligas(config["competiciones"])
+    partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"], estados=("NS", "TBD"))
+    print(f"Partidos por jugar el {fecha} en estas competiciones: {len(partidos)}")
+    paquetes = []
+    for liga in sorted(ligas, key=lambda l: l["prioridad"]):
+        suyos = sorted((p for p in partidos if p["liga_id"] == liga["id"]), key=lambda p: p["fecha"])
+        if suyos:
+            paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos})
+    return paquetes[: config["limites"].get("max_previas_dia", 12)]

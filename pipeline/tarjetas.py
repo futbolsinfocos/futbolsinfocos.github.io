@@ -114,3 +114,29 @@ def tarjeta_clasificacion(paquete: dict, nombre_medio: str, destino: Path) -> Pa
     destino.parent.mkdir(parents=True, exist_ok=True)
     img.save(destino, "JPEG", quality=92)
     return destino
+
+
+def tarjeta_previa(paquete: dict, nombre_medio: str, destino: Path) -> Path:
+    """Partidos del día con su hora: 'Local  18:30  Visitante'."""
+    titulo, grupo = _partes(paquete)
+    img, d = _base(nombre_medio, titulo, grupo + "Previa · " + fecha_larga(paquete["fecha"]))
+    partidos = paquete["partidos"][:9]
+    alto_fila = min(110, (ALTO - 420) // max(len(partidos), 1))
+    fe, fm = fuente(38, True), fuente(44, True)
+    y = 320
+    for p in partidos:
+        h = p["fecha"][11:16] or "--:--"
+        mw = d.textlength(h, font=fm)
+        cx = ANCHO // 2
+        d.rounded_rectangle([cx - mw / 2 - 22, y, cx + mw / 2 + 22, y + 72], 14, outline=ACENTO, width=4)
+        d.text((cx - mw / 2, y + 12), h, font=fm, fill=ACENTO)
+        izq = recortar(d, p["local"], fe, cx - mw / 2 - 110)
+        d.text((cx - mw / 2 - 45 - d.textlength(izq, font=fe), y + 14), izq, font=fe, fill=TINTA)
+        d.text((cx + mw / 2 + 45, y + 14), recortar(d, p["visitante"], fe, cx - mw / 2 - 110), font=fe, fill=TINTA)
+        y += alto_fila
+    if len(paquete["partidos"]) > 9:
+        d.text((70, ALTO - 150), f"+{len(paquete['partidos']) - 9} partidos más en la web", font=fuente(30), fill=SUAVE)
+    d.text((70, ALTO - 90), "Previa completa en la web", font=fuente(30), fill=ACENTO)
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    img.save(destino, "JPEG", quality=92)
+    return destino
