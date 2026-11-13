@@ -139,7 +139,7 @@ def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
     ya_hoy = len({a.get("ig_media_id") for _, a in arts if a.get("ig_publicado_en", "")[:10] == hoy})
     # las previas solo valen el mismo día del partido; ig_omitir = solo web (lo decide quien revisa)
     pendientes = sorted([x for x in arts if not x[1].get("ig_media_id") and x[1].get("imagenes")
-                         and not x[1].get("ig_omitir")
+                         and not x[1].get("ig_omitir") and x[1].get("competicion") not in cfg.get("solo_web", [])
                          and (x[1].get("tipo") != "previa" or x[1]["fecha"] == hoy)],
                         key=lambda x: (x[1].get("prioridad", 3), x[1]["fecha"], x[1].get("tipo") == "previa"))
     hueco = max(cfg["limites"]["max_posts_instagram_dia"] - ya_hoy, 0)
