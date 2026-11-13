@@ -7,8 +7,45 @@ from __future__ import annotations
 
 import html
 import re
+import unicodedata
+from datetime import date
 
 from .nombres import es
+
+DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre",
+         "octubre", "noviembre", "diciembre"]
+
+
+def slug_partido(fecha: str, p: dict) -> str:
+    """Nombre de la página de la previa de un partido: '2026-11-14-racing-de-santander-real-zaragoza'."""
+    t = unicodedata.normalize("NFKD", f'{fecha}-{es(p["local"])}-{es(p["visitante"])}').encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")[:90]
+
+
+def dia_partido(iso: str | None) -> str:
+    """'2026-11-14T21:00:00+01:00' → 'sábado 14 de noviembre'."""
+    if not iso:
+        return ""
+    d = date.fromisoformat(iso[:10])
+    return f"{DIAS[d.weekday()]} {d.day} de {MESES[d.month - 1]}"
+
+
+def entrada_basica(p: dict, competicion: str) -> str:
+    """Primer párrafo solo con datos (para cuando no hay texto de la IA): quién, cuándo, dónde y qué."""
+    t = f'El {es(p["local"])} recibe al {es(p["visitante"])}'
+    if p.get("fecha"):
+        t += f' este {dia_partido(p["fecha"])} a las {p["fecha"][11:16]}'
+    if p.get("estadio"):
+        t += f' en {p["estadio"]}'
+    j = jornada_es(p.get("jornada"))
+    if j.startswith("Jornada"):
+        t += f", en la {j.lower()} de {competicion}"
+    elif j:
+        t += f" ({j.lower()} de {competicion})"
+    else:
+        t += f", en partido de {competicion}"
+    return t + "."
 
 
 def jornada_es(txt: str | None) -> str:
@@ -78,8 +115,9 @@ def ficha(p: dict, forma: dict) -> str:
 
 
 def cuerpo(paq: dict, texto: dict) -> str:
-    """Monta el artículo: presentación, claves y un apartado por partido con su ficha y el análisis."""
-    analisis = {x["id"]: x.get("texto", "").strip() for x in texto.get("partidos", [])}
+    """Monta el artículo de la jornada: presentación, claves y un apartado por partido con su ficha,
+    la entradilla de su previa y el enlace a la previa completa (página propia de cada partido)."""
+    analisis = {x["id"]: (x.get("entradilla") or x.get("texto") or "").strip() for x in texto.get("partidos", [])}
     partes = [texto.get("presentacion", "").strip()]
     claves = [c.strip() for c in texto.get("claves", []) if c.strip()]
     if claves:
@@ -88,5 +126,6 @@ def cuerpo(paq: dict, texto: dict) -> str:
         bloque = f'## {es(p["local"])} - {es(p["visitante"])}\n\n{ficha(p, paq.get("forma", {}))}'
         if analisis.get(p["id"]):
             bloque += "\n\n" + analisis[p["id"]]
+        bloque += f'\n\n[Leer la previa completa →](../previas/{slug_partido(paq["fecha"], p)}.html)'
         partes.append(bloque)
     return "\n\n".join(x for x in partes if x)

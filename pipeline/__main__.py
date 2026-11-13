@@ -131,8 +131,11 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
             # Solo web: sin "imagenes", Instagram no la recoge (las crónicas mandan en Instagram)
             "imagenes_web": [str(img.relative_to(CONTENIDO))],
             "proximos": [{k: p.get(k) for k in ("id", "fecha", "estadio", "ciudad", "jornada", "arbitro",
-                                                 "local", "visitante")} for p in paq["partidos"]],
+                                                 "local", "visitante", "escudo_local", "escudo_visitante")}
+                         for p in paq["partidos"]],
             "forma": paq["forma"],
+            # Previa completa de cada partido, con página propia en previas/<slug>.html
+            "previas_partido": texto.get("previas_partido", []),
         }
         destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
         creados.append(s)

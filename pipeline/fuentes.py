@@ -135,6 +135,8 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
         "liga_id": liga["id"],
         "local": es(f["teams"]["home"]["name"]),
         "visitante": es(f["teams"]["away"]["name"]),
+        "escudo_local": f["teams"]["home"].get("logo"),
+        "escudo_visitante": f["teams"]["away"].get("logo"),
         "goles_local": f["goals"]["home"],
         "goles_visitante": f["goals"]["away"],
         "goleadores": [],

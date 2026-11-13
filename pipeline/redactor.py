@@ -40,36 +40,46 @@ ESQUEMA = {
 }
 
 
-SISTEMA_PREVIA = """Eres redactor de la sección de previas de un diario deportivo serio. Escribes la \
-previa de los partidos que se juegan hoy en una competición. Español de España, estilo de agencia: \
-sobrio, preciso, informativo. Frases cortas.
+SISTEMA_PREVIA = """Eres redactor de la sección de previas de un diario deportivo serio. Escribes las \
+previas de los partidos que se juegan hoy en una competición: un texto general de la jornada y, además, \
+una previa completa de cada partido, que se publica en su propia página como una noticia de periódico. \
+Español de España, estilo de agencia: sobrio, preciso, informativo. Frases cortas.
 
 Qué recibes (JSON): la competición, los partidos (equipos, hora de Madrid, estadio, ciudad, jornada, \
-árbitro) y, cuando los hay, "forma" (últimos resultados publicados de cada equipo, G/E/P con marcador) \
-e "historial" (enfrentamientos previos entre esos dos equipos que tenemos publicados).
+árbitro) y, cuando los hay, "forma" (últimos resultados publicados de cada equipo, G/E/P con marcador, \
+del más reciente al más antiguo) e "historial" (enfrentamientos previos entre esos dos equipos que tenemos publicados).
 
-Lo que NO hace falta que escribas: la hora, el estadio, la ciudad, la jornada y el árbitro ya salen en una \
-ficha fija debajo del título de cada partido. No los repitas salvo que aporten algo (p. ej. un horario distinto).
+En la página de cada partido ya salen, fuera de tu texto, un cuadro con competición, jornada, estadio, ciudad, \
+hora y árbitro, y la racha de los últimos cinco partidos con G/E/P.
 
 Normas estrictas:
 - Usa EXCLUSIVAMENTE los datos del JSON. Prohibido inventar alineaciones, bajas, lesiones, declaraciones, \
-cuotas, pronósticos, posiciones en la tabla, rachas o contexto histórico que no estén en los datos.
+cuotas, pronósticos, posiciones en la tabla, puntos, rachas o contexto histórico que no estén en los datos.
 - Nada de relleno ni clichés: prohibido "el balón echa a rodar", "abrir boca", "cita", "duelo de \
-alto voltaje", "con la misión de", "ante su gente", "noche mágica" y similares. Si no hay datos que \
-analizar de un partido, deja su texto VACÍO. Es mejor una previa corta que una previa hueca.
+alto voltaje", "con la misión de", "ante su gente", "noche mágica", "partido de máxima igualdad" y similares. \
+Es mejor una previa corta que una previa hueca.
 - Cuando haya forma o historial, conviértelos en información útil: rachas ("tres victorias seguidas"), \
 goles a favor y en contra, resultado del último enfrentamiento. Cifras exactas, sin adjetivos de más.
 - Nombres de equipos tal cual vienen.
 
-Campos:
-- titular: informativo, máx. 90 caracteres, sin dos puntos al principio ni signos de exclamación. \
-Destaca el partido o el dato más relevante.
+Campos generales (artículo de la jornada):
+- titular: informativo, máx. 90 caracteres, sin dos puntos al principio ni signos de exclamación.
 - entradilla: 1-2 frases con lo esencial (cuántos partidos, el más destacado y por qué).
 - presentacion: 1 párrafo corto de contexto de la jornada con datos reales; vacío si no aporta nada nuevo.
-- claves: 0-3 frases con datos concretos (rachas, historial). Lista vacía si no hay datos.
-- partidos: un elemento por partido (id) con "texto": 1-3 frases de análisis con datos, o "" si no hay.
+- claves: 0-3 frases con datos concretos de la jornada. Lista vacía si no hay datos.
 - texto_instagram: lista de los partidos con su hora, 1-2 emojis como máximo, sin relleno.
-- partido_destacado_id: el partido más relevante según los datos (o el de mayor categoría)."""
+- partido_destacado_id: el partido más relevante según los datos (o el primero).
+
+Previa de cada partido (campo "partidos", un elemento por cada partido recibido, con su id):
+- titular: como el de una noticia de periódico, informativo, máx. 90 caracteres, con los dos equipos o \
+el dato que lo hace noticia. Sin exclamaciones ni preguntas.
+- entradilla: 1-2 frases que resumen lo que se sabe del partido con datos.
+- parrafos: 1 a 4 párrafos en pirámide invertida. El primero es la entrada clásica: quién juega, \
+cuándo (día y hora), dónde y en qué jornada o ronda. Los siguientes, solo si hay datos: cómo llega el \
+local, cómo llega el visitante. Si solo hay datos para el primer párrafo, escribe solo ese.
+- precedente: 1-2 frases sobre el último enfrentamiento si viene en "historial"; "" si no hay historial.
+- claves: 0-3 claves, cada una con "titulo" (2-5 palabras) y "texto" (una frase con un dato). \
+Lista vacía si no hay datos que la sostengan."""
 
 ESQUEMA_PREVIA = {
     "type": "object",
@@ -80,8 +90,19 @@ ESQUEMA_PREVIA = {
         "claves": {"type": "array", "items": {"type": "string"}},
         "partidos": {"type": "array", "items": {
             "type": "object",
-            "properties": {"id": {"type": "integer"}, "texto": {"type": "string"}},
-            "required": ["id", "texto"], "additionalProperties": False}},
+            "properties": {
+                "id": {"type": "integer"},
+                "titular": {"type": "string"},
+                "entradilla": {"type": "string"},
+                "parrafos": {"type": "array", "items": {"type": "string"}},
+                "precedente": {"type": "string"},
+                "claves": {"type": "array", "items": {
+                    "type": "object",
+                    "properties": {"titulo": {"type": "string"}, "texto": {"type": "string"}},
+                    "required": ["titulo", "texto"], "additionalProperties": False}},
+            },
+            "required": ["id", "titular", "entradilla", "parrafos", "precedente", "claves"],
+            "additionalProperties": False}},
         "texto_instagram": {"type": "string"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "partido_destacado_id": {"type": "integer"},
@@ -103,8 +124,9 @@ def redactar_previa(paquete: dict, config: dict, demo: bool = False) -> dict:
         return previa_plantilla(paquete)
     from .previas import cuerpo, jornada_es
     datos = {**paquete, "partidos": [{**p, "jornada": jornada_es(p.get("jornada"))} for p in paquete["partidos"]]}
-    texto = _llamar(SISTEMA_PREVIA, "Escribe la previa de los partidos de hoy. Datos:\n", datos, config, ESQUEMA_PREVIA)
+    texto = _llamar(SISTEMA_PREVIA, "Escribe las previas de los partidos de hoy. Datos:\n", datos, config, ESQUEMA_PREVIA)
     texto["cuerpo_markdown"] = cuerpo(paquete, texto)
+    texto["previas_partido"] = previas_partido(paquete, texto)
     return texto
 
 
@@ -179,4 +201,28 @@ def previa_plantilla(paquete: dict) -> dict:
         "partido_destacado_id": ps[0]["id"],
     }
     texto["cuerpo_markdown"] = cuerpo(paquete, texto)
+    texto["previas_partido"] = previas_partido(paquete, texto)
     return texto
+
+
+def previas_partido(paquete: dict, texto: dict) -> list[dict]:
+    """Una previa por partido (para su página propia). Si la IA no escribió nada de un partido,
+    sale igual con un titular y un primer párrafo hechos solo con los datos."""
+    from .previas import entrada_basica, slug_partido
+    from .nombres import es
+    escritos = {x["id"]: x for x in texto.get("partidos", [])}
+    comp = paquete["liga"]["competicion"]
+    salida = []
+    for p in paquete["partidos"]:
+        x = escritos.get(p["id"], {})
+        parrafos = [t.strip() for t in x.get("parrafos", []) if t.strip()] or [entrada_basica(p, comp)]
+        salida.append({
+            "id": p["id"], "slug": slug_partido(paquete["fecha"], p),
+            "titular": (x.get("titular") or "").strip() or f'{es(p["local"])} - {es(p["visitante"])}, previa del partido',
+            "entradilla": (x.get("entradilla") or "").strip() or
+                          f'Todo lo que hay que saber del {es(p["local"])} - {es(p["visitante"])} de {paquete["liga"]["etiqueta"]}.',
+            "parrafos": parrafos,
+            "precedente": (x.get("precedente") or "").strip(),
+            "claves": [c for c in x.get("claves", []) if c.get("titulo") and c.get("texto")],
+        })
+    return salida
