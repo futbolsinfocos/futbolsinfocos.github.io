@@ -1,0 +1,43 @@
+{
+  "slug": "2026-11-13-previa-tercera-federacion-grupo-15",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Tercera Federación · Grupo 15",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Viernes de Tercera Federación: dos partidos abren la jornada 11 en el Grupo 15",
+  "entradilla": "Beti Kozkor y Doneztebe FT inauguran la undécima jornada a las 20:15. Después, a las 20:30, San Juan recibe a Gazte Berriak.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 15 de Tercera Federación arranca este viernes 13 de noviembre. Dos partidos en horario nocturno. Dos citas para abrir boca antes del fin de semana.\n\n## Beti Kozkor - Doneztebe FT\n\nEl primer balón rueda a las 20:15. Beti Kozkor ejerce de local ante Doneztebe FT. Es el encargado de inaugurar la undécima jornada del grupo.\n\n## San Juan - Gazte Berriak\n\nQuince minutos después, a las 20:30, llega el turno de San Juan. Recibe a Gazte Berriak en el segundo partido de la noche. Cierra el viernes de Tercera Federación.",
+  "texto_instagram": "⚽ ¡Viernes de Tercera Federación! Arranca la jornada 11 del Grupo 15.\n\n🕗 20:15 · Beti Kozkor - Doneztebe FT\n🕗 20:30 · San Juan - Gazte Berriak\n\nDos partidos para abrir la jornada. ¿Quién se lleva los puntos? 🔥",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo15",
+    "#BetiKozkor",
+    "#DoneztebeFT",
+    "#SanJuan",
+    "#GazteBerriak",
+    "#FutbolNavarro"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-tercera-federacion-grupo-15.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1617078,
+      "fecha": "2026-11-13T20:15:00+01:00",
+      "estadio": null,
+      "jornada": "Group 15 - 11",
+      "local": "Beti Kozkor",
+      "visitante": "Doneztebe FT"
+    },
+    {
+      "id": 1617077,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": null,
+      "jornada": "Group 15 - 11",
+      "local": "San Juan",
+      "visitante": "Gazte Berriak"
+    }
+  ]
+}

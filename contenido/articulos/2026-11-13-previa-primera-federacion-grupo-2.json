@@ -1,0 +1,33 @@
+{
+  "slug": "2026-11-13-previa-primera-federacion-grupo-2",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Nàstic de Tarragona y Real Madrid Castilla abren la jornada 12 en Tarragona",
+  "entradilla": "El Nou Estadi de Tarragona acoge esta noche, a las 21:15, el único partido del día en el Grupo 2 de Primera Federación.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 2 de Primera Federación arranca este viernes con un solo partido. El foco está en Tarragona. Allí, el Nàstic de Tarragona recibe al Real Madrid Castilla en horario nocturno. Un buen aperitivo para el fin de semana de fútbol.\n\n## Nàstic de Tarragona - Real Madrid Castilla\n\nEl balón echa a rodar a las 21:15 en el Nou Estadi de Tarragona. El conjunto grana juega en casa ante el filial blanco. Es el partido que abre la jornada 12 del grupo y el único del día.",
+  "texto_instagram": "⚽ ¡Hoy hay fútbol en Primera Federación!\n\nJornada 12 · Grupo 2\n🏟️ Nàstic de Tarragona - Real Madrid Castilla\n🕘 A las 21:15 en el Nou Estadi de Tarragona\n\nEl viernes se abre con este partidazo. ¿Quién se lleva los puntos?",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#Grupo2",
+    "#Nastic",
+    "#RealMadridCastilla",
+    "#Futbol"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-primera-federacion-grupo-2.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1571209,
+      "fecha": "2026-11-13T21:15:00+01:00",
+      "estadio": "Nou Estadi de Tarragona",
+      "jornada": "Group 2 - 12",
+      "local": "Nàstic de Tarragona",
+      "visitante": "Real Madrid Castilla"
+    }
+  ]
+}

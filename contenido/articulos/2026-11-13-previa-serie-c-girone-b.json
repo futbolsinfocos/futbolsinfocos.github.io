@@ -1,0 +1,33 @@
+{
+  "slug": "2026-11-13-previa-serie-c-girone-b",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Serie C · Girone B",
+  "competicion": "Serie C",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Latina y Campobasso FC abren la jornada 14 del Girone B de la Serie C",
+  "entradilla": "El Stadio Domenico Francioni acoge esta noche el único partido del día en el Girone B. Latina recibe a Campobasso FC a las 20:30.",
+  "cuerpo_markdown": "La Serie C italiana vuelve a escena. El Girone B disputa hoy un solo partido, correspondiente a la jornada 14. Latina y Campobasso FC se citan en el Stadio Domenico Francioni. Es la cita del viernes en el grupo.\n\n## Latina - Campobasso FC\n\nEl balón echa a rodar a las 20:30 en el Stadio Domenico Francioni. Latina juega en casa ante Campobasso FC en un duelo de la jornada 14 del Girone B. No tenemos resultados recientes publicados de ninguno de los dos equipos.",
+  "texto_instagram": "⚽ Hoy hay Serie C · Girone B\n\n🇮🇹 Jornada 14\n\nLatina - Campobasso FC\n🕣 A las 20:30\n🏟️ Stadio Domenico Francioni\n\nEl único partido del día en el grupo. ¡No te lo pierdas!",
+  "hashtags": [
+    "#SerieC",
+    "#GironeB",
+    "#Latina",
+    "#Campobasso",
+    "#FútbolItaliano"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-serie-c-girone-b.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1608744,
+      "fecha": "2026-11-13T20:30:00+01:00",
+      "estadio": "Stadio Domenico Francioni",
+      "jornada": "Girone B - 14",
+      "local": "Latina",
+      "visitante": "Campobasso FC"
+    }
+  ]
+}

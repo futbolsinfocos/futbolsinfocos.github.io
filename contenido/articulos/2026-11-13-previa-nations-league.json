@@ -1,0 +1,97 @@
+{
+  "slug": "2026-11-13-previa-nations-league",
+  "tipo": "previa",
+  "fecha": "2026-11-13",
+  "etiqueta": "Nations League",
+  "competicion": "Nations League",
+  "grupo": "internacional",
+  "prioridad": 2,
+  "titular": "Nations League: Serbia-Alemania y Países Bajos-Grecia encabezan la quinta jornada",
+  "entradilla": "Nueve partidos de la quinta jornada de la Nations League se disputan hoy, todos a las 20:45. La Liga A trae los duelos más llamativos.",
+  "cuerpo_markdown": "La Nations League vive hoy una tarde-noche completa. Se juegan nueve partidos de la quinta jornada, repartidos entre las Ligas A, B, C y D. Todos arrancan a la misma hora: a las 20:45. La Liga A ofrece los focos principales, con Alemania de visita en Belgrado y Países Bajos como anfitrión en Ámsterdam.\n\n## Serbia - Alemania\n\nLiga A, jornada 5. Se juega a las 20:45 en el Rajko Mitić Stadion. Es el gran cartel del día.\n\n## Países Bajos - Grecia\n\nLiga A, jornada 5. El balón echa a rodar a las 20:45 en el Johan Cruijff Arena.\n\n## Eslovenia - Suiza\n\nLiga B, jornada 5. Cita a las 20:45 en el Ljudski vrt.\n\n## Escocia - Macedonia del Norte\n\nLiga B, jornada 5. Hampden Park Stadium acoge el choque a las 20:45.\n\n## Eslovaquia - Islas Feroe\n\nLiga C, jornada 5. Se disputa a las 20:45 en el Kosicka futbalova arena.\n\n## Bulgaria - Islandia\n\nLiga C, jornada 5. A las 20:45 en el Hristo Botev Stadium.\n\n## Luxemburgo - Estonia\n\nLiga C, jornada 5. El Stade de Luxembourg es el escenario, a las 20:45.\n\n## Liechtenstein - Azerbaiyán\n\nLiga D, jornada 5. Se juega a las 20:45 en el Rheinpark Stadion.\n\n## Andorra - Gibraltar\n\nLiga D, jornada 5. Cierra el listado a las 20:45 en el Estadi de la FAF.",
+  "texto_instagram": "⚽ Noche de Nations League: 9 partidos de la jornada 5, todos a las 20:45.\n\n🔥 Serbia - Alemania\n🔥 Países Bajos - Grecia\nEslovenia - Suiza\nEscocia - Macedonia del Norte\nEslovaquia - Islas Feroe\nBulgaria - Islandia\nLuxemburgo - Estonia\nLiechtenstein - Azerbaiyán\nAndorra - Gibraltar\n\n📲 Previa completa en la web.",
+  "hashtags": [
+    "#NationsLeague",
+    "#SerbiaAlemania",
+    "#PaisesBajosGrecia",
+    "#FutbolInternacional",
+    "#UEFA"
+  ],
+  "imagenes_web": [
+    "img/2026-11-13/2026-11-13-previa-nations-league.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1528965,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Rajko Mitić Stadion",
+      "jornada": "League A - 5",
+      "local": "Serbia",
+      "visitante": "Alemania"
+    },
+    {
+      "id": 1528966,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Johan Cruijff Arena",
+      "jornada": "League A - 5",
+      "local": "Países Bajos",
+      "visitante": "Grecia"
+    },
+    {
+      "id": 1528967,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Kosicka futbalova arena",
+      "jornada": "League C - 5",
+      "local": "Eslovaquia",
+      "visitante": "Islas Feroe"
+    },
+    {
+      "id": 1528969,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Hristo Botev Stadium",
+      "jornada": "League C - 5",
+      "local": "Bulgaria",
+      "visitante": "Islandia"
+    },
+    {
+      "id": 1528970,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Rheinpark Stadion",
+      "jornada": "League D - 5",
+      "local": "Liechtenstein",
+      "visitante": "Azerbaiyán"
+    },
+    {
+      "id": 1545614,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Stade de Luxembourg",
+      "jornada": "League C - 5",
+      "local": "Luxemburgo",
+      "visitante": "Estonia"
+    },
+    {
+      "id": 1545615,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Estadi de la FAF",
+      "jornada": "League D - 5",
+      "local": "Andorra",
+      "visitante": "Gibraltar"
+    },
+    {
+      "id": 1545654,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Ljudski vrt",
+      "jornada": "League B - 5",
+      "local": "Eslovenia",
+      "visitante": "Suiza"
+    },
+    {
+      "id": 1545659,
+      "fecha": "2026-11-13T20:45:00+01:00",
+      "estadio": "Hampden Park Stadium",
+      "jornada": "League B - 5",
+      "local": "Escocia",
+      "visitante": "Macedonia del Norte"
+    }
+  ]
+}
