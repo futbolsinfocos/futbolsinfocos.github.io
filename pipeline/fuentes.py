@@ -58,6 +58,11 @@ class ApiFootball:
                     "competicion": c["etiqueta"], "grupo": c["grupo"],
                     "prioridad": c.get("prioridad", 3), "pais": pais,
                 })
+        # Fuera competiciones de temporadas pasadas (play-offs antiguos, grupos extinguidos)
+        ultima = {}
+        for l in resueltas:
+            ultima[l["pais"]] = max(ultima.get(l["pais"], 0), l["temporada"] or 0)
+        resueltas = [l for l in resueltas if l["temporada"] == ultima[l["pais"]]]
         CACHE_LIGAS.parent.mkdir(parents=True, exist_ok=True)
         CACHE_LIGAS.write_text(json.dumps(resueltas, ensure_ascii=False, indent=2))
         return resueltas

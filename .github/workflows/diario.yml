@@ -5,8 +5,7 @@ name: Edición diaria
 
 on:
   schedule:
-    - cron: "30 5 * * *"     # 06:30 en invierno / 07:30 en verano (hora de Madrid)
-    - cron: "15 22 * * 6,0"  # sábado y domingo por la noche: resultados del mismo día
+    - cron: "30 5 * * *"     # 06:30 en invierno / 07:30 en verano (hora de Madrid): resultados de ayer
   workflow_dispatch:
     inputs:
       fecha:
@@ -33,7 +32,6 @@ jobs:
         id: f
         run: |
           if [ -n "${{ github.event.inputs.fecha }}" ]; then F="${{ github.event.inputs.fecha }}"
-          elif [ "${{ github.event.schedule }}" = "15 22 * * 6,0" ]; then F=$(TZ=Europe/Madrid date +%F)
           else F=$(TZ=Europe/Madrid date -d yesterday +%F); fi
           echo "fecha=$F" >> "$GITHUB_OUTPUT"
           echo "modo=$(python -c "import yaml;print(yaml.safe_load(open('config.yaml'))['modo'])")" >> "$GITHUB_OUTPUT"
