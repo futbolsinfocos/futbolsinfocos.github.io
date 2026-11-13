@@ -6,7 +6,7 @@ medio:
   nombre: "Sin Focos"
   lema: "El fútbol que no sale en la tele"
   instagram: "@sinfocosfutbol"
-  url_web: "https://albertoaca1024-web.github.io/futbol_auto"   # URL pública donde se sirve la web
+  url_web: "https://futbolsinfocos.github.io"   # URL pública donde se sirve la web
   idioma: "es"
   zona_horaria: "Europe/Madrid"
 
@@ -24,6 +24,9 @@ competiciones:
   - {pais: Spain, patron: "^Primera División RFEF", etiqueta: "Primera Federación", grupo: espana, prioridad: 1}
   - {pais: Spain, patron: "^Segunda División RFEF", etiqueta: "Segunda Federación", grupo: espana, prioridad: 2}
   - {pais: Spain, patron: "^Tercera División RFEF", etiqueta: "Tercera Federación", grupo: espana, prioridad: 3}
+  - {pais: Spain, patron: "^Copa del Rey$", etiqueta: "Copa del Rey", grupo: espana, prioridad: 1}
+  # ── Selecciones (ejemplo pedido por Alberto; quitar si no se quiere a diario) ──
+  - {pais: World, patron: "^UEFA Nations League$", etiqueta: "Nations League", grupo: internacional, prioridad: 2}
   # ── Internacional (segundas y terceras categorías) ──
   - {pais: England, patron: "^Championship$", etiqueta: "Championship", grupo: internacional, prioridad: 1}
   - {pais: England, patron: "^League One$", etiqueta: "League One", grupo: internacional, prioridad: 2}
