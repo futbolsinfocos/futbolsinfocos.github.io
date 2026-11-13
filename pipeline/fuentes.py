@@ -143,28 +143,6 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
     }
 
 
-def _fase(p: dict) -> str:
-    """'League A - 5' → 'League A'; 'Round of 128' → 'Round of 128'."""
-    return re.sub(r"\s*-\s*\d+$", "", p.get("jornada") or "").strip()
-
-
-def separar(liga: dict, partidos: list[dict]) -> list[tuple[dict, list[dict]]]:
-    """Una publicación por competición: si una misma liga trae varias divisiones/fases el mismo día
-    (p. ej. Nations League: Liga A, B, C y D), se separa en una entrada por cada una."""
-    fases = sorted({_fase(p) for p in partidos})
-    if len(fases) <= 1:
-        return [(liga, partidos)]
-    trad = {"League": "Liga", "Group": "Grupo", "Round of": "Ronda de"}
-    salida = []
-    for f in fases:
-        nombre = f
-        for en, es in trad.items():
-            nombre = re.sub(rf"^{en}\b", es, nombre)
-        sub = {**liga, "etiqueta": f"{liga['etiqueta']} · {nombre}" if nombre else liga["etiqueta"]}
-        salida.append((sub, [p for p in partidos if _fase(p) == f]))
-    return salida
-
-
 def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
     """Devuelve un 'paquete' por competición/grupo con partidos, clasificación y goleadores."""
     ligas = api.resolver_ligas(config["competiciones"])
@@ -176,11 +154,11 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
     paquetes = []
     presupuesto = config["limites"]["max_llamadas_detalle"]
     for liga in sorted(ligas, key=lambda l: l["prioridad"]):
-        todos = [p for p in partidos if p["liga_id"] == liga["id"]]
-        if not todos:
+        suyos = [p for p in partidos if p["liga_id"] == liga["id"]]
+        if not suyos:
             continue
         if liga["prioridad"] == 1:
-            for p in todos:
+            for p in suyos:
                 if presupuesto <= 0:
                     break
                 try:
@@ -193,8 +171,7 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
         except Exception as e:  # el plan gratuito no da clasificaciones de la temporada actual
             print(f"Sin clasificación para {liga['etiqueta']}: {e}")
             tabla = []
-        for sub, suyos in separar(liga, todos):
-            paquetes.append({"liga": sub, "fecha": fecha, "partidos": suyos, "clasificacion": tabla if sub is liga else []})
+        paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
     return paquetes[: config["limites"]["max_articulos_dia"]]
 
 
@@ -207,7 +184,7 @@ def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
     for liga in sorted(ligas, key=lambda l: l["prioridad"]):
         suyos = sorted((p for p in partidos if p["liga_id"] == liga["id"]), key=lambda p: p["fecha"])
         if suyos:
-            paquetes += [{"liga": sub, "fecha": fecha, "partidos": ps} for sub, ps in separar(liga, suyos)]
+            paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos})
     return paquetes[: config["limites"].get("max_previas_dia", 12)]
 
 
@@ -219,10 +196,9 @@ def recopilar_agenda(fechas: list[str], config: dict, api: ApiFootball) -> dict:
         partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"],
                                         estados=("NS", "TBD", "1H", "HT", "2H", "ET", "P", "BT", "LIVE",
                                                  "FT", "AET", "PEN", "PST", "SUSP", "INT"))
-        agenda[fecha] = [{"etiqueta": sub["etiqueta"], "competicion": sub["competicion"], "grupo": sub["grupo"],
-                          "prioridad": sub["prioridad"], "partidos": ps}
+        agenda[fecha] = [{"etiqueta": l["etiqueta"], "competicion": l["competicion"], "grupo": l["grupo"],
+                          "prioridad": l["prioridad"],
+                          "partidos": sorted((p for p in partidos if p["liga_id"] == l["id"]), key=lambda p: p["fecha"])}
                          for l in sorted(ligas, key=lambda l: (l["prioridad"], l["etiqueta"]))
-                         if any(p["liga_id"] == l["id"] for p in partidos)
-                         for sub, ps in separar(l, sorted((p for p in partidos if p["liga_id"] == l["id"]),
-                                                          key=lambda p: p["fecha"]))]
+                         if any(p["liga_id"] == l["id"] for p in partidos)]
     return agenda
