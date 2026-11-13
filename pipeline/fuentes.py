@@ -52,8 +52,12 @@ class ApiFootball:
     # ── Competiciones ──
     def resolver_ligas(self, competiciones: list[dict]) -> list[dict]:
         """Convierte país+patrón en IDs de liga y temporada actual. Se cachea en data/."""
+        # La caché se rehace sola si cambia la lista de competiciones de config.yaml
+        clave = json.dumps(competiciones, sort_keys=True, ensure_ascii=False)
         if CACHE_LIGAS.exists():
-            return json.loads(CACHE_LIGAS.read_text())
+            cache = json.loads(CACHE_LIGAS.read_text())
+            if isinstance(cache, dict) and cache.get("clave") == clave:
+                return cache["ligas"]
         resueltas, por_pais = [], {}
         for c in competiciones:
             pais = c["pais"]
@@ -79,7 +83,7 @@ class ApiFootball:
             ultima[l["pais"]] = max(ultima.get(l["pais"], 0), l["temporada"] or 0)
         resueltas = [l for l in resueltas if l["temporada"] == ultima[l["pais"]]]
         CACHE_LIGAS.parent.mkdir(parents=True, exist_ok=True)
-        CACHE_LIGAS.write_text(json.dumps(resueltas, ensure_ascii=False, indent=2))
+        CACHE_LIGAS.write_text(json.dumps({"clave": clave, "ligas": resueltas}, ensure_ascii=False, indent=2))
         return resueltas
 
     # ── Datos del día ──

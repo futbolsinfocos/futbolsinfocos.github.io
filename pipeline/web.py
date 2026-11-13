@@ -193,19 +193,45 @@ def _ligas(arts: list[dict]) -> dict[str, list[dict]]:
     return out
 
 
-def _indice_ligas(ligas: dict[str, list[dict]]) -> str:
+PAISES = {"Spain": "España", "England": "Inglaterra", "Italy": "Italia", "Germany": "Alemania",
+          "France": "Francia", "Portugal": "Portugal", "Netherlands": "Países Bajos", "World": "Selecciones"}
+
+
+def _indice_ligas(cfg: dict, ligas: dict[str, list[dict]]) -> str:
+    """Todas las competiciones de config.yaml, tengan ya noticias o no, agrupadas por país."""
     out = '<h1 class="sec tit">Ligas</h1>'
-    if not ligas:
-        return out + '<div class="vacio">Aún no hay ligas con partidos.</div>'
-    for grupo, titulo in [("espana", "España"), ("internacional", "Internacional")]:
-        suyas = sorted(((e, l) for e, l in ligas.items() if l[0]["grupo"] == grupo),
-                       key=lambda x: (x[1][0].get("prioridad", 3), x[0]))
-        if not suyas:
-            continue
-        out += f'<h2 class="tit" style="font-size:20px;color:var(--amarillo);margin:26px 0 12px">{titulo}</h2><div class="ligas">'
-        out += "".join(f'<a href="ligas/{_slug_liga(e)}.html"><span class="tit">{_e(e)}</span>'
-                       f'<small>Última jornada: {fecha_larga(l[0]["fecha"])}</small></a>' for e, l in suyas)
+    por_pais: dict[str, list[dict]] = {}
+    for c in cfg.get("competiciones", []):
+        por_pais.setdefault(PAISES.get(c.get("pais"), c.get("pais", "Otras")), []).append(c)
+    for pais, comps in por_pais.items():
+        out += f'<h2 class="tit" style="font-size:20px;color:var(--amarillo);margin:26px 0 12px">{_e(pais)}</h2><div class="ligas">'
+        for c in comps:
+            suyas = [a for e, l in ligas.items() for a in l if a.get("competicion", a["etiqueta"]) == c["etiqueta"]]
+            nota = f'Última jornada: {fecha_larga(max(a["fecha"] for a in suyas))}' if suyas else "Próximamente"
+            out += (f'<a href="ligas/{_slug_liga(c["etiqueta"])}.html"><span class="tit">{_e(c["etiqueta"])}</span>'
+                    f'<small>{nota}</small></a>')
         out += "</div>"
+    return out
+
+
+def _pagina_competicion(c: dict, ligas: dict[str, list[dict]]) -> str:
+    """Página de una competición con grupos (p. ej. Tercera Federación): enlaces a cada grupo + noticias."""
+    prof = "../"
+    grupos = {e: l for e, l in ligas.items() if l[0].get("competicion") == c["etiqueta"]}
+    out = (f'<span class="tag">{_e(PAISES.get(c.get("pais"), ""))}</span>'
+           f'<h1 class="tit" style="font-size:clamp(30px,5vw,46px);margin:12px 0 4px">{_e(c["etiqueta"])}</h1>')
+    if not grupos:
+        return out + ('<div class="vacio" style="margin-top:24px">Todavía no hay partidos de esta competición. '
+                      'En cuanto se juegue la próxima jornada aparecerán aquí sus resultados y noticias.</div>')
+    out += '<h2 class="sec tit">Grupos</h2><div class="ligas">' + "".join(
+        f'<a href="{_slug_liga(e)}.html"><span class="tit">{_e(e.split(" · ", 1)[-1])}</span>'
+        f'<small>Última jornada: {fecha_larga(l[0]["fecha"])}</small></a>'
+        for e, l in sorted(grupos.items(), key=lambda x: [int(n) if n.isdigit() else n for n in re.split(r"(\d+)", x[0])])) + "</div>"
+    noticias = sorted((a for l in grupos.values() for a in l), key=lambda a: a["fecha"], reverse=True)[:9]
+    out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
+        f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(a["etiqueta"])}</span>'
+        f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>'
+        for a in noticias) + "</section>"
     return out
 
 
@@ -268,11 +294,17 @@ def construir(cfg: dict) -> Path:
 
     ligas = _ligas(arts)
     (SALIDA / "ligas.html").write_text(
-        _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(ligas), activa="ligas.html", ticker=_ticker(arts, "")))
+        _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(cfg, ligas), activa="ligas.html", ticker=_ticker(arts, "")))
     for etiqueta, lista in ligas.items():
         (SALIDA / "ligas" / f"{_slug_liga(etiqueta)}.html").write_text(
             _pagina(cfg, f"{etiqueta} · {nombre}", _pagina_liga(etiqueta, lista), "../",
                     f"Resultados, clasificación y noticias de {etiqueta}", ticker=_ticker(arts, "../")))
+    for c in cfg.get("competiciones", []):  # competiciones con grupos o sin partidos todavía
+        if c["etiqueta"] in ligas:
+            continue
+        (SALIDA / "ligas" / f"{_slug_liga(c['etiqueta'])}.html").write_text(
+            _pagina(cfg, f"{c['etiqueta']} · {nombre}", _pagina_competicion(c, ligas), "../",
+                    f"Resultados, clasificación y noticias de {c['etiqueta']}", ticker=_ticker(arts, "../")))
 
     for a in arts:
         fotos = "".join(f'<img src="../{i}" alt="{_e(a["etiqueta"])}">' for i in a.get("imagenes", []))

@@ -20,6 +20,7 @@ modo: revision
 # así no hay que saberse los IDs. Si conoces el ID, puedes poner `id:` directamente.
 competiciones:
   # ── España ──
+  - {pais: Spain, patron: "^La Liga$", etiqueta: "LaLiga EA Sports", grupo: espana, prioridad: 2}
   - {pais: Spain, patron: "^Segunda División$", etiqueta: "LaLiga Hypermotion", grupo: espana, prioridad: 1}
   - {pais: Spain, patron: "^Primera División RFEF", etiqueta: "Primera Federación", grupo: espana, prioridad: 1}
   - {pais: Spain, patron: "^Segunda División RFEF", etiqueta: "Segunda Federación", grupo: espana, prioridad: 2}
@@ -27,10 +28,12 @@ competiciones:
   - {pais: Spain, patron: "^Copa del Rey$", etiqueta: "Copa del Rey", grupo: espana, prioridad: 1}
   # ── Selecciones (ejemplo pedido por Alberto; quitar si no se quiere a diario) ──
   - {pais: World, patron: "^UEFA Nations League$", etiqueta: "Nations League", grupo: internacional, prioridad: 2}
-  # ── Internacional (segundas y terceras categorías) ──
+  # ── Internacional (primeras añadidas por Alberto; segundas y terceras categorías) ──
+  - {pais: England, patron: "^Premier League$", etiqueta: "Premier League", grupo: internacional, prioridad: 2}
   - {pais: England, patron: "^Championship$", etiqueta: "Championship", grupo: internacional, prioridad: 1}
   - {pais: England, patron: "^League One$", etiqueta: "League One", grupo: internacional, prioridad: 2}
   - {pais: England, patron: "^League Two$", etiqueta: "League Two", grupo: internacional, prioridad: 3}
+  - {pais: Italy, patron: "^Serie A$", etiqueta: "Serie A", grupo: internacional, prioridad: 2}
   - {pais: Italy, patron: "^Serie B$", etiqueta: "Serie B", grupo: internacional, prioridad: 1}
   - {pais: Italy, patron: "^Serie C", etiqueta: "Serie C", grupo: internacional, prioridad: 3}
   - {pais: Germany, patron: "^2\\. Bundesliga$", etiqueta: "2. Bundesliga", grupo: internacional, prioridad: 1}
