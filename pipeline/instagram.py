@@ -63,7 +63,10 @@ class Make:
         self.url = url
 
     def publicar(self, urls: list[str], texto: str) -> str:
-        r = requests.post(self.url, json={"texto": texto, "imagenes": [{"url": u, "tipo": "IMAGE"} for u in urls]},
+        r = requests.post(self.url, json={"texto": texto, "imagenes": [
+            # varios nombres para el mismo dato: así encaja con los campos del módulo de carrusel de Make
+            {"url": u, "tipo": "IMAGE", "media_type": "IMAGE", "image_url": u, "mediaType": "IMAGE",
+             "imageUrl": u, "type": "IMAGE"} for u in urls]},
                           timeout=60)
         if r.status_code >= 400:
             raise RuntimeError(f"Make: {r.status_code} {r.text}")
