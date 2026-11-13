@@ -40,9 +40,36 @@ ESQUEMA = {
 }
 
 
+SISTEMA_PREVIA = """Eres redactor de un diario digital de fútbol (categorías inferiores y ligas \
+europeas). Escribes la PREVIA de los partidos que se juegan hoy en una competición.
+Escribes en español de España, tono periodístico cercano, frases cortas.
+
+Normas estrictas:
+- Usa EXCLUSIVAMENTE los datos del JSON recibido: partidos (equipos, hora, estadio, jornada) y \
+"forma" (últimos resultados de cada equipo que tenemos publicados; puede faltar).
+- Prohibido inventar alineaciones, bajas, lesiones, declaraciones, cuotas, pronósticos de resultado, \
+historial entre equipos o clasificación si no viene en los datos.
+- Si un equipo no tiene "forma", no digas nada de cómo llega.
+- Las horas vienen en hora de Madrid: escríbelas como "a las 18:30".
+- Los nombres de equipos se copian tal cual vienen.
+- El cuerpo va en Markdown: un párrafo de presentación de la jornada y un apartado breve por \
+partido (## Local - Visitante) con hora, estadio si viene y cómo llegan según la forma.
+- texto_instagram: anuncia los partidos del día. partido_destacado_id: el partido más atractivo."""
+
+
 def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
     if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         return redactar_plantilla(paquete)
+    return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", paquete, config)
+
+
+def redactar_previa(paquete: dict, config: dict, demo: bool = False) -> dict:
+    if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
+        return previa_plantilla(paquete)
+    return _llamar(SISTEMA_PREVIA, "Escribe la previa de los partidos de hoy. Datos:\n", paquete, config)
+
+
+def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict) -> dict:
     import anthropic
 
     client = anthropic.Anthropic()
@@ -50,12 +77,11 @@ def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
     peticion = dict(
         model=modelo,
         max_tokens=16000,
-        system=SISTEMA,
+        system=sistema,
         output_config={"effort": config["ia"].get("esfuerzo", "low"),
                        "format": {"type": "json_schema", "schema": ESQUEMA}},
         messages=[{"role": "user", "content":
-                   "Escribe la crónica de esta jornada. Datos:\n" +
-                   json.dumps(paquete, ensure_ascii=False)}],
+                   instruccion + json.dumps(paquete, ensure_ascii=False)}],
     )
     if "haiku" in modelo:
         resp = client.messages.create(**peticion)
@@ -64,7 +90,7 @@ def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
         resp = client.beta.messages.create(**peticion, betas=["server-side-fallback-2026-07-01"],
                                            fallbacks="default")
     if resp.stop_reason == "refusal":
-        raise RuntimeError(f"El modelo declinó la crónica de {paquete['liga']['etiqueta']}")
+        raise RuntimeError(f"El modelo declinó el texto de {paquete['liga']['etiqueta']}")
     if resp.stop_reason == "max_tokens":
         raise RuntimeError("Respuesta cortada por max_tokens")
     texto = next(b.text for b in resp.content if b.type == "text")
@@ -91,4 +117,25 @@ def redactar_plantilla(paquete: dict) -> dict:
             f"{p['local']} {p['goles_local']}-{p['goles_visitante']} {p['visitante']}" for p in ps),
         "hashtags": ["futbolmodesto", liga.split(" ·")[0].replace(" ", "").lower()],
         "partido_destacado_id": destacado["id"],
+    }
+
+
+def hora(iso: str) -> str:
+    """'2026-11-14T18:30:00+01:00' → '18:30' (las fechas ya vienen en hora de Madrid)."""
+    return iso[11:16] if len(iso) >= 16 else ""
+
+
+def previa_plantilla(paquete: dict) -> dict:
+    """Previa sin IA (modo demo o sin clave)."""
+    liga = paquete["liga"]["etiqueta"]
+    ps = paquete["partidos"]
+    lineas = [f"- **{p['local']} - {p['visitante']}** · {hora(p['fecha'])}" for p in ps]
+    return {
+        "titular": f"Previa de {liga}: {len(ps)} partido{'s' if len(ps) != 1 else ''} hoy",
+        "entradilla": f"Hoy se juega en {liga}: {ps[0]['local']} - {ps[0]['visitante']} abre la jornada a las {hora(ps[0]['fecha'])}.",
+        "cuerpo_markdown": "## Partidos de hoy\n\n" + "\n".join(lineas),
+        "texto_instagram": f"📅 Hoy en {liga}\n" + "\n".join(
+            f"{hora(p['fecha'])} {p['local']} - {p['visitante']}" for p in ps),
+        "hashtags": ["futbol", liga.split(" ·")[0].replace(" ", "").lower()],
+        "partido_destacado_id": ps[0]["id"],
     }

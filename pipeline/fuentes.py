@@ -52,8 +52,12 @@ class ApiFootball:
     # ── Competiciones ──
     def resolver_ligas(self, competiciones: list[dict]) -> list[dict]:
         """Convierte país+patrón en IDs de liga y temporada actual. Se cachea en data/."""
+        # La caché se rehace sola si cambia la lista de competiciones de config.yaml
+        clave = json.dumps(competiciones, sort_keys=True, ensure_ascii=False)
         if CACHE_LIGAS.exists():
-            return json.loads(CACHE_LIGAS.read_text())
+            cache = json.loads(CACHE_LIGAS.read_text())
+            if isinstance(cache, dict) and cache.get("clave") == clave:
+                return cache["ligas"]
         resueltas, por_pais = [], {}
         for c in competiciones:
             pais = c["pais"]
@@ -79,17 +83,18 @@ class ApiFootball:
             ultima[l["pais"]] = max(ultima.get(l["pais"], 0), l["temporada"] or 0)
         resueltas = [l for l in resueltas if l["temporada"] == ultima[l["pais"]]]
         CACHE_LIGAS.parent.mkdir(parents=True, exist_ok=True)
-        CACHE_LIGAS.write_text(json.dumps(resueltas, ensure_ascii=False, indent=2))
+        CACHE_LIGAS.write_text(json.dumps({"clave": clave, "ligas": resueltas}, ensure_ascii=False, indent=2))
         return resueltas
 
     # ── Datos del día ──
-    def partidos_del_dia(self, fecha: str, ligas: list[dict], zona: str) -> list[dict]:
+    def partidos_del_dia(self, fecha: str, ligas: list[dict], zona: str,
+                         estados: tuple = ("FT", "AET", "PEN")) -> list[dict]:
         ids = {l["id"]: l for l in ligas}
         todos = self._get("fixtures", date=fecha, timezone=zona)
         salida = []
         for f in todos:
             liga = ids.get(f["league"]["id"])
-            if not liga or f["fixture"]["status"]["short"] not in ("FT", "AET", "PEN"):
+            if not liga or f["fixture"]["status"]["short"] not in estados:
                 continue
             salida.append(normalizar_partido(f, liga))
         return salida
@@ -158,3 +163,16 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
             tabla = []
         paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
     return paquetes[: config["limites"]["max_articulos_dia"]]
+
+
+def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
+    """Partidos aún por jugar en `fecha`, un paquete por competición/grupo (para las previas)."""
+    ligas = api.resolver_ligas(config["competiciones"])
+    partidos = api.partidos_del_dia(fecha, ligas, config["medio"]["zona_horaria"], estados=("NS", "TBD"))
+    print(f"Partidos por jugar el {fecha} en estas competiciones: {len(partidos)}")
+    paquetes = []
+    for liga in sorted(ligas, key=lambda l: l["prioridad"]):
+        suyos = sorted((p for p in partidos if p["liga_id"] == liga["id"]), key=lambda p: p["fecha"])
+        if suyos:
+            paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos})
+    return paquetes[: config["limites"].get("max_previas_dia", 12)]

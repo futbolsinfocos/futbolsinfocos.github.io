@@ -10,7 +10,7 @@ import re
 import unicodedata
 import json
 import shutil
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
 
@@ -76,7 +76,7 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .dia{margin-bottom:30px}.comp{margin:0 0 18px;background:var(--panel);border-radius:14px;padding:14px 18px}
 .comp h3{font-size:18px;margin:0 0 8px}.comp h3 a:hover{color:var(--amarillo)}
 .partido{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;padding:7px 0;border-top:1px solid var(--linea)}
-.partido .l{text-align:right}.partido b{background:var(--amarillo);color:var(--negro);border-radius:4px;padding:2px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.partido .l{text-align:right}.partido b.hora{background:none;color:var(--amarillo);border:2px solid var(--amarillo)}.partido b{background:var(--amarillo);color:var(--negro);border-radius:4px;padding:2px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .ligas{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
 .ligas a{background:var(--panel);border-radius:12px;padding:16px 18px;border-left:4px solid var(--amarillo);display:block}
 .ligas a span{font-size:20px;font-weight:600;display:block}.ligas a:hover span{color:var(--amarillo)}.ligas small{color:var(--suave)}
@@ -139,11 +139,28 @@ Datos de resultados y clasificaciones: API-Football. Crónicas elaboradas autom�
 
 def cargar_articulos() -> list[dict]:
     arts = [json.loads(p.read_text()) for p in (CONTENIDO / "articulos").glob("*.json")]
-    return sorted(arts, key=lambda a: (a["fecha"], -a.get("prioridad", 3)), reverse=True)
+    return sorted(arts, key=_orden, reverse=True)
+
+
+def _orden(a: dict) -> tuple:
+    """Más nuevo primero. Cada edición trae las crónicas de ayer y las previas de hoy:
+    las crónicas van delante y las previas justo detrás, dentro de la misma edición."""
+    previa = a.get("tipo") == "previa"
+    d = date.fromisoformat(a["fecha"]) - timedelta(days=1 if previa else 0)
+    return (d.isoformat(), 0 if previa else 1, -a.get("prioridad", 3))
+
+
+def _etiqueta(a: dict) -> str:
+    return ("Previa · " if a.get("tipo") == "previa" else "") + a["etiqueta"]
+
+
+def _imagenes(a: dict) -> list[str]:
+    return a.get("imagenes") or a.get("imagenes_web") or []
 
 
 def _img(a: dict, prof: str) -> str:
-    return f'<img src="{prof}{a["imagenes"][0]}" alt="" loading="lazy">' if a.get("imagenes") else ""
+    imgs = _imagenes(a)
+    return f'<img src="{prof}{imgs[0]}" alt="" loading="lazy">' if imgs else ""
 
 
 def _url(a: dict, prof: str) -> str:
@@ -154,15 +171,15 @@ def _portada(lista: list[dict], prof: str = "") -> str:
     if not lista:
         return '<div class="vacio">Aún no hay noticias. La próxima edición sale mañana a primera hora.</div>'
     a0, resto = lista[0], lista[1:]
-    hero = (f'<a class="big" href="{_url(a0, prof)}">{_img(a0, prof)}<div class="t"><span class="tag">{_e(a0["etiqueta"])}</span>'
+    hero = (f'<a class="big" href="{_url(a0, prof)}">{_img(a0, prof)}<div class="t"><span class="tag">{_e(_etiqueta(a0))}</span>'
             f'<h2 class="tit">{_e(a0["titular"])}</h2><p>{_e(a0["entradilla"])}</p></div></a>')
-    mini = "".join(f'<a href="{_url(a, prof)}"><span class="tag">{_e(a["etiqueta"])}</span><h3 class="tit">{_e(a["titular"])}</h3>'
+    mini = "".join(f'<a href="{_url(a, prof)}"><span class="tag">{_e(_etiqueta(a))}</span><h3 class="tit">{_e(a["titular"])}</h3>'
                    f'<p>{_e(a["entradilla"])}</p></a>' for a in resto[:2])
     out = f'<section class="hero">{hero}<div class="mini">{mini}</div></section>' if mini else \
           f'<section class="hero" style="grid-template-columns:1fr">{hero}</section>'
     if resto[2:]:
         out += '<h2 class="sec tit">Más noticias</h2><section class="grid">' + "".join(
-            f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(a["etiqueta"])}</span>'
+            f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(_etiqueta(a))}</span>'
             f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>'
             for a in resto[2:]) + "</section>"
     return out
@@ -193,19 +210,48 @@ def _ligas(arts: list[dict]) -> dict[str, list[dict]]:
     return out
 
 
-def _indice_ligas(ligas: dict[str, list[dict]]) -> str:
+PAISES = {"Spain": "España", "England": "Inglaterra", "Italy": "Italia", "Germany": "Alemania",
+          "France": "Francia", "Portugal": "Portugal", "Netherlands": "Países Bajos", "World": "Selecciones"}
+
+
+def _indice_ligas(cfg: dict, ligas: dict[str, list[dict]]) -> str:
+    """Todas las competiciones de config.yaml, tengan ya noticias o no, agrupadas por país."""
     out = '<h1 class="sec tit">Ligas</h1>'
-    if not ligas:
-        return out + '<div class="vacio">Aún no hay ligas con partidos.</div>'
-    for grupo, titulo in [("espana", "España"), ("internacional", "Internacional")]:
-        suyas = sorted(((e, l) for e, l in ligas.items() if l[0]["grupo"] == grupo),
-                       key=lambda x: (x[1][0].get("prioridad", 3), x[0]))
-        if not suyas:
-            continue
-        out += f'<h2 class="tit" style="font-size:20px;color:var(--amarillo);margin:26px 0 12px">{titulo}</h2><div class="ligas">'
-        out += "".join(f'<a href="ligas/{_slug_liga(e)}.html"><span class="tit">{_e(e)}</span>'
-                       f'<small>Última jornada: {fecha_larga(l[0]["fecha"])}</small></a>' for e, l in suyas)
+    por_pais: dict[str, list[dict]] = {}
+    for c in cfg.get("competiciones", []):
+        por_pais.setdefault(PAISES.get(c.get("pais"), c.get("pais", "Otras")), []).append(c)
+    for pais, comps in por_pais.items():
+        out += f'<h2 class="tit" style="font-size:20px;color:var(--amarillo);margin:26px 0 12px">{_e(pais)}</h2><div class="ligas">'
+        for c in comps:
+            suyas = [a for e, l in ligas.items() for a in l if a.get("competicion", a["etiqueta"]) == c["etiqueta"]]
+            jugadas = [a["fecha"] for a in suyas if a.get("partidos")]
+            proximas = [a["fecha"] for a in suyas if a.get("proximos")]
+            nota = (f'Última jornada: {fecha_larga(max(jugadas))}' if jugadas else
+                    f'Próximo partido: {fecha_larga(max(proximas))}' if proximas else "Próximamente")
+            out += (f'<a href="ligas/{_slug_liga(c["etiqueta"])}.html"><span class="tit">{_e(c["etiqueta"])}</span>'
+                    f'<small>{nota}</small></a>')
         out += "</div>"
+    return out
+
+
+def _pagina_competicion(c: dict, ligas: dict[str, list[dict]]) -> str:
+    """Página de una competición con grupos (p. ej. Tercera Federación): enlaces a cada grupo + noticias."""
+    prof = "../"
+    grupos = {e: l for e, l in ligas.items() if l[0].get("competicion") == c["etiqueta"]}
+    out = (f'<span class="tag">{_e(PAISES.get(c.get("pais"), ""))}</span>'
+           f'<h1 class="tit" style="font-size:clamp(30px,5vw,46px);margin:12px 0 4px">{_e(c["etiqueta"])}</h1>')
+    if not grupos:
+        return out + ('<div class="vacio" style="margin-top:24px">Todavía no hay partidos de esta competición. '
+                      'En cuanto se juegue la próxima jornada aparecerán aquí sus resultados y noticias.</div>')
+    out += '<h2 class="sec tit">Grupos</h2><div class="ligas">' + "".join(
+        f'<a href="{_slug_liga(e)}.html"><span class="tit">{_e(e.split(" · ", 1)[-1])}</span>'
+        f'<small>{fecha_larga(l[0]["fecha"])}</small></a>'
+        for e, l in sorted(grupos.items(), key=lambda x: [int(n) if n.isdigit() else n for n in re.split(r"(\d+)", x[0])])) + "</div>"
+    noticias = sorted((a for l in grupos.values() for a in l), key=lambda a: a["fecha"], reverse=True)[:9]
+    out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
+        f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(_etiqueta(a))}</span>'
+        f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>'
+        for a in noticias) + "</section>"
     return out
 
 
@@ -213,6 +259,14 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     prof = "../"
     out = f'<span class="tag">{"España" if lista[0]["grupo"] == "espana" else "Internacional"}</span>' \
           f'<h1 class="tit" style="font-size:clamp(30px,5vw,46px);margin:12px 0 4px">{_e(etiqueta)}</h1>'
+    previa = next((a for a in lista if a.get("proximos")), None)
+    ultima_jugada = next((a["fecha"] for a in lista if a.get("partidos")), "")
+    if previa and previa["fecha"] > ultima_jugada:
+        filas = "".join(f'<div class="partido"><span class="l">{_e(p["local"])}</span>'
+                        f'<b class="hora">{_e(p["fecha"][11:16] or "--:--")}</b><span>{_e(p["visitante"])}</span></div>'
+                        for p in previa["proximos"])
+        out += (f'<h2 class="sec tit">Próximos partidos</h2><div class="comp"><h3 class="tit">'
+                f'<a href="{_url(previa, prof)}">{fecha_larga(previa["fecha"])} · Leer la previa →</a></h3>{filas}</div>')
     out += '<div class="liga">'
     # Resultados: las 3 últimas jornadas con partidos
     res = "".join(f'<div class="comp"><h3 class="tit">{fecha_larga(a["fecha"])}</h3>{_filas_partidos(a["partidos"])}</div>'
@@ -268,15 +322,21 @@ def construir(cfg: dict) -> Path:
 
     ligas = _ligas(arts)
     (SALIDA / "ligas.html").write_text(
-        _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(ligas), activa="ligas.html", ticker=_ticker(arts, "")))
+        _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(cfg, ligas), activa="ligas.html", ticker=_ticker(arts, "")))
     for etiqueta, lista in ligas.items():
         (SALIDA / "ligas" / f"{_slug_liga(etiqueta)}.html").write_text(
             _pagina(cfg, f"{etiqueta} · {nombre}", _pagina_liga(etiqueta, lista), "../",
                     f"Resultados, clasificación y noticias de {etiqueta}", ticker=_ticker(arts, "../")))
+    for c in cfg.get("competiciones", []):  # competiciones con grupos o sin partidos todavía
+        if c["etiqueta"] in ligas:
+            continue
+        (SALIDA / "ligas" / f"{_slug_liga(c['etiqueta'])}.html").write_text(
+            _pagina(cfg, f"{c['etiqueta']} · {nombre}", _pagina_competicion(c, ligas), "../",
+                    f"Resultados, clasificación y noticias de {c['etiqueta']}", ticker=_ticker(arts, "../")))
 
     for a in arts:
-        fotos = "".join(f'<img src="../{i}" alt="{_e(a["etiqueta"])}">' for i in a.get("imagenes", []))
-        cuerpo = (f'<article><a class="tag" href="../ligas/{_slug_liga(a["etiqueta"])}.html">{_e(a["etiqueta"])} →</a><h1 class="tit">{_e(a["titular"])}</h1>'
+        fotos = "".join(f'<img src="../{i}" alt="{_e(a["etiqueta"])}">' for i in _imagenes(a))
+        cuerpo = (f'<article><a class="tag" href="../ligas/{_slug_liga(a["etiqueta"])}.html">{_e(_etiqueta(a))} →</a><h1 class="tit">{_e(a["titular"])}</h1>'
                   f'<p class="fecha">{fecha_larga(a["fecha"])}</p><p class="entradilla">{_e(a["entradilla"])}</p>'
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
                   + markdown.markdown(a["cuerpo_markdown"], extensions=["tables"])
