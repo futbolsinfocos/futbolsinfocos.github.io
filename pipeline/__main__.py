@@ -3,6 +3,7 @@
   python -m pipeline generar [--fecha AAAA-MM-DD] [--demo]   → datos + crónicas + imágenes
   python -m pipeline rehacer-tarjetas                        → redibuja imágenes no publicadas (nuevo diseño)
   python -m pipeline noticias [--fecha F] [--prueba]         → solo las noticias (A: datos, B: otros medios)
+  python -m pipeline regionales                              → partidos de Regional del formulario de corresponsales
   python -m pipeline web                                     → construye _site/
   python -m pipeline instagram [--simular]                   → publica lo pendiente en Instagram
 """
@@ -216,6 +217,7 @@ def main():
     n.add_argument("--prueba", action="store_true", help="solo comprueba las fuentes, sin IA ni guardar nada")
     r = sub.add_parser("redes", help="genera las 4 publicaciones de Instagram de un día")
     r.add_argument("--fecha", required=True, help="día de publicación (los destacados son del día anterior)")
+    sub.add_parser("regionales", help="lee las respuestas nuevas del formulario de corresponsales")
     sub.add_parser("rehacer-tarjetas", help="redibuja las imágenes aún no publicadas con el diseño actual")
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
@@ -232,6 +234,11 @@ def main():
         generar_agenda(cfg, [hoy.isoformat(), (hoy + timedelta(days=1)).isoformat()], args.demo)
         from .noticias import generar_noticias  # noticias (solo web): de nuestros datos y de otros medios
         creados += generar_noticias(cfg, args.fecha)
+        from .regionales import generar_regionales  # partidos de Regional que mandan los corresponsales
+        try:
+            creados += generar_regionales(cfg)
+        except Exception as e:  # los regionales nunca tumban la edición
+            print(f"ERROR en regionales: {e}", file=sys.stderr)
         from .redes import generar_redes  # plan diario de Instagram: 2 destacados + previa + horarios
         creados += generar_redes(cfg, args.fecha, hoy.isoformat())
         Path(RAIZ / "data").mkdir(exist_ok=True)
@@ -242,6 +249,9 @@ def main():
             noticias.generar_fuentes(cfg, args.fecha, prueba=True)
         else:
             noticias.generar_noticias(cfg, args.fecha)
+    elif args.orden == "regionales":
+        from .regionales import generar_regionales
+        print("Nuevos:", generar_regionales(cfg))
     elif args.orden == "rehacer-tarjetas":
         rehacer_tarjetas(cfg)
     elif args.orden == "redes":

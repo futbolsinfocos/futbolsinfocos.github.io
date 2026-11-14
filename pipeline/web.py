@@ -153,14 +153,42 @@ article .forma span[class^=f]{display:inline-block;width:22px;height:22px;line-h
 .fuente{background:var(--panel);border-left:4px solid var(--amarillo);border-radius:8px;padding:12px 16px;font-size:14px;color:var(--suave);margin:26px 0 0}
 .fuente a{color:var(--amarillo);font-weight:600}
 @media(max-width:820px){.notis{grid-template-columns:1fr}}
+/* Regionales */
+.regs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.rg{background:var(--panel);border-radius:12px;padding:16px 18px;border:1px solid var(--linea);display:block}
+a.rg:hover{border-color:var(--amarillo)}
+.rgt{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:12px}
+.rgt small{color:var(--suave);font-size:12px;text-align:right}
+.rgm{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;font:600 17px/1.15 Oswald,sans-serif;text-transform:uppercase}
+.rgm span:first-child{text-align:right}
+.rgm b{background:var(--amarillo);color:var(--negro);border-radius:4px;padding:2px 8px;font-size:14px;white-space:nowrap}
+.rgm b.hora{background:none;border:2px solid var(--amarillo);color:var(--amarillo)}
+.rg p{color:#bbb;font-size:14px;margin:12px 0 0;text-align:center}
+.regcab{display:flex;justify-content:space-between;align-items:end;gap:12px;flex-wrap:wrap;margin:-4px 0 14px;color:var(--suave);font-size:14px}
+.regcab a{color:var(--amarillo);font-weight:700}
+.rgart{background:var(--panel);border-radius:14px;padding:20px 22px;margin-bottom:16px;scroll-margin-top:16px}
+.rgart h3{font-size:24px;line-height:1.15;margin:10px 0 6px}.rgart .rgm{margin:14px 0}
+.rgart .txt{font:400 18px/1.65 'Source Serif 4',Georgia,serif;color:#e4e4e4;margin:10px 0 0}
+.rgart .firma{font-size:13px;color:var(--suave);margin-top:10px}.rgart .firma b{color:#eee}
+.llamada{background:var(--amarillo);color:var(--negro);border-radius:14px;padding:22px 24px;margin:8px 0 26px}
+.llamada h2{font:700 24px/1.1 Oswald,sans-serif;text-transform:uppercase;margin:0 0 6px}.llamada p{margin:0 0 12px}
+.llamada a{display:inline-block;background:var(--negro);color:var(--amarillo);font-weight:700;padding:8px 16px;border-radius:99px}
+/* Más fútbol (segundo plano) */
+.sec.peq{font-size:17px;color:var(--suave)}
+.franja{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
+.franja a{flex:none;background:#141414;border:1px solid var(--linea);border-radius:10px;padding:10px 14px;min-width:170px}
+.franja small{display:block;color:var(--suave);font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.franja span{font-weight:600;font-size:14px}.franja a:hover{border-color:var(--amarillo)}
+@media(max-width:820px){.regs{grid-template-columns:1fr}}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
  header{flex-wrap:wrap;padding:14px 16px 6px}nav{margin-left:0;width:100%;gap:14px;overflow-x:auto;padding:4px 0 6px;font-size:13px}}
 """
 
-NAV = [("index.html", "Portada"), ("espana.html", "España"), ("internacional.html", "Internacional"),
-       ("partidos.html", "Partidos"), ("ligas.html", "Ligas"), ("resultados.html", "Resultados")]
+NAV = [("index.html", "Portada"), ("rfef.html", "RFEF"), ("regionales.html", "Regionales"),
+       ("partidos.html", "Partidos"), ("resultados.html", "Resultados"), ("ligas.html", "Ligas"),
+       ("mas-futbol.html", "Más fútbol")]
 
 
 def _e(t) -> str:
@@ -211,7 +239,8 @@ def _pagina(cfg: dict, titulo: str, cuerpo: str, prof: str = "", descripcion: st
 <main>{cuerpo}</main>
 <footer><div class="redes">{ig}<a href="{prof}rss.xml">RSS</a></div>
 Datos de resultados y clasificaciones: API-Football. Crónicas elaboradas automáticamente a partir de esos datos y revisadas por la redacción.
-Las noticias de otros medios se redactan de nuevo y enlazan siempre a su fuente original.<br>
+Las noticias de otros medios se redactan de nuevo y enlazan siempre a su fuente original.
+Los partidos de Regional los cuentan nuestros corresponsales.<br>
 ¿Ves un error? Escríbenos y lo corregimos.</footer></body></html>"""
 
 
@@ -522,6 +551,14 @@ def _fila_agenda(p: dict, prof: str = "") -> str:
             f'<span>{_e(es(p["visitante"]))}</span></div>')
 
 
+PRIORIDAD: dict[str, int] = {}  # competición → prioridad actual en config.yaml (se rellena en construir())
+PRINCIPAL: set[str] = set()     # competiciones que van delante (la RFEF)
+
+
+def _prio_comp(c: dict) -> tuple:
+    return (PRIORIDAD.get(c.get("competicion"), c.get("prioridad", 3)), c["etiqueta"])
+
+
 def _agenda(agenda: dict, prof: str = "") -> str:
     out = '<h1 class="sec tit">Partidos</h1>'
     if not agenda:
@@ -534,7 +571,7 @@ def _agenda(agenda: dict, prof: str = "") -> str:
         if not total:
             out += '<div class="vacio">No hay partidos de nuestras ligas este día.</div></section>'
             continue
-        for c in comps:
+        for c in sorted(comps, key=_prio_comp):
             out += (f'<div class="comp"><h3 class="tit"><a href="{prof}ligas/{_slug_liga(c["etiqueta"])}.html">'
                     f'{_e(c["etiqueta"])} →</a></h3>{"".join(_fila_agenda(p) for p in c["partidos"])}</div>')
         out += "</section>"
@@ -544,7 +581,7 @@ def _agenda(agenda: dict, prof: str = "") -> str:
 def _agenda_portada(agenda: dict) -> str:
     """Bloque compacto en la portada con los partidos del primer día de la agenda."""
     for fecha in sorted(agenda):
-        comps = [c for c in agenda[fecha] if c["partidos"]]
+        comps = sorted((c for c in agenda[fecha] if c["partidos"]), key=_prio_comp)
         if not comps:
             continue
         filas, n = "", 0
@@ -576,8 +613,101 @@ def _resultados(arts: list[dict]) -> str:
     return out
 
 
+def _marcador_regional(r: dict) -> str:
+    if r.get("goles_local") is not None and r.get("goles_visitante") is not None:
+        return f'<b>{r["goles_local"]} - {r["goles_visitante"]}</b>'
+    return f'<b class="hora">{_e(r.get("hora") or "--:--")}</b>'
+
+
+def _cuando(r: dict) -> str:
+    d = date.fromisoformat(r["fecha"])
+    return f'{DIAS[d.weekday()][:3].capitalize()} {d.day}'
+
+
+def _tarjeta_regional(r: dict, prof: str = "") -> str:
+    lugar = " · ".join(x for x in (r.get("categoria"), r.get("comunidad")) if x)
+    pie = r["titular"] if r["tipo"] == "resultado" else f'{_cuando(r)} · {r["titular"]}'
+    return (f'<a class="rg" href="{prof}regionales.html#{r["slug"]}"><div class="rgt"><span class="tag">{_e(r["motivo"])}</span>'
+            f'<small>{_e(lugar)}</small></div><div class="rgm"><span>{_e(r["local"])}</span>{_marcador_regional(r)}'
+            f'<span>{_e(r["visitante"])}</span></div><p>{_e(pie)}</p></a>')
+
+
+def _llamada(rc: dict) -> str:
+    url = rc.get("formulario_url")
+    boton = f'<a href="{_e(url)}" rel="noopener">Mándanos tu partido →</a>' if url else ""
+    return ('<div class="llamada"><h2>¿Juegas, entrenas o eres de un club de Regional?</h2>'
+            '<p>Cuéntanos los partidos gordos de tu zona (derbis, duelos por el ascenso, historias de barrio) '
+            'y los publicamos con tu firma.</p>' + boton + '</div>')
+
+
+def _proximos_y_resultados(regs: list[dict]) -> tuple[list[dict], list[dict]]:
+    hoy = date.today().isoformat()
+    proximos = [r for r in regs if r["tipo"] == "previa" and r["fecha"] >= hoy]
+    resultados = sorted((r for r in regs if r["tipo"] == "resultado"), key=lambda r: r["fecha"], reverse=True)
+    return proximos, resultados
+
+
+def _regionales_portada(regs: list[dict], rc: dict) -> str:
+    proximos, resultados = _proximos_y_resultados(regs)
+    n = rc.get("max_portada", 6)
+    elegidos = proximos[:n] or resultados[:n]
+    url = rc.get("formulario_url")
+    cab = ('<h2 class="sec tit">Regionales · Los partidos de la jornada</h2><div class="regcab">'
+           '<span>Los duelos que no te puedes perder en toda España, elegidos cada semana.</span>'
+           + (f'<a href="{_e(url)}" rel="noopener">¿Conoces un partido gordo? Cuéntanoslo →</a>' if url else
+              '<a href="regionales.html">Ver todos →</a>') + '</div>')
+    if not elegidos:
+        return cab + _llamada(rc)
+    return cab + '<section class="regs">' + "".join(_tarjeta_regional(r) for r in elegidos) + '</section>'
+
+
+def _articulo_regional(r: dict) -> str:
+    lugar = " · ".join(x for x in (r.get("categoria"), r.get("comunidad")) if x)
+    firma = f'<div class="firma">Por <b>{_e(r["firma"])}</b>, corresponsal de Sin Focos</div>' if r.get("firma") else ""
+    parrafos = "".join(f'<p class="txt">{_e(p)}</p>' for p in r.get("texto", "").split("\n") if p.strip())
+    return (f'<div class="rgart" id="{r["slug"]}"><span class="tag">{_e(r["motivo"])}</span> '
+            f'<span class="fecha">{_e(lugar)} · {_dia(r["fecha"])}</span><h3 class="tit">{_e(r["titular"])}</h3>'
+            f'<div class="rgm"><span>{_e(r["local"])}</span>{_marcador_regional(r)}<span>{_e(r["visitante"])}</span></div>'
+            f'{parrafos}{firma}</div>')
+
+
+def _pagina_regionales(regs: list[dict], rc: dict) -> str:
+    proximos, resultados = _proximos_y_resultados(regs)
+    out = ('<h1 class="sec tit">Regionales</h1><p style="color:var(--suave);margin:-6px 0 18px">'
+           'Los partidos gordos del fútbol regional de toda España, contados por gente de allí.</p>')
+    if proximos:
+        out += '<h2 class="sec tit">Próximos partidos</h2>' + "".join(_articulo_regional(r) for r in proximos)
+    if resultados:
+        out += '<h2 class="sec tit">Resultados</h2>' + "".join(_articulo_regional(r) for r in resultados[:30])
+    if not proximos and not resultados:
+        out += '<div class="vacio" style="margin-bottom:20px">Muy pronto, los primeros partidos de Regional.</div>'
+    return out + _llamada(rc)
+
+
+def _franja_mas(secundario: list[dict]) -> str:
+    """Franja pequeña al final de la portada con los últimos resultados de lo que va en segundo plano."""
+    con_partidos = [a for a in secundario if a.get("partidos")]
+    piezas = []
+    if con_partidos:
+        ultimo = max(a["fecha"] for a in con_partidos)
+        for a in sorted((a for a in con_partidos if a["fecha"] == ultimo), key=lambda a: a.get("prioridad", 3)):
+            for p in a["partidos"]:
+                piezas.append(f'<a href="articulos/{a["slug"]}.html"><small>{_e(a["etiqueta"])}</small>'
+                              f'<span>{_e(es(p["local"]))} {p["goles_local"]}-{p["goles_visitante"]} {_e(es(p["visitante"]))}</span></a>')
+    piezas = piezas[:14] + ['<a href="mas-futbol.html"><small>Segunda, copas y Europa</small><span>Ver todo →</span></a>']
+    return ('<h2 class="sec tit peq">También · Segunda, copas, selecciones y primeras divisiones</h2>'
+            f'<div class="franja">{"".join(piezas)}</div>')
+
+
 def construir(cfg: dict) -> Path:
+    PRIORIDAD.clear()
+    PRIORIDAD.update({c["etiqueta"]: c.get("prioridad", 3) for c in cfg.get("competiciones", [])})
+    PRINCIPAL.clear()
+    PRINCIPAL.update(cfg.get("principal") or [])
     arts = cargar_articulos()
+    for a in arts:  # la prioridad que manda es la de config.yaml de hoy, no la del día en que se escribió
+        a["prioridad"] = PRIORIDAD.get(a.get("competicion"), 3)
+    arts.sort(key=_orden, reverse=True)
     agenda = cargar_agenda()
     NOTICIAS.clear()
     NOTICIAS.extend(cargar_noticias())
@@ -596,14 +726,33 @@ def construir(cfg: dict) -> Path:
         Image.open(logo).convert("RGB").resize((192, 192)).save(SALIDA / "img" / "logo.png")
     nombre = cfg["medio"]["nombre"]
 
-    for archivo, filtro, titulo in [("index.html", None, nombre),
-                                    ("espana.html", "espana", f"España · {nombre}"),
-                                    ("internacional.html", "internacional", f"Internacional · {nombre}")]:
-        lista = [a for a in arts if filtro is None or a["grupo"] == filtro][:60]
-        extra = _bloque_noticias(_noticias_de(grupo=filtro)[:6])
-        extra += (_agenda_portada(agenda) + SCRIPT_DIAS) if archivo == "index.html" and agenda else ""
-        (SALIDA / archivo).write_text(_pagina(cfg, titulo, _portada(lista, extra=extra), activa=archivo,
-                                              ticker=_ticker(arts, "")))
+    from .regionales import cargar as cargar_regionales
+    regs = cargar_regionales()
+    rc = cfg.get("regionales") or {}
+    principal = [a for a in arts if a.get("competicion") in PRINCIPAL]
+    secundario = [a for a in arts if a.get("competicion") not in PRINCIPAL]
+    noticias_rfef = [n for n in NOTICIAS if n.get("competicion") in PRINCIPAL]
+    noticias_mas = [n for n in NOTICIAS if n.get("competicion") not in PRINCIPAL]
+
+    extra = _regionales_portada(regs, rc) + _bloque_noticias(noticias_rfef[:6])
+    extra += (_agenda_portada(agenda) + SCRIPT_DIAS) if agenda else ""
+    (SALIDA / "index.html").write_text(_pagina(
+        cfg, nombre, _portada(principal[:60], extra=extra) + _franja_mas(secundario), activa="index.html",
+        ticker=_ticker(arts, "")))
+    (SALIDA / "rfef.html").write_text(_pagina(
+        cfg, f"RFEF · {nombre}", '<h1 class="sec tit">Primera, Segunda y Tercera Federación</h1>'
+        + _portada(principal[:60], extra=_bloque_noticias(noticias_rfef[:6])), activa="rfef.html",
+        descripcion="Crónicas, previas y noticias de Primera, Segunda y Tercera Federación", ticker=_ticker(arts, "")))
+    (SALIDA / "mas-futbol.html").write_text(_pagina(
+        cfg, f"Más fútbol · {nombre}", '<h1 class="sec tit">Más fútbol</h1>'
+        + _portada(secundario[:60], extra=_bloque_noticias(noticias_mas[:6])), activa="mas-futbol.html",
+        descripcion="Segunda División, copas, selecciones y primeras divisiones", ticker=_ticker(arts, "")))
+    (SALIDA / "regionales.html").write_text(_pagina(
+        cfg, f"Regionales · {nombre}", _pagina_regionales(regs, rc), activa="regionales.html",
+        descripcion="Los partidos gordos del fútbol regional de toda España", ticker=_ticker(arts, "")))
+    for viejo, nuevo in [("espana.html", "rfef.html"), ("internacional.html", "mas-futbol.html")]:  # enlaces antiguos
+        (SALIDA / viejo).write_text(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url={nuevo}">'
+                                    f'<link rel="canonical" href="{nuevo}"><a href="{nuevo}">{nuevo}</a>')
     (SALIDA / "partidos.html").write_text(
         _pagina(cfg, f"Partidos de hoy y mañana · {nombre}", _agenda(agenda), activa="partidos.html",
                 descripcion="Horarios de los partidos de hoy y mañana", ticker=_ticker(arts, "")))
