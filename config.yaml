@@ -19,33 +19,36 @@ modo: revision
 # Competiciones. Se resuelven contra API-Football por país + patrón de nombre (regex),
 # así no hay que saberse los IDs. Si conoces el ID, puedes poner `id:` directamente.
 competiciones:
-  # ── España ──
-  - {pais: Spain, patron: "^La Liga$", etiqueta: "LaLiga EA Sports", grupo: espana, prioridad: 2}
-  - {pais: Spain, patron: "^Segunda División$", etiqueta: "LaLiga Hypermotion", grupo: espana, prioridad: 1}
+  # ── LO PRINCIPAL: la RFEF (portada, Instagram y goleadores) ──
   - {pais: Spain, patron: "^Primera División RFEF", etiqueta: "Primera Federación", grupo: espana, prioridad: 1}
-  - {pais: Spain, patron: "^Segunda División RFEF", etiqueta: "Segunda Federación", grupo: espana, prioridad: 2}
-  - {pais: Spain, patron: "^Tercera División RFEF", etiqueta: "Tercera Federación", grupo: espana, prioridad: 3}
-  - {pais: Spain, patron: "^Copa del Rey$", etiqueta: "Copa del Rey", grupo: espana, prioridad: 1}
-  # ── Selecciones (ejemplo pedido por Alberto; quitar si no se quiere a diario) ──
-  - {pais: World, patron: "^UEFA Nations League$", etiqueta: "Nations League", grupo: internacional, prioridad: 2}
-  # ── Internacional (primeras añadidas por Alberto; segundas y terceras categorías) ──
-  - {pais: England, patron: "^Premier League$", etiqueta: "Premier League", grupo: internacional, prioridad: 2}
-  - {pais: England, patron: "^Championship$", etiqueta: "Championship", grupo: internacional, prioridad: 1}
-  - {pais: England, patron: "^League One$", etiqueta: "League One", grupo: internacional, prioridad: 2}
-  - {pais: England, patron: "^League Two$", etiqueta: "League Two", grupo: internacional, prioridad: 3}
-  - {pais: Italy, patron: "^Serie A$", etiqueta: "Serie A", grupo: internacional, prioridad: 2}
-  - {pais: Italy, patron: "^Serie B$", etiqueta: "Serie B", grupo: internacional, prioridad: 1}
-  - {pais: Italy, patron: "^Serie C", etiqueta: "Serie C", grupo: internacional, prioridad: 3}
-  - {pais: Germany, patron: "^Bundesliga$", etiqueta: "Bundesliga", grupo: internacional, prioridad: 2}
-  - {pais: Germany, patron: "^2\\. Bundesliga$", etiqueta: "2. Bundesliga", grupo: internacional, prioridad: 1}
-  - {pais: Germany, patron: "^3\\. Liga$", etiqueta: "3. Liga", grupo: internacional, prioridad: 2}
-  - {pais: France, patron: "^Ligue 1$", etiqueta: "Ligue 1", grupo: internacional, prioridad: 2}
-  - {pais: France, patron: "^Ligue 2$", etiqueta: "Ligue 2", grupo: internacional, prioridad: 1}
-  - {pais: France, patron: "^National 1$|^National$", etiqueta: "National", grupo: internacional, prioridad: 3}
-  - {pais: Portugal, patron: "^Primeira Liga$|^Liga Portugal$|^Liga Portugal Betclic", etiqueta: "Liga Portugal", grupo: internacional, prioridad: 2}
-  - {pais: Portugal, patron: "^Segunda Liga$|^Liga Portugal 2", etiqueta: "Liga Portugal 2", grupo: internacional, prioridad: 2}
-  - {pais: Netherlands, patron: "^Eredivisie$", etiqueta: "Eredivisie", grupo: internacional, prioridad: 2}
-  - {pais: Netherlands, patron: "^Eerste Divisie$", etiqueta: "Eerste Divisie", grupo: internacional, prioridad: 2}
+  - {pais: Spain, patron: "^Segunda División RFEF", etiqueta: "Segunda Federación", grupo: espana, prioridad: 1}
+  - {pais: Spain, patron: "^Tercera División RFEF", etiqueta: "Tercera Federación", grupo: espana, prioridad: 2}
+  # ── SEGUNDO PLANO ("Más fútbol"): Segunda División, copas, selecciones y primeras divisiones extranjeras ──
+  - {pais: Spain, patron: "^Segunda División$", etiqueta: "LaLiga Hypermotion", grupo: espana, prioridad: 3}
+  - {pais: Spain, patron: "^La Liga$", etiqueta: "LaLiga EA Sports", grupo: espana, prioridad: 3}
+  - {pais: Spain, patron: "^Copa del Rey$", etiqueta: "Copa del Rey", grupo: espana, prioridad: 3}
+  - {pais: World, patron: "^UEFA Champions League$", etiqueta: "Champions League", grupo: internacional, prioridad: 3}
+  - {pais: World, patron: "^UEFA Nations League$", etiqueta: "Nations League", grupo: internacional, prioridad: 3}
+  - {pais: England, patron: "^Premier League$", etiqueta: "Premier League", grupo: internacional, prioridad: 3}
+  - {pais: Italy, patron: "^Serie A$", etiqueta: "Serie A", grupo: internacional, prioridad: 3}
+  - {pais: Germany, patron: "^Bundesliga$", etiqueta: "Bundesliga", grupo: internacional, prioridad: 3}
+  - {pais: France, patron: "^Ligue 1$", etiqueta: "Ligue 1", grupo: internacional, prioridad: 3}
+  - {pais: Portugal, patron: "^Primeira Liga$|^Liga Portugal$|^Liga Portugal Betclic", etiqueta: "Liga Portugal", grupo: internacional, prioridad: 3}
+  - {pais: Netherlands, patron: "^Eredivisie$", etiqueta: "Eredivisie", grupo: internacional, prioridad: 3}
+
+# Lo que va delante en la web. Todo lo demás de la lista de arriba sale en "Más fútbol".
+principal: ["Primera Federación", "Segunda Federación", "Tercera Federación"]
+
+# Regionales: los partidos gordos de cada jornada que mandan los corresponsales.
+#   formulario_url → enlace al formulario de Google para corresponsales (sale en la web)
+#   respuestas_csv → la hoja de respuestas en CSV (la hoja tiene que estar compartida: "cualquier persona con el enlace · lector")
+# Cada mañana se leen las respuestas nuevas, se redactan (sin inventar nada) y entran en el PR de la edición.
+regionales:
+  formulario_url: "https://forms.gle/HzTZLtaUDqBGZ2pQ7"
+  respuestas_csv: "https://docs.google.com/spreadsheets/d/1S3w3z_9nHEYlvELhirDM8EUAVwgfCpnBxsljcmiFm7s/export?format=csv"
+  modelo: "claude-haiku-5-5"
+  esfuerzo: "low"
+  max_portada: 6
 
 # Noticias (solo web, carpeta contenido/noticias). Se generan con la edición diaria y van en el mismo PR.
 noticias:
