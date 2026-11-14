@@ -72,7 +72,7 @@ def candidatos_partidos_locos(cronicas: list[dict], fecha: str) -> list[dict]:
     """Partidos con 7 o más goles o 5 o más de diferencia."""
     out = []
     for a in cronicas:
-        if a["fecha"] != fecha or a.get("competicion") in ("Nations League",):
+        if a["fecha"] != fecha:
             continue
         for p in a["partidos"]:
             g = _goles(p)
@@ -208,7 +208,7 @@ def _plantilla_datos(c: dict) -> dict:
 
 def generar_datos(cfg: dict, fecha: str) -> list[str]:
     nc = cfg["noticias"]
-    cronicas = _cronicas()
+    cronicas = [a for a in _cronicas() if a["competicion"] not in nc.get("excluir", [])]
     finde = candidatos_fin_de_semana(cronicas, fecha, nc.get("resumen_fin_de_semana", []))
     otros = sorted(candidatos_partidos_locos(cronicas, fecha) + candidatos_rachas(cronicas, fecha),
                    key=lambda c: -c["puntos"])[: nc.get("max_datos_dia", 3)]
@@ -422,7 +422,13 @@ def generar_fuentes(cfg: dict, fecha: str, prueba: bool = False) -> list[str]:
     if prueba:
         for x in lista[:40]:
             print(" ·", x["medio"], "|", x["titular"])
-        elegidos = [{"id": x["id"], "categoria": "?", "equipo": "?", "etiqueta": "?"} for x in lista[:4]]
+        clave = re.compile(r"nuevo jugador|ficha|entrenador|banquillo|destitu|t[ée]cnico", re.I)
+        elegidos = [{"id": x["id"], "categoria": "?", "equipo": "?", "etiqueta": "?"}
+                    for x in lista if clave.search(x["titular"])][:6]
+        for f in nc.get("fuentes", []):  # diagnóstico: primer elemento en bruto de cada fuente sin titulares
+            if f["nombre"] == "Marca":
+                print(sesion.get(f["url"], headers=UA, timeout=25).text[:1500])
+                break
     else:
         elegidos = _llamar(SISTEMA_ELEGIR, json.dumps({
             "equipos": [f"{e} ({t})" for e, t in sorted(equipos.items())], "titulares": lista}, ensure_ascii=False),
@@ -449,6 +455,7 @@ def generar_fuentes(cfg: dict, fecha: str, prueba: bool = False) -> list[str]:
         if len(texto) < 300 or not url:
             continue
         if prueba:
+            print("    ", texto[:200].replace("\n", " "))
             continue
         try:
             t = _llamar(SISTEMA_REESCRIBIR, json.dumps({"medio": x["medio"], "titular": x["titulo"], "texto": texto},

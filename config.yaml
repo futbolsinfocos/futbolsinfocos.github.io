@@ -52,6 +52,7 @@ noticias:
   activo: true
   modelo: "claude-haiku-5-5"     # modelo barato para las noticias (pedido por Alberto)
   esfuerzo: "low"
+  excluir: ["Copa del Rey", "Nations League"]   # competiciones sin noticias de datos
   max_datos_dia: 3               # A · partidos locos y rachas (de nuestros resultados)
   # A · el lunes (resultados del domingo), un resumen del fin de semana por categoría, con todos sus grupos
   resumen_fin_de_semana: ["LaLiga Hypermotion", "Primera Federación", "Segunda Federación", "Tercera Federación"]
