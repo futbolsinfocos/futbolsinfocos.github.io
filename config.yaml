@@ -41,11 +41,11 @@ principal: ["Primera Federación", "Segunda Federación", "Tercera Federación"]
 
 # Regionales: los partidos gordos de cada jornada que mandan los corresponsales.
 #   formulario_url → enlace al formulario de Google para corresponsales (sale en la web)
-#   respuestas_csv → la hoja de respuestas publicada como CSV (Archivo › Compartir › Publicar en la web › CSV)
+#   respuestas_csv → la hoja de respuestas en CSV (la hoja tiene que estar compartida: "cualquier persona con el enlace · lector")
 # Cada mañana se leen las respuestas nuevas, se redactan (sin inventar nada) y entran en el PR de la edición.
 regionales:
-  formulario_url: ""
-  respuestas_csv: ""
+  formulario_url: "https://forms.gle/HzTZLtaUDqBGZ2pQ7"
+  respuestas_csv: "https://docs.google.com/spreadsheets/d/1S3w3z_9nHEYlvELhirDM8EUAVwgfCpnBxsljcmiFm7s/export?format=csv"
   modelo: "claude-haiku-5-5"
   esfuerzo: "low"
   max_portada: 6
