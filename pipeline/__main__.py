@@ -36,7 +36,10 @@ def generar(cfg: dict, fecha: str, demo: bool):
     else:
         from .fuentes import ApiFootball, recopilar
         api = ApiFootball()
-        paquetes = recopilar(fecha, cfg, api)
+        previos = [json.loads(f.read_text()) for f in (CONTENIDO / "articulos").glob(f"{fecha}-*.json")]
+        conocidos = {p["id"]: p.get("goleadores", []) for a in previos if a.get("tipo") != "previa"
+                     for p in a.get("partidos", []) if p.get("id")}
+        paquetes = recopilar(fecha, cfg, api, conocidos)
         print(f"API-Football: {api.llamadas} llamadas")
     if not paquetes:
         print(f"Sin partidos terminados el {fecha} en las competiciones configuradas.")
@@ -47,9 +50,13 @@ def generar(cfg: dict, fecha: str, demo: bool):
         liga = paq["liga"]
         s = slug(f"{fecha}-{liga['etiqueta']}")
         destino = CONTENIDO / "articulos" / f"{s}.json"
-        if destino.exists():
-            print(f"Ya existe {s}, se salta")
-            continue
+        anterior = json.loads(destino.read_text()) if destino.exists() else None
+        if anterior:
+            ya = {p.get("id") for p in anterior.get("partidos", [])}
+            if {p["id"] for p in paq["partidos"]} <= ya:
+                print(f"Ya existe {s} con todos sus partidos, se salta")
+                continue
+            print(f"{s}: hay partidos nuevos desde la última pasada, se rehace la crónica")
         try:
             texto = redactor.redactar(paq, cfg, demo=demo)
         except Exception as e:  # una competición fallida no tumba el resto
@@ -63,6 +70,8 @@ def generar(cfg: dict, fecha: str, demo: bool):
             "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],
             "partidos": paq["partidos"], "clasificacion": paq["clasificacion"],
         }
+        if anterior:  # conserva lo que ya se publicó en Instagram
+            articulo.update({k: v for k, v in anterior.items() if k.startswith("ig_") or k == "publicado_instagram"})
         destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
         creados.append(s)
         print(f"✔ {liga['etiqueta']}: {texto['titular']}")
@@ -212,6 +221,8 @@ def main():
     g.add_argument("--demo", action="store_true")
     g.add_argument("--sin-previas", action="store_true", help="no escribir las previas del día siguiente")
     sub.add_parser("web")
+    a = sub.add_parser("actualizar", help="mediodía y noche: crónicas de los partidos ya terminados hoy (solo web)")
+    a.add_argument("--fecha", required=True)
     n = sub.add_parser("noticias", help="genera solo las noticias de un día")
     n.add_argument("--fecha", default=(date.today() - timedelta(days=1)).isoformat())
     n.add_argument("--prueba", action="store_true", help="solo comprueba las fuentes, sin IA ni guardar nada")
@@ -241,6 +252,10 @@ def main():
             print(f"ERROR en regionales: {e}", file=sys.stderr)
         from .redes import generar_redes  # plan diario de Instagram: 2 destacados + previa + horarios
         creados += generar_redes(cfg, args.fecha, hoy.isoformat())
+        Path(RAIZ / "data").mkdir(exist_ok=True)
+        (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
+    elif args.orden == "actualizar":
+        creados = generar(cfg, args.fecha, demo=False)
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
     elif args.orden == "noticias":

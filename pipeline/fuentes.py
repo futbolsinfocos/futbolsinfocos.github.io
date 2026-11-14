@@ -143,8 +143,10 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
     }
 
 
-def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
-    """Devuelve un 'paquete' por competición/grupo con partidos, clasificación y goleadores."""
+def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None = None) -> list[dict]:
+    """Devuelve un 'paquete' por competición/grupo con partidos, clasificación y goleadores.
+    conocidos: {id_partido: goleadores} de partidos ya descargados en otra pasada del día (no se repiten llamadas)."""
+    conocidos = conocidos or {}
     ligas = api.resolver_ligas(config["competiciones"])
     print(f"Competiciones encontradas en API-Football: {len(ligas)}")
     for l in ligas:
@@ -159,6 +161,9 @@ def recopilar(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
             continue
         if liga["prioridad"] == 1:
             for p in suyos:
+                if p["id"] in conocidos:
+                    p["goleadores"] = conocidos[p["id"]]
+                    continue
                 if presupuesto <= 0:
                     break
                 try:

@@ -12,6 +12,10 @@ on:
         description: "Solo mandar un post de prueba a Make (para configurar el escenario)"
         type: boolean
         default: false
+      solo_web:
+        description: "Solo actualizar la web, sin publicar en Instagram"
+        type: boolean
+        default: false
   schedule:
     - cron: "0 11,17 * * *"   # reintenta posts pendientes (reparte los del fin de semana)
 
@@ -39,6 +43,7 @@ jobs:
 
   instagram:
     needs: web
+    if: ${{ !inputs.solo_web }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
