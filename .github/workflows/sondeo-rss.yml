@@ -1,0 +1,11 @@
+name: Sondeo RSS (temporal)
+on:
+  push:
+    branches: [claude/project-thread-yvjm5l]
+    paths: [pipeline/_sondeo_rss.py, .github/workflows/sondeo-rss.yml]
+jobs:
+  sondeo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests && python pipeline/_sondeo_rss.py
