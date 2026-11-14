@@ -1,0 +1,60 @@
+{
+  "slug": "2026-11-14-tercera-federacion-grupo-16",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 16",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "La Calzada asalta el campo del Yagüe y el Agoncillo empata con el San Marcial",
+  "entradilla": "La Jornada 11 del Grupo 16 de Tercera Federación dejó una victoria visitante de La Calzada (2-3) ante el Yagüe. El Agoncillo y el San Marcial firmaron tablas (1-1).",
+  "cuerpo_markdown": "La Jornada 11 de la Tercera Federación, Grupo 16, se abrió el sábado 14 de noviembre con dos partidos. Hubo cinco goles en un duelo y reparto de puntos en el otro. Los visitantes no perdieron en ninguno.\n\n## Yagüe 2-3 La Calzada\n\nEl partido más vistoso de la tarde. La Calzada ganó a domicilio por 2-3 al Yagüe en un choque con cinco goles. El encuentro arrancó a las 18:30 y los tres puntos viajaron con el conjunto visitante.\n\n## Agoncillo 1-1 San Marcial\n\nEl Agoncillo y el San Marcial abrieron la jornada a las 17:00. Ninguno logró imponerse y el marcador final fue 1-1. Un punto para cada uno.",
+  "texto_instagram": "⚽ La Calzada gana 2-3 en casa del Yagüe en el partido con más goles de la Jornada 11. El Agoncillo y el San Marcial empatan 1-1 🤝\n\nAgoncillo 1-1 San Marcial\nYagüe 2-3 La Calzada 🔥",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo16",
+    "#Yague",
+    "#LaCalzada",
+    "#Agoncillo",
+    "#SanMarcial",
+    "#FutbolRegional"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-16-1.jpg",
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-16-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617383,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Agoncillo",
+      "visitante": "San Marcial",
+      "escudo_local": "https://media.api-sports.io/football/teams/15323.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26554.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1617391,
+      "fecha": "2026-11-14T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Yagüe",
+      "visitante": "La Calzada",
+      "escudo_local": "https://media.api-sports.io/football/teams/9876.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9867.png",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

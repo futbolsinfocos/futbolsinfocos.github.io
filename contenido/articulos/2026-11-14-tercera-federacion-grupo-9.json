@@ -1,0 +1,42 @@
+{
+  "slug": "2026-11-14-tercera-federacion-grupo-9",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 9",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Málaga II y el Arenas Armilla firman tablas en la Jornada 11",
+  "entradilla": "El filial malagueño y el Arenas Armilla empataron a uno en el partido del sábado de la undécima jornada del Grupo 9 de Tercera Federación.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 9 de Tercera Federación dejó este sábado 14 de noviembre un reparto de puntos. El Málaga II y el Arenas Armilla no pasaron del empate (1-1) en un encuentro que comenzó a las 19:00 horas.\n\n## Málaga II 1-1 Arenas Armilla\n\nIgualdad en el marcador final. Ambos equipos marcaron una vez y se repartieron los puntos. El Málaga II, que jugaba como local, no pudo sumar los tres puntos ante el Arenas Armilla, que se llevó uno en su visita.",
+  "texto_instagram": "⚽ Reparto de puntos en la Jornada 11 del Grupo 9 de Tercera Federación: el Málaga II y el Arenas Armilla empataron a uno 🤝\n\nMálaga II 1-1 Arenas Armilla 📊",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo9",
+    "#MalagaII",
+    "#ArenasArmilla",
+    "#FutbolAndaluz"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-9-1.jpg",
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-9-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615248,
+      "fecha": "2026-11-14T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Málaga II",
+      "visitante": "Arenas Armilla",
+      "escudo_local": "https://media.api-sports.io/football/teams/9752.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20272.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

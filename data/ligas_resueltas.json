@@ -1,26 +1,6 @@
 {
-  "clave": "[{\"etiqueta\": \"LaLiga EA Sports\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^La Liga$\", \"prioridad\": 2}, {\"etiqueta\": \"LaLiga Hypermotion\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Segunda División$\", \"prioridad\": 1}, {\"etiqueta\": \"Primera Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Primera División RFEF\", \"prioridad\": 1}, {\"etiqueta\": \"Segunda Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Segunda División RFEF\", \"prioridad\": 2}, {\"etiqueta\": \"Tercera Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Tercera División RFEF\", \"prioridad\": 3}, {\"etiqueta\": \"Copa del Rey\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Copa del Rey$\", \"prioridad\": 1}, {\"etiqueta\": \"Nations League\", \"grupo\": \"internacional\", \"pais\": \"World\", \"patron\": \"^UEFA Nations League$\", \"prioridad\": 2}, {\"etiqueta\": \"Premier League\", \"grupo\": \"internacional\", \"pais\": \"England\", \"patron\": \"^Premier League$\", \"prioridad\": 2}, {\"etiqueta\": \"Championship\", \"grupo\": \"internacional\", \"pais\": \"England\", \"patron\": \"^Championship$\", \"prioridad\": 1}, {\"etiqueta\": \"League One\", \"grupo\": \"internacional\", \"pais\": \"England\", \"patron\": \"^League One$\", \"prioridad\": 2}, {\"etiqueta\": \"League Two\", \"grupo\": \"internacional\", \"pais\": \"England\", \"patron\": \"^League Two$\", \"prioridad\": 3}, {\"etiqueta\": \"Serie A\", \"grupo\": \"internacional\", \"pais\": \"Italy\", \"patron\": \"^Serie A$\", \"prioridad\": 2}, {\"etiqueta\": \"Serie B\", \"grupo\": \"internacional\", \"pais\": \"Italy\", \"patron\": \"^Serie B$\", \"prioridad\": 1}, {\"etiqueta\": \"Serie C\", \"grupo\": \"internacional\", \"pais\": \"Italy\", \"patron\": \"^Serie C\", \"prioridad\": 3}, {\"etiqueta\": \"Bundesliga\", \"grupo\": \"internacional\", \"pais\": \"Germany\", \"patron\": \"^Bundesliga$\", \"prioridad\": 2}, {\"etiqueta\": \"2. Bundesliga\", \"grupo\": \"internacional\", \"pais\": \"Germany\", \"patron\": \"^2\\\\. Bundesliga$\", \"prioridad\": 1}, {\"etiqueta\": \"3. Liga\", \"grupo\": \"internacional\", \"pais\": \"Germany\", \"patron\": \"^3\\\\. Liga$\", \"prioridad\": 2}, {\"etiqueta\": \"Ligue 1\", \"grupo\": \"internacional\", \"pais\": \"France\", \"patron\": \"^Ligue 1$\", \"prioridad\": 2}, {\"etiqueta\": \"Ligue 2\", \"grupo\": \"internacional\", \"pais\": \"France\", \"patron\": \"^Ligue 2$\", \"prioridad\": 1}, {\"etiqueta\": \"National\", \"grupo\": \"internacional\", \"pais\": \"France\", \"patron\": \"^National 1$|^National$\", \"prioridad\": 3}, {\"etiqueta\": \"Liga Portugal\", \"grupo\": \"internacional\", \"pais\": \"Portugal\", \"patron\": \"^Primeira Liga$|^Liga Portugal$|^Liga Portugal Betclic\", \"prioridad\": 2}, {\"etiqueta\": \"Liga Portugal 2\", \"grupo\": \"internacional\", \"pais\": \"Portugal\", \"patron\": \"^Segunda Liga$|^Liga Portugal 2\", \"prioridad\": 2}, {\"etiqueta\": \"Eredivisie\", \"grupo\": \"internacional\", \"pais\": \"Netherlands\", \"patron\": \"^Eredivisie$\", \"prioridad\": 2}, {\"etiqueta\": \"Eerste Divisie\", \"grupo\": \"internacional\", \"pais\": \"Netherlands\", \"patron\": \"^Eerste Divisie$\", \"prioridad\": 2}]",
+  "clave": "[{\"etiqueta\": \"Primera Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Primera División RFEF\", \"prioridad\": 1}, {\"etiqueta\": \"Segunda Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Segunda División RFEF\", \"prioridad\": 1}, {\"etiqueta\": \"Tercera Federación\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Tercera División RFEF\", \"prioridad\": 2}, {\"etiqueta\": \"LaLiga Hypermotion\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Segunda División$\", \"prioridad\": 3}, {\"etiqueta\": \"LaLiga EA Sports\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^La Liga$\", \"prioridad\": 3}, {\"etiqueta\": \"Copa del Rey\", \"grupo\": \"espana\", \"pais\": \"Spain\", \"patron\": \"^Copa del Rey$\", \"prioridad\": 3}, {\"etiqueta\": \"Champions League\", \"grupo\": \"internacional\", \"pais\": \"World\", \"patron\": \"^UEFA Champions League$\", \"prioridad\": 3}, {\"etiqueta\": \"Nations League\", \"grupo\": \"internacional\", \"pais\": \"World\", \"patron\": \"^UEFA Nations League$\", \"prioridad\": 3}, {\"etiqueta\": \"Premier League\", \"grupo\": \"internacional\", \"pais\": \"England\", \"patron\": \"^Premier League$\", \"prioridad\": 3}, {\"etiqueta\": \"Serie A\", \"grupo\": \"internacional\", \"pais\": \"Italy\", \"patron\": \"^Serie A$\", \"prioridad\": 3}, {\"etiqueta\": \"Bundesliga\", \"grupo\": \"internacional\", \"pais\": \"Germany\", \"patron\": \"^Bundesliga$\", \"prioridad\": 3}, {\"etiqueta\": \"Ligue 1\", \"grupo\": \"internacional\", \"pais\": \"France\", \"patron\": \"^Ligue 1$\", \"prioridad\": 3}, {\"etiqueta\": \"Liga Portugal\", \"grupo\": \"internacional\", \"pais\": \"Portugal\", \"patron\": \"^Primeira Liga$|^Liga Portugal$|^Liga Portugal Betclic\", \"prioridad\": 3}, {\"etiqueta\": \"Eredivisie\", \"grupo\": \"internacional\", \"pais\": \"Netherlands\", \"patron\": \"^Eredivisie$\", \"prioridad\": 3}]",
   "ligas": [
-    {
-      "id": 140,
-      "nombre_api": "La Liga",
-      "temporada": 2026,
-      "etiqueta": "LaLiga EA Sports",
-      "competicion": "LaLiga EA Sports",
-      "grupo": "espana",
-      "prioridad": 2,
-      "pais": "Spain"
-    },
-    {
-      "id": 141,
-      "nombre_api": "Segunda División",
-      "temporada": 2026,
-      "etiqueta": "LaLiga Hypermotion",
-      "competicion": "LaLiga Hypermotion",
-      "grupo": "espana",
-      "prioridad": 1,
-      "pais": "Spain"
-    },
     {
       "id": 435,
       "nombre_api": "Primera División RFEF - Group 1",
@@ -48,7 +28,7 @@
       "etiqueta": "Segunda Federación · Grupo 1",
       "competicion": "Segunda Federación",
       "grupo": "espana",
-      "prioridad": 2,
+      "prioridad": 1,
       "pais": "Spain"
     },
     {
@@ -58,7 +38,7 @@
       "etiqueta": "Segunda Federación · Grupo 2",
       "competicion": "Segunda Federación",
       "grupo": "espana",
-      "prioridad": 2,
+      "prioridad": 1,
       "pais": "Spain"
     },
     {
@@ -68,7 +48,7 @@
       "etiqueta": "Segunda Federación · Grupo 3",
       "competicion": "Segunda Federación",
       "grupo": "espana",
-      "prioridad": 2,
+      "prioridad": 1,
       "pais": "Spain"
     },
     {
@@ -78,7 +58,7 @@
       "etiqueta": "Segunda Federación · Grupo 4",
       "competicion": "Segunda Federación",
       "grupo": "espana",
-      "prioridad": 2,
+      "prioridad": 1,
       "pais": "Spain"
     },
     {
@@ -88,7 +68,7 @@
       "etiqueta": "Segunda Federación · Grupo 5",
       "competicion": "Segunda Federación",
       "grupo": "espana",
-      "prioridad": 2,
+      "prioridad": 1,
       "pais": "Spain"
     },
     {
@@ -98,7 +78,7 @@
       "etiqueta": "Tercera Federación · Grupo 1",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -108,7 +88,7 @@
       "etiqueta": "Tercera Federación · Grupo 2",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -118,7 +98,7 @@
       "etiqueta": "Tercera Federación · Grupo 3",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -128,7 +108,7 @@
       "etiqueta": "Tercera Federación · Grupo 4",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -138,7 +118,7 @@
       "etiqueta": "Tercera Federación · Grupo 5",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -148,7 +128,7 @@
       "etiqueta": "Tercera Federación · Grupo 6",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -158,7 +138,7 @@
       "etiqueta": "Tercera Federación · Grupo 7",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -168,7 +148,7 @@
       "etiqueta": "Tercera Federación · Grupo 8",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -178,7 +158,7 @@
       "etiqueta": "Tercera Federación · Grupo 9",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -188,7 +168,7 @@
       "etiqueta": "Tercera Federación · Grupo 10",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -198,7 +178,7 @@
       "etiqueta": "Tercera Federación · Grupo 11",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -208,7 +188,7 @@
       "etiqueta": "Tercera Federación · Grupo 12",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -218,7 +198,7 @@
       "etiqueta": "Tercera Federación · Grupo 13",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -228,7 +208,7 @@
       "etiqueta": "Tercera Federación · Grupo 14",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -238,7 +218,7 @@
       "etiqueta": "Tercera Federación · Grupo 15",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -248,7 +228,7 @@
       "etiqueta": "Tercera Federación · Grupo 16",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -258,7 +238,7 @@
       "etiqueta": "Tercera Federación · Grupo 17",
       "competicion": "Tercera Federación",
       "grupo": "espana",
-      "prioridad": 3,
+      "prioridad": 2,
       "pais": "Spain"
     },
     {
@@ -267,6 +247,26 @@
       "temporada": 2026,
       "etiqueta": "Tercera Federación · Grupo 18",
       "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "pais": "Spain"
+    },
+    {
+      "id": 141,
+      "nombre_api": "Segunda División",
+      "temporada": 2026,
+      "etiqueta": "LaLiga Hypermotion",
+      "competicion": "LaLiga Hypermotion",
+      "grupo": "espana",
+      "prioridad": 3,
+      "pais": "Spain"
+    },
+    {
+      "id": 140,
+      "nombre_api": "La Liga",
+      "temporada": 2026,
+      "etiqueta": "LaLiga EA Sports",
+      "competicion": "LaLiga EA Sports",
       "grupo": "espana",
       "prioridad": 3,
       "pais": "Spain"
@@ -278,8 +278,18 @@
       "etiqueta": "Copa del Rey",
       "competicion": "Copa del Rey",
       "grupo": "espana",
-      "prioridad": 1,
+      "prioridad": 3,
       "pais": "Spain"
+    },
+    {
+      "id": 2,
+      "nombre_api": "UEFA Champions League",
+      "temporada": 2026,
+      "etiqueta": "Champions League",
+      "competicion": "Champions League",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "pais": "World"
     },
     {
       "id": 5,
@@ -288,7 +298,7 @@
       "etiqueta": "Nations League",
       "competicion": "Nations League",
       "grupo": "internacional",
-      "prioridad": 2,
+      "prioridad": 3,
       "pais": "World"
     },
     {
@@ -297,36 +307,6 @@
       "temporada": 2026,
       "etiqueta": "Premier League",
       "competicion": "Premier League",
-      "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "England"
-    },
-    {
-      "id": 40,
-      "nombre_api": "Championship",
-      "temporada": 2026,
-      "etiqueta": "Championship",
-      "competicion": "Championship",
-      "grupo": "internacional",
-      "prioridad": 1,
-      "pais": "England"
-    },
-    {
-      "id": 41,
-      "nombre_api": "League One",
-      "temporada": 2026,
-      "etiqueta": "League One",
-      "competicion": "League One",
-      "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "England"
-    },
-    {
-      "id": 42,
-      "nombre_api": "League Two",
-      "temporada": 2026,
-      "etiqueta": "League Two",
-      "competicion": "League Two",
       "grupo": "internacional",
       "prioridad": 3,
       "pais": "England"
@@ -338,46 +318,6 @@
       "etiqueta": "Serie A",
       "competicion": "Serie A",
       "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "Italy"
-    },
-    {
-      "id": 136,
-      "nombre_api": "Serie B",
-      "temporada": 2026,
-      "etiqueta": "Serie B",
-      "competicion": "Serie B",
-      "grupo": "internacional",
-      "prioridad": 1,
-      "pais": "Italy"
-    },
-    {
-      "id": 138,
-      "nombre_api": "Serie C - Girone A",
-      "temporada": 2026,
-      "etiqueta": "Serie C · Girone A",
-      "competicion": "Serie C",
-      "grupo": "internacional",
-      "prioridad": 3,
-      "pais": "Italy"
-    },
-    {
-      "id": 942,
-      "nombre_api": "Serie C - Girone B",
-      "temporada": 2026,
-      "etiqueta": "Serie C · Girone B",
-      "competicion": "Serie C",
-      "grupo": "internacional",
-      "prioridad": 3,
-      "pais": "Italy"
-    },
-    {
-      "id": 943,
-      "nombre_api": "Serie C - Girone C",
-      "temporada": 2026,
-      "etiqueta": "Serie C · Girone C",
-      "competicion": "Serie C",
-      "grupo": "internacional",
       "prioridad": 3,
       "pais": "Italy"
     },
@@ -388,27 +328,7 @@
       "etiqueta": "Bundesliga",
       "competicion": "Bundesliga",
       "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "Germany"
-    },
-    {
-      "id": 79,
-      "nombre_api": "2. Bundesliga",
-      "temporada": 2026,
-      "etiqueta": "2. Bundesliga",
-      "competicion": "2. Bundesliga",
-      "grupo": "internacional",
-      "prioridad": 1,
-      "pais": "Germany"
-    },
-    {
-      "id": 80,
-      "nombre_api": "3. Liga",
-      "temporada": 2026,
-      "etiqueta": "3. Liga",
-      "competicion": "3. Liga",
-      "grupo": "internacional",
-      "prioridad": 2,
+      "prioridad": 3,
       "pais": "Germany"
     },
     {
@@ -418,17 +338,7 @@
       "etiqueta": "Ligue 1",
       "competicion": "Ligue 1",
       "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "France"
-    },
-    {
-      "id": 62,
-      "nombre_api": "Ligue 2",
-      "temporada": 2026,
-      "etiqueta": "Ligue 2",
-      "competicion": "Ligue 2",
-      "grupo": "internacional",
-      "prioridad": 1,
+      "prioridad": 3,
       "pais": "France"
     },
     {
@@ -438,17 +348,7 @@
       "etiqueta": "Liga Portugal",
       "competicion": "Liga Portugal",
       "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "Portugal"
-    },
-    {
-      "id": 95,
-      "nombre_api": "Segunda Liga",
-      "temporada": 2026,
-      "etiqueta": "Liga Portugal 2",
-      "competicion": "Liga Portugal 2",
-      "grupo": "internacional",
-      "prioridad": 2,
+      "prioridad": 3,
       "pais": "Portugal"
     },
     {
@@ -458,17 +358,7 @@
       "etiqueta": "Eredivisie",
       "competicion": "Eredivisie",
       "grupo": "internacional",
-      "prioridad": 2,
-      "pais": "Netherlands"
-    },
-    {
-      "id": 89,
-      "nombre_api": "Eerste Divisie",
-      "temporada": 2026,
-      "etiqueta": "Eerste Divisie",
-      "competicion": "Eerste Divisie",
-      "grupo": "internacional",
-      "prioridad": 2,
+      "prioridad": 3,
       "pais": "Netherlands"
     }
   ]

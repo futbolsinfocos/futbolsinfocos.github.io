@@ -1,0 +1,60 @@
+{
+  "slug": "2026-11-14-tercera-federacion-grupo-7",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 7",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Fuenlabrada gana 4-2 al Cala Pozuelo y el Leganés II golea en Alcobendas",
+  "entradilla": "La Jornada 11 del Grupo 7 de Tercera Federación dejó dos victorias claras este sábado. El Fuenlabrada superó 4-2 al Cala Pozuelo y el Leganés II ganó 0-3 en el campo del Alcobendas Sport.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 7 de Tercera Federación arrancó el sábado 14 de noviembre con dos partidos y nueve goles. El duelo más abierto se vivió en Fuenlabrada. El triunfo más contundente fue a domicilio, obra del Leganés II.\n\n## Fuenlabrada 4-2 Cala Pozuelo\n\nPartido de ida y vuelta en el Estadio Fernando Torres. El Fuenlabrada marcó cuatro goles y se llevó los tres puntos ante un Cala Pozuelo que hizo dos. Seis goles en total, el encuentro con más tantos de la jornada.\n\n## Alcobendas Sport 0-3 Leganés II\n\nEl filial pepinero firmó una victoria clara lejos de casa. El Leganés II dejó la portería a cero y marcó tres veces ante el Alcobendas Sport, que no logró ver puerta.",
+  "texto_instagram": "⚽ Jornada 11 en el Grupo 7 de Tercera Federación: el Fuenlabrada gana 4-2 al Cala Pozuelo y el Leganés II golea 0-3 a domicilio 🔥\n\nAlcobendas Sport 0-3 Leganés II\nFuenlabrada 4-2 Cala Pozuelo 📊",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo7",
+    "#Fuenlabrada",
+    "#CalaPozuelo",
+    "#LeganésII",
+    "#AlcobendasSport",
+    "#FútbolMadrileño"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-7-1.jpg",
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-7-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614634,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Alcobendas Sport",
+      "visitante": "Leganés II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9705.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9710.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1614633,
+      "fecha": "2026-11-14T18:00:00+01:00",
+      "estadio": "Estadio Fernando Torres",
+      "ciudad": "Fuenlabrada",
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Fuenlabrada",
+      "visitante": "Cala Pozuelo",
+      "escudo_local": "https://media.api-sports.io/football/teams/4906.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24709.png",
+      "goles_local": 4,
+      "goles_visitante": 2,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

@@ -1,0 +1,208 @@
+{
+  "slug": "2026-11-14-primera-federacion-grupo-1",
+  "fecha": "2026-11-14",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Coria golea al Unionistas y el Mérida asalta O Couto en la Jornada 12",
+  "entradilla": "El CD Coria firmó un 4-2 ante Unionistas de Salamanca y el Mérida AD sentenció en Ourense con tres goles antes del descanso. El Real Unión ganó por la mínima y el Barakaldo vio cómo se le escapaba la victoria en el 89.",
+  "cuerpo_markdown": "Sábado intenso en el Grupo 1 de Primera Federación. Cinco partidos de la Jornada 12 dejaron 15 goles, dos victorias locales, una visitante y dos empates. El partido más goleador se vivió en Coria.\n\n## CD Coria 4-2 Unionistas de Salamanca\n\nEl Coria encarriló el partido pronto. A. Lopez-Vadillo marcó en el 6 e I. Ramos amplió en el 32. P. Ferrer recortó para Unionistas en el 65, pero la reacción local fue inmediata: D. Morcillo hizo el 3-1 en el 72 y R. Nunez el 4-1 en el 75. A. Gomez maquilló el marcador de penalti en el 89.\n\n## UD Ourense 1-3 Mérida AD\n\nEl Mérida AD resolvió en ocho minutos. S. Hallsson abrió el marcador en el 37, D. Sandoval firmó el segundo en el 41 y Kone el tercero en el 45. D. Tejon marcó para el UD Ourense en el 79.\n\n## Deportivo La Coruña II 2-2 Barakaldo\n\nPartido de ida y vuelta en Abegondo. K. Sanchez adelantó al filial deportivista en el 13. El Barakaldo le dio la vuelta con goles de M. Ruiz en el 22 y C. Mattheus en el 69. Cuando parecía que los tres puntos viajaban, N. Carrillo empató en el 89.\n\n## Real Unión 1-0 Cultural Leonesa\n\nEn el Stadium Gal, un gol de A. Galarza nada más empezar la segunda parte, en el 47, bastó para que el Real Unión se quedase los tres puntos.\n\n## Athletic Club II 0-0 Racing de Ferrol\n\nEn Lezama no hubo goles. Athletic Club II y Racing de Ferrol se repartieron los puntos.",
+  "texto_instagram": "⚽ Jornada 12 de Primera Federación (Grupo 1): el CD Coria golea 4-2 al Unionistas y el Mérida AD gana 1-3 en O Couto con tres goles antes del descanso. 🔥 El Depor II rescata el empate ante el Barakaldo en el 89.\n\nAthletic Club II 0-0 Racing de Ferrol\nReal Unión 1-0 Cultural Leonesa: A. Galarza (47')\nUD Ourense 1-3 Mérida AD: S. Hallsson (37'), D. Sandoval (41'), Kone (45'); D. Tejon (79')\nCD Coria 4-2 Unionistas de Salamanca: A. Lopez-Vadillo (6'), I. Ramos (32'), D. Morcillo (72'), R. Nunez (75'); P. Ferrer (65'), A. Gomez (89' pen.)\nDeportivo La Coruña II 2-2 Barakaldo: K. Sanchez (13'), N. Carrillo (89'); M. Ruiz (22'), C. Mattheus (69') 📊",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#PrimeraRFEF",
+    "#Grupo1",
+    "#CDCoria",
+    "#Unionistas",
+    "#MeridaAD",
+    "#UDOurense",
+    "#RealUnion",
+    "#CulturalLeonesa",
+    "#Barakaldo",
+    "#RacingDeFerrol",
+    "#FutbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-1-1.jpg",
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-1-2.jpg",
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-1-3.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570826,
+      "fecha": "2026-11-14T13:00:00+01:00",
+      "estadio": "Lezama Facilities",
+      "ciudad": "Lezama",
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "Athletic Club II",
+      "visitante": "Racing de Ferrol",
+      "escudo_local": "https://media.api-sports.io/football/teams/9579.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9409.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1570832,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Stadium Gal",
+      "ciudad": "Irun",
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "Real Unión",
+      "visitante": "Cultural Leonesa",
+      "escudo_local": "https://media.api-sports.io/football/teams/9586.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/725.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 47,
+          "equipo": "Real Unión",
+          "jugador": "A. Galarza",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1570834,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Estadio de O Couto",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "UD Ourense",
+      "visitante": "Mérida AD",
+      "escudo_local": "https://media.api-sports.io/football/teams/9617.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/10140.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 37,
+          "equipo": "Mérida AD",
+          "jugador": "S. Hallsson",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 41,
+          "equipo": "Mérida AD",
+          "jugador": "D. Sandoval",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Mérida AD",
+          "jugador": "Kone",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 79,
+          "equipo": "UD Ourense",
+          "jugador": "D. Tejon",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1570827,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": "Estadio La Isla",
+      "ciudad": "Coria",
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "CD Coria",
+      "visitante": "Unionistas de Salamanca",
+      "escudo_local": "https://media.api-sports.io/football/teams/9827.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5281.png",
+      "goles_local": 4,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "CD Coria",
+          "jugador": "A. Lopez-Vadillo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 32,
+          "equipo": "CD Coria",
+          "jugador": "I. Ramos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 65,
+          "equipo": "Unionistas de Salamanca",
+          "jugador": "P. Ferrer",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 72,
+          "equipo": "CD Coria",
+          "jugador": "D. Morcillo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 75,
+          "equipo": "CD Coria",
+          "jugador": "R. Nunez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Unionistas de Salamanca",
+          "jugador": "A. Gomez",
+          "tipo": "Penalty"
+        }
+      ]
+    },
+    {
+      "id": 1570829,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": "Ciudad Deportiva de Abegondo",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 435,
+      "local": "Deportivo La Coruña II",
+      "visitante": "Barakaldo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9610.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5251.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 13,
+          "equipo": "Deportivo La Coruña II",
+          "jugador": "K. Sanchez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 22,
+          "equipo": "Barakaldo",
+          "jugador": "M. Ruiz",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 69,
+          "equipo": "Barakaldo",
+          "jugador": "C. Mattheus",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Deportivo La Coruña II",
+          "jugador": "N. Carrillo",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "2026-11-14-segunda-federacion-grupo-4",
+  "fecha": "2026-11-14",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Betis II asalta El Palmar con un gol de C. Macias en el 82",
+  "entradilla": "El filial verdiblanco se impuso 0-1 al Sanluqueño en la Jornada 11 de la Segunda Federación, Grupo 4. Un solo tanto, a ocho minutos del final, decidió el duelo andaluz.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 4 de Segunda Federación dejó un duelo andaluz en el Estadio El Palmar. El Real Betis II se llevó los tres puntos ante el Sanluqueño por la mínima. El partido se resolvió en el tramo final.\n\n## Sanluqueño 0-1 Real Betis II\n\nEl marcador estuvo cerrado durante más de ochenta minutos. En el 82, C. Macias rompió la igualdad para el filial bético. El Sanluqueño no encontró respuesta en los últimos minutos y el 0-1 fue definitivo.\n\nEl Real Betis II suma así una victoria a domicilio en El Palmar. El Sanluqueño cede los puntos en su campo.",
+  "texto_instagram": "⚽ El Real Betis II gana en El Palmar con un gol tardío de C. Macias en la Jornada 11 de Segunda Federación, Grupo 4 🟢⚪\n\nSanluqueño 0-1 Real Betis II: C. Macias (82') 🔥",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Sanluqueño",
+    "#BetisDeportivo",
+    "#RealBetis",
+    "#FutbolAndaluz"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-segunda-federacion-grupo-4-1.jpg",
+    "img/2026-11-14/2026-11-14-segunda-federacion-grupo-4-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573042,
+      "fecha": "2026-11-14T18:00:00+01:00",
+      "estadio": "Estadio El Palmar",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 878,
+      "local": "Sanluqueño",
+      "visitante": "Real Betis II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9601.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9765.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 82,
+          "equipo": "Real Betis II",
+          "jugador": "C. Macias",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}

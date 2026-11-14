@@ -1,0 +1,43 @@
+{
+  "slug": "2026-11-14-tercera-federacion-grupo-5",
+  "fecha": "2026-11-14",
+  "etiqueta": "Tercera Federación · Grupo 5",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Atlètic Lleida golea 5-0 al Martinenc en la Jornada 11",
+  "entradilla": "El Atlètic Lleida firmó una goleada contundente ante el Martinenc en la Jornada 11 de la Tercera Federación, Grupo 5. Cinco goles y portería a cero.",
+  "cuerpo_markdown": "La Jornada 11 de la Tercera Federación, Grupo 5, dejó un resultado rotundo este sábado 14 de noviembre. El Atlètic Lleida se impuso por 5-0 al Martinenc en un partido sin discusión en el marcador.\n\n## Atlètic Lleida 5-0 Martinenc\n\nEl choque arrancó a las 17:00. El Atlètic Lleida hizo valer su condición de local y castigó al Martinenc con cinco goles. El equipo visitante no logró marcar. Una goleada en toda regla que deja claro el dominio local en el marcador.",
+  "texto_instagram": "⚽ Goleada en la Jornada 11 de la Tercera Federación, Grupo 5: el Atlètic Lleida arrolla al Martinenc con un contundente 5-0 🔥\n\nAtlètic Lleida 5-0 Martinenc 💪",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo5",
+    "#AtleticLleida",
+    "#Martinenc",
+    "#FutbolCatalan",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-5-1.jpg",
+    "img/2026-11-14/2026-11-14-tercera-federacion-grupo-5-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614017,
+      "fecha": "2026-11-14T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Atlètic Lleida",
+      "visitante": "Martinenc",
+      "escudo_local": "https://media.api-sports.io/football/teams/24574.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28101.png",
+      "goles_local": 5,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": []
+}

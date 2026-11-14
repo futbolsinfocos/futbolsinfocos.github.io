@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-14-primera-federacion-grupo-2",
+  "fecha": "2026-11-14",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Sant Andreu y Águilas ganan fuera; el Hércules rescata un empate en el 90",
+  "entradilla": "Cuatro partidos del sábado en la Jornada 12 del Grupo 2 de Primera Federación. Dos victorias visitantes, un triunfo local del Juventud Torremolinos ante el Huesca y un empate a dos en Alicante.",
+  "cuerpo_markdown": "La Jornada 12 del Grupo 2 de Primera Federación arrancó el sábado con cuatro partidos. Los visitantes mandaron: el Sant Andreu ganó 0-2 al Europa Fc y el Águilas se impuso 0-1 en Majadahonda. El Juventud Torremolinos tumbó al Huesca con un gol tardío. Y el Hércules salvó un punto ante el Villarreal II con un penalti en el 90.\n\n## Hércules 2-2 Villarreal II\n\nPartido de ida y vuelta en Alicante. El Villarreal II golpeó primero con el gol de N. El Jmili en el 45. El Hércules empató de penalti en el 66 por medio de V. Narro. Dos minutos después, N. Barattucci volvió a adelantar al filial. Cuando el partido se escapaba, A. Toril transformó otro penalti en el 90 para el 2-2 final.\n\n## Europa Fc 0-2 Sant Andreu\n\nEn el RCDE Stadium, A. G. Garcia firmó un doblete. Marcó en el 65 y sentenció en el 84.\n\n## Juventud Torremolinos 1-0 Huesca\n\nEn El Pozuelo, el tanto de I. Matiti en el 84 decidió el duelo y dio los tres puntos al Juventud Torremolinos.\n\n## Rayo Majadahonda 0-1 Águilas\n\nEn el Cerro del Espino, un gol de J. Raigal en el 69 bastó para que el Águilas se llevara la victoria.",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 2 de Primera Federación: doblete de A. G. Garcia para el Sant Andreu y empate in extremis del Hércules con un penalti en el 90 🔥\n\nRayo Majadahonda 0-1 Águilas: J. Raigal (69')\nEuropa Fc 0-2 Sant Andreu: A. G. Garcia (65', 84')\nHércules 2-2 Villarreal II: N. El Jmili (45'), V. Narro (66', pen.), N. Barattucci (68'), A. Toril (90', pen.)\nJuventud Torremolinos 1-0 Huesca: I. Matiti (84') 📊",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#PrimeraRFEF",
+    "#Grupo2",
+    "#Hercules",
+    "#SantAndreu",
+    "#Aguilas",
+    "#JuventudTorremolinos",
+    "#Huesca",
+    "#VillarrealII",
+    "#RayoMajadahonda",
+    "#EuropaFC"
+  ],
+  "imagenes": [
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-2-1.jpg",
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-2-2.jpg",
+    "img/2026-11-14/2026-11-14-primera-federacion-grupo-2-3.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1571213,
+      "fecha": "2026-11-14T16:30:00+01:00",
+      "estadio": "Estadio Cerro del Espino",
+      "ciudad": "Majadahonda",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Rayo Majadahonda",
+      "visitante": "Águilas",
+      "escudo_local": "https://media.api-sports.io/football/teams/861.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9823.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 69,
+          "equipo": "Águilas",
+          "jugador": "J. Raigal",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1571208,
+      "fecha": "2026-11-14T18:30:00+01:00",
+      "estadio": "RCDE Stadium",
+      "ciudad": "Cornella de Llobregat",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Europa Fc",
+      "visitante": "Sant Andreu",
+      "escudo_local": "https://media.api-sports.io/football/teams/593.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5277.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 65,
+          "equipo": "Sant Andreu",
+          "jugador": "A. G. Garcia",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 84,
+          "equipo": "Sant Andreu",
+          "jugador": "A. G. Garcia",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1571210,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": null,
+      "ciudad": "Alicante",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Hércules",
+      "visitante": "Villarreal II",
+      "escudo_local": "https://media.api-sports.io/football/teams/4666.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9595.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "Villarreal II",
+          "jugador": "N. El Jmili",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 66,
+          "equipo": "Hércules",
+          "jugador": "V. Narro",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 68,
+          "equipo": "Villarreal II",
+          "jugador": "N. Barattucci",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Hércules",
+          "jugador": "A. Toril",
+          "tipo": "Penalty"
+        }
+      ]
+    },
+    {
+      "id": 1571214,
+      "fecha": "2026-11-14T18:45:00+01:00",
+      "estadio": "Estadio Municipal El Pozuelo",
+      "ciudad": "Torremolinos",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Juventud Torremolinos",
+      "visitante": "Huesca",
+      "escudo_local": "https://media.api-sports.io/football/teams/15359.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/726.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 84,
+          "equipo": "Juventud Torremolinos",
+          "jugador": "I. Matiti",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}
