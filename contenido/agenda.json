@@ -13,8 +13,8 @@
           "jornada": "Regular Season - 14",
           "local": "Valladolid",
           "visitante": "Castellón",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 0,
+          "goles_visitante": 0
         },
         {
           "id": 1570022,
@@ -71,8 +71,8 @@
           "jornada": "Group 1 - 12",
           "local": "Athletic Club II",
           "visitante": "Racing de Ferrol",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 0,
+          "goles_visitante": 0
         },
         {
           "id": 1570832,
@@ -585,8 +585,8 @@
           "jornada": "Regular Season - 15",
           "local": "Exeter City",
           "visitante": "Cheltenham",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 0,
+          "goles_visitante": 0
         },
         {
           "id": 1563851,
@@ -941,8 +941,8 @@
           "jornada": "Group 12 - 11",
           "local": "Real Unión de Tenerife",
           "visitante": "Mensajero",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 2,
+          "goles_visitante": 1
         },
         {
           "id": 1616163,
@@ -951,8 +951,8 @@
           "jornada": "Group 12 - 11",
           "local": "Panadería Pulido",
           "visitante": "San Bartolomé",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 1,
+          "goles_visitante": 1
         },
         {
           "id": 1616166,
@@ -961,8 +961,8 @@
           "jornada": "Group 12 - 11",
           "local": "Playas Sotavento",
           "visitante": "Lanzarote",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 1,
+          "goles_visitante": 0
         },
         {
           "id": 1616167,
@@ -971,8 +971,8 @@
           "jornada": "Group 12 - 11",
           "local": "Unión Sur Yaiza",
           "visitante": "Estrella",
-          "goles_local": null,
-          "goles_visitante": null
+          "goles_local": 2,
+          "goles_visitante": 1
         },
         {
           "id": 1616160,
