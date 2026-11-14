@@ -82,7 +82,10 @@ def candidatos_partidos_locos(cronicas: list[dict], fecha: str) -> list[dict]:
             if total >= 7 or dif >= 5:
                 out.append({"clave": f"loco-{p['id']}", "tipo": "partido_loco", "puntos": total + dif + 10,
                             "etiqueta": a["etiqueta"], "competicion": a["competicion"], "grupo": a["grupo"],
-                            "datos": {"partido": _partido(p, a), "goles_totales": total, "diferencia": dif}})
+                            "datos": {"partido": _partido(p, a), "goles_totales": total, "diferencia": dif,
+                                      "otros_partidos_del_grupo_ese_dia": [
+                                          f'{es(o["local"])} {o["goles_local"]}-{o["goles_visitante"]} {es(o["visitante"])}'
+                                          for o in a["partidos"] if o["id"] != p["id"] and _goles(o)]}})
     return out
 
 
@@ -173,6 +176,11 @@ Normas estrictas:
 puntos, contexto histórico o cualquier dato que no esté.
 - Nombres de equipos y jugadores tal cual vienen.
 - Nada de clichés ni relleno ("el balón echa a rodar", "noche mágica", "duelo de alto voltaje"…).
+- Nunca digas qué datos faltan ni los menciones ("no constan los goleadores", "se desconoce el estadio"): \
+simplemente no hables de ellos. Nada de frases obvias como "el empate deja el reparto de puntos".
+- Si hay pocos datos, escribe solo 1-2 párrafos. Mejor corta que hinchada.
+- Si vienen "otros_partidos_del_grupo_ese_dia", puedes usarlos para dar contexto (por ejemplo, el total de goles \
+del día en el grupo).
 - Si el JSON trae un "aviso", respétalo: por ejemplo, di "en los partidos que lleva registrados este diario" \
 si la racha puede ser más larga.
 - titular: informativo, máx. 90 caracteres, sin exclamaciones ni preguntas.
@@ -346,6 +354,9 @@ nuevo técnico) de un club de esas categorías.
 crónicas, declaraciones y opinión.
 - No es de Primera División (LaLiga EA Sports) ni de fútbol femenino o base, salvo que el protagonista llegue \
 o salga de un club de nuestras categorías.
+- El titular anuncia el HECHO en sí: la llegada, la salida, el cese o el nombramiento. Descarta piezas \
+sobre el debut o la presentación de alguien ya fichado, ruedas de prensa, previas de partido y declaraciones, \
+aunque hablen de un entrenador nuevo.
 - Si varios titulares cuentan el mismo hecho, elige solo uno (el del medio más cercano al club).
 
 Para cada elegido indica: id, categoria ("Fichajes" o "Banquillos"), equipo (nombre del club tal como aparece \
@@ -376,7 +387,8 @@ dijo alguien, resúmelo en estilo indirecto, sin comillas.
 - titular: informativo, máx. 90 caracteres, sin exclamaciones.
 - entradilla: 1-2 frases con el hecho principal.
 - parrafos: 1 a 4 párrafos.
-- valida: false si el texto original no confirma de forma oficial el fichaje o el cambio de entrenador \
+- valida: false si el tema principal del texto no es el anuncio en sí (por ejemplo, es la previa del debut \
+de un entrenador, una rueda de prensa o declaraciones), o si el texto original no confirma de forma oficial el fichaje o el cambio de entrenador \
 (es un rumor, una opinión, o el texto no trata de eso). En ese caso el resto puede ir vacío."""
 
 ESQUEMA_REESCRIBIR = {
