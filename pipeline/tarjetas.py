@@ -610,6 +610,39 @@ def _fila_resultado(img, d, p: dict, y: int, h: int):
           ancho_max=cx - caja // 2 - 100)
 
 
+TAM_GOL = 27
+
+
+def _lineas_goleadores(d, p: dict) -> tuple[list[str], list[str]]:
+    """Goleadores de cada equipo, un renglón por jugador (con todos sus minutos)."""
+    f = fuente(TEXTO, TAM_GOL)
+    lados = []
+    for eq in (p["local"], p["visitante"]):
+        jugadores: dict[str, list[str]] = {}
+        for g in sorted(p.get("goleadores", []), key=lambda g: g.get("min") or 0):
+            if g.get("equipo") == eq:
+                marca = {"Penalty": " (p)", "Own Goal": " (pp)"}.get(g.get("tipo"), "")
+                jugadores.setdefault(g["jugador"], []).append(f"{g.get('min') or '?'}'{marca}")
+        lineas = []
+        for j, mins in jugadores.items():
+            linea = f"{j} {', '.join(mins)}"
+            while d.textlength(linea, font=f) > 440 and " " in j:
+                j = j.rsplit(" ", 1)[0]  # nombre demasiado largo: se quita el último apellido
+                linea = f"{j} {', '.join(mins)}"
+            lineas.append(linea)
+        lados.append(lineas)
+    return lados[0], lados[1]
+
+
+def _goleadores_historia(img, d, lados, y: int):
+    """Los del local bajo su nombre (a la izquierda), los del visitante bajo el suyo (a la derecha)."""
+    f = fuente(TEXTO, TAM_GOL)
+    for k, linea in enumerate(lados[0]):
+        d.text((440, y + k * (TAM_GOL + 7)), linea, font=f, fill=GRIS, anchor="ra")
+    for k, linea in enumerate(lados[1]):
+        d.text((640, y + k * (TAM_GOL + 7)), linea, font=f, fill=GRIS)
+
+
 def historias_categoria(categoria: str, articulos: list[dict], cuenta: str, carpeta: Path, base: str,
                         filas_max: int = 24) -> list[Path]:
     """Todos los resultados de una categoría (p. ej. Primera Federación) en una historia, con un rótulo por grupo.
@@ -637,9 +670,21 @@ def historias_categoria(categoria: str, articulos: list[dict], cuenta: str, carp
         _cabecera_historia(img, d, "Resultados", _junta(categoria, f"{n}/{len(paginas)}" if len(paginas) > 1 else ""))
         d.text((70, 440), f"{dia_semana(fecha).upper()} {fecha_corta(fecha).upper()}", font=fuente(ROTULO, 32), fill=GRIS)
         y0, y1 = 500, 1480
-        alto = min(110, (y1 - y0) // len(filas))
+        # Con pocos partidos hay sitio: debajo de cada resultado, los goleadores de cada equipo
+        goles = {id(f): _lineas_goleadores(d, f) for f in filas if isinstance(f, dict)}
+        extra = {k: (max(len(l), len(v)) * (TAM_GOL + 7) + 14 if (l or v) else 0) for k, (l, v) in goles.items()}
+        con_goles = len(filas) <= 12 and any(extra.values())
+        if con_goles and (y1 - y0 - sum(extra.values())) / len(filas) < 64:
+            con_goles = False  # no caben con un tamaño legible
+        hueco = y1 - y0 - (sum(extra.values()) if con_goles else 0)
+        alto = int(min(96 if con_goles else 110, hueco / len(filas)))
         y = y0
         for f in filas:
+            if isinstance(f, dict) and con_goles:
+                _fila_resultado(img, d, f, y, alto - 8)
+                _goleadores_historia(img, d, goles[id(f)], y + alto)
+                y += alto + extra[id(f)]
+                continue
             if isinstance(f, str):
                 tam = min(36, alto - 14)
                 w = min(ancho_texto(f.upper(), tam, TITULAR, 0.85) + 70, ANCHO - 120)
