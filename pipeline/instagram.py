@@ -131,7 +131,8 @@ def publicar_plan(cfg: dict, hoy: str, simular: bool = False) -> list[str]:
     """Plan diario: publica las publicaciones de contenido/instagram/<hoy>-*.json (destacados, previa, horarios)."""
     base = cfg["medio"]["url_web"].rstrip("/")
     posts = [(p, json.loads(p.read_text())) for p in sorted((CONTENIDO / "instagram").glob(f"{hoy}-*.json"))]
-    pendientes = sorted([x for x in posts if not x[1].get("ig_media_id") and not x[1].get("ig_omitir")],
+    pendientes = sorted([x for x in posts if not x[1].get("ig_media_id") and not x[1].get("ig_omitir")
+                         and x[1].get("tipo") != "historias"],  # las historias van aparte
                         key=lambda x: x[1].get("orden", 9))
     make = os.environ.get("MAKE_WEBHOOK_URL")
     ig = None if simular else (Make(make) if make else Instagram())

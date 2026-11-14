@@ -510,3 +510,85 @@ def tarjetas_horarios(comps: list[dict], fecha: str, cuenta: str, carpeta: Path,
         pie(img, d, cuenta, "Desliza ›" if n < len(paginas) else "Todo en la web")
         salida.append(guardar(img, carpeta / f"{base}-{n}.jpg"))
     return salida
+
+
+# ---------- historias (1080x1920) ----------
+ALTO_H = 1920
+
+
+def _fondo_historia():
+    img = Image.new("RGB", (ANCHO, ALTO_H), NEGRO)
+    d = ImageDraw.Draw(img)
+    for y in range(ALTO_H):
+        c = 14 + int(y / ALTO_H * 10)
+        d.line([(0, y), (ANCHO, y)], fill=(c, c, c))
+    rayas = Image.new("L", (ANCHO, ALTO_H), 0)
+    dr = ImageDraw.Draw(rayas)
+    for x in range(-ALTO_H, ANCHO, 28):
+        dr.line([(x, 0), (x + ALTO_H, ALTO_H)], fill=10, width=2)
+    img.paste((40, 40, 40), (0, 0), rayas)
+    marca = Image.new("L", (ANCHO, ALTO_H), 0)
+    ImageDraw.Draw(marca).text((520, 1150), "SF.", font=fuente(TITULAR, 560), fill=14)
+    img.paste((60, 60, 60), (0, 0), marca)
+    return img, ImageDraw.Draw(img)
+
+
+def _cabecera_historia(img, d, titulo: str, sub: str, y: int = 260):
+    d.polygon([(0, y), (820, y), (780, y + 100), (0, y + 100)], fill=AMARILLO)
+    texto(img, (70, y + 50), titulo.upper(), 64, NEGRO, estrecho=0.85, ancho_max=680)
+    w = min(ancho_texto(sub.upper(), 34, ROTULO, 0.9) + 130, ANCHO - 40)
+    d.polygon([(0, y + 100), (w, y + 100), (w - 20, y + 156), (0, y + 156)], fill=BLANCO)
+    texto(img, (70, y + 128), sub.upper(), 34, NEGRO, estrecho=0.9, nombre=ROTULO, ancho_max=w - 110)
+
+
+def _pie_historia(img, d, cuenta: str, llamada: str):
+    y = 1500  # por encima de la barra de respuesta de Instagram
+    d.polygon([(0, y + 40), (ANCHO, y), (ANCHO, y + 170), (0, y + 210)], fill=AMARILLO)
+    d.rounded_rectangle([60, y + 62, 150, y + 152], radius=12, fill=NEGRO)
+    if LOGO.exists():
+        logo = Image.open(LOGO).convert("RGBA").resize((90, 90))
+        img.paste(logo, (60, y + 62), logo)
+    texto(img, (175, y + 90), "SIN FOCOS", 46, NEGRO, estrecho=0.85)
+    d.text((175, y + 118), cuenta, font=fuente(NEGRITA, 28), fill=NEGRO)
+    texto(img, (1020, y + 105), llamada.upper(), 44, NEGRO, ancla="r", estrecho=0.85)
+
+
+def historias_resultados(articulo: dict, cuenta: str, carpeta: Path, base: str, por_historia: int = 5) -> list[Path]:
+    """Resultados de una competición en formato historia (vertical), hasta 5 partidos por historia."""
+    paquete = {"liga": {"etiqueta": articulo["etiqueta"]}, "fecha": articulo["fecha"], "partidos": articulo["partidos"]}
+    titulo, grupo = _partes(paquete)
+    ps = sorted(articulo["partidos"], key=lambda p: -((p["goles_local"] or 0) + (p["goles_visitante"] or 0)))
+    trozos = [ps[i:i + por_historia] for i in range(0, len(ps), por_historia)][:4]
+    salida = []
+    for n, trozo in enumerate(trozos, 1):
+        img, d = _fondo_historia()
+        sub = _junta(titulo, grupo, _ronda(paquete), f"{n}/{len(trozos)}" if len(trozos) > 1 else "")
+        _cabecera_historia(img, d, "Resultados", sub)
+        d.text((70, 450), f"{dia_semana(articulo['fecha']).upper()} {fecha_corta(articulo['fecha']).upper()}",
+               font=fuente(ROTULO, 32), fill=GRIS)
+        con_goles = any(p.get("goleadores") for p in trozo)
+        bloque = 290 if con_goles else 220
+        bloque = min(bloque, (1460 - 510) // len(trozo))
+        barra = min(92, (bloque - (70 if con_goles else 40)) // 2)
+        y = 510
+        for p in trozo:
+            gl, gv = p["goles_local"], p["goles_visitante"]
+            for k, (eq, g, gana) in enumerate([(p["local"], gl, gl > gv), (p["visitante"], gv, gv > gl)]):
+                yy = y + k * (barra + 8)
+                d.polygon([(60, yy), (860, yy), (850, yy + barra), (50, yy + barra)], fill=BARRA_GANA if gana else BARRA)
+                if gana:
+                    d.polygon([(50, yy), (64, yy), (54, yy + barra), (40, yy + barra)], fill=AMARILLO)
+                texto(img, (90, yy + barra // 2), eq.upper(), int(barra * 0.7), BLANCO if gana or gl == gv else GRIS,
+                      estrecho=0.82, ancho_max=740)
+                d.polygon([(870, yy), (1030, yy), (1020, yy + barra), (860, yy + barra)], fill=AMARILLO if gana else BLANCO)
+                texto(img, (945, yy + barra // 2), str(g), int(barra * 0.85), NEGRO, ancla="m", estrecho=0.9)
+            if con_goles:
+                gs = "  ·  ".join(f"{g['jugador']} {g['min']}'" for g in p.get("goleadores", []))
+                f = fuente(TEXTO, 26)
+                while gs and d.textlength(gs, font=f) > 960:
+                    gs = gs[:gs.rfind("  ·  ")] + " …" if "  ·  " in gs else gs[:60]
+                d.text((60, y + 2 * barra + 22), gs, font=f, fill=GRIS)
+            y += bloque
+        _pie_historia(img, d, cuenta, "Crónica en la web")
+        salida.append(guardar(img, carpeta / f"{base}-{n}.jpg"))
+    return salida

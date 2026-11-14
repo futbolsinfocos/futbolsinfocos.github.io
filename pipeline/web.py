@@ -595,9 +595,26 @@ def construir(cfg: dict) -> Path:
                     _pagina(cfg, f'{pp["titular"]} · {nombre}', _pagina_previa(cfg, a, pp, partidos[pp["id"]]), "../",
                             pp["entradilla"], ticker=_ticker(arts, "../")))
 
+    _historias(cfg)
     _rss(cfg, arts[:40])
     (SALIDA / ".nojekyll").write_text("")
     return SALIDA
+
+
+def _historias(cfg: dict):
+    """historias.html (sin enlace en el menú): las historias del día para guardarlas y subirlas desde el móvil."""
+    archivos = sorted((CONTENIDO / "instagram").glob("*-historias.json"), reverse=True)[:3]
+    bloques = []
+    for f in archivos:
+        h = json.loads(f.read_text())
+        fotos = "".join(f'<a href="{i}" download><img src="{i}" alt="Historia" loading="lazy" '
+                        f'style="width:100%;max-width:360px;border-radius:12px;margin:8px 0"></a>' for i in h["imagenes"])
+        bloques.append(f'<h2>Historias del {fecha_larga(h["fecha"])}</h2>'
+                       f'<p>Mantén pulsada cada imagen y elige "Descargar" o "Guardar imagen". Luego súbela como historia.</p>'
+                       f'<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px">{fotos}</div>')
+    cuerpo = "<article>" + ("".join(bloques) or "<p>Todavía no hay historias.</p>") + "</article>"
+    (SALIDA / "historias.html").write_text(
+        _pagina(cfg, f"Historias · {cfg['medio']['nombre']}", cuerpo, descripcion="Historias de Instagram del día"))
 
 
 def _rss(cfg: dict, arts: list[dict]):

@@ -190,6 +190,16 @@ def generar_redes(cfg: dict, fecha_resultados: str, hoy: str) -> list[str]:
                 "slug": slug, "tipo": "horarios", "orden": 4, "fecha": hoy,
                 "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],
                 "texto_instagram": texto_horarios(agenda, hoy)}))
+    slug = f"{hoy}-historias"  # una historia por competición con sus resultados (subida manual por ahora)
+    if cronicas and not (CARPETA / f"{slug}.json").exists():
+        imgs = []
+        for a in sorted(cronicas, key=lambda a: (a.get("grupo") != "espana", a.get("prioridad", 3), a["etiqueta"])):
+            if a.get("competicion") in solo_web or not a.get("partidos"):
+                continue
+            imgs += tarjetas.historias_resultados(a, cuenta, CONTENIDO / "img" / hoy / "historias", a["slug"])
+        if imgs:
+            creados.append(_guardar({"slug": slug, "tipo": "historias", "orden": 9, "fecha": hoy,
+                                     "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs]}))
     for s in creados:
         print("✔ Instagram:", s)
     return creados
