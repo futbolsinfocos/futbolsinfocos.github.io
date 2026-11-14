@@ -1,0 +1,65 @@
+# Cuentas de Instagram de los equipos, para etiquetarlos en los textos de las publicaciones.
+# El nombre tiene que ser el mismo que sale en la web. Si un equipo no está aquí, simplemente no se etiqueta.
+# Las marcadas con "# revisar" no estaban del todo claras: compruébalas antes de dar por buena la lista.
+
+# --- LaLiga Hypermotion ---
+AD Ceuta FC: adceutafc
+Almería: udalmeria
+Burgos: burgos_cf
+Castellón: cdcastellon
+Cádiz: cadizclubdefutbol
+Córdoba: cordobacfoficial        # revisar
+Eibar: sdeibar
+Eldense: cdeldense
+FC Andorra: fcandorra
+Girona: gironafc
+Granada CF: granadacf
+Las Palmas: udlpoficial          # revisar
+Leganés: cdleganes
+Mallorca: rcdmallorca            # revisar
+Oviedo: realoviedo
+Sabadell: cesabadell             # revisar
+Sporting de Gijón: realsporting
+Tenerife: cdtoficial
+Valladolid: realvalladolid       # revisar
+
+# --- Primera Federación · Grupo 1 ---
+Arenas Getxo: arenas_club1909
+Barakaldo: barakaldocf
+CD Coria: cdcoriaoficial
+Cacereño: cpcacerenosad1919      # revisar
+Cultural Leonesa: cydleonesasad
+Extremadura 1924: cdext1924      # revisar
+Lugo: cdeportivolugo             # revisar
+Mirandés: c.d.mirandes
+Mérida AD: admeridasad
+Ponferradina: ponferradina_oficial
+Pontevedra: pontevedra_cf_sad    # revisar
+Racing de Ferrol: racingclubferrolsad
+Real Avilés: realavilesind
+Real Unión: realunionclubirun
+UD Logroñés: udlogrones
+UD Ourense: u.d.ourense
+Unionistas de Salamanca: unionistascf
+Zamora: zcfoficial
+
+# --- Primera Federación · Grupo 2 ---
+Alcorcón: adalcorcon
+Algeciras: algecirascf
+Antequera: antequeracf
+Europa Fc: ceeuropa
+FC Cartagena: fccartagena
+Huesca: sdhuesca
+Hércules: herculescfoficial
+Ibiza: udibiza
+Juventud Torremolinos: jtorremolinoscf
+Nàstic de Tarragona: nastictarragona
+Rayo Majadahonda: rayomajadahondaoficial
+Real Jaén: realjaencf
+Real Murcia: realmurciacf_oficial
+Sant Andreu: uesantandreu
+Teruel: club_deportivo_teruel
+Zaragoza: realzaragoza
+Águilas: aguilasfc.oficial
+
+# Filiales (Athletic Club II, Castilla, Atlético Madrid II…): sin etiquetar por ahora.

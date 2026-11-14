@@ -12,8 +12,10 @@ import json
 import re
 from pathlib import Path
 
+import yaml
+
 from . import tarjetas
-from .web import CONTENIDO
+from .web import CONTENIDO, RAIZ
 
 CARPETA = CONTENIDO / "instagram"
 PESO_PRIORIDAD = {1: 30, 2: 18, 3: 8}
@@ -110,13 +112,30 @@ def _tags(*nombres: str) -> str:
     return " ".join(out + ["#SinFocos", "#FútbolModesto"])
 
 
+def _cuentas() -> dict:
+    ruta = RAIZ / "instagram_equipos.yaml"
+    return (yaml.safe_load(ruta.read_text()) or {}) if ruta.exists() else {}
+
+
+def etiquetas(*equipos: str, maximo: int = 20) -> str:
+    """'@cuenta1 @cuenta2' de los equipos con cuenta conocida (Instagram admite 20 menciones por texto)."""
+    cuentas, out = _cuentas(), []
+    for e in equipos:
+        c = cuentas.get(e)
+        if c and f"@{c}" not in out:
+            out.append(f"@{c}")
+    return " ".join(out[:maximo])
+
+
 def texto_destacado(a: dict, p: dict) -> str:
     cuerpo = _seccion_partido(a, p)
     if len(cuerpo) > 1100:
         cuerpo = cuerpo[:1100].rsplit("\n", 1)[0]
     cab = f"⚽ {p['local']} {p['goles_local']}-{p['goles_visitante']} {p['visitante']}\n🏆 {a['etiqueta']}"
-    return (f"{cab}\n\n{cuerpo}\n\n📰 Crónica completa: enlace en la bio\n\n"
-            f"{_tags(a['competicion'], p['local'], p['visitante'])}")[:2200]
+    menciones = etiquetas(p["local"], p["visitante"])
+    pie = (f"📲 {menciones}\n\n" if menciones else "") + _tags(a["competicion"], p["local"], p["visitante"])
+    cuerpo = cuerpo[:2200 - len(cab) - len(pie) - 60]
+    return f"{cab}\n\n{cuerpo}\n\n📰 Crónica completa: enlace en la bio\n\n{pie}"
 
 
 def texto_previa(partidos: list[dict], previas: dict) -> str:
@@ -126,7 +145,9 @@ def texto_previa(partidos: list[dict], previas: dict) -> str:
         dato = previas.get(p.get("id"))
         if dato:
             lineas.append(f"   {dato}")
-    lineas.append("\n¿Con cuál te quedas? 👇\n\n📰 Todas las previas: enlace en la bio\n\n#Previa #SinFocos #FútbolModesto")
+    menciones = etiquetas(*[e for p in partidos for e in (p["local"], p["visitante"])])
+    lineas.append("\n¿Con cuál te quedas? 👇\n\n📰 Todas las previas: enlace en la bio\n\n"
+                  + (f"📲 {menciones}\n\n" if menciones else "") + "#Previa #SinFocos #FútbolModesto")
     return "\n".join(lineas)[:2200]
 
 
