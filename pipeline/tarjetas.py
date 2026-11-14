@@ -592,3 +592,62 @@ def historias_resultados(articulo: dict, cuenta: str, carpeta: Path, base: str, 
         _pie_historia(img, d, cuenta, "Crónica en la web")
         salida.append(guardar(img, carpeta / f"{base}-{n}.jpg"))
     return salida
+
+
+def _fila_resultado(img, d, p: dict, y: int, h: int):
+    """Una fila compacta 'LOCAL [2-1] VISITANTE' con el ganador resaltado."""
+    gl, gv = p["goles_local"] or 0, p["goles_visitante"] or 0
+    cx, caja = 540, 150
+    d.polygon([(60, y), (1030, y), (1022, y + h), (52, y + h)], fill=BARRA)
+    d.polygon([(cx - caja // 2, y), (cx + caja // 2, y), (cx + caja // 2 - 8, y + h), (cx - caja // 2 - 8, y + h)],
+              fill=AMARILLO)
+    tam = max(20, min(44, h - 14))
+    texto(img, (cx - 4, y + h // 2), f"{gl}-{gv}", tam + 4, NEGRO, ancla="m", estrecho=0.9)
+    color = lambda gana: BLANCO if gana or gl == gv else GRIS
+    texto(img, (cx - caja // 2 - 22, y + h // 2), p["local"].upper(), tam, color(gl > gv), ancla="r", estrecho=0.82,
+          ancho_max=cx - caja // 2 - 100)
+    texto(img, (cx + caja // 2 + 22, y + h // 2), p["visitante"].upper(), tam, color(gv > gl), estrecho=0.82,
+          ancho_max=cx - caja // 2 - 100)
+
+
+def historias_categoria(categoria: str, articulos: list[dict], cuenta: str, carpeta: Path, base: str,
+                        filas_max: int = 24) -> list[Path]:
+    """Todos los resultados de una categoría (p. ej. Primera Federación) en una historia, con un rótulo por grupo.
+    Si no caben (Tercera, con 18 grupos), se reparte en varias historias sin partir ningún grupo."""
+    natural = lambda t: [int(x) if x.isdigit() else x for x in re.split(r"(\d+)", t)]
+    bloques = []  # [(rótulo, partidos)]
+    for a in sorted(articulos, key=lambda a: natural(a["etiqueta"])):
+        grupo = _partes({"liga": {"etiqueta": a["etiqueta"]}})[1]
+        for div, ps in por_division(a["partidos"]):  # Nations League: Liga A, B, C, D
+            bloques.append((_junta(grupo, div), ps))
+    con_rotulo = len(bloques) > 1 or bool(bloques and bloques[0][0])
+    paginas, actual = [], []
+    for rotulo, ps in bloques:
+        filas = ([rotulo] if con_rotulo else []) + ps
+        if actual and len(actual) + len(filas) > filas_max:
+            paginas.append(actual)
+            actual = []
+        actual += filas
+    if actual:
+        paginas.append(actual)
+    fecha = articulos[0]["fecha"]
+    salida = []
+    for n, filas in enumerate(paginas, 1):
+        img, d = _fondo_historia()
+        _cabecera_historia(img, d, "Resultados", _junta(categoria, f"{n}/{len(paginas)}" if len(paginas) > 1 else ""))
+        d.text((70, 440), f"{dia_semana(fecha).upper()} {fecha_corta(fecha).upper()}", font=fuente(ROTULO, 32), fill=GRIS)
+        y0, y1 = 500, 1480
+        alto = min(110, (y1 - y0) // len(filas))
+        y = y0
+        for f in filas:
+            if isinstance(f, str):
+                tam = min(36, alto - 14)
+                w = min(ancho_texto(f.upper(), tam, TITULAR, 0.85) + 70, ANCHO - 120)
+                d.polygon([(60, y + 6), (60 + w, y + 6), (44 + w, y + alto - 4), (60, y + alto - 4)], fill=AMARILLO)
+                texto(img, (84, y + (alto + 2) // 2), f.upper(), tam, NEGRO, estrecho=0.85, ancho_max=w - 50)
+            else:
+                _fila_resultado(img, d, f, y, alto - 8)
+            y += alto
+        _pie_historia(img, d, cuenta, "Crónicas en la web")
+        salida.append(guardar(img, carpeta / f"{base}-{n}.jpg"))
+    return salida

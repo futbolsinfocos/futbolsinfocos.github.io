@@ -190,13 +190,19 @@ def generar_redes(cfg: dict, fecha_resultados: str, hoy: str) -> list[str]:
                 "slug": slug, "tipo": "horarios", "orden": 4, "fecha": hoy,
                 "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],
                 "texto_instagram": texto_horarios(agenda, hoy)}))
-    slug = f"{hoy}-historias"  # una historia por competición con sus resultados (subida manual por ahora)
+    slug = f"{hoy}-historias"  # una historia por categoría (todos sus grupos juntos), subida manual por ahora
     if cronicas and not (CARPETA / f"{slug}.json").exists():
-        imgs = []
-        for a in sorted(cronicas, key=lambda a: (a.get("grupo") != "espana", a.get("prioridad", 3), a["etiqueta"])):
+        categorias: dict[str, list[dict]] = {}
+        for a in cronicas:
             if a.get("competicion") in solo_web or not a.get("partidos"):
                 continue
-            imgs += tarjetas.historias_resultados(a, cuenta, CONTENIDO / "img" / hoy / "historias", a["slug"])
+            categorias.setdefault(a["etiqueta"].split(" · ")[0], []).append(a)
+        orden = lambda kv: (kv[1][0].get("grupo") != "espana", min(a.get("prioridad", 3) for a in kv[1]), kv[0])
+        imgs = []
+        for cat, arts_cat in sorted(categorias.items(), key=orden):
+            base = re.sub(r"[^a-z0-9]+", "-", cat.lower().translate(str.maketrans("áéíóúñü", "aeiounu"))).strip("-")
+            imgs += tarjetas.historias_categoria(cat, arts_cat, cuenta, CONTENIDO / "img" / hoy / "historias",
+                                                 f"{fecha_resultados}-{base}")
         if imgs:
             creados.append(_guardar({"slug": slug, "tipo": "historias", "orden": 9, "fecha": hoy,
                                      "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs]}))
