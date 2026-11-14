@@ -215,6 +215,7 @@ Las noticias de otros medios se redactan de nuevo y enlazan siempre a su fuente 
 
 
 NOTICIAS: list[dict] = []  # se rellena en construir()
+LIGAS: set[str] = set()  # etiquetas con página propia en ligas/
 
 
 def cargar_noticias() -> list[dict]:
@@ -609,6 +610,8 @@ def construir(cfg: dict) -> Path:
         _pagina(cfg, f"Resultados · {nombre}", _resultados(arts), activa="resultados.html", ticker=_ticker(arts, "")))
 
     ligas = _ligas(arts)
+    LIGAS.clear()
+    LIGAS.update(ligas, (c["etiqueta"] for c in cfg.get("competiciones", [])))
     (SALIDA / "ligas.html").write_text(
         _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(cfg, ligas), activa="ligas.html", ticker=_ticker(arts, "")))
     for etiqueta, lista in ligas.items():
@@ -660,7 +663,8 @@ def _pagina_noticia(n: dict) -> str:
     fuente = (f'<p class="fuente">Fuente: <a href="{_e(f["url"])}" rel="noopener nofollow" target="_blank">{_e(f["medio"])}</a>'
               f' · «{_e(f["titular"])}». Noticia redactada por nuestra redacción a partir de esa información.</p>') if f else ""
     relacionadas = [x for x in NOTICIAS if x["slug"] != n["slug"] and x.get("competicion") == n.get("competicion")][:3]
-    return (f'<article><a class="tag" href="{prof}ligas/{_slug_liga(n["etiqueta"])}.html">{_e(_etiqueta(n))} →</a>'
+    pagina = n["etiqueta"] if n["etiqueta"] in LIGAS else n.get("competicion", n["etiqueta"])
+    return (f'<article><a class="tag" href="{prof}ligas/{_slug_liga(pagina)}.html">{_e(_etiqueta(n))} →</a>'
             f'<h1 class="tit">{_e(n["titular"])}</h1><p class="fecha">{fecha_larga(n["fecha"])}</p>'
             f'<p class="entradilla">{_e(n["entradilla"])}</p>'
             + markdown.markdown(n["cuerpo_markdown"]) + fuente

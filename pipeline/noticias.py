@@ -425,10 +425,6 @@ def generar_fuentes(cfg: dict, fecha: str, prueba: bool = False) -> list[str]:
         clave = re.compile(r"nuevo jugador|ficha|entrenador|banquillo|destitu|t[ée]cnico", re.I)
         elegidos = [{"id": x["id"], "categoria": "?", "equipo": "?", "etiqueta": "?"}
                     for x in lista if clave.search(x["titular"])][:6]
-        for f in nc.get("fuentes", []):  # diagnóstico: primer elemento en bruto de cada fuente sin titulares
-            if f["nombre"] == "Marca":
-                print(sesion.get(f["url"], headers=UA, timeout=25).text[:1500])
-                break
     else:
         elegidos = _llamar(SISTEMA_ELEGIR, json.dumps({
             "equipos": [f"{e} ({t})" for e, t in sorted(equipos.items())], "titulares": lista}, ensure_ascii=False),
