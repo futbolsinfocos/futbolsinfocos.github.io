@@ -5,20 +5,18 @@
   "competicion": "LaLiga Hypermotion",
   "grupo": "espana",
   "prioridad": 3,
-  "titular": "Jornada 14: el Castellón asalta Zorrilla y Mallorca y Córdoba firman un 3-3",
-  "entradilla": "El Castellón ganó 0-1 en Valladolid y el Almería se impuso 2-1 al FC Andorra. Mallorca y Córdoba empataron a tres y Real Sociedad II y Sporting de Gijón, a dos.",
-  "cuerpo_markdown": "La Jornada 14 de LaLiga Hypermotion arrancó el sábado 14 de noviembre con cuatro partidos y 14 goles. Hubo una victoria visitante, un triunfo local y dos empates con muchos goles.\n\n## Valladolid 0-1 Castellón\n\nEl Castellón sacó los tres puntos del Estadio José Zorrilla. Un solo gol bastó para decidir el partido y dejar al Valladolid sin marcar en casa.\n\n## Mallorca 3-3 Córdoba\n\nEl partido con más goles de la jornada se jugó en el Estadi Mallorca Son Moix. Mallorca y Córdoba se repartieron seis goles y un punto para cada uno.\n\n## Almería 2-1 FC Andorra\n\nEl Almería ganó en el UD Almería Stadium. Se impuso por la mínima al FC Andorra, 2-1.\n\n## Real Sociedad II 2-2 Sporting de Gijón\n\nEn Zubieta, Real Sociedad II y Sporting de Gijón empataron a dos.",
-  "texto_instagram": "⚽ Jornada 14 de LaLiga Hypermotion: el Castellón gana en Zorrilla y Mallorca y Córdoba firman un vibrante 3-3 🔥 El Almería también suma de tres 💪\n\nValladolid 0-1 Castellón\nReal Sociedad II 2-2 Sporting de Gijón\nAlmería 2-1 FC Andorra\nMallorca 3-3 Córdoba",
+  "titular": "El Castellón asalta Zorrilla y el Girona gana en el Tartiere en la jornada 14",
+  "entradilla": "Cinco partidos el sábado en LaLiga Hypermotion con dos victorias visitantes, dos empates y un triunfo local. El Mallorca-Córdoba, con seis goles, fue el más vibrante.",
+  "cuerpo_markdown": "La Jornada 14 de LaLiga Hypermotion dejó un sábado repartido. El Castellón ganó en Valladolid (0-1) y el Girona hizo lo propio en Oviedo (1-2). El Almería sumó en casa ante el FC Andorra (2-1). Hubo dos empates con goles: el 3-3 entre Mallorca y Córdoba y el 2-2 entre Real Sociedad II y Sporting de Gijón.\n\n## Mallorca 3-3 Córdoba\n\nEl partido con más goles de la jornada. Seis tantos en Son Moix y reparto de puntos entre Mallorca y Córdoba.\n\n## Valladolid 0-1 Castellón\n\nEl Castellón se llevó los tres puntos del José Zorrilla con un gol de diferencia. El Valladolid no logró marcar.\n\n## Oviedo 1-2 Girona\n\nEl Girona ganó en el Nuevo Carlos Tartiere en el cierre de la jornada. El Oviedo marcó una vez, insuficiente.\n\n## Almería 2-1 FC Andorra\n\nTriunfo local por la mínima. El Almería se impuso al FC Andorra en el UD Almería Stadium.\n\n## Real Sociedad II 2-2 Sporting de Gijón\n\nEn Zubieta, el filial donostiarra y el Sporting de Gijón firmaron tablas con cuatro goles.",
+  "texto_instagram": "⚽ Jornada 14 de LaLiga Hypermotion: el Castellón gana en Zorrilla, el Girona asalta el Tartiere y Mallorca y Córdoba firman un 3-3 de infarto 🔥\n\nValladolid 0-1 Castellón\nReal Sociedad II 2-2 Sporting de Gijón\nAlmería 2-1 FC Andorra\nMallorca 3-3 Córdoba\nOviedo 1-2 Girona 📊",
   "hashtags": [
     "#LaLigaHypermotion",
     "#SegundaDivisión",
     "#Jornada14",
-    "#Castellón",
-    "#Valladolid",
     "#Mallorca",
     "#Córdoba",
-    "#Almería",
-    "#SportingDeGijón"
+    "#Castellón",
+    "#Girona"
   ],
   "imagenes": [
     "img/2026-11-14/2026-11-14-laliga-hypermotion-1.jpg",
@@ -88,6 +86,22 @@
       "escudo_visitante": "https://media.api-sports.io/football/teams/713.png",
       "goles_local": 3,
       "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1570021,
+      "fecha": "2026-11-14T21:00:00+01:00",
+      "estadio": "Nuevo Carlos Tartiere",
+      "ciudad": "Oviedo",
+      "arbitro": "Saul Ais Reig",
+      "jornada": "Regular Season - 14",
+      "liga_id": 141,
+      "local": "Oviedo",
+      "visitante": "Girona",
+      "escudo_local": "https://media.api-sports.io/football/teams/718.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/547.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
       "goleadores": []
     }
   ],
