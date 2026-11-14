@@ -315,10 +315,29 @@ def resolver_google_news(url: str, sesion) -> str | None:
         return None
 
 
-def texto_articulo(url: str, sesion) -> str:
-    """Párrafos de la noticia original (solo para que la IA la entienda; nunca se publica tal cual)."""
+def fecha_publicacion(pagina: str) -> datetime | None:
+    """Fecha de publicación que la propia web declara (meta article:published_time o datePublished)."""
+    m = (re.search(r'article:published_time"\s+content="([^"]+)"', pagina)
+         or re.search(r'content="([^"]+)"\s+property="article:published_time"', pagina)
+         or re.search(r'"datePublished"\s*:\s*"([^"]+)"', pagina))
+    if not m:
+        return None
+    try:
+        d = datetime.fromisoformat(m.group(1).strip().replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+
+
+def texto_articulo(url: str, sesion, horas: int = 72) -> str:
+    """Párrafos de la noticia original (solo para que la IA la entienda; nunca se publica tal cual).
+    Devuelve "" si la propia web dice que la noticia es de hace más de `horas`."""
     r = sesion.get(url, headers=UA, timeout=25)
     r.raise_for_status()
+    publicada = fecha_publicacion(r.text)
+    if publicada and datetime.now(timezone.utc) - publicada > timedelta(hours=horas):
+        print(f"    antigua ({publicada:%Y-%m-%d}), se descarta")
+        return ""
     cuerpo = re.search(r"<article\b.*?</article>", r.text, re.S | re.I)
     parrafos = [_texto_limpio(p) for p in re.findall(r"<p\b[^>]*>(.*?)</p>", cuerpo.group(0) if cuerpo else r.text, re.S | re.I)]
     return "\n".join(p for p in parrafos if len(p) > 60)[:8000]
@@ -389,13 +408,19 @@ dijo alguien, resúmelo en estilo indirecto, sin comillas.
 - parrafos: 1 a 4 párrafos.
 - valida: false si el tema principal del texto no es el anuncio en sí (por ejemplo, es la previa del debut \
 de un entrenador, una rueda de prensa o declaraciones), o si el texto original no confirma de forma oficial el fichaje o el cambio de entrenador \
-(es un rumor, una opinión, o el texto no trata de eso). En ese caso el resto puede ir vacío."""
+(es un rumor, una opinión, o el texto no trata de eso), o si el texto parece de otra temporada. En ese caso el \
+resto puede ir vacío.
+- competicion y grupo: la categoría y el grupo del club protagonista según el texto ("Grupo II" → 2). \
+"otra" si el club no es de esas categorías (en ese caso, valida: false)."""
 
 ESQUEMA_REESCRIBIR = {
     "type": "object",
     "properties": {"valida": {"type": "boolean"}, "titular": {"type": "string"}, "entradilla": {"type": "string"},
-                   "parrafos": {"type": "array", "items": {"type": "string"}}},
-    "required": ["valida", "titular", "entradilla", "parrafos"],
+                   "parrafos": {"type": "array", "items": {"type": "string"}},
+                   "competicion": {"type": "string", "enum": ["LaLiga Hypermotion", "Primera Federación",
+                                                             "Segunda Federación", "Tercera Federación", "otra"]},
+                   "grupo": {"type": "integer", "description": "Número de grupo si el texto lo dice; 0 si no"}},
+    "required": ["valida", "titular", "entradilla", "parrafos", "competicion", "grupo"],
     "additionalProperties": False,
 }
 
@@ -455,7 +480,7 @@ def generar_fuentes(cfg: dict, fecha: str, prueba: bool = False) -> list[str]:
             url = x["enlace"]
             if "news.google.com" in url:
                 url = resolver_google_news(url, sesion) or ""
-            texto = x["contenido"] if len(x["contenido"]) > 600 else (texto_articulo(url, sesion) if url else "")
+            texto = x["contenido"] if len(x["contenido"]) > 600 else (texto_articulo(url, sesion, nc.get("horas", 36) * 2) if url else "")
         except Exception as err:
             print(f"No se pudo leer «{x['titulo']}»: {err}", file=sys.stderr)
             continue
@@ -474,7 +499,14 @@ def generar_fuentes(cfg: dict, fecha: str, prueba: bool = False) -> list[str]:
         if not t["valida"] or not t["parrafos"]:
             print("  descartada: no confirma un fichaje o cambio de entrenador")
             continue
-        etiqueta = e["etiqueta"] if e["etiqueta"] in etiquetas else e["etiqueta"].split(" · ")[0]
+        # La categoría que dice el texto original manda sobre la que se deduce del titular
+        if t["competicion"] == "otra":
+            print("  descartada: el club no es de nuestras categorías")
+            continue
+        con_grupo = f'{t["competicion"]} · Grupo {t["grupo"]}'
+        etiqueta = (con_grupo if t["grupo"] and con_grupo in etiquetas else
+                    e["etiqueta"] if e["etiqueta"] in etiquetas and e["etiqueta"].startswith(t["competicion"]) else
+                    t["competicion"])
         slug = f"{fecha}-{_slug(t['titular'])}"[:90]
         creados.append(_guardar({
             "slug": slug, "tipo": "noticia", "origen": "fuente", "fecha": fecha, "categoria": e["categoria"],
