@@ -47,6 +47,27 @@ competiciones:
   - {pais: Netherlands, patron: "^Eredivisie$", etiqueta: "Eredivisie", grupo: internacional, prioridad: 2}
   - {pais: Netherlands, patron: "^Eerste Divisie$", etiqueta: "Eerste Divisie", grupo: internacional, prioridad: 2}
 
+# Noticias (solo web, carpeta contenido/noticias). Se generan con la edición diaria y van en el mismo PR.
+noticias:
+  activo: true
+  modelo: "claude-haiku-5-5"     # modelo barato para las noticias (pedido por Alberto)
+  esfuerzo: "low"
+  excluir: ["Copa del Rey", "Nations League"]   # competiciones sin noticias de datos
+  max_datos_dia: 3               # A · partidos locos y rachas (de nuestros resultados)
+  # A · el lunes (resultados del domingo), un resumen del fin de semana por categoría, con todos sus grupos
+  resumen_fin_de_semana: ["LaLiga Hypermotion", "Primera Federación", "Segunda Federación", "Tercera Federación"]
+  max_fuentes_dia: 3             # B · fichajes y banquillos de otros medios (solo oficiales, citando la fuente)
+  horas: 36                      # solo titulares de las últimas 36 horas
+  fuentes:
+    - {nombre: "AS", url: "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/subsection/segunda/"}
+    - {nombre: "Google Noticias · Primera Federación fichajes", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Primera+Federaci%C3%B3n%22+ficha+OR+fichaje+OR+%22nuevo+jugador%22+when:2d"}
+    - {nombre: "Google Noticias · Primera Federación banquillos", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Primera+Federaci%C3%B3n%22+entrenador+OR+destituye+OR+t%C3%A9cnico+when:2d"}
+    - {nombre: "Google Noticias · Segunda Federación fichajes", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Segunda+Federaci%C3%B3n%22+ficha+OR+fichaje+OR+%22nuevo+jugador%22+when:2d"}
+    - {nombre: "Google Noticias · Segunda Federación banquillos", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Segunda+Federaci%C3%B3n%22+entrenador+OR+destituye+OR+t%C3%A9cnico+when:2d"}
+    - {nombre: "Google Noticias · Tercera Federación fichajes", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Tercera+Federaci%C3%B3n%22+ficha+OR+fichaje+OR+%22nuevo+jugador%22+when:2d"}
+    - {nombre: "Google Noticias · Tercera Federación banquillos", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Tercera+Federaci%C3%B3n%22+entrenador+OR+destituye+OR+t%C3%A9cnico+when:2d"}
+    - {nombre: "Google Noticias · LaLiga Hypermotion banquillos", url: "https://news.google.com/rss/search?hl=es&gl=ES&ceid=ES:es&q=%22Segunda+Divisi%C3%B3n%22+OR+Hypermotion+destituye+OR+%22nuevo+entrenador%22+when:2d"}
+
 # Límites para controlar coste y no saturar a los seguidores
 # Pon true cuando la conexión con Instagram (Make o app de Meta) esté probada
 instagram_activo: true

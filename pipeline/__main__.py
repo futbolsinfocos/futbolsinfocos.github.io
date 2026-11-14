@@ -2,6 +2,7 @@
 
   python -m pipeline generar [--fecha AAAA-MM-DD] [--demo]   → datos + crónicas + imágenes
   python -m pipeline rehacer-tarjetas                        → redibuja imágenes no publicadas (nuevo diseño)
+  python -m pipeline noticias [--fecha F] [--prueba]         → solo las noticias (A: datos, B: otros medios)
   python -m pipeline web                                     → construye _site/
   python -m pipeline instagram [--simular]                   → publica lo pendiente en Instagram
 """
@@ -210,6 +211,9 @@ def main():
     g.add_argument("--demo", action="store_true")
     g.add_argument("--sin-previas", action="store_true", help="no escribir las previas del día siguiente")
     sub.add_parser("web")
+    n = sub.add_parser("noticias", help="genera solo las noticias de un día")
+    n.add_argument("--fecha", default=(date.today() - timedelta(days=1)).isoformat())
+    n.add_argument("--prueba", action="store_true", help="solo comprueba las fuentes, sin IA ni guardar nada")
     r = sub.add_parser("redes", help="genera las 4 publicaciones de Instagram de un día")
     r.add_argument("--fecha", required=True, help="día de publicación (los destacados son del día anterior)")
     sub.add_parser("rehacer-tarjetas", help="redibuja las imágenes aún no publicadas con el diseño actual")
@@ -226,10 +230,18 @@ def main():
             creados += generar_previas(cfg, dia_previa, args.demo)
         hoy = date.fromisoformat(args.fecha) + timedelta(days=1)
         generar_agenda(cfg, [hoy.isoformat(), (hoy + timedelta(days=1)).isoformat()], args.demo)
+        from .noticias import generar_noticias  # noticias (solo web): de nuestros datos y de otros medios
+        creados += generar_noticias(cfg, args.fecha)
         from .redes import generar_redes  # plan diario de Instagram: 2 destacados + previa + horarios
         creados += generar_redes(cfg, args.fecha, hoy.isoformat())
         Path(RAIZ / "data").mkdir(exist_ok=True)
         (RAIZ / "data" / "ultimo_resumen.txt").write_text("\n".join(creados))
+    elif args.orden == "noticias":
+        from . import noticias
+        if args.prueba:
+            noticias.generar_fuentes(cfg, args.fecha, prueba=True)
+        else:
+            noticias.generar_noticias(cfg, args.fecha)
     elif args.orden == "rehacer-tarjetas":
         rehacer_tarjetas(cfg)
     elif args.orden == "redes":

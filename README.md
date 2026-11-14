@@ -30,6 +30,7 @@ Edita `config.yaml` (nombre del medio, URL, competiciones, límites, modelo de I
 | `pipeline/fuentes.py` | API-Football: ligas, resultados, clasificaciones, goleadores |
 | `pipeline/redactor.py` | Claude redacta la crónica solo con los datos (sin inventar) |
 | `pipeline/tarjetas.py` | Imágenes 1080×1350 para el carrusel (gráficos propios, sin fotos con derechos) |
+| `pipeline/noticias.py` | Noticias (solo web): de nuestros resultados (partidos locos, rachas, fin de semana) y fichajes/banquillos de otros medios, reescritos y citando la fuente |
 | `pipeline/web.py` | Genera la web estática y el RSS |
 | `pipeline/instagram.py` | Publica vía la API oficial de Instagram, con límite diario |
 | `contenido/` | Artículos (JSON) e imágenes generadas; es lo que revisas en cada PR |

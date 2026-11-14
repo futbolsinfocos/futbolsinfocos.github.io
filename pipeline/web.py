@@ -143,6 +143,16 @@ article .forma span[class^=f]{display:inline-block;width:22px;height:22px;line-h
 @media(max-width:820px){.pp .cols{display:flex;flex-direction:column;gap:6px}.pp aside{order:-1;width:100%}
  .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq{flex-direction:column;text-align:center;gap:8px}
  .marcador .eq.v{flex-direction:column;text-align:center}.pp .texto p{font-size:18px}}
+/* Noticias */
+.notis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.notis a{background:var(--panel);border-radius:12px;padding:16px 18px;border-top:4px solid var(--amarillo);display:block}
+.notis small{color:var(--amarillo);font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em}
+.notis strong{display:block;font:600 19px/1.2 Oswald,sans-serif;text-transform:uppercase;margin:6px 0}
+.notis span{font-size:14px;color:var(--suave)}.notis a:hover strong{color:var(--amarillo)}
+.card.sin-img div{border-top:4px solid var(--amarillo)}
+.fuente{background:var(--panel);border-left:4px solid var(--amarillo);border-radius:8px;padding:12px 16px;font-size:14px;color:var(--suave);margin:26px 0 0}
+.fuente a{color:var(--amarillo);font-weight:600}
+@media(max-width:820px){.notis{grid-template-columns:1fr}}
 footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
 footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
 @media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
@@ -200,8 +210,40 @@ def _pagina(cfg: dict, titulo: str, cuerpo: str, prof: str = "", descripcion: st
 <nav>{nav}</nav></header>
 <main>{cuerpo}</main>
 <footer><div class="redes">{ig}<a href="{prof}rss.xml">RSS</a></div>
-Datos de resultados y clasificaciones: API-Football. Crónicas elaboradas automáticamente a partir de esos datos y revisadas por la redacción.<br>
+Datos de resultados y clasificaciones: API-Football. Crónicas elaboradas automáticamente a partir de esos datos y revisadas por la redacción.
+Las noticias de otros medios se redactan de nuevo y enlazan siempre a su fuente original.<br>
 ¿Ves un error? Escríbenos y lo corregimos.</footer></body></html>"""
+
+
+NOTICIAS: list[dict] = []  # se rellena en construir()
+LIGAS: set[str] = set()  # etiquetas con página propia en ligas/
+
+
+def cargar_noticias() -> list[dict]:
+    carpeta = CONTENIDO / "noticias"
+    ns = [json.loads(p.read_text()) for p in carpeta.glob("*.json")] if carpeta.exists() else []
+    # las de fin de semana y las de datos delante dentro del mismo día; luego las de otros medios
+    return sorted(ns, key=lambda n: (n["fecha"], n.get("origen") == "datos", n["slug"]), reverse=True)
+
+
+def _noticias_de(etiqueta: str | None = None, competicion: str | None = None, grupo: str | None = None) -> list[dict]:
+    return [n for n in NOTICIAS if (etiqueta is None or n["etiqueta"] == etiqueta)
+            and (competicion is None or n.get("competicion") == competicion)
+            and (grupo is None or n.get("grupo") == grupo)]
+
+
+def _bloque_noticias(lista: list[dict], prof: str = "", titulo: str = "Últimas noticias") -> str:
+    if not lista:
+        return ""
+    return (f'<h2 class="sec tit">{titulo}</h2><section class="notis">' + "".join(
+        f'<a href="{_url(n, prof)}"><small>{_e(_etiqueta(n))}</small><strong>{_e(n["titular"])}</strong>'
+        f'<span>{_e(n["entradilla"])}</span></a>' for n in lista) + "</section>")
+
+
+def _tarjeta(a: dict, prof: str, cabecera: str) -> str:
+    img = _img(a, prof)
+    return (f'<a class="card{"" if img else " sin-img"}" href="{_url(a, prof)}">{img}<div>{cabecera}'
+            f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>')
 
 
 def cargar_articulos() -> list[dict]:
@@ -218,6 +260,8 @@ def _orden(a: dict) -> tuple:
 
 
 def _etiqueta(a: dict) -> str:
+    if a.get("tipo") == "noticia":
+        return f'{a["categoria"]} · {a["etiqueta"]}'
     return ("Previa · " if a.get("tipo") == "previa" else "") + a["etiqueta"]
 
 
@@ -231,6 +275,8 @@ def _img(a: dict, prof: str) -> str:
 
 
 def _url(a: dict, prof: str) -> str:
+    if a.get("tipo") == "noticia":
+        return f'{prof}noticias/{a["slug"]}.html'
     return f'{prof}articulos/{a["slug"]}.html'
 
 
@@ -315,11 +361,10 @@ def _pagina_competicion(c: dict, ligas: dict[str, list[dict]]) -> str:
         f'<a href="{_slug_liga(e)}.html"><span class="tit">{_e(e.split(" · ", 1)[-1])}</span>'
         f'<small>{fecha_larga(l[0]["fecha"])}</small></a>'
         for e, l in sorted(grupos.items(), key=lambda x: [int(n) if n.isdigit() else n for n in re.split(r"(\d+)", x[0])])) + "</div>"
-    noticias = sorted((a for l in grupos.values() for a in l), key=lambda a: a["fecha"], reverse=True)[:9]
+    noticias = sorted([a for l in grupos.values() for a in l] + _noticias_de(competicion=c["etiqueta"]),
+                      key=lambda a: a["fecha"], reverse=True)[:12]
     out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
-        f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(_etiqueta(a))}</span>'
-        f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>'
-        for a in noticias) + "</section>"
+        _tarjeta(a, prof, f'<span class="tag">{_e(_etiqueta(a))}</span>') for a in noticias) + "</section>"
     return out
 
 
@@ -344,9 +389,9 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     out += '<section><h2 class="sec tit">Clasificación</h2>' + (_tabla(tabla) if tabla else
            '<div class="vacio">La clasificación aparecerá aquí en cuanto la fuente de datos la publique.</div>') + "</section>"
     out += "</div>"
+    noticias = sorted(lista + _noticias_de(etiqueta=etiqueta), key=lambda a: a["fecha"], reverse=True)[:12]
     out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
-        f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="fecha">{fecha_larga(a["fecha"])}</span>'
-        f'<h3 class="tit">{_e(a["titular"])}</h3></div></a>' for a in lista[:9]) + "</section>"
+        _tarjeta(a, prof, f'<span class="tag">{_e(_etiqueta(a))}</span>') for a in noticias) + "</section>"
     return out
 
 
@@ -534,6 +579,8 @@ def _resultados(arts: list[dict]) -> str:
 def construir(cfg: dict) -> Path:
     arts = cargar_articulos()
     agenda = cargar_agenda()
+    NOTICIAS.clear()
+    NOTICIAS.extend(cargar_noticias())
     PREVIAS.clear()
     PREVIAS.update(_mapa_previas(arts))
     if SALIDA.exists():
@@ -553,7 +600,8 @@ def construir(cfg: dict) -> Path:
                                     ("espana.html", "espana", f"España · {nombre}"),
                                     ("internacional.html", "internacional", f"Internacional · {nombre}")]:
         lista = [a for a in arts if filtro is None or a["grupo"] == filtro][:60]
-        extra = (_agenda_portada(agenda) + SCRIPT_DIAS) if archivo == "index.html" and agenda else ""
+        extra = _bloque_noticias(_noticias_de(grupo=filtro)[:6])
+        extra += (_agenda_portada(agenda) + SCRIPT_DIAS) if archivo == "index.html" and agenda else ""
         (SALIDA / archivo).write_text(_pagina(cfg, titulo, _portada(lista, extra=extra), activa=archivo,
                                               ticker=_ticker(arts, "")))
     (SALIDA / "partidos.html").write_text(
@@ -563,6 +611,8 @@ def construir(cfg: dict) -> Path:
         _pagina(cfg, f"Resultados · {nombre}", _resultados(arts), activa="resultados.html", ticker=_ticker(arts, "")))
 
     ligas = _ligas(arts)
+    LIGAS.clear()
+    LIGAS.update(ligas, (c["etiqueta"] for c in cfg.get("competiciones", [])))
     (SALIDA / "ligas.html").write_text(
         _pagina(cfg, f"Ligas · {nombre}", _indice_ligas(cfg, ligas), activa="ligas.html", ticker=_ticker(arts, "")))
     for etiqueta, lista in ligas.items():
@@ -596,10 +646,31 @@ def construir(cfg: dict) -> Path:
                     _pagina(cfg, f'{pp["titular"]} · {nombre}', _pagina_previa(cfg, a, pp, partidos[pp["id"]]), "../",
                             pp["entradilla"], ticker=_ticker(arts, "../")))
 
+    (SALIDA / "noticias").mkdir()
+    for n in NOTICIAS:  # una página por noticia
+        (SALIDA / "noticias" / f'{n["slug"]}.html').write_text(
+            _pagina(cfg, f'{n["titular"]} · {nombre}', _pagina_noticia(n), "../", n["entradilla"],
+                    ticker=_ticker(arts, "../")))
+
     _historias(cfg)
-    _rss(cfg, arts[:40])
+    _rss(cfg, sorted(arts[:40] + NOTICIAS[:20], key=lambda a: a["fecha"], reverse=True))
     (SALIDA / ".nojekyll").write_text("")
     return SALIDA
+
+
+def _pagina_noticia(n: dict) -> str:
+    prof = "../"
+    f = n.get("fuente")
+    fuente = (f'<p class="fuente">Fuente: <a href="{_e(f["url"])}" rel="noopener nofollow" target="_blank">{_e(f["medio"])}</a>'
+              f' · «{_e(f["titular"])}». Noticia redactada por nuestra redacción a partir de esa información.</p>') if f else ""
+    relacionadas = [x for x in NOTICIAS if x["slug"] != n["slug"] and x.get("competicion") == n.get("competicion")][:3]
+    pagina = n["etiqueta"] if n["etiqueta"] in LIGAS else n.get("competicion", n["etiqueta"])
+    return (f'<article><a class="tag" href="{prof}ligas/{_slug_liga(pagina)}.html">{_e(_etiqueta(n))} →</a>'
+            f'<h1 class="tit">{_e(n["titular"])}</h1><p class="fecha">{fecha_larga(n["fecha"])}</p>'
+            f'<p class="entradilla">{_e(n["entradilla"])}</p>'
+            + markdown.markdown(n["cuerpo_markdown"]) + fuente
+            + _bloque_noticias(relacionadas, prof, "Más noticias")
+            + f'<a class="volver" href="{prof}index.html">← Volver a la portada</a></article>')
 
 
 def _historias(cfg: dict):
@@ -645,8 +716,8 @@ document.querySelectorAll(".btn-historias").forEach(b => b.addEventListener("cli
 def _rss(cfg: dict, arts: list[dict]):
     base = cfg["medio"]["url_web"].rstrip("/")
     items = "".join(
-        f"<item><title>{html.escape(a['titular'])}</title><link>{base}/articulos/{a['slug']}.html</link>"
-        f"<guid>{base}/articulos/{a['slug']}.html</guid><description>{html.escape(a['entradilla'])}</description>"
+        f"<item><title>{html.escape(a['titular'])}</title><link>{base}/{_url(a, '')}</link>"
+        f"<guid>{base}/{_url(a, '')}</guid><description>{html.escape(a['entradilla'])}</description>"
         f"<pubDate>{format_datetime(datetime.fromisoformat(a['fecha']).replace(tzinfo=timezone.utc))}</pubDate></item>"
         for a in arts)
     (SALIDA / "rss.xml").write_text(
