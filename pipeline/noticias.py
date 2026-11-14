@@ -181,8 +181,8 @@ simplemente no hables de ellos. Nada de frases obvias como "el empate deja el re
 - Si hay pocos datos, escribe solo 1-2 párrafos. Mejor corta que hinchada.
 - Si vienen "otros_partidos_del_grupo_ese_dia", puedes usarlos para dar contexto (por ejemplo, el total de goles \
 del día en el grupo).
-- Si el JSON trae un "aviso", respétalo: por ejemplo, di "en los partidos que lleva registrados este diario" \
-si la racha puede ser más larga.
+- SOLO si el JSON trae un campo "aviso" (rachas), aclara una vez que la racha cuenta "los partidos que tiene \
+registrados este diario". Si no hay "aviso", no lo menciones nunca.
 - titular: informativo, máx. 90 caracteres, sin exclamaciones ni preguntas.
 - entradilla: 1-2 frases con lo esencial y una cifra.
 - cuerpo: 2-4 párrafos cortos en Markdown, sin títulos. En un resumen de fin de semana puedes usar una lista \
