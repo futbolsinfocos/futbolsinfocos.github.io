@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-13-copa-del-rey",
+  "fecha": "2026-11-13",
+  "etiqueta": "Copa del Rey",
+  "competicion": "Copa del Rey",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Celta golea 0-5 al Salamanca UDS en la ronda de 128 de Copa",
+  "entradilla": "El Celta de Vigo superó con autoridad al Salamanca UDS en Villares de la Reina. Dobletes de F. Jutgla y W. Swedberg y un tanto de A. Antanon.",
+  "cuerpo_markdown": "La ronda de 128 de la Copa del Rey dejó una goleada en Villares de la Reina. El Celta de Vigo ganó 0-5 al Salamanca UDS. Al descanso ya mandaba por tres goles. En el tramo final cerró la eliminatoria con dos tantos más.\n\n## Salamanca UDS 0-5 Celta de Vigo\n\nEl Celta encarriló el partido pronto. F. Jutgla abrió el marcador en el minuto 15 y firmó el segundo en el 23. A. Antanon amplió la ventaja en el 39, antes del descanso.\n\nTras la reanudación, el marcador no se movió hasta el final. W. Swedberg marcó en el 80 y repitió en el 82 para completar su doblete y fijar el 0-5 definitivo.\n\nEl Salamanca UDS no logró marcar y cae eliminado ante el equipo gallego.",
+  "texto_instagram": "⚽ Goleada del Celta de Vigo en la ronda de 128 de la Copa del Rey: 0-5 en Villares de la Reina, con dobletes de Jutgla y Swedberg 🏆\n\nSalamanca UDS 0-5 Celta de Vigo: F. Jutgla (15', 23'), A. Antanon (39'), W. Swedberg (80', 82') 🔥",
+  "hashtags": [
+    "#CopaDelRey",
+    "#SalamancaUDS",
+    "#CeltaDeVigo",
+    "#SalamancaCelta",
+    "#FútbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-13/2026-11-13-copa-del-rey-1.jpg",
+    "img/2026-11-13/2026-11-13-copa-del-rey-2.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1644376,
+      "fecha": "2026-11-13T21:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Villares de la Reina",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "local": "Salamanca UDS",
+      "visitante": "Celta de Vigo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9588.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/538.png",
+      "goles_local": 0,
+      "goles_visitante": 5,
+      "goleadores": [
+        {
+          "min": 15,
+          "equipo": "Celta de Vigo",
+          "jugador": "F. Jutgla",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 23,
+          "equipo": "Celta de Vigo",
+          "jugador": "F. Jutgla",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 39,
+          "equipo": "Celta de Vigo",
+          "jugador": "A. Antanon",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 80,
+          "equipo": "Celta de Vigo",
+          "jugador": "W. Swedberg",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 82,
+          "equipo": "Celta de Vigo",
+          "jugador": "W. Swedberg",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": []
+}
