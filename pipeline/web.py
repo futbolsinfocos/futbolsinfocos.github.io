@@ -10,6 +10,7 @@ import re
 import unicodedata
 import json
 import shutil
+import zipfile
 from datetime import date, datetime, timedelta, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -605,13 +606,37 @@ def _historias(cfg: dict):
     """historias.html (sin enlace en el menú): las historias del día para guardarlas y subirlas desde el móvil."""
     archivos = sorted((CONTENIDO / "instagram").glob("*-historias.json"), reverse=True)[:3]
     bloques = []
-    for f in archivos:
+    for n, f in enumerate(archivos):
         h = json.loads(f.read_text())
         fotos = "".join(f'<a href="{i}" download><img src="{i}" alt="Historia" loading="lazy" '
                         f'style="width:100%;max-width:360px;border-radius:12px;margin:8px 0"></a>' for i in h["imagenes"])
-        bloques.append(f'<h2>Historias del {fecha_larga(h["fecha"])}</h2>'
-                       f'<p>Mantén pulsada cada imagen y elige "Descargar" o "Guardar imagen". Luego súbela como historia.</p>'
+        lista = html.escape(json.dumps(h["imagenes"]))
+        zip_nombre = f"historias-{h['fecha']}.zip"  # por si el móvil no deja compartir varias fotos a la vez
+        with zipfile.ZipFile(SALIDA / zip_nombre, "w") as z:
+            for k, i in enumerate(h["imagenes"], 1):
+                if (CONTENIDO / i).exists():
+                    z.write(CONTENIDO / i, f"{k}-{Path(i).name}")
+        boton = ('<button class="btn-historias" data-imgs="{l}" data-zip="{z}" '
+                 'style="background:#FFD400;color:#111;border:0;border-radius:10px;padding:14px 22px;'
+                 'font-weight:800;font-size:17px;margin:8px 0 14px;cursor:pointer">'
+                 '⬇ Guardar todas ({k})</button>').format(l=lista, z=zip_nombre, k=len(h["imagenes"]))
+        bloques.append(f'<h2>Historias del {fecha_larga(h["fecha"])}</h2>{boton}'
+                       f'<p>En el móvil se abre el menú de compartir: elige "Guardar imágenes" (o "Guardar en Fotos") '
+                       f'y se guardan todas de golpe. También puedes mantener pulsada cada una.</p>'
                        f'<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px">{fotos}</div>')
+    bloques.append('''<script>
+document.querySelectorAll(".btn-historias").forEach(b => b.addEventListener("click", async () => {
+  const urls = JSON.parse(b.dataset.imgs), texto = b.textContent;
+  b.textContent = "Preparando…";
+  try {
+    const files = await Promise.all(urls.map(async (u, i) =>
+      new File([await (await fetch(u)).blob()], (i + 1) + "-" + u.split("/").pop(), {type: "image/jpeg"})));
+    if (navigator.canShare && navigator.canShare({files})) await navigator.share({files});
+    else location.href = b.dataset.zip;
+  } catch (e) { if (e.name !== "AbortError") location.href = b.dataset.zip; }
+  b.textContent = texto;
+}));
+</script>''')
     cuerpo = "<article>" + ("".join(bloques) or "<p>Todavía no hay historias.</p>") + "</article>"
     (SALIDA / "historias.html").write_text(
         _pagina(cfg, f"Historias · {cfg['medio']['nombre']}", cuerpo, descripcion="Historias de Instagram del día"))
