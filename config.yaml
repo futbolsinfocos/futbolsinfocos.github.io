@@ -90,5 +90,7 @@ limites:
 
 # Redacción con IA
 ia:
-  modelo: "claude-opus-5-5"      # alternativa mucho más barata: "claude-haiku-5-5"
+  modelo: "claude-opus-5-5"      # el bueno: Primera y Segunda Federación (prioridad 1)
+  modelo_barato: "claude-haiku-5-5"   # Tercera, Hypermotion, ligas extranjeras… (mucho más barato)
+  modelo_bueno_hasta_prioridad: 1
   esfuerzo: "low"                # low basta para crónicas cortas a partir de datos

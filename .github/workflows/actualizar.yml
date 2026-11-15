@@ -41,6 +41,7 @@ jobs:
       - name: Crónicas de lo ya terminado
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          API_FOOTBALL_PROXY: ${{ secrets.API_FOOTBALL_PROXY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m pipeline actualizar --fecha ${{ steps.f.outputs.fecha }}
 

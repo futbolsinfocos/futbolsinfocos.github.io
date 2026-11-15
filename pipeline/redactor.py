@@ -144,7 +144,10 @@ def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema
     import anthropic
 
     client = anthropic.Anthropic()
-    modelo = config["ia"]["modelo"]
+    ia = config["ia"]
+    prioridad = (paquete.get("liga") or {}).get("prioridad", 3)
+    # Ahorro: el modelo bueno solo para las categorías principales; el resto, el barato
+    modelo = ia["modelo"] if prioridad <= ia.get("modelo_bueno_hasta_prioridad", 9) else ia.get("modelo_barato", ia["modelo"])
     peticion = dict(
         model=modelo,
         max_tokens=16000,
