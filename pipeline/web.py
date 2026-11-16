@@ -33,162 +33,196 @@ FUENTES = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
            '&family=Inter:wght@400;600;700&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">')
 
 CSS = """
-:root{--fondo:#0d0d0d;--panel:#181818;--linea:#2a2a2a;--tinta:#f2f2f2;--suave:#a8a8a8;--amarillo:#FFD400;--negro:#111}
+:root{--fondo:#f6f5f1;--panel:#fff;--linea:#e3e1da;--tinta:#151515;--suave:#5f5f5f;--amarillo:#FFD400;--acento:#8a6a00;--negro:#111}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--fondo);color:var(--tinta);font:16px/1.55 Inter,system-ui,sans-serif}
+body{margin:0;background:var(--fondo);color:var(--tinta);font:16px/1.6 Inter,system-ui,sans-serif}
 a{color:inherit;text-decoration:none}img{display:block;max-width:100%}
 .tit{font-family:Oswald,'Arial Narrow',Impact,sans-serif;text-transform:uppercase;letter-spacing:.01em}
-.ticker{background:var(--amarillo);color:var(--negro);overflow:hidden;white-space:nowrap}
+/* Cabecera: barra negra + menú amarillo + tira de resultados */
+.top{background:var(--negro);color:#fff}
+header{display:flex;align-items:center;gap:14px;max-width:1200px;margin:0 auto;padding:14px 16px}
+header .logo{width:44px;height:44px;border-radius:8px;flex:none}
+header .n{font-size:30px;line-height:1;font-weight:700}header .l{font-size:12px;color:#aaa;margin-top:3px}
+header .hoy{margin-left:auto;font-size:13px;color:#aaa;text-align:right}
+nav{background:var(--amarillo);color:var(--negro);overflow-x:auto}
+nav .in{max-width:1200px;margin:0 auto;display:flex;gap:24px;padding:10px 16px;white-space:nowrap;
+ font:600 15px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.05em}
+nav a.on,nav a:hover{text-decoration:underline 3px;text-underline-offset:6px}
+.ticker{background:#1d1d1d;color:#eee;overflow:hidden;white-space:nowrap;border-bottom:1px solid #000}
 .ticker .in{display:inline-flex;width:max-content;animation:rueda var(--dur,40s) linear infinite}
 .ticker:hover .in,.ticker:focus-within .in{animation-play-state:paused}
-.ticker .tira{display:inline-flex;gap:26px;padding:8px 13px;font:700 14px Inter,sans-serif}
+.ticker .tira{display:inline-flex;gap:26px;padding:7px 13px;font:600 13px Inter,sans-serif}
 .ticker .tira>a{display:inline-flex;align-items:center}
 @keyframes rueda{from{transform:translateX(0)}to{transform:translateX(-50%)}}
 @media (prefers-reduced-motion:reduce){.ticker{overflow-x:auto}.ticker .in{animation:none}.ticker .tira[aria-hidden]{display:none}}
-.ticker b{background:var(--negro);color:var(--amarillo);padding:1px 7px;border-radius:3px;margin:0 7px;font-variant-numeric:tabular-nums}
-.ticker .lt{font-size:11px;text-transform:uppercase;letter-spacing:.08em;opacity:.7}
-header{display:flex;align-items:center;gap:14px;max-width:1180px;margin:0 auto;padding:16px}
-header .logo{width:46px;height:46px;border-radius:8px;flex:none}
-header .n{font-size:30px;line-height:1;font-weight:700}header .l{font-size:12px;color:#999;margin-top:3px}
-nav{margin-left:auto;display:flex;gap:22px;font:500 15px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.05em}
-nav a:hover,nav a.on{color:var(--amarillo)}
-main{max-width:1180px;margin:0 auto;padding:8px 16px 50px}
-.tag{display:inline-block;background:var(--amarillo);color:var(--negro);font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;padding:4px 8px;border-radius:3px}
-.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:18px}
-.big{position:relative;border-radius:14px;overflow:hidden;min-height:440px;background:var(--panel);display:block}
-.big img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:top;opacity:.16;filter:grayscale(1)}
-.big .t{position:absolute;left:0;right:0;bottom:0;padding:26px;background:linear-gradient(transparent,#000 55%)}
-.big h2{font-size:38px;line-height:1.05;margin:10px 0}.big p{color:#ccc;margin:0}
-.mini{display:flex;flex-direction:column;gap:18px}
-.mini a{background:var(--panel);border-radius:14px;padding:20px;flex:1;border-left:4px solid var(--amarillo);display:block}
-.mini h3{font-size:23px;line-height:1.15;margin:10px 0 6px}.mini p{color:#aaa;margin:0;font-size:14px}
-a:hover h2,a:hover h3{color:var(--amarillo)}
-.sec{font-size:22px;margin:36px 0 14px;display:flex;align-items:center;gap:10px;font-weight:700}
-.sec:after{content:"";flex:1;height:2px;background:var(--linea)}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-.card{background:var(--panel);border-radius:14px;overflow:hidden;display:block}
-.card img{width:100%;aspect-ratio:16/9;object-fit:cover;object-position:top}
-.card div{padding:16px}.card h3{font-size:20px;line-height:1.2;margin:8px 0 6px;font-weight:600}
+.ticker b{background:var(--amarillo);color:var(--negro);padding:1px 7px;border-radius:3px;margin:0 7px;font-variant-numeric:tabular-nums}
+.ticker .lt{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--amarillo)}
+main{max-width:1200px;margin:0 auto;padding:8px 16px 40px}
+/* Publicidad */
+.ad{display:block;margin:22px auto;text-align:center;overflow:hidden}
+.ad .rot{display:block;font:600 10px Inter,sans-serif;text-transform:uppercase;letter-spacing:.14em;color:#9a978c;margin-bottom:4px}
+.ad.sup{max-width:970px;min-height:110px}.ad.lat{width:300px;min-height:270px}.ad.alto{width:300px;min-height:620px;position:sticky;top:16px}
+.ad.txt{max-width:336px;min-height:270px}.ad.feed{grid-column:1/-1;min-height:140px;margin:0}
+.ad.demo ins{text-decoration:none;display:flex!important;flex-direction:column;align-items:center;justify-content:center;height:100%;min-height:inherit;
+ background:repeating-linear-gradient(45deg,#ecebe6,#ecebe6 10px,#e4e2db 10px,#e4e2db 20px);border:1px dashed #b9b6ab;color:#8a877c;font-size:12px}
+.ad.sup.demo ins{min-height:90px}.ad.lat.demo ins,.ad.txt.demo ins{min-height:250px}.ad.alto.demo ins{min-height:600px}.ad.feed.demo ins{min-height:120px}
+/* Etiquetas, secciones, tarjetas */
+.tag{display:inline-block;background:var(--amarillo);color:var(--negro);font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;padding:3px 8px;border-radius:3px}
+.sec{font-size:20px;margin:34px 0 16px;display:flex;align-items:center;gap:10px;font-weight:700;border-bottom:3px solid var(--negro);padding-bottom:6px}
+h1.sec{font-size:28px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:36px;align-items:start}
+.cols>aside{padding-top:8px}
+.hero{display:grid;grid-template-columns:1.25fr 1fr;background:var(--panel);border:1px solid var(--linea);border-radius:6px;overflow:hidden;margin-top:8px}
+.hero .foto{background:#111;min-height:300px}.hero .foto img{width:100%;height:100%;object-fit:cover;object-position:top}
+.hero .t{padding:24px}.hero h2{font-size:34px;line-height:1.08;margin:12px 0}.hero p{color:var(--suave);margin:0}
+.mini{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:20px}
+.mini a,.card{background:var(--panel);border:1px solid var(--linea);border-top:4px solid var(--amarillo);border-radius:6px;padding:16px 18px;display:block}
+.mini h3{font:600 21px/1.25 'Source Serif 4',Georgia,serif;margin:8px 0 6px}.mini p{color:var(--suave);margin:0;font-size:14px}
+a:hover h2,a:hover h3,a:hover strong{text-decoration:underline}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.card img{display:none}.card div{padding:0}
+.card h3{font:600 18px/1.3 'Source Serif 4',Georgia,serif;margin:8px 0 6px;text-transform:none;letter-spacing:0}
 .fecha{font-size:13px;color:var(--suave)}
-.vacio{background:var(--panel);border-radius:14px;padding:40px 24px;text-align:center;color:var(--suave)}
-article{max-width:760px;margin:0 auto}
-article h1{font-size:clamp(30px,5.5vw,48px);line-height:1.05;margin:14px 0 10px}
-article .entradilla{font-size:19px;color:#ccc;margin:12px 0 22px}
-article .fotos{display:flex;gap:12px;overflow-x:auto;margin:22px 0}
-article .fotos img{width:min(100%,420px);flex:none;border-radius:10px}
-article h2{font:600 24px Oswald,sans-serif;text-transform:uppercase;margin:34px 0 8px;color:var(--amarillo)}
-article p{margin:0 0 14px}article strong{color:#fff}
-.volver{display:inline-block;margin-top:30px;color:var(--amarillo);font-weight:600}
+.vacio{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:36px 24px;text-align:center;color:var(--suave)}
+.bloque{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:16px 18px;margin-bottom:22px}
+.bloque h3{font:700 16px Oswald,sans-serif;text-transform:uppercase;margin:0 0 4px;border-bottom:3px solid var(--amarillo);padding-bottom:6px}
+.lista a{display:block;padding:11px 0;border-bottom:1px solid var(--linea)}.lista a:last-child{border:0}
+.lista small{color:var(--suave);font-size:11px;text-transform:uppercase;letter-spacing:.07em}
+.lista strong{display:block;font:600 16px/1.3 'Source Serif 4',Georgia,serif;margin-top:3px}
+.bloque.negro{background:var(--negro);color:#fff;border:0}.bloque.negro h3{color:#fff}.bloque.negro p{color:#ccc;font-size:14px}
+.bloque.negro a{display:inline-block;background:var(--amarillo);color:#000;font-weight:700;padding:8px 14px;border-radius:4px;font-size:14px}
+/* Artículo */
+article{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:30px 36px;margin-top:8px}
+article h1{font-size:clamp(28px,4.5vw,44px);line-height:1.06;margin:14px 0 10px}
+article .entradilla{font:400 21px/1.5 'Source Serif 4',Georgia,serif;color:#333;margin:10px 0 16px}
+article .firma-art{font-size:13px;color:var(--suave);border-top:1px solid var(--linea);border-bottom:1px solid var(--linea);padding:9px 0;margin-bottom:22px}
+article .firma-art b{color:var(--tinta)}
+article .fotos{display:flex;gap:12px;overflow-x:auto;margin:0 0 22px}
+article .fotos img{width:min(100%,460px);flex:none;border-radius:4px}
+article>p,article .cuerpo p,article li{font:400 19px/1.75 'Source Serif 4',Georgia,serif;margin:0 0 16px}
+article h2{font:700 22px Oswald,sans-serif;text-transform:uppercase;margin:32px 0 10px;border-left:5px solid var(--amarillo);padding-left:10px;scroll-margin-top:16px}
+article strong{color:var(--negro)}
+.volver{display:inline-block;margin-top:26px;color:var(--acento);font-weight:700}
+.migas{font-size:13px;color:var(--suave);margin:16px 0 4px}.migas a:hover{text-decoration:underline}
 table{border-collapse:collapse;width:100%;font-size:15px;margin:10px 0 20px}
 td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{color:var(--suave);font-weight:600}
-.dia{margin-bottom:30px}.comp{margin:0 0 18px;background:var(--panel);border-radius:14px;padding:14px 18px}
-.comp h3{font-size:18px;margin:0 0 8px}.comp h3 a:hover{color:var(--amarillo)}
-.partido{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;padding:7px 0;border-top:1px solid var(--linea)}
-.partido .l{text-align:right}.partido b.hora{background:none;color:var(--amarillo);border:2px solid var(--amarillo)}.partido b{background:var(--amarillo);color:var(--negro);border-radius:4px;padding:2px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
+/* Partidos y resultados */
+.dia{margin-bottom:30px}.dia>h2{font-size:20px;color:var(--negro);margin:26px 0 12px}
+.comp{margin:0 0 18px;background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:14px 18px}
+.comp h3{font-size:17px;margin:0 0 8px}.comp h3 a{color:var(--acento)}.comp h3 a:hover{text-decoration:underline}
+.partido{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:center;padding:8px 0;border-top:1px solid var(--linea)}
+.partido .l{text-align:right}
+.partido b{background:var(--negro);color:var(--amarillo);border-radius:4px;padding:2px 9px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.partido b.hora{background:none;color:var(--negro);border:2px solid var(--negro)}
 .ligas{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
-.ligas a{background:var(--panel);border-radius:12px;padding:16px 18px;border-left:4px solid var(--amarillo);display:block}
-.ligas a span{font-size:20px;font-weight:600;display:block}.ligas a:hover span{color:var(--amarillo)}.ligas small{color:var(--suave)}
-.liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--amarillo)}
-.lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--suave);margin:12px 0 4px}
-.lt-p:first-child{margin-top:0}.lt-p:hover{color:var(--amarillo)}
+.ligas a{background:var(--panel);border:1px solid var(--linea);border-left:4px solid var(--amarillo);border-radius:6px;padding:14px 18px;display:block}
+.ligas a span{font-size:19px;font-weight:600;display:block}.ligas a:hover span{text-decoration:underline}.ligas small{color:var(--suave)}
+.pais{font-size:20px;margin:26px 0 12px}
+.liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--acento)}
+.lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--acento);margin:12px 0 4px}
+.lt-p:first-child{margin-top:0}
 .partido .centro{display:flex;flex-direction:column;align-items:center;gap:5px}
 .btn-previa{display:inline-block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.06em;
- color:var(--negro);background:var(--amarillo);padding:3px 9px;border-radius:99px}
-.btn-previa:hover{background:#fff}article h2{scroll-margin-top:16px}
-article .ficha{margin:-2px 0 10px;font-size:14px;color:var(--suave)}article .ficha b{color:var(--amarillo)}
-article .forma{font-size:13px;color:var(--suave);margin:0 0 12px;line-height:2}
-article .forma .eq{display:inline-block;min-width:150px;margin-right:6px}
-article .forma span[class^=f]{display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;border-radius:4px;
- margin-right:3px;font-weight:700;font-size:12px;color:#111}
+ color:var(--negro);background:var(--amarillo);padding:3px 9px;border-radius:99px}.btn-previa:hover{background:var(--negro);color:var(--amarillo)}
 .fG{background:#3ec46d}.fE{background:#bdbdbd}.fP{background:#e5534b}
-/* Previa de un partido (página propia, estilo periódico) */
-.pp{max-width:1100px;margin:0 auto;padding-top:14px}
-.pp .miga{font:500 13px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--amarillo)}
-.pp .miga span{color:#888}.pp .miga a:hover{color:#fff}
-.pp h1{font-size:clamp(30px,5.2vw,52px);line-height:1.05;margin:12px 0 14px;max-width:920px}
-.pp .entr{font:400 clamp(18px,2.4vw,21px)/1.5 'Source Serif 4',Georgia,serif;color:#cfcfcf;max-width:820px;margin:0 0 18px}
+/* Previa de un partido */
+.pp{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:26px 32px;margin-top:8px}
+.pp .miga{font:500 13px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--acento)}
+.pp .miga span{color:var(--suave)}
+.pp h1{font-size:clamp(28px,4.6vw,46px);line-height:1.06;margin:12px 0 14px}
+.pp .entr{font:400 clamp(18px,2.4vw,21px)/1.5 'Source Serif 4',Georgia,serif;color:#333;margin:0 0 18px}
 .pp .firma{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between;font-size:13px;color:var(--suave);
- border-top:1px solid var(--linea);border-bottom:1px solid var(--linea);padding:10px 0;margin-bottom:26px}
-.pp .firma b{color:#eee}
+ border-top:1px solid var(--linea);border-bottom:1px solid var(--linea);padding:10px 0;margin-bottom:24px}
+.pp .firma b{color:var(--tinta)}
 .comparte{display:flex;gap:8px}.comparte a,.comparte button{font:700 12px Inter,sans-serif;border-radius:99px;padding:6px 12px;
- border:1px solid var(--linea);background:var(--panel);color:#eee;cursor:pointer}
-.comparte a:hover,.comparte button:hover{border-color:var(--amarillo);color:var(--amarillo)}
-.marcador{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;background:var(--panel);
- border:1px solid var(--linea);border-radius:12px;padding:20px 26px;margin-bottom:30px}
+ border:1px solid var(--linea);background:var(--fondo);color:var(--tinta);cursor:pointer}
+.comparte a:hover,.comparte button:hover{border-color:var(--negro)}
+.marcador{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;background:var(--negro);color:#fff;border-radius:8px;padding:20px 26px;margin-bottom:28px}
 .marcador .eq{display:flex;align-items:center;gap:14px;font:700 clamp(17px,2.6vw,26px)/1.1 Oswald,sans-serif;text-transform:uppercase}
 .marcador .eq.v{flex-direction:row-reverse;text-align:right}
-.escudo{position:relative;flex:none;width:58px;height:58px;border-radius:50%;background:#262626;color:var(--amarillo);
+.escudo{position:relative;flex:none;width:58px;height:58px;border-radius:50%;background:#2a2a2a;color:var(--amarillo);
  display:flex;align-items:center;justify-content:center;font:700 18px Oswald,sans-serif}
-.escudo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:var(--panel)}
+.escudo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#fff;border-radius:50%;padding:4px}
 .marcador .hora{text-align:center;padding:0 10px}.marcador .hora b{display:block;font:700 clamp(28px,4vw,40px)/1 Oswald,sans-serif;color:var(--amarillo)}
-.marcador .hora span{font-size:12px;color:var(--suave);text-transform:uppercase;letter-spacing:.08em}
-.pp .cols{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:44px;align-items:start}
-.pp .texto p{font:400 19px/1.7 'Source Serif 4',Georgia,serif;color:#e4e4e4;margin:0 0 20px}
-.pp .texto .cap{float:left;font:700 60px/.85 Oswald,sans-serif;color:var(--amarillo);margin:6px 8px 0 0}
-.pp .texto h2{font:700 22px Oswald,sans-serif;text-transform:uppercase;color:var(--amarillo);margin:32px 0 14px;letter-spacing:.03em}
+.marcador .hora span{font-size:12px;color:#bbb;text-transform:uppercase;letter-spacing:.08em}
+.pp .cols{grid-template-columns:minmax(0,1fr) 300px;gap:36px}
+.pp .texto p{font:400 19px/1.75 'Source Serif 4',Georgia,serif;color:#222;margin:0 0 20px}
+.pp .texto .cap{float:left;font:700 60px/.85 Oswald,sans-serif;color:var(--negro);margin:6px 8px 0 0;border-bottom:5px solid var(--amarillo)}
+.pp .texto h2{font:700 22px Oswald,sans-serif;text-transform:uppercase;margin:30px 0 12px;border-left:5px solid var(--amarillo);padding-left:10px}
 .claves{list-style:none;padding:0;margin:0}.claves li{border-left:4px solid var(--amarillo);padding:10px 16px;margin-bottom:12px;
- background:var(--panel);font-size:16px;line-height:1.5}.claves b{color:#fff}
-.pp aside .caja{background:var(--panel);border:1px solid var(--linea);border-radius:12px;padding:18px 20px;margin-bottom:18px}
-.pp aside h3{font:700 16px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.06em;margin:0 0 10px;color:var(--amarillo)}
-.dato{display:flex;justify-content:space-between;gap:12px;font-size:14px;padding:8px 0;border-bottom:1px solid #222;text-align:right}
+ background:var(--fondo);font-size:16px;line-height:1.5}.claves b{color:var(--negro)}
+.pp aside .caja{background:var(--fondo);border:1px solid var(--linea);border-radius:6px;padding:16px 18px;margin-bottom:18px}
+.pp aside h3{font:700 16px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.06em;margin:0 0 8px;border-bottom:3px solid var(--amarillo);padding-bottom:6px}
+.dato{display:flex;justify-content:space-between;gap:12px;font-size:14px;padding:8px 0;border-bottom:1px solid var(--linea);text-align:right}
 .dato:last-child{border:0}.dato span{color:var(--suave);text-align:left}
 .racha{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:14px;margin:10px 0}
 .racha i{display:inline-block;width:24px;height:24px;line-height:24px;text-align:center;border-radius:4px;font:700 12px Inter,sans-serif;
  font-style:normal;color:#111;margin-left:3px}
-.pp .nota{font-size:12px;color:#777;margin:6px 0 0}
-.mas{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
-.mas a{background:var(--panel);border-radius:12px;padding:14px 16px;border-left:4px solid var(--amarillo);display:block}
-.mas small{color:var(--amarillo);font-weight:700}.mas strong{display:block;font:600 18px/1.2 Oswald,sans-serif;text-transform:uppercase;margin:4px 0}
-.mas span{font-size:14px;color:var(--suave)}.mas a:hover strong{color:var(--amarillo)}
-@media(max-width:820px){.pp .cols{display:flex;flex-direction:column;gap:6px}.pp aside{order:-1;width:100%}
- .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq{flex-direction:column;text-align:center;gap:8px}
- .marcador .eq.v{flex-direction:column;text-align:center}.pp .texto p{font-size:18px}}
+.pp .nota{font-size:12px;color:var(--suave);margin:6px 0 0}
+.mas{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.mas a{background:var(--fondo);border:1px solid var(--linea);border-left:4px solid var(--amarillo);border-radius:6px;padding:12px 16px;display:block}
+.mas small{color:var(--acento);font-weight:700}.mas strong{display:block;font:600 17px/1.2 Oswald,sans-serif;text-transform:uppercase;margin:4px 0}
+.mas span{font-size:14px;color:var(--suave)}
 /* Noticias */
-.notis{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.notis a{background:var(--panel);border-radius:12px;padding:16px 18px;border-top:4px solid var(--amarillo);display:block}
-.notis small{color:var(--amarillo);font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em}
-.notis strong{display:block;font:600 19px/1.2 Oswald,sans-serif;text-transform:uppercase;margin:6px 0}
-.notis span{font-size:14px;color:var(--suave)}.notis a:hover strong{color:var(--amarillo)}
-.card.sin-img div{border-top:4px solid var(--amarillo)}
-.fuente{background:var(--panel);border-left:4px solid var(--amarillo);border-radius:8px;padding:12px 16px;font-size:14px;color:var(--suave);margin:26px 0 0}
-.fuente a{color:var(--amarillo);font-weight:600}
-@media(max-width:820px){.notis{grid-template-columns:1fr}}
+.notis{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.notis a{background:var(--panel);border:1px solid var(--linea);border-top:4px solid var(--negro);border-radius:6px;padding:16px 18px;display:block}
+.notis small{color:var(--acento);font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em}
+.notis strong{display:block;font:600 18px/1.3 'Source Serif 4',Georgia,serif;margin:6px 0}
+.notis span{font-size:14px;color:var(--suave)}
+.fuente{background:var(--fondo);border-left:4px solid var(--amarillo);border-radius:4px;padding:12px 16px;font-size:14px;color:var(--suave);margin:26px 0 0}
+.fuente a{color:var(--acento);font-weight:600}
 /* Regionales */
-.regs{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.rg{background:var(--panel);border-radius:12px;padding:16px 18px;border:1px solid var(--linea);display:block}
-a.rg:hover{border-color:var(--amarillo)}
+.regs{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.rg{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:16px 18px;display:block}
+a.rg:hover{border-color:var(--negro)}
 .rgt{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:12px}
 .rgt small{color:var(--suave);font-size:12px;text-align:right}
 .rgm{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;font:600 17px/1.15 Oswald,sans-serif;text-transform:uppercase}
 .rgm span:first-child{text-align:right}
-.rgm b{background:var(--amarillo);color:var(--negro);border-radius:4px;padding:2px 8px;font-size:14px;white-space:nowrap}
-.rgm b.hora{background:none;border:2px solid var(--amarillo);color:var(--amarillo)}
-.rg p{color:#bbb;font-size:14px;margin:12px 0 0;text-align:center}
-.regcab{display:flex;justify-content:space-between;align-items:end;gap:12px;flex-wrap:wrap;margin:-4px 0 14px;color:var(--suave);font-size:14px}
-.regcab a{color:var(--amarillo);font-weight:700}
-.rgart{background:var(--panel);border-radius:14px;padding:20px 22px;margin-bottom:16px;scroll-margin-top:16px}
+.rgm b{background:var(--negro);color:var(--amarillo);border-radius:4px;padding:2px 8px;font-size:14px;white-space:nowrap}
+.rgm b.hora{background:none;border:2px solid var(--negro);color:var(--negro)}
+.rg p{color:var(--suave);font-size:14px;margin:12px 0 0;text-align:center}
+.regcab{display:flex;justify-content:space-between;align-items:end;gap:12px;flex-wrap:wrap;margin:-6px 0 14px;color:var(--suave);font-size:14px}
+.regcab a{color:var(--acento);font-weight:700}
+.rgart{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:20px 22px;margin-bottom:16px;scroll-margin-top:16px}
 .rgart h3{font-size:24px;line-height:1.15;margin:10px 0 6px}.rgart .rgm{margin:14px 0}
-.rgart .txt{font:400 18px/1.65 'Source Serif 4',Georgia,serif;color:#e4e4e4;margin:10px 0 0}
-.rgart .firma{font-size:13px;color:var(--suave);margin-top:10px}.rgart .firma b{color:#eee}
-.llamada{background:var(--amarillo);color:var(--negro);border-radius:14px;padding:22px 24px;margin:8px 0 26px}
-.llamada h2{font:700 24px/1.1 Oswald,sans-serif;text-transform:uppercase;margin:0 0 6px}.llamada p{margin:0 0 12px}
-.llamada a{display:inline-block;background:var(--negro);color:var(--amarillo);font-weight:700;padding:8px 16px;border-radius:99px}
+.rgart .txt{font:400 18px/1.7 'Source Serif 4',Georgia,serif;color:#222;margin:10px 0 0}
+.rgart .firma{font-size:13px;color:var(--suave);margin-top:10px}.rgart .firma b{color:var(--tinta)}
+.llamada{background:var(--negro);color:#fff;border-radius:6px;padding:22px 24px;margin:8px 0 26px}
+.llamada h2{font:700 24px/1.1 Oswald,sans-serif;text-transform:uppercase;margin:0 0 6px;color:var(--amarillo)}.llamada p{margin:0 0 12px;color:#ddd}
+.llamada a{display:inline-block;background:var(--amarillo);color:var(--negro);font-weight:700;padding:8px 16px;border-radius:4px}
 /* Más fútbol (segundo plano) */
-.sec.peq{font-size:17px;color:var(--suave)}
+.sec.peq{font-size:17px;color:var(--suave);border-bottom-width:2px;border-color:var(--linea)}
 .franja{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
-.franja a{flex:none;background:#141414;border:1px solid var(--linea);border-radius:10px;padding:10px 14px;min-width:170px}
+.franja a{flex:none;background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:10px 14px;min-width:170px}
 .franja small{display:block;color:var(--suave);font-size:11px;text-transform:uppercase;letter-spacing:.06em}
-.franja span{font-weight:600;font-size:14px}.franja a:hover{border-color:var(--amarillo)}
-@media(max-width:820px){.regs{grid-template-columns:1fr}}
-footer{border-top:1px solid var(--linea);color:var(--suave);font-size:13px;text-align:center;padding:28px 16px 36px}
-footer .redes{margin-bottom:10px}footer .redes a{color:var(--amarillo);font-weight:600;margin:0 8px}
-@media(max-width:820px){.hero,.grid,.liga{grid-template-columns:1fr}.big{min-height:360px}.big h2{font-size:28px}
- header{flex-wrap:wrap;padding:14px 16px 6px}nav{margin-left:0;width:100%;gap:14px;overflow-x:auto;padding:4px 0 6px;font-size:13px}}
+.franja span{font-weight:600;font-size:14px}.franja a:hover{border-color:var(--negro)}
+/* Páginas legales */
+.legal{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:30px 36px;max-width:820px;margin:16px auto}
+.legal h1{font:700 34px Oswald,sans-serif;text-transform:uppercase;margin:0 0 6px}
+.legal h2{font:700 20px Oswald,sans-serif;text-transform:uppercase;margin:28px 0 6px}
+.legal .act{color:var(--suave);font-size:14px}.legal a{color:var(--acento);text-decoration:underline}
+.legal table td,.legal table th{border:1px solid var(--linea);vertical-align:top}
+.pendiente{background:#fff3a3;padding:0 4px;border-radius:3px}
+/* Pie */
+footer{background:var(--negro);color:#bbb;font-size:14px;margin-top:30px}
+footer .in{max-width:1200px;margin:0 auto;padding:34px 16px;display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:30px}
+footer h4{color:#fff;font:700 15px Oswald,sans-serif;text-transform:uppercase;margin:0 0 10px}
+footer .in a{display:block;margin:5px 0}footer a:hover{color:var(--amarillo)}footer .ig{color:var(--amarillo);font-weight:600}
+footer .bajo{border-top:1px solid #2a2a2a;text-align:center;padding:14px 16px;font-size:12px;color:#888;line-height:1.6}
+@media(max-width:900px){.cols,.pp .cols{grid-template-columns:1fr}.cols>aside .ad.alto{display:none}.grid,.notis,.regs{grid-template-columns:1fr 1fr}
+ .hero{grid-template-columns:1fr}.hero .foto{min-height:0;max-height:420px}.hero .foto img{height:auto}footer .in{grid-template-columns:1fr 1fr}
+ .pp aside{order:-1}}
+@media(max-width:640px){.grid,.notis,.regs,.mini,.liga{grid-template-columns:1fr}header .hoy{display:none}
+ .hero h2{font-size:27px}.hero .t{padding:18px}article,.pp,.legal{padding:20px 18px}article>p,article .cuerpo p,.pp .texto p{font-size:18px}
+ .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq,.marcador .eq.v{flex-direction:column;text-align:center;gap:8px}
+ footer .in{grid-template-columns:1fr}}
 """
 
-NAV = [("index.html", "Portada"), ("rfef.html", "RFEF"), ("regionales.html", "Regionales"),
-       ("partidos.html", "Partidos"), ("resultados.html", "Resultados"), ("ligas.html", "Ligas"),
-       ("mas-futbol.html", "Más fútbol")]
+NAV = [("index.html", "Portada"), ("ligas/primera-federacion.html", "1ª Federación"),
+       ("ligas/segunda-federacion.html", "2ª Federación"), ("ligas/tercera-federacion.html", "3ª Federación"),
+       ("regionales.html", "Regionales"), ("partidos.html", "Partidos"), ("resultados.html", "Resultados"),
+       ("mas-futbol.html", "Más fútbol"), ("ligas.html", "Ligas")]
 
 
 def _e(t) -> str:
@@ -220,28 +254,89 @@ def _ticker(arts: list[dict], prof: str) -> str:
             f'<div class="tira">{tira}</div><div class="tira" aria-hidden="true">{tira}</div></div></div>')
 
 
+def _hoy_largo() -> str:
+    d = datetime.now(timezone(timedelta(hours=1))).date()
+    return f"{DIAS[d.weekday()].capitalize()}, {fecha_larga(d.isoformat())}"
+
+
 def _pagina(cfg: dict, titulo: str, cuerpo: str, prof: str = "", descripcion: str = "",
-            activa: str = "", ticker: str = "") -> str:
+            activa: str = "", ticker: str = "", lateral: str | None = None) -> str:
+    """Plantilla común. Si se pasa `lateral`, el contenido va a dos columnas con la barra lateral a la derecha."""
     m = cfg["medio"]
     usuario, url_ig = _instagram(cfg)
     nav = "".join(f'<a href="{prof}{h}"{" class=on" if h == activa else ""}>{t}</a>' for h, t in NAV)
-    ig = f'<a href="{url_ig}" rel="noopener">Instagram @{_e(usuario)}</a>' if usuario else ""
+    ig = f'<a class="ig" href="{url_ig}" rel="noopener">Instagram @{_e(usuario)}</a>' if usuario else ""
+    corr = (cfg.get("regionales") or {}).get("formulario_url")
+    if lateral is not None:
+        cuerpo = f'<div class="cols"><div>{cuerpo}</div><aside>{lateral}</aside></div>'
+    sup = _anuncio(cfg, "superior", "sup")
     return f"""<!doctype html><html lang="{m['idioma']}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{_e(titulo)}</title><meta name="description" content="{_e(descripcion or m['lema'])}">
-<meta name="theme-color" content="#0d0d0d"><link rel="icon" href="{prof}img/logo.png">
+<meta name="theme-color" content="#111111"><link rel="icon" href="{prof}img/logo.png">
 <meta property="og:title" content="{_e(titulo)}"><meta property="og:description" content="{_e(descripcion or m['lema'])}">
-<link rel="alternate" type="application/rss+xml" href="{prof}rss.xml">{FUENTES}<style>{CSS}</style></head><body>
-{ticker}
-<header><a href="{prof}index.html"><img class="logo" src="{prof}img/logo.png" alt="{_e(m['nombre'])}"></a>
+<meta property="og:site_name" content="{_e(m['nombre'])}"><meta property="og:image" content="{_e(m['url_web'].rstrip('/'))}/img/logo.png">
+<link rel="alternate" type="application/rss+xml" href="{prof}rss.xml">{FUENTES}{_script_adsense(cfg)}<style>{CSS}</style></head><body>
+<div class="top"><header><a href="{prof}index.html"><img class="logo" src="{prof}img/logo.png" alt="{_e(m['nombre'])}"></a>
 <a href="{prof}index.html"><div class="n tit">{_e(m['nombre'])}</div><div class="l">{_e(m['lema'])}</div></a>
-<nav>{nav}</nav></header>
-<main>{cuerpo}</main>
-<footer><div class="redes">{ig}<a href="{prof}rss.xml">RSS</a></div>
-Datos de resultados y clasificaciones: API-Football. Crónicas elaboradas automáticamente a partir de esos datos y revisadas por la redacción.
-Las noticias de otros medios se redactan de nuevo y enlazan siempre a su fuente original.
-Los partidos de Regional los cuentan nuestros corresponsales.<br>
-¿Ves un error? Escríbenos y lo corregimos.</footer></body></html>"""
+<div class="hoy">{_hoy_largo()}</div></header></div>
+<nav><div class="in">{nav}</div></nav>
+{ticker}
+<main>{sup}{cuerpo}</main>
+<footer><div class="in"><div><h4>{_e(m['nombre'])}</h4>Periódico digital de fútbol de Primera, Segunda y Tercera Federación y del fútbol
+regional, con Hypermotion y las grandes ligas en segundo plano. Crónicas, previas y resultados cada día.<br><br>{ig}</div>
+<div><h4>El periódico</h4><a href="{prof}quienes-somos.html">Quiénes somos</a>
+{f'<a href="{_e(corr)}" rel="noopener">Hazte corresponsal</a>' if corr else ""}
+<a href="{prof}contacto.html">Contacto</a><a href="{prof}rss.xml">RSS</a></div>
+<div><h4>Legal</h4><a href="{prof}aviso-legal.html">Aviso legal</a><a href="{prof}privacidad.html">Política de privacidad</a>
+<a href="{prof}cookies.html">Política de cookies</a>
+<a href="#" onclick="window.googlefc&&googlefc.callbackQueue.push(googlefc.showRevocationMessage);return false">Configurar cookies</a></div></div>
+<div class="bajo">© {date.today().year} {_e(m['nombre'])} · Datos de partidos: API-Football. Crónicas elaboradas a partir de esos datos y revisadas
+por la redacción. Las noticias de otros medios enlazan siempre a su fuente. ¿Ves un error? Escríbenos y lo corregimos.</div></footer>
+</body></html>"""
+
+
+# ── Publicidad (Google AdSense) ──────────────────────────────────────────────
+# Todo sale de config.yaml → publicidad. Sin `cliente` (ca-pub-…) no se pinta nada:
+# la web queda igual que sin anuncios. Con `muestra: true` se ven los huecos en gris (para revisar).
+PUBLI: dict = {}
+
+
+def _script_adsense(cfg: dict) -> str:
+    cli = PUBLI.get("cliente")
+    if not cli:
+        return ""
+    return (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={_e(cli)}" '
+            'crossorigin="anonymous"></script>')
+
+
+def _anuncio(cfg: dict, hueco: str, clase: str) -> str:
+    """Un hueco de anuncio. Solo aparece si hay cliente de AdSense y código para ese hueco (o en modo muestra)."""
+    cli, slot = PUBLI.get("cliente"), (PUBLI.get("huecos") or {}).get(hueco)
+    if PUBLI.get("muestra") and not (cli and slot):
+        return (f'<div class="ad {clase} demo"><span class="rot">Publicidad</span>'
+                f'<ins>Hueco «{_e(hueco)}»</ins></div>')
+    if not (cli and slot):
+        return ""
+    return (f'<div class="ad {clase}"><span class="rot">Publicidad</span><ins class="adsbygoogle" style="display:block" '
+            f'data-ad-client="{_e(cli)}" data-ad-slot="{_e(str(slot))}" data-ad-format="auto" data-full-width-responsive="true"></ins>'
+            '<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script></div>')
+
+
+def _lateral(cfg: dict, arts: list[dict], prof: str = "", titulo: str = "Previas", con_alto: bool = True) -> str:
+    """Barra lateral: anuncio, lista de artículos, anuncio alto fijo y llamada a corresponsales."""
+    lista = "".join(f'<a href="{_url(a, prof)}"><small>{_e(_etiqueta(a))}</small><strong>{_e(a["titular"])}</strong></a>'
+                    for a in arts[:6])
+    out = _anuncio(cfg, "lateral", "lat")
+    if lista:
+        out += f'<div class="bloque"><h3>{_e(titulo)}</h3><div class="lista">{lista}</div></div>'
+    if con_alto:
+        out += _anuncio(cfg, "lateral_alto", "alto")
+    url = (cfg.get("regionales") or {}).get("formulario_url")
+    if url:
+        out += ('<div class="bloque negro"><h3>Hazte corresponsal</h3><p>¿Sigues a tu equipo de Regional cada domingo? '
+                f'Cuéntanos el partido y lo publicamos con tu firma.</p><a href="{_e(url)}" rel="noopener">Quiero escribir</a></div>')
+    return out
 
 
 NOTICIAS: list[dict] = []  # se rellena en construir()
@@ -270,9 +365,8 @@ def _bloque_noticias(lista: list[dict], prof: str = "", titulo: str = "Últimas 
 
 
 def _tarjeta(a: dict, prof: str, cabecera: str) -> str:
-    img = _img(a, prof)
-    return (f'<a class="card{"" if img else " sin-img"}" href="{_url(a, prof)}">{img}<div>{cabecera}'
-            f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>')
+    return (f'<a class="card" href="{_url(a, prof)}"><div>{cabecera}'
+            f'<h3>{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>')
 
 
 def cargar_articulos() -> list[dict]:
@@ -309,22 +403,25 @@ def _url(a: dict, prof: str) -> str:
     return f'{prof}articulos/{a["slug"]}.html'
 
 
-def _portada(lista: list[dict], prof: str = "", extra: str = "") -> str:
+def _portada(lista: list[dict], prof: str = "", extra: str = "", cfg: dict | None = None) -> str:
     if not lista:
         return '<div class="vacio">Aún no hay noticias. La próxima edición sale mañana a primera hora.</div>'
     a0, resto = lista[0], lista[1:]
-    hero = (f'<a class="big" href="{_url(a0, prof)}">{_img(a0, prof)}<div class="t"><span class="tag">{_e(_etiqueta(a0))}</span>'
+    foto = _img(a0, prof)
+    hero = (f'<a class="hero" href="{_url(a0, prof)}"' + ("" if foto else ' style="grid-template-columns:1fr"') + '>'
+            + (f'<div class="foto">{foto}</div>' if foto else "")
+            + f'<div class="t"><span class="tag">{_e(_etiqueta(a0))}</span>'
             f'<h2 class="tit">{_e(a0["titular"])}</h2><p>{_e(a0["entradilla"])}</p></div></a>')
-    mini = "".join(f'<a href="{_url(a, prof)}"><span class="tag">{_e(_etiqueta(a))}</span><h3 class="tit">{_e(a["titular"])}</h3>'
+    mini = "".join(f'<a href="{_url(a, prof)}"><span class="tag">{_e(_etiqueta(a))}</span><h3>{_e(a["titular"])}</h3>'
                    f'<p>{_e(a["entradilla"])}</p></a>' for a in resto[:2])
-    out = f'<section class="hero">{hero}<div class="mini">{mini}</div></section>' if mini else \
-          f'<section class="hero" style="grid-template-columns:1fr">{hero}</section>'
+    out = hero + (f'<section class="mini">{mini}</section>' if mini else "")
     out += extra
     if resto[2:]:
-        out += '<h2 class="sec tit">Más noticias</h2><section class="grid">' + "".join(
-            f'<a class="card" href="{_url(a, prof)}">{_img(a, prof)}<div><span class="tag">{_e(_etiqueta(a))}</span>'
-            f'<h3 class="tit">{_e(a["titular"])}</h3><span class="fecha">{fecha_larga(a["fecha"])}</span></div></a>'
-            for a in resto[2:]) + "</section>"
+        tarjetas = [_tarjeta(a, prof, f'<span class="tag">{_e(_etiqueta(a))}</span>') for a in resto[2:]]
+        if cfg is not None:  # un anuncio entre noticias cada 9 tarjetas
+            for k in reversed(range(6, len(tarjetas), 9)):
+                tarjetas.insert(k, _anuncio(cfg, "entre_noticias", "feed"))
+        out += '<h2 class="sec tit">Más noticias</h2><section class="grid">' + "".join(tarjetas) + "</section>"
     return out
 
 
@@ -364,7 +461,7 @@ def _indice_ligas(cfg: dict, ligas: dict[str, list[dict]]) -> str:
     for c in cfg.get("competiciones", []):
         por_pais.setdefault(PAISES.get(c.get("pais"), c.get("pais", "Otras")), []).append(c)
     for pais, comps in por_pais.items():
-        out += f'<h2 class="tit" style="font-size:20px;color:var(--amarillo);margin:26px 0 12px">{_e(pais)}</h2><div class="ligas">'
+        out += f'<h2 class="tit pais">{_e(pais)}</h2><div class="ligas">'
         for c in comps:
             suyas = [a for e, l in ligas.items() for a in l if a.get("competicion", a["etiqueta"]) == c["etiqueta"]]
             jugadas = [a["fecha"] for a in suyas if a.get("partidos")]
@@ -522,7 +619,8 @@ def _pagina_previa(cfg: dict, a: dict, pp: dict, p: dict) -> str:
             filas += f'<div class="racha">{_e(es(e))}<span>{res or "<small>Sin datos</small>"}</span></div>'
         caja += (f'<div class="caja"><h3>Cómo llegan</h3>{filas}'
                  '<p class="nota">Últimos partidos publicados; el más reciente, a la derecha.</p></div>')
-    out += f'<div class="cols"><div class="texto">{texto}</div><aside>{caja}</aside></div>'
+    out += (f'<div class="cols"><div class="texto">{_con_anuncio(cfg, texto)}</div>'
+            f'<aside>{caja}{_anuncio(cfg, "lateral", "lat")}</aside></div>')
     # Más previas de la misma jornada
     partidos = {x["id"]: x for x in a.get("proximos", [])}
     otras = [o for o in a.get("previas_partido", []) if o["id"] != pp["id"] and o["id"] in partidos]
@@ -566,8 +664,8 @@ def _agenda(agenda: dict, prof: str = "") -> str:
     for fecha in sorted(agenda):
         comps = agenda[fecha]
         total = sum(len(c["partidos"]) for c in comps)
-        out += (f'<section class="dia" data-pasado="{fecha}"><h2 class="tit" data-dia="{fecha}" '
-                f'style="font-size:20px;color:var(--amarillo)">{_dia(fecha)}</h2>')
+        out += (f'<section class="dia" data-pasado="{fecha}"><h2 class="tit" data-dia="{fecha}">'
+                f'{_dia(fecha)}</h2>')
         if not total:
             out += '<div class="vacio">No hay partidos de nuestras ligas este día.</div></section>'
             continue
@@ -605,7 +703,7 @@ def _resultados(arts: list[dict]) -> str:
         return '<h1 class="sec tit">Resultados</h1><div class="vacio">Aún no hay resultados.</div>'
     out = '<h1 class="sec tit">Resultados</h1>'
     for d in dias:
-        out += f'<section class="dia"><h2 class="tit" style="font-size:20px;color:var(--amarillo)">{fecha_larga(d)}</h2>'
+        out += f'<section class="dia"><h2 class="tit">{fecha_larga(d)}</h2>'
         for a in sorted((a for a in arts if a["fecha"] == d and a.get("partidos")), key=lambda a: a.get("prioridad", 3)):
             out += (f'<div class="comp"><h3 class="tit"><a href="ligas/{_slug_liga(a["etiqueta"])}.html">{_e(a["etiqueta"])} →</a></h3>'
                     f'{_filas_partidos(a["partidos"])}</div>')
@@ -699,7 +797,40 @@ def _franja_mas(secundario: list[dict]) -> str:
             f'<div class="franja">{"".join(piezas)}</div>')
 
 
+def _nav_de(competicion: str | None) -> str:
+    """Qué pestaña del menú se marca en una página de esa competición."""
+    if competicion in PRINCIPAL:
+        return f"ligas/{_slug_liga(competicion)}.html"
+    return "mas-futbol.html" if competicion else ""
+
+
+def _migas(a: dict, prof: str) -> str:
+    comp = a.get("competicion") or a["etiqueta"]
+    out = f'<div class="migas"><a href="{prof}index.html">Portada</a> › <a href="{prof}ligas/{_slug_liga(comp)}.html">{_e(comp)}</a>'
+    if a["etiqueta"] != comp:
+        out += f' › <a href="{prof}ligas/{_slug_liga(a["etiqueta"])}.html">{_e(a["etiqueta"].split(" · ", 1)[-1])}</a>'
+    return out + "</div>"
+
+
+def _con_anuncio(cfg: dict, texto_html: str) -> str:
+    """Mete el anuncio «dentro del texto» después del segundo párrafo (solo si el texto es largo)."""
+    partes = texto_html.split("</p>")
+    if len(partes) < 5:
+        return texto_html
+    return "</p>".join(partes[:2]) + "</p>" + _anuncio(cfg, "dentro_texto", "txt") + "</p>".join(partes[2:])
+
+
+def _relacionados(a: dict, arts: list[dict], prof: str) -> str:
+    otros = [x for x in arts if x["slug"] != a["slug"] and x.get("tipo") == a.get("tipo")][:3]
+    if not otros:
+        return ""
+    return ('<h2 class="sec tit" style="border-left:0;padding-left:0">Te puede interesar</h2><div class="grid">'
+            + "".join(_tarjeta(x, prof, f'<span class="tag">{_e(_etiqueta(x))}</span>') for x in otros) + "</div>")
+
+
 def construir(cfg: dict) -> Path:
+    PUBLI.clear()
+    PUBLI.update(cfg.get("publicidad") or {})
     PRIORIDAD.clear()
     PRIORIDAD.update({c["etiqueta"]: c.get("prioridad", 3) for c in cfg.get("competiciones", [])})
     PRINCIPAL.clear()
@@ -736,20 +867,28 @@ def construir(cfg: dict) -> Path:
 
     extra = _regionales_portada(regs, rc) + _bloque_noticias(noticias_rfef[:6])
     extra += (_agenda_portada(agenda) + SCRIPT_DIAS) if agenda else ""
+    cronicas = [a for a in principal if a.get("tipo") != "previa"]
+    previas = [a for a in principal if a.get("tipo") == "previa"]
+    previas_mas = [a for a in secundario if a.get("tipo") == "previa"]
     (SALIDA / "index.html").write_text(_pagina(
-        cfg, nombre, _portada(principal[:60], extra=extra) + _franja_mas(secundario), activa="index.html",
-        ticker=_ticker(arts, "")))
+        cfg, f"{nombre} · {cfg['medio']['lema']}", _portada(principal[:60], extra=extra, cfg=cfg) + _franja_mas(secundario),
+        activa="index.html", ticker=_ticker(arts, ""),
+        descripcion="Crónicas, previas y resultados de Primera, Segunda y Tercera Federación y del fútbol regional",
+        lateral=_lateral(cfg, previas or cronicas)))
     (SALIDA / "rfef.html").write_text(_pagina(
         cfg, f"RFEF · {nombre}", '<h1 class="sec tit">Primera, Segunda y Tercera Federación</h1>'
-        + _portada(principal[:60], extra=_bloque_noticias(noticias_rfef[:6])), activa="rfef.html",
-        descripcion="Crónicas, previas y noticias de Primera, Segunda y Tercera Federación", ticker=_ticker(arts, "")))
+        + _portada(principal[:60], extra=_bloque_noticias(noticias_rfef[:6]), cfg=cfg), activa="rfef.html",
+        descripcion="Crónicas, previas y noticias de Primera, Segunda y Tercera Federación", ticker=_ticker(arts, ""),
+        lateral=_lateral(cfg, previas or cronicas)))
     (SALIDA / "mas-futbol.html").write_text(_pagina(
         cfg, f"Más fútbol · {nombre}", '<h1 class="sec tit">Más fútbol</h1>'
-        + _portada(secundario[:60], extra=_bloque_noticias(noticias_mas[:6])), activa="mas-futbol.html",
-        descripcion="Segunda División, copas, selecciones y primeras divisiones", ticker=_ticker(arts, "")))
+        + _portada(secundario[:60], extra=_bloque_noticias(noticias_mas[:6]), cfg=cfg), activa="mas-futbol.html",
+        descripcion="Segunda División, copas, selecciones y primeras divisiones", ticker=_ticker(arts, ""),
+        lateral=_lateral(cfg, previas_mas or secundario)))
     (SALIDA / "regionales.html").write_text(_pagina(
         cfg, f"Regionales · {nombre}", _pagina_regionales(regs, rc), activa="regionales.html",
-        descripcion="Los partidos gordos del fútbol regional de toda España", ticker=_ticker(arts, "")))
+        descripcion="Los partidos gordos del fútbol regional de toda España", ticker=_ticker(arts, ""),
+        lateral=_lateral(cfg, cronicas, titulo="Lo último de la RFEF")))
     for viejo, nuevo in [("espana.html", "rfef.html"), ("internacional.html", "mas-futbol.html")]:  # enlaces antiguos
         (SALIDA / viejo).write_text(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url={nuevo}">'
                                     f'<link rel="canonical" href="{nuevo}"><a href="{nuevo}">{nuevo}</a>')
@@ -767,24 +906,32 @@ def construir(cfg: dict) -> Path:
     for etiqueta, lista in ligas.items():
         (SALIDA / "ligas" / f"{_slug_liga(etiqueta)}.html").write_text(
             _pagina(cfg, f"{etiqueta} · {nombre}", _pagina_liga(etiqueta, lista), "../",
-                    f"Resultados, clasificación y noticias de {etiqueta}", ticker=_ticker(arts, "../")))
+                    f"Resultados, clasificación y noticias de {etiqueta}", ticker=_ticker(arts, "../"),
+                    activa=_nav_de(lista[0].get("competicion", etiqueta))))
     for c in cfg.get("competiciones", []):  # competiciones con grupos o sin partidos todavía
         if c["etiqueta"] in ligas:
             continue
         (SALIDA / "ligas" / f"{_slug_liga(c['etiqueta'])}.html").write_text(
             _pagina(cfg, f"{c['etiqueta']} · {nombre}", _pagina_competicion(c, ligas), "../",
-                    f"Resultados, clasificación y noticias de {c['etiqueta']}", ticker=_ticker(arts, "../")))
+                    f"Resultados, clasificación y noticias de {c['etiqueta']}", ticker=_ticker(arts, "../"),
+                    activa=_nav_de(c["etiqueta"])))
 
     for a in arts:
-        fotos = "".join(f'<img src="../{i}" alt="{_e(a["etiqueta"])}">' for i in _imagenes(a))
-        cuerpo = (f'<article><a class="tag" href="../ligas/{_slug_liga(a["etiqueta"])}.html">{_e(_etiqueta(a))} →</a><h1 class="tit">{_e(a["titular"])}</h1>'
-                  f'<p class="fecha">{fecha_larga(a["fecha"])}</p><p class="entradilla">{_e(a["entradilla"])}</p>'
+        fotos = "".join(f'<img src="../{i}" alt="{_e(a["etiqueta"])}" loading="lazy">' for i in _imagenes(a))
+        texto = markdown.markdown(a["cuerpo_markdown"], extensions=["tables", "toc"],
+                                  extension_configs={"toc": {"slugify": lambda t, sep: _ancla(t)}})
+        cuerpo = (_migas(a, "../") + f'<article><span class="tag">{_e(_etiqueta(a))}</span><h1 class="tit">{_e(a["titular"])}</h1>'
+                  f'<p class="entradilla">{_e(a["entradilla"])}</p>'
+                  f'<div class="firma-art">Por <b>Redacción {_e(nombre)}</b> · {fecha_larga(a["fecha"])}</div>'
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
-                  + markdown.markdown(a["cuerpo_markdown"], extensions=["tables", "toc"],
-                                      extension_configs={"toc": {"slugify": lambda t, sep: _ancla(t)}})
+                  + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _anuncio(cfg, "final_articulo", "txt")
+                  + _relacionados(a, arts, "../")
                   + '<a class="volver" href="../index.html">← Volver a la portada</a></article>')
+        mismos = [x for x in arts if x.get("competicion") == a.get("competicion") and x["slug"] != a["slug"]]
         (SALIDA / "articulos" / f"{a['slug']}.html").write_text(
-            _pagina(cfg, f"{a['titular']} · {nombre}", cuerpo, "../", a["entradilla"], ticker=_ticker(arts, "../")))
+            _pagina(cfg, f"{a['titular']} · {nombre}", cuerpo, "../", a["entradilla"], ticker=_ticker(arts, "../"),
+                    activa=_nav_de(a.get("competicion")),
+                    lateral=_lateral(cfg, mismos, "../", f'Más de {a.get("competicion") or a["etiqueta"]}')))
 
     (SALIDA / "previas").mkdir()
     for a in arts:  # una página por partido con su previa completa
@@ -793,21 +940,23 @@ def construir(cfg: dict) -> Path:
             if pp["id"] in partidos:
                 (SALIDA / "previas" / f'{pp["slug"]}.html').write_text(
                     _pagina(cfg, f'{pp["titular"]} · {nombre}', _pagina_previa(cfg, a, pp, partidos[pp["id"]]), "../",
-                            pp["entradilla"], ticker=_ticker(arts, "../")))
+                            pp["entradilla"], ticker=_ticker(arts, "../"), activa=_nav_de(a.get("competicion"))))
 
     (SALIDA / "noticias").mkdir()
     for n in NOTICIAS:  # una página por noticia
         (SALIDA / "noticias" / f'{n["slug"]}.html').write_text(
-            _pagina(cfg, f'{n["titular"]} · {nombre}', _pagina_noticia(n), "../", n["entradilla"],
-                    ticker=_ticker(arts, "../")))
+            _pagina(cfg, f'{n["titular"]} · {nombre}', _pagina_noticia(n, cfg), "../", n["entradilla"],
+                    ticker=_ticker(arts, "../"), activa=_nav_de(n.get("competicion")),
+                    lateral=_lateral(cfg, [x for x in NOTICIAS if x["slug"] != n["slug"]], "../", "Más noticias")))
 
     _historias(cfg)
+    _paginas_legales(cfg)
     _rss(cfg, sorted(arts[:40] + NOTICIAS[:20], key=lambda a: a["fecha"], reverse=True))
     (SALIDA / ".nojekyll").write_text("")
     return SALIDA
 
 
-def _pagina_noticia(n: dict) -> str:
+def _pagina_noticia(n: dict, cfg: dict) -> str:
     prof = "../"
     f = n.get("fuente")
     fuente = (f'<p class="fuente">Fuente: <a href="{_e(f["url"])}" rel="noopener nofollow" target="_blank">{_e(f["medio"])}</a>'
@@ -815,9 +964,10 @@ def _pagina_noticia(n: dict) -> str:
     relacionadas = [x for x in NOTICIAS if x["slug"] != n["slug"] and x.get("competicion") == n.get("competicion")][:3]
     pagina = n["etiqueta"] if n["etiqueta"] in LIGAS else n.get("competicion", n["etiqueta"])
     return (f'<article><a class="tag" href="{prof}ligas/{_slug_liga(pagina)}.html">{_e(_etiqueta(n))} →</a>'
-            f'<h1 class="tit">{_e(n["titular"])}</h1><p class="fecha">{fecha_larga(n["fecha"])}</p>'
-            f'<p class="entradilla">{_e(n["entradilla"])}</p>'
-            + markdown.markdown(n["cuerpo_markdown"]) + fuente
+            f'<h1 class="tit">{_e(n["titular"])}</h1><p class="entradilla">{_e(n["entradilla"])}</p>'
+            f'<div class="firma-art">Por <b>Redacción {_e(cfg["medio"]["nombre"])}</b> · {fecha_larga(n["fecha"])}</div>'
+            f'<div class="cuerpo">{_con_anuncio(cfg, markdown.markdown(n["cuerpo_markdown"]))}</div>' + fuente
+            + _anuncio(cfg, "final_articulo", "txt")
             + _bloque_noticias(relacionadas, prof, "Más noticias")
             + f'<a class="volver" href="{prof}index.html">← Volver a la portada</a></article>')
 
@@ -860,6 +1010,35 @@ document.querySelectorAll(".btn-historias").forEach(b => b.addEventListener("cli
     cuerpo = "<article>" + ("".join(bloques) or "<p>Todavía no hay historias.</p>") + "</article>"
     (SALIDA / "historias.html").write_text(
         _pagina(cfg, f"Historias · {cfg['medio']['nombre']}", cuerpo, descripcion="Historias de Instagram del día"))
+
+
+LEGALES = [("aviso-legal", "Aviso legal"), ("privacidad", "Política de privacidad"), ("cookies", "Política de cookies"),
+           ("quienes-somos", "Quiénes somos"), ("contacto", "Contacto")]
+
+
+def _paginas_legales(cfg: dict):
+    """Aviso legal, privacidad, cookies, quiénes somos y contacto (textos en legal/*.md) + ads.txt para AdSense.
+    Los huecos {titular}, {nif}, {ciudad}, {email} salen de config.yaml → legal. Si faltan, se marcan en amarillo."""
+    datos = {k: str(v) for k, v in (cfg.get("legal") or {}).items() if v}
+    pendiente = {"titular": "[nombre y apellidos]", "nif": "[NIF]", "ciudad": "[ciudad]", "email": "[correo de contacto]"}
+    for nombre, titulo in LEGALES:
+        f = RAIZ / "legal" / f"{nombre}.md"
+        if not f.exists():
+            continue
+        texto = f.read_text()
+        for k, hueco in pendiente.items():
+            valor = datos.get(k)
+            if k == "email" and valor:
+                valor = f'<a href="mailto:{_e(valor)}">{_e(valor)}</a>'
+            texto = texto.replace("{" + k + "}", valor if k == "email" and valor else
+                                  _e(valor) if valor else f'<span class="pendiente">{hueco}</span>')
+        texto = texto.replace("{nombre}", _e(cfg["medio"]["nombre"])).replace("{web}", _e(cfg["medio"]["url_web"]))
+        cuerpo = f'<div class="legal">{markdown.markdown(texto, extensions=["tables"])}</div>'
+        (SALIDA / f"{nombre}.html").write_text(
+            _pagina(cfg, f"{titulo} · {cfg['medio']['nombre']}", cuerpo, descripcion=f"{titulo} de {cfg['medio']['nombre']}"))
+    cli = PUBLI.get("cliente", "")
+    if cli:  # Google pide este archivo en la raíz del dominio
+        (SALIDA / "ads.txt").write_text(f"google.com, {cli.removeprefix('ca-')}, DIRECT, f08c47fec0942fa0\n")
 
 
 def _rss(cfg: dict, arts: list[dict]):

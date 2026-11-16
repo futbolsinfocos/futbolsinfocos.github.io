@@ -33,4 +33,5 @@ Edita `config.yaml` (nombre del medio, URL, competiciones, límites, modelo de I
 | `pipeline/noticias.py` | Noticias (solo web): de nuestros resultados (partidos locos, rachas, fin de semana) y fichajes/banquillos de otros medios, reescritos y citando la fuente |
 | `pipeline/web.py` | Genera la web estática y el RSS |
 | `pipeline/instagram.py` | Publica vía la API oficial de Instagram, con límite diario |
+| `legal/` | Aviso legal, privacidad, cookies, quiénes somos y contacto (datos en `config.yaml` → `legal`) |
 | `contenido/` | Artículos (JSON) e imágenes generadas; es lo que revisas en cada PR |

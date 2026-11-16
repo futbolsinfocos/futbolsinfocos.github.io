@@ -10,6 +10,29 @@ medio:
   idioma: "es"
   zona_horaria: "Europe/Madrid"
 
+# Datos legales (aviso legal, privacidad y contacto). La ley obliga a ponerlos para tener anuncios.
+# Lo que se deje vacío sale en la web marcado en amarillo como pendiente.
+legal:
+  titular: "Alberto Cañadas Armentera"
+  nif: "51541899A"
+  ciudad: "Madrid"
+  email: "alberto.aca1024@gmail.com"
+
+# Publicidad con Google AdSense. Mientras `cliente` esté vacío no sale ningún anuncio.
+#   cliente → el código de editor que da AdSense (empieza por ca-pub-)
+#   huecos  → el código de cada bloque de anuncio que se crea en AdSense (Anuncios › Por bloque de anuncios)
+#   muestra → true para ver los huecos en gris y revisar dónde caen (ponerlo en false al activar AdSense)
+publicidad:
+  cliente: ""
+  muestra: false
+  huecos:
+    superior: ""         # banner bajo el menú, en todas las páginas
+    entre_noticias: ""   # entre las tarjetas de noticias
+    lateral: ""          # columna derecha (arriba)
+    lateral_alto: ""     # columna derecha, fijo al bajar (solo ordenador)
+    dentro_texto: ""     # tras el 2º párrafo de crónicas, noticias y previas
+    final_articulo: ""   # al final de cada artículo
+
 # Modo de publicación:
 #   revision   → cada mañana se abre un "pull request" con lo generado. Lo apruebas desde el
 #                móvil (botón Merge) y entonces se publica web + Instagram.  (RECOMENDADO al inicio)
