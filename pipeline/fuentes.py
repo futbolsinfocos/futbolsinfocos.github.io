@@ -27,6 +27,9 @@ class ApiFootball:
         if not self.clave:
             raise RuntimeError("Falta API_FOOTBALL_KEY (o usa --demo)")
         self.llamadas = 0
+        # Las peticiones salen por nuestro servidor (IP fija y solo nuestra): API-Football bloquea las IP compartidas de GitHub
+        proxy = os.environ.get("API_FOOTBALL_PROXY")
+        self.proxies = {"https": proxy, "http": proxy} if proxy else None
 
     # El plan gratuito permite 10 llamadas por minuto: dejamos una pausa entre llamadas
     PAUSA = float(os.environ.get("API_FOOTBALL_PAUSA", "6.5"))
@@ -38,7 +41,7 @@ class ApiFootball:
             if espera > 0:
                 time.sleep(espera)
             r = requests.get(f"{BASE}/{ruta}", params=params,
-                             headers={"x-apisports-key": self.clave}, timeout=30)
+                             headers={"x-apisports-key": self.clave}, timeout=30, proxies=self.proxies)
             self._ultima = time.monotonic()
             if r.status_code == 429 and intento < 2:
                 print("Límite por minuto de API-Football alcanzado; esperando 60 s…")
