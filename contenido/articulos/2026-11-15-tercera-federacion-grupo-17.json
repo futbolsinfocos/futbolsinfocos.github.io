@@ -1,0 +1,301 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-17",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 17",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Atlético Monzón y el Ejea firman un empate a tres goles en la jornada 11 de Tercera Federación",
+  "entradilla": "La undécima jornada del Grupo 17 deja un 3-3 entre Atlético Monzón y Ejea y dos empates sin goles. El Real Zaragoza II sigue líder con 24 puntos.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 17 de Tercera Federación reparte puntos en nueve partidos. Destaca el empate a tres entre el Atlético Monzón y el Ejea, con seis goles en total. Fraga, Caspe y Almudévar también ganaron.\n\n**Atlético Monzón 3-3 Ejea**\n\nEl encuentro más goleador de la jornada terminó con reparto de puntos. El Ejea se mantiene segundo con 21 puntos, mientras que el Atlético Monzón es octavo con 16.\n\n**Otros resultados**\n\n- Huesca II 3-0 Brea.\n- Robres 3-2 Illueca.\n- La Almunia 2-1 Andorra CF.\n- Almudévar 2-0 CDJ Tamarite.\n- Caspe 2-0 CD Sietamo.\n- Fraga 2-1 Belchite 97.\n- Binéfar 0-0 Épila.\n- Real Zaragoza II 0-0 Cuarte.\n\n**Clasificación**\n\nEl Real Zaragoza II lidera con 24 puntos, por delante del Ejea (21) y del Cuarte (19). En la zona baja, el Belchite 97 es colista con 4 puntos.",
+  "texto_instagram": "Empate a tres en Monzón y Caspe, Fraga y Huesca II sumando de tres. El Real Zaragoza II sigue líder con 24 puntos ⚽\n\nAtlético Monzón 3-3 Ejea\nHuesca II 3-0 Brea\nRobres 3-2 Illueca\nLa Almunia 2-1 Andorra CF\nAlmudévar 2-0 CDJ Tamarite\nCaspe 2-0 CD Sietamo\nFraga 2-1 Belchite 97\nBinéfar 0-0 Épila\nReal Zaragoza II 0-0 Cuarte",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo17",
+    "#Jornada11",
+    "#AtléticoMonzón",
+    "#Ejea",
+    "#Aragón"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-17-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-17-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-17-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-17-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-17-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617691,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Binéfar",
+      "visitante": "Épila",
+      "escudo_local": "https://media.api-sports.io/football/teams/9881.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15329.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617694,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": "Estadio El Alcoraz",
+      "ciudad": "Huesca",
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Huesca II",
+      "visitante": "Brea",
+      "escudo_local": "https://media.api-sports.io/football/teams/15327.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9883.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617697,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Real Zaragoza II",
+      "visitante": "Cuarte",
+      "escudo_local": "https://media.api-sports.io/football/teams/9887.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9886.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617696,
+      "fecha": "2026-11-15T15:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Robres",
+      "visitante": "Illueca",
+      "escudo_local": "https://media.api-sports.io/football/teams/9888.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9391.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1617689,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Almudévar",
+      "visitante": "CDJ Tamarite",
+      "escudo_local": "https://media.api-sports.io/football/teams/9877.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9884.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617695,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "La Almunia",
+      "visitante": "Andorra CF",
+      "escudo_local": "https://media.api-sports.io/football/teams/20287.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17498.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1617690,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Atlético Monzón",
+      "visitante": "Ejea",
+      "escudo_local": "https://media.api-sports.io/football/teams/9878.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9589.png",
+      "goles_local": 3,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1617692,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Caspe",
+      "visitante": "CD Sietamo",
+      "escudo_local": "https://media.api-sports.io/football/teams/17615.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28122.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617693,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 11",
+      "liga_id": 455,
+      "local": "Fraga",
+      "visitante": "Belchite 97",
+      "escudo_local": "https://media.api-sports.io/football/teams/8158.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9880.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Real Zaragoza II",
+      "pts": 24,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 2,
+      "equipo": "Ejea",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 3,
+      "equipo": "Cuarte",
+      "pts": 19,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 4,
+      "equipo": "La Almunia",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 5,
+      "equipo": "Caspe",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 6,
+      "equipo": "Brea",
+      "pts": 18,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 7,
+      "equipo": "Huesca II",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 8,
+      "equipo": "Atlético Monzón",
+      "pts": 16,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 9,
+      "equipo": "Almudévar",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 10,
+      "equipo": "Fraga",
+      "pts": 15,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 11,
+      "equipo": "Binéfar",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 12,
+      "equipo": "Épila",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 13,
+      "equipo": "CD Sietamo",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 14,
+      "equipo": "Andorra CF",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 15,
+      "equipo": "Illueca",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 16,
+      "equipo": "CDJ Tamarite",
+      "pts": 9,
+      "pj": 11,
+      "dg": -10
+    },
+    {
+      "pos": 17,
+      "equipo": "Robres",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9
+    },
+    {
+      "pos": 18,
+      "equipo": "Belchite 97",
+      "pts": 4,
+      "pj": 11,
+      "dg": -16
+    }
+  ]
+}

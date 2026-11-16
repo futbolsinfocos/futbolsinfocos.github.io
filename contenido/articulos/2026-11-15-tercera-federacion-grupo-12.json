@@ -1,0 +1,169 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-12",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Marino y Tenerife C empatan sin goles en la jornada 11 del Grupo 12",
+  "entradilla": "Marino y Tenerife C firmaron un 0-0 en la jornada 11 de Tercera Federación, Grupo 12. Panadería Pulido lidera la clasificación con 26 puntos.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 12 de Tercera Federación tuvo un único partido en el calendario de esta fecha. Marino y Tenerife C no se hicieron daño y se repartieron los puntos tras un empate sin goles.\n\n## Marino 0-0 Tenerife C\n\nEl encuentro terminó sin goles en el marcador. Ninguno de los dos equipos logró batir al rival, y el reparto deja a Marino con 16 puntos y a Tenerife C con 15 en la tabla.\n\n## Clasificación\n\nEn la cabeza, Panadería Pulido suma 26 puntos, seguido de UD San Fernando con 25 y Real Unión de Tenerife con 23.\n\nEn la parte baja, Villaverde Norte ocupa la última posición con 5 puntos y una diferencia de goles de -18.",
+  "texto_instagram": "Empate sin goles en la jornada 11 del Grupo 12 de Tercera Federación. Panadería Pulido sigue líder con 26 puntos.\n\n⚽ Marino 0-0 Tenerife C. Sin goles.\n\n🏆 Clasificación: 1.º Panadería Pulido (26), 2.º UD San Fernando (25), 3.º Real Unión de Tenerife (23).",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo12",
+    "#Marino",
+    "#TenerifeC"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-12-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-12-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-12-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616159,
+      "fecha": "2026-11-15T13:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 12 - 11",
+      "liga_id": 450,
+      "local": "Marino",
+      "visitante": "Tenerife C",
+      "escudo_local": "https://media.api-sports.io/football/teams/9799.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26851.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Panadería Pulido",
+      "pts": 26,
+      "pj": 11,
+      "dg": 19
+    },
+    {
+      "pos": 2,
+      "equipo": "UD San Fernando",
+      "pts": 25,
+      "pj": 10,
+      "dg": 18
+    },
+    {
+      "pos": 3,
+      "equipo": "Real Unión de Tenerife",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 4,
+      "equipo": "San Miguel",
+      "pts": 22,
+      "pj": 10,
+      "dg": 12
+    },
+    {
+      "pos": 5,
+      "equipo": "Las Palmas III",
+      "pts": 19,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 6,
+      "equipo": "Unión Sur Yaiza",
+      "pts": 19,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 7,
+      "equipo": "Marino",
+      "pts": 16,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 8,
+      "equipo": "Los Llanos",
+      "pts": 16,
+      "pj": 10,
+      "dg": 6
+    },
+    {
+      "pos": 9,
+      "equipo": "Tenerife C",
+      "pts": 15,
+      "pj": 10,
+      "dg": 2
+    },
+    {
+      "pos": 10,
+      "equipo": "Mensajero",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 11,
+      "equipo": "Estrella",
+      "pts": 13,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 12,
+      "equipo": "Lanzarote",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 13,
+      "equipo": "San Bartolomé",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 14,
+      "equipo": "Villa Santa Brígida",
+      "pts": 10,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 15,
+      "equipo": "Anaza",
+      "pts": 9,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 16,
+      "equipo": "Playas Sotavento",
+      "pts": 7,
+      "pj": 11,
+      "dg": -17
+    },
+    {
+      "pos": 17,
+      "equipo": "Laguna de Duero",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 18,
+      "equipo": "Villaverde Norte",
+      "pts": 5,
+      "pj": 11,
+      "dg": -18
+    }
+  ]
+}

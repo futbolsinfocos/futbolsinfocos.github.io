@@ -1,0 +1,288 @@
+{
+  "slug": "2026-11-15-primera-federacion-grupo-2",
+  "fecha": "2026-11-15",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Alcorcón remonta en Murcia y se aúpa al tercer puesto del Grupo 2",
+  "entradilla": "El Alcorcón le dio la vuelta al marcador en el Enrique Roca (1-2) y adelantó al Real Murcia en la tabla. Cartagena, Algeciras y Atlético Madrid II también sumaron de tres en la Jornada 12.",
+  "cuerpo_markdown": "La Jornada 12 de Primera Federación · Grupo 2 dejó cuatro partidos y ningún empate. Todos se resolvieron por la mínima. Dos victorias locales, dos visitantes. La más llamativa, la remontada del Alcorcón en Murcia.\n\n## Real Murcia 1-2 Alcorcón\n\nEl Real Murcia se adelantó antes del descanso con un gol de D. Bosilj en el minuto 43. Tras el paso por vestuarios, el Alcorcón le dio la vuelta. J. Lancho empató en el 55 y X. Irurita firmó el 1-2 en el 68. Con este triunfo, el Alcorcón es tercero con 21 puntos. El Real Murcia, cuarto con 20.\n\n## Ibiza 0-1 FC Cartagena\n\nUn penalti transformado por I. Ribeiro en el minuto 38 decidió el duelo en Can Misses. El FC Cartagena suma 19 puntos y es quinto. El Ibiza se queda octavo con 18.\n\n## Algeciras 2-1 Antequera\n\nEl Algeciras encarriló el partido en la segunda parte. P. Martinez abrió el marcador en el 59 y A. Gomez amplió en el 74. Luismi Gutierrez recortó para el Antequera en el 90, sin tiempo para más. El Algeciras sube a 17 puntos, décimo. El Antequera, decimoquinto con 14.\n\n## Atlético Madrid II 1-0 Teruel\n\nUn gol de D. Garcia en el minuto 81 dio el triunfo al filial rojiblanco, que alcanza los 14 puntos. El Teruel sigue colista.\n\n## Clasificación\n\nEl Zaragoza manda con 27 puntos, cuatro más que el Villarreal II (23). El Alcorcón completa el podio con 21. En la parte baja, el Teruel es último con 7 puntos, empatado con el Rayo Majadahonda pero con peor diferencia de goles (-14).",
+  "texto_instagram": "⚽ Jornada 12 sin empates y todo por la mínima. El Alcorcón remonta en Murcia y se sube al podio 📈 El Teruel sigue colista.\n\nAtlético Madrid II 1-0 Teruel: D. Garcia (81')\nIbiza 0-1 FC Cartagena: I. Ribeiro (38' pen.)\nAlgeciras 2-1 Antequera: P. Martinez (59'), A. Gomez (74'); Luismi Gutierrez (90')\nReal Murcia 1-2 Alcorcón: D. Bosilj (43'); J. Lancho (55'), X. Irurita (68') 🔥",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#PrimeraRFEF",
+    "#Grupo2",
+    "#Alcorcon",
+    "#RealMurcia",
+    "#FCCartagena",
+    "#Algeciras",
+    "#futbol"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-primera-federacion-grupo-2-1.jpg",
+    "img/2026-11-15/2026-11-15-primera-federacion-grupo-2-2.jpg",
+    "img/2026-11-15/2026-11-15-primera-federacion-grupo-2-3.jpg",
+    "img/2026-11-15/2026-11-15-primera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1571207,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Atlético Madrid II",
+      "visitante": "Teruel",
+      "escudo_local": "https://media.api-sports.io/football/teams/9570.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5278.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 81,
+          "equipo": "Atlético Madrid II",
+          "jugador": "D. Garcia",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1571215,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": "Estadi Municipal de Can Misses",
+      "ciudad": "Ibiza",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Ibiza",
+      "visitante": "FC Cartagena",
+      "escudo_local": "https://media.api-sports.io/football/teams/9390.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5262.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 38,
+          "equipo": "FC Cartagena",
+          "jugador": "I. Ribeiro",
+          "tipo": "Penalty"
+        }
+      ]
+    },
+    {
+      "id": 1571206,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": "Estadio Nuevo Mirador",
+      "ciudad": "Algeciras",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Algeciras",
+      "visitante": "Antequera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9597.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9742.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 59,
+          "equipo": "Algeciras",
+          "jugador": "P. Martinez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Algeciras",
+          "jugador": "A. Gomez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Antequera",
+          "jugador": "Luismi Gutierrez",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1571212,
+      "fecha": "2026-11-15T18:45:00+01:00",
+      "estadio": "Estadio Enrique Roca",
+      "ciudad": "Murcia",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 436,
+      "local": "Real Murcia",
+      "visitante": "Alcorcón",
+      "escudo_local": "https://media.api-sports.io/football/teams/5275.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/711.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 43,
+          "equipo": "Real Murcia",
+          "jugador": "D. Bosilj",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 55,
+          "equipo": "Alcorcón",
+          "jugador": "J. Lancho",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 68,
+          "equipo": "Alcorcón",
+          "jugador": "X. Irurita",
+          "tipo": "Normal Goal"
+        }
+      ]
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Zaragoza",
+      "pts": 27,
+      "pj": 12,
+      "dg": 13
+    },
+    {
+      "pos": 2,
+      "equipo": "Villarreal II",
+      "pts": 23,
+      "pj": 12,
+      "dg": 11
+    },
+    {
+      "pos": 3,
+      "equipo": "Alcorcón",
+      "pts": 21,
+      "pj": 12,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Murcia",
+      "pts": 20,
+      "pj": 12,
+      "dg": 3
+    },
+    {
+      "pos": 5,
+      "equipo": "FC Cartagena",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Madrid Castilla",
+      "pts": 19,
+      "pj": 12,
+      "dg": 3
+    },
+    {
+      "pos": 7,
+      "equipo": "Real Jaén",
+      "pts": 19,
+      "pj": 12,
+      "dg": 0
+    },
+    {
+      "pos": 8,
+      "equipo": "Ibiza",
+      "pts": 18,
+      "pj": 12,
+      "dg": 3
+    },
+    {
+      "pos": 9,
+      "equipo": "Hércules",
+      "pts": 18,
+      "pj": 12,
+      "dg": -1
+    },
+    {
+      "pos": 10,
+      "equipo": "Algeciras",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0
+    },
+    {
+      "pos": 11,
+      "equipo": "Sant Andreu",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2
+    },
+    {
+      "pos": 12,
+      "equipo": "Huesca",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1
+    },
+    {
+      "pos": 13,
+      "equipo": "Nàstic de Tarragona",
+      "pts": 15,
+      "pj": 12,
+      "dg": -2
+    },
+    {
+      "pos": 14,
+      "equipo": "Atlético Madrid II",
+      "pts": 14,
+      "pj": 12,
+      "dg": 2
+    },
+    {
+      "pos": 15,
+      "equipo": "Antequera",
+      "pts": 14,
+      "pj": 12,
+      "dg": 1
+    },
+    {
+      "pos": 16,
+      "equipo": "Águilas",
+      "pts": 12,
+      "pj": 12,
+      "dg": -5
+    },
+    {
+      "pos": 17,
+      "equipo": "Juventud Torremolinos",
+      "pts": 11,
+      "pj": 12,
+      "dg": -8
+    },
+    {
+      "pos": 18,
+      "equipo": "Europa Fc",
+      "pts": 10,
+      "pj": 12,
+      "dg": -13
+    },
+    {
+      "pos": 19,
+      "equipo": "Rayo Majadahonda",
+      "pts": 7,
+      "pj": 12,
+      "dg": -8
+    },
+    {
+      "pos": 20,
+      "equipo": "Teruel",
+      "pts": 7,
+      "pj": 12,
+      "dg": -14
+    }
+  ]
+}

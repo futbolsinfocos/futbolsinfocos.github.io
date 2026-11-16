@@ -1,0 +1,170 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-8",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 8",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Almazán gana 0-1 en el campo del Calasanz de Soria",
+  "entradilla": "El conjunto visitante se impone al Calasanz de Soria con el único gol del encuentro, correspondiente a la undécima jornada del Grupo 8 de Tercera Federación.",
+  "cuerpo_markdown": "La undécima jornada del Grupo 8 de Tercera Federación deja una victoria visitante en Soria. El Almazán se impone 0-1 al Calasanz de Soria con el único gol del partido.\n\n### Calasanz de Soria 0-1 Almazán\n\nEl Almazán se lleva los tres puntos tras imponerse por 0-1 al Calasanz de Soria. Los datos disponibles no incluyen el autor del gol ni el minuto en que llegó.\n\n### Clasificación\n\nEn la cabeza, la UD Santa Marta suma 26 puntos, por delante del Cristo Atlético (24) y del Burgos Promesas (21). En la parte baja, el Mirandés II es colista con 4 puntos, seguido del Salamanca II (5) y del Colegios Diocesanos (6). El Calasanz de Soria, con 7 puntos, sale de los puestos de descenso en la tabla de esta jornada y ocupa la posición 15.",
+  "texto_instagram": "Almazán se impone 0-1 al Calasanz de Soria en la jornada 11 del Grupo 8 de Tercera Federación ⚽\nCalasanz de Soria 0-1 Almazán",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo8",
+    "#Almazán",
+    "#CalasanzDeSoria",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-8-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-8-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-8-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614936,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 11",
+      "liga_id": 446,
+      "local": "Calasanz de Soria",
+      "visitante": "Almazán",
+      "escudo_local": "https://media.api-sports.io/football/teams/28106.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9721.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "UD Santa Marta",
+      "pts": 26,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 2,
+      "equipo": "Cristo Atlético",
+      "pts": 24,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 3,
+      "equipo": "Burgos Promesas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Cultural Leonesa II",
+      "pts": 21,
+      "pj": 10,
+      "dg": 8
+    },
+    {
+      "pos": 5,
+      "equipo": "La Virgen del Camino",
+      "pts": 20,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 6,
+      "equipo": "Almazán",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 7,
+      "equipo": "Palencia CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 8,
+      "equipo": "Guijuelo",
+      "pts": 16,
+      "pj": 10,
+      "dg": 7
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Mansillés",
+      "pts": 16,
+      "pj": 10,
+      "dg": 4
+    },
+    {
+      "pos": 10,
+      "equipo": "Bembibre",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0
+    },
+    {
+      "pos": 11,
+      "equipo": "Villaralbo",
+      "pts": 13,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 12,
+      "equipo": "Arandina",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 13,
+      "equipo": "Turégano",
+      "pts": 11,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 14,
+      "equipo": "Unionistas II",
+      "pts": 11,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 15,
+      "equipo": "Calasanz de Soria",
+      "pts": 7,
+      "pj": 11,
+      "dg": -14
+    },
+    {
+      "pos": 16,
+      "equipo": "Colegios Diocesanos",
+      "pts": 6,
+      "pj": 11,
+      "dg": -13
+    },
+    {
+      "pos": 17,
+      "equipo": "Salamanca II",
+      "pts": 5,
+      "pj": 11,
+      "dg": -18
+    },
+    {
+      "pos": 18,
+      "equipo": "Mirandés II",
+      "pts": 4,
+      "pj": 11,
+      "dg": -10
+    }
+  ]
+}

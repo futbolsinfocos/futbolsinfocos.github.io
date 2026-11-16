@@ -1,0 +1,187 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-13",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 13",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Algar gana 1-0 en Cotillas y el Olímpico Totana empata a cero con el Cartagena LU II",
+  "entradilla": "El Algar se impone 0-1 en su visita a Cotillas CD en la Jornada 11 del Grupo 13 de Tercera Federación. En el Olímpico Totana, empate sin goles ante el Cartagena LU II.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 13 de Tercera Federación deja un triunfo visitante y un empate sin goles en los dos partidos disponibles.\n\n## Cotillas CD 0-1 Algar\n\nEl Algar gana por 0-1 en Cotillas. Los datos disponibles no recogen goleadores del encuentro.\n\n## Olímpico Totana 0-0 Cartagena LU II\n\nEmpate sin goles en el Olímpico Totana.\n\n## Clasificación\n\nEn la cabeza, el Santomera lidera con 25 puntos, por delante del Santa Cruz (21) y del Águilas II (20).\n\nEn la parte baja, el Bullas Deportivo es colista con 5 puntos y una diferencia de goles de -14. El Algar, con 9 puntos, ocupa la posición 16.",
+  "texto_instagram": "Jornada 11 del Grupo 13: el Algar gana 1-0 en Cotillas. ⚽\n\nCotillas CD 0-1 Algar (sin datos de goleadores)\nOlímpico Totana 0-0 Cartagena LU II 🤝",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo13",
+    "#CotillasCD",
+    "#Algar",
+    "#OlímpicoTotana",
+    "#CartagenaLUII"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-13-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-13-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-13-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616471,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 13 - 11",
+      "liga_id": 451,
+      "local": "Olímpico Totana",
+      "visitante": "Cartagena LU II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9818.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17715.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1616468,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 13 - 11",
+      "liga_id": 451,
+      "local": "Cotillas CD",
+      "visitante": "Algar",
+      "escudo_local": "https://media.api-sports.io/football/teams/28418.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20438.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Santomera",
+      "pts": 25,
+      "pj": 10,
+      "dg": 12
+    },
+    {
+      "pos": 2,
+      "equipo": "Santa Cruz",
+      "pts": 21,
+      "pj": 10,
+      "dg": 7
+    },
+    {
+      "pos": 3,
+      "equipo": "Águilas II",
+      "pts": 20,
+      "pj": 10,
+      "dg": 11
+    },
+    {
+      "pos": 4,
+      "equipo": "San Javier",
+      "pts": 17,
+      "pj": 10,
+      "dg": 2
+    },
+    {
+      "pos": 5,
+      "equipo": "UCAM Murcia II",
+      "pts": 15,
+      "pj": 10,
+      "dg": 7
+    },
+    {
+      "pos": 6,
+      "equipo": "Alcantarilla",
+      "pts": 15,
+      "pj": 10,
+      "dg": 6
+    },
+    {
+      "pos": 7,
+      "equipo": "Unión Molinense",
+      "pts": 15,
+      "pj": 10,
+      "dg": 3
+    },
+    {
+      "pos": 8,
+      "equipo": "Los Garres",
+      "pts": 15,
+      "pj": 10,
+      "dg": 3
+    },
+    {
+      "pos": 9,
+      "equipo": "Bala Azul",
+      "pts": 14,
+      "pj": 10,
+      "dg": 2
+    },
+    {
+      "pos": 10,
+      "equipo": "Balsicas Atlético",
+      "pts": 13,
+      "pj": 10,
+      "dg": -4
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Pulpileño",
+      "pts": 12,
+      "pj": 10,
+      "dg": -1
+    },
+    {
+      "pos": 12,
+      "equipo": "Olímpico Totana",
+      "pts": 12,
+      "pj": 10,
+      "dg": -1
+    },
+    {
+      "pos": 13,
+      "equipo": "SFC Minerva",
+      "pts": 11,
+      "pj": 10,
+      "dg": -5
+    },
+    {
+      "pos": 14,
+      "equipo": "Cartagena LU II",
+      "pts": 10,
+      "pj": 10,
+      "dg": -3
+    },
+    {
+      "pos": 15,
+      "equipo": "Cotillas CD",
+      "pts": 10,
+      "pj": 10,
+      "dg": -4
+    },
+    {
+      "pos": 16,
+      "equipo": "Algar",
+      "pts": 9,
+      "pj": 10,
+      "dg": -16
+    },
+    {
+      "pos": 17,
+      "equipo": "Mazarrón FC",
+      "pts": 7,
+      "pj": 10,
+      "dg": -5
+    },
+    {
+      "pos": 18,
+      "equipo": "Bullas Deportivo",
+      "pts": 5,
+      "pj": 10,
+      "dg": -14
+    }
+  ]
+}

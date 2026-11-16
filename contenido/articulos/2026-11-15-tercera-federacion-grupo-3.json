@@ -1,0 +1,203 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-3",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Guarnizo golea en Castro y Revilla remonta el puente al Cayón en la Jornada 11",
+  "entradilla": "Guarnizo se impuso 1-3 en Castro y Revilla venció 3-1 al Cayón. Tropezón sigue líder tras el 0-2 del Vimenor en su campo.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 3 de Tercera Federación deja tres resultados: victoria a domicilio del Guarnizo, triunfo del Vimenor en Tropezón y victoria local del Revilla ante el Cayón.\n\n### Castro 1-3 Guarnizo\n\nEl Guarnizo viajó a Castro y se llevó los tres puntos por 1-3. Castro, colista compartido con Selaya y Barquereño en puntos no, pero con 8 puntos, ocupa la zona baja de la tabla. Los goleadores no constan en los datos disponibles.\n\n### Tropezón 0-2 Vimenor\n\nEl Vimenor ganó 0-2 en el campo del Tropezón, líder de la clasificación. Los goleadores no constan en los datos disponibles.\n\n### Revilla 3-1 Cayón\n\nEl Revilla venció 3-1 al Cayón. Los goleadores no constan en los datos disponibles.\n\n### Clasificación\n\nEn cabeza, Tropezón suma 26 puntos y lidera con diferencia de goles de +14. Le siguen Revilla con 24 puntos y Vimenor con 23. En la parte baja, Velarde y Escobedo ocupan las últimas posiciones con 7 puntos, por debajo de Barquereño, Selaya y Castro, con 8 puntos cada uno.",
+  "texto_instagram": "Jornada 11 del Grupo 3 de Tercera Federación: el Guarnizo gana en Castro y el Revilla vence al Cayón. Tropezón sigue líder ⚽\n\nCastro 1-3 Guarnizo\nTropezón 0-2 Vimenor\nRevilla 3-1 Cayón\n\n🏆",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo3",
+    "#Jornada11",
+    "#Guarnizo",
+    "#Revilla",
+    "#Tropezón"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-3-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-3-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613407,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 11",
+      "liga_id": 441,
+      "local": "Castro",
+      "visitante": "Guarnizo",
+      "escudo_local": "https://media.api-sports.io/football/teams/15336.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9642.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1613413,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 11",
+      "liga_id": 441,
+      "local": "Tropezón",
+      "visitante": "Vimenor",
+      "escudo_local": "https://media.api-sports.io/football/teams/9651.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9652.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1613410,
+      "fecha": "2026-11-15T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 11",
+      "liga_id": 441,
+      "local": "Revilla",
+      "visitante": "Cayón",
+      "escudo_local": "https://media.api-sports.io/football/teams/15337.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15339.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Tropezón",
+      "pts": 26,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 2,
+      "equipo": "Revilla",
+      "pts": 24,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 3,
+      "equipo": "Vimenor",
+      "pts": 23,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 4,
+      "equipo": "Cayón",
+      "pts": 23,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 5,
+      "equipo": "Sámano",
+      "pts": 22,
+      "pj": 11,
+      "dg": 16
+    },
+    {
+      "pos": 6,
+      "equipo": "Laredo",
+      "pts": 22,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 7,
+      "equipo": "Bezana",
+      "pts": 21,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 8,
+      "equipo": "Torina",
+      "pts": 16,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Mineros",
+      "pts": 16,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 10,
+      "equipo": "Atlético Albericia",
+      "pts": 11,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 11,
+      "equipo": "Guarnizo",
+      "pts": 11,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 12,
+      "equipo": "Solares",
+      "pts": 9,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 13,
+      "equipo": "Naval Reinosa",
+      "pts": 9,
+      "pj": 11,
+      "dg": -12
+    },
+    {
+      "pos": 14,
+      "equipo": "Castro",
+      "pts": 8,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 15,
+      "equipo": "Selaya",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12
+    },
+    {
+      "pos": 16,
+      "equipo": "Barquereño",
+      "pts": 8,
+      "pj": 11,
+      "dg": -14
+    },
+    {
+      "pos": 17,
+      "equipo": "Escobedo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -10
+    },
+    {
+      "pos": 18,
+      "equipo": "Velarde",
+      "pts": 7,
+      "pj": 11,
+      "dg": -12
+    }
+  ]
+}

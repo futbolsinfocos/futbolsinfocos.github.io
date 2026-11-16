@@ -1,0 +1,220 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-4",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 4",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Beasain gana en Vitoria y Real Sociedad III golea en Leioa en la Jornada 11 del Grupo 4",
+  "entradilla": "Beasain se impuso 0-2 al Aurrerá Vitoria y la Real Sociedad III ganó 1-3 en Leioa, que sigue líder. Durango también sumó de visitante ante el Amurrio Club.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 4 de Tercera Federación dejó victorias a domicilio en tres de los cuatro partidos. Solo el R. Union B logró ganar en casa, al imponerse 2-0 al Lagun Onak.\n\n### Leioa 1-3 Real Sociedad III\n\nLa Real Sociedad III se impuso 1-3 en el campo del Leioa, que sigue en la primera posición de la clasificación con el mismo número de puntos que el Aurrerá Vitoria.\n\n### Aurrerá Vitoria 0-2 Beasain\n\nEl Beasain ganó 0-2 en Vitoria y se mete en la zona alta de la tabla, con 17 puntos.\n\n### Amurrio Club 0-2 Durango\n\nEl Durango venció 0-2 al Amurrio Club, que cierra la clasificación con solo 1 punto y -23 de diferencia de goles.\n\n### R. Union B 2-0 Lagun Onak\n\nEl R. Union B se impuso 2-0 al Lagun Onak en el único triunfo local de la jornada.\n\n## Clasificación\n\nEn lo alto, Leioa y Aurrerá Vitoria comparten liderato con 22 puntos, seguidos por el Deportivo Alavés III con 21. En la parte baja, el Amurrio Club es colista con 1 punto, por delante de no más de un cierre de tabla ya definido por Erandio, con 6 puntos.",
+  "texto_instagram": "Jornada 11 del Grupo 4 de Tercera Federación: Beasain y Real Sociedad III ganan fuera de casa, y el Leioa sigue líder. ⚽\n\nAurrerá Vitoria 0-2 Beasain\nGoleadores: sin datos disponibles\n\nLeioa 1-3 Real Sociedad III\nGoleadores: sin datos disponibles\n\nAmurrio Club 0-2 Durango\nGoleadores: sin datos disponibles\n\nR. Union B 2-0 Lagun Onak\nGoleadores: sin datos disponibles",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo4",
+    "#Leioa",
+    "#RealSociedadIII",
+    "#Beasain",
+    "#Durango"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-4-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-4-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-4-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-4-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613713,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 442,
+      "local": "Aurrerá Vitoria",
+      "visitante": "Beasain",
+      "escudo_local": "https://media.api-sports.io/football/teams/20259.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9657.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1613717,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 442,
+      "local": "R. Union B",
+      "visitante": "Lagun Onak",
+      "escudo_local": "https://media.api-sports.io/football/teams/28100.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9660.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1613712,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 442,
+      "local": "Amurrio Club",
+      "visitante": "Durango",
+      "escudo_local": "https://media.api-sports.io/football/teams/17315.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5260.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1613716,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 442,
+      "local": "Leioa",
+      "visitante": "Real Sociedad III",
+      "escudo_local": "https://media.api-sports.io/football/teams/9397.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9662.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Leioa",
+      "pts": 22,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 2,
+      "equipo": "Aurrerá Vitoria",
+      "pts": 22,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 3,
+      "equipo": "Deportivo Alavés III",
+      "pts": 21,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Sociedad III",
+      "pts": 21,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 5,
+      "equipo": "Durango",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 6,
+      "equipo": "Touring",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 7,
+      "equipo": "Derio",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 8,
+      "equipo": "Beasain",
+      "pts": 17,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 9,
+      "equipo": "San Ignacio",
+      "pts": 17,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 10,
+      "equipo": "Eibar III",
+      "pts": 17,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 11,
+      "equipo": "Aretxabaleta",
+      "pts": 17,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 12,
+      "equipo": "Sodupe",
+      "pts": 17,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 13,
+      "equipo": "R. Union B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 14,
+      "equipo": "Lagun Onak",
+      "pts": 11,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 15,
+      "equipo": "Pasaia KE",
+      "pts": 10,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 16,
+      "equipo": "Santurtzi",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 17,
+      "equipo": "Erandio",
+      "pts": 6,
+      "pj": 11,
+      "dg": -10
+    },
+    {
+      "pos": 18,
+      "equipo": "Amurrio Club",
+      "pts": 1,
+      "pj": 11,
+      "dg": -23
+    }
+  ]
+}

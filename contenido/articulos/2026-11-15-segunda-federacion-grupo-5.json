@@ -1,0 +1,286 @@
+{
+  "slug": "2026-11-15-segunda-federacion-grupo-5",
+  "fecha": "2026-11-15",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Conquense gana al Guadalajara y es líder del Grupo 5 empatado con el A Madrid III",
+  "entradilla": "El Conquense venció 3-1 al Guadalajara y lidera con 21 puntos, los mismos que el A Madrid III, que goleó 2-5 en Alcalá. Numancia y SS Reyes empataron y se quedan a un punto.",
+  "cuerpo_markdown": "La jornada 11 de la Segunda Federación, Grupo 5, deja la cabeza más apretada que nunca. **Conquense** y **A Madrid III** comparten el liderato con 21 puntos. Los conquenses mandan por diferencia de goles y con un partido menos. Por detrás, **Numancia** y **SS Reyes** sumaron un punto cada uno y se quedan con 20. Hubo goleadas del A Madrid III y del Calvo Sotelo.\n\n## Conquense 3-1 Guadalajara\n\nEl Conquense hizo los deberes ante el Guadalajara. El 3-1 le permite cerrar la jornada en lo más alto, con 21 puntos en 10 partidos y una diferencia de +11. El Guadalajara se queda undécimo con 13 puntos.\n\n## RSD Alcalá 2-5 A Madrid III\n\nEl resultado más abultado de la jornada. El A Madrid III marcó cinco goles a domicilio y alcanza los 21 puntos, empatado con el líder. El RSD Alcalá sigue en zona baja, decimoquinto con 10 puntos.\n\n## Calvo Sotelo 4-1 CF Talavera\n\nVictoria contundente del Calvo Sotelo, que llega a 9 puntos aunque sigue penúltimo. El CF Talavera se mantiene octavo con 15 puntos.\n\n## SS Reyes 0-0 Real Madrid III y Real Valladolid II 1-1 Numancia\n\nDos empates que frenan a dos aspirantes. El SS Reyes no pasó del 0-0 ante el Real Madrid III y el Numancia empató 1-1 en el campo del Real Valladolid II, que es sexto con 18 puntos.\n\n## El resto de la jornada\n\nEl Atlético Tordesillas ganó 3-2 al Atlético Paso. La Gimnástica Segoviana se impuso 1-0 al Real Ávila en el Estadio La Albuera. Navalcarnero y Getafe II empataron 1-1.\n\n## Clasificación\n\n1. **Conquense**, 21 puntos (10 PJ, +11)\n2. **A Madrid III**, 21 puntos (11 PJ, +6)\n3. **Numancia**, 20 puntos (11 PJ, +11)\n\nEl **Real Ávila** cierra la tabla con 7 puntos tras su derrota en Segovia.",
+  "texto_instagram": "⚽ El Conquense vence al Guadalajara y lidera el Grupo 5 empatado a 21 puntos con el A Madrid III, que goleó en Alcalá 🔥 El Real Ávila sigue colista 📉\n\nRSD Alcalá 2-5 A Madrid III\nSS Reyes 0-0 Real Madrid III\nReal Valladolid II 1-1 Numancia\nAtlético Tordesillas 3-2 Atlético Paso\nNavalcarnero 1-1 Getafe II\nConquense 3-1 Guadalajara\nGimnástica Segoviana 1-0 Real Ávila\nCalvo Sotelo 4-1 CF Talavera",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Grupo5",
+    "#Conquense",
+    "#AtleticoDeMadrid",
+    "#Numancia",
+    "#FutbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-5-1.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-5-2.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-5-3.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-5-4.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573349,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "RSD Alcalá",
+      "visitante": "A Madrid III",
+      "escudo_local": "https://media.api-sports.io/football/teams/9714.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26543.png",
+      "goles_local": 2,
+      "goles_visitante": 5,
+      "goleadores": []
+    },
+    {
+      "id": 1573351,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "SS Reyes",
+      "visitante": "Real Madrid III",
+      "escudo_local": "https://media.api-sports.io/football/teams/9412.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22142.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1573352,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Real Valladolid II",
+      "visitante": "Numancia",
+      "escudo_local": "https://media.api-sports.io/football/teams/9587.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/717.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1573344,
+      "fecha": "2026-11-15T16:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Atlético Tordesillas",
+      "visitante": "Atlético Paso",
+      "escudo_local": "https://media.api-sports.io/football/teams/9724.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9791.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1573347,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Navalcarnero",
+      "visitante": "Getafe II",
+      "escudo_local": "https://media.api-sports.io/football/teams/5271.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9572.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1573345,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Conquense",
+      "visitante": "Guadalajara",
+      "escudo_local": "https://media.api-sports.io/football/teams/5257.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9900.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1573346,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": "Estadio La Albuera",
+      "ciudad": "Segovia",
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Gimnástica Segoviana",
+      "visitante": "Real Ávila",
+      "escudo_local": "https://media.api-sports.io/football/teams/9387.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9736.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1573348,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 879,
+      "local": "Calvo Sotelo",
+      "visitante": "CF Talavera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9899.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5253.png",
+      "goles_local": 4,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Conquense",
+      "pts": 21,
+      "pj": 10,
+      "dg": 11
+    },
+    {
+      "pos": 2,
+      "equipo": "A Madrid III",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 3,
+      "equipo": "Numancia",
+      "pts": 20,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 4,
+      "equipo": "SS Reyes",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 5,
+      "equipo": "Salamanca UDS",
+      "pts": 19,
+      "pj": 10,
+      "dg": 5
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Valladolid II",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 7,
+      "equipo": "Navalcarnero",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 8,
+      "equipo": "CF Talavera",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Tordesillas",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 10,
+      "equipo": "Gimnástica Segoviana",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 11,
+      "equipo": "Guadalajara",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 12,
+      "equipo": "Real Madrid III",
+      "pts": 12,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 13,
+      "equipo": "Albacete II",
+      "pts": 12,
+      "pj": 10,
+      "dg": -11
+    },
+    {
+      "pos": 14,
+      "equipo": "Atlético Paso",
+      "pts": 10,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 15,
+      "equipo": "RSD Alcalá",
+      "pts": 10,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 16,
+      "equipo": "Getafe II",
+      "pts": 9,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 17,
+      "equipo": "Calvo Sotelo",
+      "pts": 9,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Ávila",
+      "pts": 7,
+      "pj": 11,
+      "dg": -11
+    }
+  ]
+}

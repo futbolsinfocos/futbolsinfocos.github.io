@@ -1,0 +1,268 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-16",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 16",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Anguiano golea 4-0 al Comillas y el Haro Deportivo sigue líder en la Jornada 11",
+  "entradilla": "El Anguiano goleó 4-0 al Comillas en la Jornada 11 del Grupo 16 de Tercera Federación. El Haro Deportivo, líder, ganó 2-0 al Berceo.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 16 de Tercera Federación deja una goleada destacada: el Anguiano se impuso 4-0 al Comillas. El Haro Deportivo sigue en lo más alto de la clasificación tras vencer 2-0 al Berceo, y el Oyonesa ganó 3-0 al Pradejón.\n\n## Anguiano 4-0 Comillas\n\nEl Anguiano cerró el partido con cuatro goles a favor y ninguno en contra frente al Comillas.\n\n## Otros resultados\n\n- Casalarreina 1-3 Vianés\n- Alfaro 0-0 River Ebro\n- Calahorra 4-2 Varea\n- Calasancio 1-2 Cenicero\n- Haro Deportivo 2-0 Berceo\n- Oyonesa 3-0 Pradejón\n\n## Clasificación\n\nEn lo alto, el Haro Deportivo lidera con 28 puntos, seguido de La Calzada con 27 y el Calahorra con 24. En la parte baja, el Casalarreina cierra la tabla con 3 puntos.",
+  "texto_instagram": "Anguiano golea 4-0 al Comillas y el Haro Deportivo sigue líder ⚽\n\nAnguiano 4-0 Comillas\nCasalarreina 1-3 Vianés\nAlfaro 0-0 River Ebro\nCalahorra 4-2 Varea\nCalasancio 1-2 Cenicero\nHaro Deportivo 2-0 Berceo\nOyonesa 3-0 Pradejón",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo16",
+    "#Jornada11",
+    "#TerceraRFEF",
+    "#FútbolBase"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-16-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-16-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-16-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-16-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-16-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617388,
+      "fecha": "2026-11-15T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Casalarreina",
+      "visitante": "Vianés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9866.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9874.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1617385,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Anguiano",
+      "visitante": "Comillas",
+      "escudo_local": "https://media.api-sports.io/football/teams/9861.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/8154.png",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617384,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Alfaro",
+      "visitante": "River Ebro",
+      "escudo_local": "https://media.api-sports.io/football/teams/9860.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9871.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617386,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Calahorra",
+      "visitante": "Varea",
+      "escudo_local": "https://media.api-sports.io/football/teams/9581.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9873.png",
+      "goles_local": 4,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1617387,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Calasancio",
+      "visitante": "Cenicero",
+      "escudo_local": "https://media.api-sports.io/football/teams/9865.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17612.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1617389,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Haro Deportivo",
+      "visitante": "Berceo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9389.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9863.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617390,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 11",
+      "liga_id": 454,
+      "local": "Oyonesa",
+      "visitante": "Pradejón",
+      "escudo_local": "https://media.api-sports.io/football/teams/9869.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9870.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Haro Deportivo",
+      "pts": 28,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 2,
+      "equipo": "La Calzada",
+      "pts": 27,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 3,
+      "equipo": "Calahorra",
+      "pts": 24,
+      "pj": 11,
+      "dg": 20
+    },
+    {
+      "pos": 4,
+      "equipo": "Alfaro",
+      "pts": 23,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 5,
+      "equipo": "Anguiano",
+      "pts": 20,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 6,
+      "equipo": "Oyonesa",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 7,
+      "equipo": "Varea",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 8,
+      "equipo": "Berceo",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 9,
+      "equipo": "Agoncillo",
+      "pts": 17,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 10,
+      "equipo": "San Marcial",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 11,
+      "equipo": "Pradejón",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 12,
+      "equipo": "Yagüe",
+      "pts": 12,
+      "pj": 11,
+      "dg": -10
+    },
+    {
+      "pos": 13,
+      "equipo": "Calasancio",
+      "pts": 11,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 14,
+      "equipo": "Cenicero",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 15,
+      "equipo": "River Ebro",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12
+    },
+    {
+      "pos": 16,
+      "equipo": "Vianés",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 17,
+      "equipo": "Comillas",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 18,
+      "equipo": "Casalarreina",
+      "pts": 3,
+      "pj": 11,
+      "dg": -20
+    }
+  ]
+}

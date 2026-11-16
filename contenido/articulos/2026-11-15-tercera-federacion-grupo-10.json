@@ -1,0 +1,284 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-10",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 10",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Dos Hermanas cae ante el San Roque Lepe y el Egabrense golea al Tomares en la Jornada 11",
+  "entradilla": "El líder Dos Hermanas perdió 1-2 en casa frente al San Roque Lepe, que iguala su cifra de puntos en lo más alto. El Egabrense ganó 3-1 al Tomares y el Chiclana sumó tres puntos en Huelva.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 10 de Tercera Federación deja la derrota del Dos Hermanas como noticia principal. Cayó 1-2 en casa ante el San Roque Lepe, que queda empatado con el líder a 23 puntos. Otros resultados destacados fueron las victorias del Utrera, del Egabrense y del Chiclana.\n\n### Dos Hermanas 1-2 San Roque Lepe\n\nEl San Roque Lepe se impuso como visitante por 1-2 y el Dos Hermanas pierde el liderato compartido.\n\n### Tomares 1-3 Egabrense\n\nEl Egabrense ganó 3-1 en la visita al Tomares.\n\n### Utrera 3-1 Bollullos\n\nEl Utrera venció 3-1 al Bollullos.\n\n### Atlético Onubense 0-2 Chiclana\n\nEl Chiclana ganó 2-0 en su visita al Atlético Onubense.\n\n### Córdoba II 2-0 Ceuta II\n\nEl Córdoba II derrotó 2-0 al Ceuta II.\n\n### Pozoblanco 1-2 Betis C\n\nEl Betis C ganó 2-1 en la visita al Pozoblanco.\n\n### Conil 0-0 Xerez Deportivo y Linense 0-0 Portuense\n\nLos dos partidos de las 17:00 terminaron sin goles.\n\n## Clasificación\n\nEn la parte alta, el Dos Hermanas lidera con 23 puntos y mejor diferencia de goles (+13). Le siguen el San Roque Lepe, también con 23 puntos (+7), y el Portuense, con 21.\n\nEn la parte baja, el Bollullos cierra la tabla con 7 puntos. Le preceden el Atlético Onubense, con 8, y el Sevilla III, con 9.",
+  "texto_instagram": "⚽ El San Roque Lepe gana 2-1 al Dos Hermanas y el líder pierde su pleno. El Egabrense golea 3-1 al Tomares en la Jornada 11 del Grupo 10.\n\nDos Hermanas 1-2 San Roque Lepe\nTomares 1-3 Egabrense\nUtrera 3-1 Bollullos\nAtlético Onubense 0-2 Chiclana\nCórdoba II 2-0 Ceuta II\nPozoblanco 1-2 Betis C\nConil 0-0 Xerez Deportivo\nLinense 0-0 Portuense 🏆",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#TerceraRFEF",
+    "#Grupo10",
+    "#FutbolBase",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-10-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-10-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-10-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-10-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-10-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615547,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Atlético Onubense",
+      "visitante": "Chiclana",
+      "escudo_local": "https://media.api-sports.io/football/teams/24724.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/21905.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1615549,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Utrera",
+      "visitante": "Bollullos",
+      "escudo_local": "https://media.api-sports.io/football/teams/9769.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20257.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615551,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Córdoba II",
+      "visitante": "Ceuta II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9759.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17596.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1615552,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Dos Hermanas",
+      "visitante": "San Roque Lepe",
+      "escudo_local": "https://media.api-sports.io/football/teams/26535.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9767.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1615554,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Pozoblanco",
+      "visitante": "Betis C",
+      "escudo_local": "https://media.api-sports.io/football/teams/9763.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28109.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1615555,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Tomares",
+      "visitante": "Egabrense",
+      "escudo_local": "https://media.api-sports.io/football/teams/15528.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28110.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1615550,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Conil",
+      "visitante": "Xerez Deportivo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9757.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9771.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1615553,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 11",
+      "liga_id": 448,
+      "local": "Linense",
+      "visitante": "Portuense",
+      "escudo_local": "https://media.api-sports.io/football/teams/9596.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28111.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Dos Hermanas",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 2,
+      "equipo": "San Roque Lepe",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 3,
+      "equipo": "Portuense",
+      "pts": 21,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 4,
+      "equipo": "Betis C",
+      "pts": 20,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 5,
+      "equipo": "Xerez Deportivo",
+      "pts": 19,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 6,
+      "equipo": "Utrera",
+      "pts": 19,
+      "pj": 10,
+      "dg": 1
+    },
+    {
+      "pos": 7,
+      "equipo": "Egabrense",
+      "pts": 17,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 8,
+      "equipo": "Tomares",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "Pozoblanco",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 10,
+      "equipo": "Linense",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 11,
+      "equipo": "Ceuta II",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 12,
+      "equipo": "Chiclana",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 13,
+      "equipo": "Conil",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 14,
+      "equipo": "Cádiz II",
+      "pts": 10,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 15,
+      "equipo": "Córdoba II",
+      "pts": 10,
+      "pj": 10,
+      "dg": -2
+    },
+    {
+      "pos": 16,
+      "equipo": "Sevilla III",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Onubense",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12
+    },
+    {
+      "pos": 18,
+      "equipo": "Bollullos",
+      "pts": 7,
+      "pj": 11,
+      "dg": -6
+    }
+  ]
+}

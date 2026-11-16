@@ -1,0 +1,205 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-6",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 6",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Levante II golea al Eldense B y se mete segundo; Ontinyent y Atzeneta firman un duelo de goles",
+  "entradilla": "El Levante II se impuso 2-0 al Eldense B en la Jornada 11 del Grupo 6 de Tercera Federación. En Ontinyent, el Atzeneta ganó 3-2, mientras que Utiel y SC Torrevieja empataron sin goles.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 6 de Tercera Federación dejó victorias para Levante II y Atzeneta, y un empate sin goles entre Utiel y SC Torrevieja.\n\n### Levante II 2-0 Eldense B\n\nEl Levante II venció al Eldense B por 2-0. El partido no tiene goleadores registrados en los datos disponibles.\n\n### Ontinyent 1931 2-3 Atzeneta\n\nEl Atzeneta se llevó el triunfo por 3-2 en su visita al Ontinyent 1931. Los goleadores y sus minutos no constan en los datos disponibles.\n\n### Utiel 0-0 SC Torrevieja\n\nUtiel y SC Torrevieja empataron sin goles en un partido sin goles registrados.\n\n### Clasificación\n\nEn la parte alta, el Villarreal III lidera con 24 puntos, seguido del Levante II, con 22, y el Hércules II, con 19.\n\nEn la parte baja, el SC Torrevieja ocupa la posición 17 con 9 puntos, y el Soneja es colista con 8 puntos.",
+  "texto_instagram": "Levante II golea al Eldense B y el Atzeneta gana 3-2 en Ontinyent en la Jornada 11 de Tercera Federación ⚽\n\nLevante II 2-0 Eldense B\nOntinyent 1931 2-3 Atzeneta\nUtiel 0-0 SC Torrevieja",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo6",
+    "#LevanteII",
+    "#Atzeneta",
+    "#Ontinyent1931",
+    "#EldenseB",
+    "#Utiel",
+    "#SCTorrevieja"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-6-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-6-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-6-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614325,
+      "fecha": "2026-11-15T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 11",
+      "liga_id": 444,
+      "local": "Levante II",
+      "visitante": "Eldense B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9591.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28103.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614326,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 11",
+      "liga_id": 444,
+      "local": "Ontinyent 1931",
+      "visitante": "Atzeneta",
+      "escudo_local": "https://media.api-sports.io/football/teams/22139.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9688.png",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1614330,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 11",
+      "liga_id": 444,
+      "local": "Utiel",
+      "visitante": "SC Torrevieja",
+      "escudo_local": "https://media.api-sports.io/football/teams/22141.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28104.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Villarreal III",
+      "pts": 24,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 2,
+      "equipo": "Levante II",
+      "pts": 22,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 3,
+      "equipo": "Hércules II",
+      "pts": 19,
+      "pj": 10,
+      "dg": 6
+    },
+    {
+      "pos": 4,
+      "equipo": "Crevillente",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 5,
+      "equipo": "Torrent",
+      "pts": 16,
+      "pj": 10,
+      "dg": 5
+    },
+    {
+      "pos": 6,
+      "equipo": "Acero",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 7,
+      "equipo": "Buñol",
+      "pts": 15,
+      "pj": 10,
+      "dg": -1
+    },
+    {
+      "pos": 8,
+      "equipo": "Vall de Uxó",
+      "pts": 14,
+      "pj": 10,
+      "dg": 3
+    },
+    {
+      "pos": 9,
+      "equipo": "Saguntino",
+      "pts": 14,
+      "pj": 10,
+      "dg": -1
+    },
+    {
+      "pos": 10,
+      "equipo": "Eldense B",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 11,
+      "equipo": "Atzeneta",
+      "pts": 12,
+      "pj": 10,
+      "dg": -1
+    },
+    {
+      "pos": 12,
+      "equipo": "Roda",
+      "pts": 12,
+      "pj": 10,
+      "dg": -2
+    },
+    {
+      "pos": 13,
+      "equipo": "Ontinyent 1931",
+      "pts": 11,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 14,
+      "equipo": "Torrellano",
+      "pts": 11,
+      "pj": 10,
+      "dg": -5
+    },
+    {
+      "pos": 15,
+      "equipo": "Jove Español",
+      "pts": 10,
+      "pj": 10,
+      "dg": -6
+    },
+    {
+      "pos": 16,
+      "equipo": "Utiel",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 17,
+      "equipo": "SC Torrevieja",
+      "pts": 9,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 18,
+      "equipo": "Soneja",
+      "pts": 8,
+      "pj": 10,
+      "dg": -8
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-11",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 11",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Ibiza Islas Pitiusas sigue líder tras empatar con el Mercadal en la jornada 11",
+  "entradilla": "El líder no pasó del empate ante el Mercadal, mientras el Manacor cayó ante el Alcúdia y pierde la segunda plaza. Cardassar fue el único equipo que ganó en la jornada.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 11 de Tercera Federación deja un empate en la cabeza de la tabla, una derrota que aleja al Manacor de la zona alta y una única victoria local, la del Cardassar. Con cuatro partidos, solo el Cardassar se impuso en casa.\n\n### Ibiza Islas Pitiusas 1-1 Mercadal\n\nEl líder empató en casa ante el Mercadal. El Ibiza Islas Pitiusas sigue en primera posición con 25 puntos, por delante del Platges Calvià, que tiene 24 puntos, mientras que el Mercadal se queda con 10 puntos en la decimoquinta posición.\n\n### Manacor 0-1 Alcúdia\n\nEl Alcúdia ganó al Manacor por la mínima. El Manacor pierde terreno y se queda con 21 puntos en la tercera posición, mientras que el Alcúdia suma 15 puntos y está undécimo.\n\n### Cardassar 1-0 Llosetense\n\nEl Cardassar se impuso al Llosetense en casa. El Cardassar suma 17 puntos y se sitúa octavo, mientras que el Llosetense tiene 16 puntos.\n\n### PE Sant Jordi 1-1 Porreres\n\nEl PE Sant Jordi y el Porreres empataron a uno. El PE Sant Jordi tiene 17 puntos y el Porreres, 19.\n\n### Cierre: clasificación\n\nEn la parte alta, el Ibiza Islas Pitiusas lidera con 25 puntos, seguido del Platges Calvià con 24 y del Manacor con 21. En la parte baja, el Inter Ibiza es el colista con 5 puntos y una diferencia de goles de -21.",
+  "texto_instagram": "El líder Ibiza Islas Pitiusas empató 1-1 con el Mercadal y sigue primero ⚽. El Cardassar fue el único equipo que ganó en casa.\n\nIbiza Islas Pitiusas 1-1 Mercadal\nManacor 0-1 Alcúdia\nCardassar 1-0 Llosetense\nPE Sant Jordi 1-1 Porreres\n\nClasificación: Ibiza Islas Pitiusas (25), Platges Calvià (24) y Manacor (21) en cabeza 🏆",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo11",
+    "#Ibiza",
+    "#Mallorca",
+    "#FútbolBalear",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-11-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-11-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-11-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-11-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615860,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 11",
+      "liga_id": 449,
+      "local": "Ibiza Islas Pitiusas",
+      "visitante": "Mercadal",
+      "escudo_local": "https://media.api-sports.io/football/teams/9781.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17599.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615856,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 11",
+      "liga_id": 449,
+      "local": "Manacor",
+      "visitante": "Alcúdia",
+      "escudo_local": "https://media.api-sports.io/football/teams/9784.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9773.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615855,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 11",
+      "liga_id": 449,
+      "local": "Cardassar",
+      "visitante": "Llosetense",
+      "escudo_local": "https://media.api-sports.io/football/teams/15311.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9782.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1615858,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 11",
+      "liga_id": 449,
+      "local": "PE Sant Jordi",
+      "visitante": "Porreres",
+      "escudo_local": "https://media.api-sports.io/football/teams/15313.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24580.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Ibiza Islas Pitiusas",
+      "pts": 25,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 2,
+      "equipo": "Platges Calvià",
+      "pts": 24,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 3,
+      "equipo": "Manacor",
+      "pts": 21,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 4,
+      "equipo": "Constància",
+      "pts": 20,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 5,
+      "equipo": "Porreres",
+      "pts": 19,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 6,
+      "equipo": "PE Sant Jordi",
+      "pts": 17,
+      "pj": 10,
+      "dg": 6
+    },
+    {
+      "pos": 7,
+      "equipo": "Santanyí",
+      "pts": 17,
+      "pj": 10,
+      "dg": 6
+    },
+    {
+      "pos": 8,
+      "equipo": "Cardassar",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 9,
+      "equipo": "Llosetense",
+      "pts": 16,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 10,
+      "equipo": "Formentera",
+      "pts": 15,
+      "pj": 10,
+      "dg": 4
+    },
+    {
+      "pos": 11,
+      "equipo": "Alcúdia",
+      "pts": 15,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 12,
+      "equipo": "Binissalem",
+      "pts": 14,
+      "pj": 10,
+      "dg": 1
+    },
+    {
+      "pos": 13,
+      "equipo": "Sineu",
+      "pts": 11,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 14,
+      "equipo": "Andratx",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 15,
+      "equipo": "Mercadal",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 16,
+      "equipo": "Migjorn",
+      "pts": 6,
+      "pj": 11,
+      "dg": -13
+    },
+    {
+      "pos": 17,
+      "equipo": "Arenal",
+      "pts": 5,
+      "pj": 11,
+      "dg": -16
+    },
+    {
+      "pos": 18,
+      "equipo": "Inter Ibiza",
+      "pts": 5,
+      "pj": 11,
+      "dg": -21
+    }
+  ]
+}

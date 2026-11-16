@@ -1,0 +1,267 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-1",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Somozas y Antela golean al Estradense y al Sarriana en una jornada de remontadas en Tercera",
+  "entradilla": "El Grupo 1 de Tercera RFEF suma siete partidos con dos victorias por dos goles de diferencia y una del Antela ante el Sarriana. Boiro, líder, gana en Barco.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 1 de Tercera Federación deja siete partidos, todos con goles menos el empate sin tantos entre Arenteiro y Villalbés. Somozas se impone 3-1 al Estradense y Antela vence 3-2 al Sarriana en un duelo de equipos de la zona media-alta.\n\n**Somozas 3-1 Estradense**\n\nEl Somozas se impone con claridad a un Estradense que queda en la parte media de la tabla tras la derrota.\n\n**Antela 3-2 Sarriana**\n\nEl Antela gana por la mínima diferencia de un gol en un partido con dos goles visitantes y el resultado final de 3-2.\n\n**Barco 2-1 Boiro**\n\nEl Boiro, líder con 23 puntos, cae en Barco ante un rival que sube al tercer puesto con 19 puntos.\n\n**Clasificación**\n\nEn la cabeza, Boiro (23 puntos), Silva (20) y Barco (19). En la cola, Celta de Vigo III y Arenteiro (11 puntos cada uno), Coruña (9) y Viveiro (8), que cierra la tabla.",
+  "texto_instagram": "Jornada 11 en el Grupo 1 de Tercera Federación: Somozas y Antela golean, y el Boiro, líder, cae en Barco. ⚽🔥\n\nArenteiro 0-0 Villalbés\nCelta de Vigo III 2-1 Viveiro\nSilva 2-1 Alondras\nPontevedra II 2-0 Atlético Arteixo\nAntela 3-2 Sarriana\nSomozas 3-1 Estradense\nBarco 2-1 Boiro",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo1",
+    "#Jornada11",
+    "#FutbolGallego"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-1-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-1-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-1-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-1-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1612795,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Ourense",
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Arenteiro",
+      "visitante": "Villalbés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9604.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9618.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1612797,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Celta de Vigo III",
+      "visitante": "Viveiro",
+      "escudo_local": "https://media.api-sports.io/football/teams/20255.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15307.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1612800,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Silva",
+      "visitante": "Alondras",
+      "escudo_local": "https://media.api-sports.io/football/teams/9615.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9603.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1612793,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Pontevedra II",
+      "visitante": "Atlético Arteixo",
+      "escudo_local": "https://media.api-sports.io/football/teams/22129.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/19650.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1612794,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Antela",
+      "visitante": "Sarriana",
+      "escudo_local": "https://media.api-sports.io/football/teams/28094.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22130.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1612801,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Somozas",
+      "visitante": "Estradense",
+      "escudo_local": "https://media.api-sports.io/football/teams/9616.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9611.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1612796,
+      "fecha": "2026-11-15T17:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 439,
+      "local": "Barco",
+      "visitante": "Boiro",
+      "escudo_local": "https://media.api-sports.io/football/teams/9608.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22566.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Boiro",
+      "pts": 23,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 2,
+      "equipo": "Silva",
+      "pts": 20,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 3,
+      "equipo": "Barco",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 4,
+      "equipo": "Sarriana",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 5,
+      "equipo": "Lalin",
+      "pts": 18,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 6,
+      "equipo": "Pontevedra II",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 7,
+      "equipo": "Atlético Arteixo",
+      "pts": 16,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 8,
+      "equipo": "Antela",
+      "pts": 16,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "Portonovo SD",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 10,
+      "equipo": "Villalbés",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 11,
+      "equipo": "Estradense",
+      "pts": 15,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 12,
+      "equipo": "Somozas",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 13,
+      "equipo": "Celtiga",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 14,
+      "equipo": "Alondras",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 15,
+      "equipo": "Celta de Vigo III",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 16,
+      "equipo": "Arenteiro",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 17,
+      "equipo": "Coruña",
+      "pts": 9,
+      "pj": 11,
+      "dg": -10
+    },
+    {
+      "pos": 18,
+      "equipo": "Viveiro",
+      "pts": 8,
+      "pj": 11,
+      "dg": -7
+    }
+  ]
+}

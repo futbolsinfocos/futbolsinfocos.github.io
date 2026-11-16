@@ -1,0 +1,170 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-15",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 15",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Cirbonero se impone 1-0 al Valle Egüés en la Jornada 11 del Grupo 15",
+  "entradilla": "El Cirbonero suma tres puntos ante el Valle Egüés con un solo gol en el marcador. Izarra mantiene el liderato del grupo.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 15 de Tercera Federación deja una victoria por la mínima del Cirbonero sobre el Valle Egüés, que cierra el partido sin marcar. El resultado sirve al equipo local para asentarse en mitad de la tabla.\n\n## Cirbonero 1-0 Valle Egüés\n\nEl Cirbonero se impone 1-0 al Valle Egüés. Los datos disponibles no recogen los goleadores ni los minutos del encuentro.\n\n## Clasificación\n\nIzarra encabeza el grupo con 29 puntos y 26 de diferencia de goles, por delante de Mutilvera, segundo con 23 puntos, y Subiza, tercero con 19.\n\nEn la parte baja, Huarte y Bidezarra ocupan las últimas posiciones con 8 puntos cada uno, y Cortes aparece con 9 puntos en la penúltima plaza de la zona de descenso, a dos puntos de distancia.",
+  "texto_instagram": "El Cirbonero gana 1-0 al Valle Egüés en la Jornada 11 del Grupo 15 ⚽\n\nCirbonero 1-0 Valle Egüés\n\nIzarra sigue líder con 29 puntos 🏆",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo15",
+    "#Cirbonero",
+    "#ValleEgues",
+    "#Izarra"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-15-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-15-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-15-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617084,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 15 - 11",
+      "liga_id": 453,
+      "local": "Cirbonero",
+      "visitante": "Valle Egüés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9847.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9858.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Izarra",
+      "pts": 29,
+      "pj": 11,
+      "dg": 26
+    },
+    {
+      "pos": 2,
+      "equipo": "Mutilvera",
+      "pts": 23,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 3,
+      "equipo": "Subiza",
+      "pts": 19,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 4,
+      "equipo": "Doneztebe FT",
+      "pts": 16,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 5,
+      "equipo": "San Juan",
+      "pts": 16,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 6,
+      "equipo": "Valle Egüés",
+      "pts": 16,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 7,
+      "equipo": "Gazte Berriak",
+      "pts": 16,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 8,
+      "equipo": "Beti Kozkor",
+      "pts": 16,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 9,
+      "equipo": "Cirbonero",
+      "pts": 15,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 10,
+      "equipo": "Avance Ezcabarte",
+      "pts": 14,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 11,
+      "equipo": "Aoiz",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 12,
+      "equipo": "Txantrea",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 13,
+      "equipo": "Cantolagua",
+      "pts": 12,
+      "pj": 11,
+      "dg": -17
+    },
+    {
+      "pos": 14,
+      "equipo": "Beti Onak",
+      "pts": 11,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 15,
+      "equipo": "Pamplona",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 16,
+      "equipo": "Cortes",
+      "pts": 9,
+      "pj": 11,
+      "dg": -12
+    },
+    {
+      "pos": 17,
+      "equipo": "Bidezarra",
+      "pts": 8,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 18,
+      "equipo": "Huarte",
+      "pts": 8,
+      "pj": 11,
+      "dg": -10
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "slug": "2026-11-15-segunda-federacion-grupo-2",
+  "fecha": "2026-11-15",
+  "etiqueta": "Segunda Federación · Grupo 2",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Terrassa gana al Tudelano y se queda a un punto del líder Barcelona B",
+  "entradilla": "Un gol de M. Mendes en el minuto 17 da al Terrassa tres puntos que lo mantienen segundo en la Jornada 11. Arnedo rescata un empate en el 90 en Barbastro.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 2 de Segunda Federación dejó seis partidos con pocos goles y tres empates. El Terrassa sumó una victoria mínima ante el Tudelano y aprieta al líder. El Manresa ganó en Náxara y el Reddis se impuso en el campo del colista, el Calamocha. Barbastro-Arnedo y UD Logroñés II-Peña Sport acabaron 2-2. Olot y Espanyol II firmaron el único 0-0.\n\n## Terrassa 1-0 Tudelano\n\nM. Mendes marcó en el minuto 17 y ese gol bastó. El Terrassa llega a 24 puntos y es segundo, a uno del Barcelona B. El Tudelano se queda en 9 puntos, en la decimocuarta plaza.\n\n## Barbastro 2-2 Arnedo\n\nArranque a toda velocidad. M. Benedet adelantó al Barbastro en el minuto 4 y P. Montero empató en el 6. A. Gabarre volvió a poner por delante a los locales en el 22. Cuando el partido parecía cerrado, U. Garde igualó en el 90. El Arnedo, decimosexto con 7 puntos, rasca un punto valioso.\n\n## UD Logroñés II 2-2 Peña Sport\n\nEl Peña Sport golpeó dos veces primero y el filial respondió dos veces. J. Asiron abrió el marcador en el 20 y R. Hidalgo empató en el 36. A. Gonzalo adelantó de nuevo a los visitantes en el 66, pero E. Larrea firmó el 2-2 en el 83.\n\n## Náxara 0-2 Manresa\n\nTodo llegó tras el descanso. D. Momoh marcó en el 53 y M. Ezzarfani sentenció en el 79. El Manresa sube a 17 puntos. El Náxara sigue penúltimo con 6.\n\n## Calamocha 0-1 Reddis\n\nEn el Municipal de Tarazona, L. Recasens decidió en el minuto 72. El Reddis alcanza los 17 puntos.\n\n## Olot 0-0 Espanyol II\n\nSin goles entre dos equipos de la zona alta. El Espanyol II es cuarto con 21 puntos y un partido menos. El Olot, séptimo con 19.\n\n## Clasificación\n\nEl Barcelona B lidera con 25 puntos. Le siguen el Terrassa, con 24, y el Girona II, con 22. El Calamocha cierra la tabla con 5 puntos.",
+  "texto_instagram": "⚽ El Terrassa gana 1-0 al Tudelano y se queda a un punto del líder Barcelona B. El Arnedo empata en el 90 en Barbastro y el Calamocha sigue colista 📊\n\nBarbastro 2-2 Arnedo: M. Benedet (4'), A. Gabarre (22') / P. Montero (6'), U. Garde (90')\nNáxara 0-2 Manresa: D. Momoh (53'), M. Ezzarfani (79')\nUD Logroñés II 2-2 Peña Sport: R. Hidalgo (36'), E. Larrea (83') / J. Asiron (20'), A. Gonzalo (66')\nCalamocha 0-1 Reddis: L. Recasens (72')\nTerrassa 1-0 Tudelano: M. Mendes (17')\nOlot 0-0 Espanyol II\n\n🔥 #SegundaFederación",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo2",
+    "#Terrassa",
+    "#FútbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-2-1.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-2-2.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-2-3.jpg",
+    "img/2026-11-15/2026-11-15-segunda-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572426,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "Barbastro",
+      "visitante": "Arnedo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9879.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9862.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 4,
+          "equipo": "Barbastro",
+          "jugador": "M. Benedet",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 6,
+          "equipo": "Arnedo",
+          "jugador": "P. Montero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 22,
+          "equipo": "Barbastro",
+          "jugador": "A. Gabarre",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Arnedo",
+          "jugador": "U. Garde",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1572429,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "Náxara",
+      "visitante": "Manresa",
+      "escudo_local": "https://media.api-sports.io/football/teams/9868.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9675.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 53,
+          "equipo": "Manresa",
+          "jugador": "D. Momoh",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 79,
+          "equipo": "Manresa",
+          "jugador": "M. Ezzarfani",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1572434,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "UD Logroñés II",
+      "visitante": "Peña Sport",
+      "escudo_local": "https://media.api-sports.io/football/teams/9872.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9406.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 20,
+          "equipo": "Peña Sport",
+          "jugador": "J. Asiron",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 36,
+          "equipo": "UD Logroñés II",
+          "jugador": "R. Hidalgo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 66,
+          "equipo": "Peña Sport",
+          "jugador": "A. Gonzalo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "UD Logroñés II",
+          "jugador": "E. Larrea",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1572432,
+      "fecha": "2026-11-15T16:00:00+01:00",
+      "estadio": "Municipal de Tarazona",
+      "ciudad": "Tarazona",
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "Calamocha",
+      "visitante": "Reddis",
+      "escudo_local": "https://media.api-sports.io/football/teams/9885.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22136.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 72,
+          "equipo": "Reddis",
+          "jugador": "L. Recasens",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1572433,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "Terrassa",
+      "visitante": "Tudelano",
+      "escudo_local": "https://media.api-sports.io/football/teams/9681.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5279.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 17,
+          "equipo": "Terrassa",
+          "jugador": "M. Mendes",
+          "tipo": "Normal Goal"
+        }
+      ]
+    },
+    {
+      "id": 1572430,
+      "fecha": "2026-11-15T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 876,
+      "local": "Olot",
+      "visitante": "Espanyol II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9403.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9590.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona B",
+      "pts": 25,
+      "pj": 11,
+      "dg": 14
+    },
+    {
+      "pos": 2,
+      "equipo": "Terrassa",
+      "pts": 24,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 3,
+      "equipo": "Girona II",
+      "pts": 22,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Espanyol II",
+      "pts": 21,
+      "pj": 10,
+      "dg": 14
+    },
+    {
+      "pos": 5,
+      "equipo": "Ebro",
+      "pts": 20,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 6,
+      "equipo": "Osasuna II",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 7,
+      "equipo": "Olot",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 8,
+      "equipo": "Manresa",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 9,
+      "equipo": "Reddis",
+      "pts": 17,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 10,
+      "equipo": "Peña Sport",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 11,
+      "equipo": "Utebo",
+      "pts": 12,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 12,
+      "equipo": "Barbastro",
+      "pts": 10,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 13,
+      "equipo": "UD Logroñés II",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 14,
+      "equipo": "Tudelano",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 15,
+      "equipo": "SD Logroñés",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9
+    },
+    {
+      "pos": 16,
+      "equipo": "Arnedo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -13
+    },
+    {
+      "pos": 17,
+      "equipo": "Náxara",
+      "pts": 6,
+      "pj": 10,
+      "dg": -12
+    },
+    {
+      "pos": 18,
+      "equipo": "Calamocha",
+      "pts": 5,
+      "pj": 11,
+      "dg": -15
+    }
+  ]
+}

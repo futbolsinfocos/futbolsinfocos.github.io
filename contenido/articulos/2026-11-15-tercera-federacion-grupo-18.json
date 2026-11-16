@@ -1,0 +1,242 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-18",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 18",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Huracán Balazote golea al Guadalajara II y San Clemente remonta al Illescas en la Tercera Federación",
+  "entradilla": "La Jornada 11 del Grupo 18 deja una goleada en Balazote y una remontada en San Clemente. Manchego sigue líder con 27 puntos.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 18 de Tercera Federación deja una goleada del Huracán Balazote al Guadalajara II y una victoria de San Clemente por 2-1 ante el Illescas. Almansa venció 1-0 al Torrijos y Villacañas 1-0 al Tarancón. Toledo y Villarrobledo empataron 1-1.\n\n## Partido destacado\n\n**Huracán Balazote 3-0 Guadalajara II.** El conjunto local impuso su superioridad y cerró el partido con tres goles. La clasificación sitúa al Huracán Balazote en el puesto 16, con 10 puntos, y al Guadalajara II en el último lugar, con 3 puntos.\n\n## Resto de partidos\n\n**San Clemente 2-1 Illescas.** San Clemente se impuso por 2-1 a Illescas.\n\n**Almansa 1-0 Torrijos.** Almansa ganó por 1-0 al Torrijos.\n\n**Toledo 1-1 Villarrobledo.** Reparto de puntos en el Toledo-Villarrobledo.\n\n**Villacañas 1-0 Tarancón.** Villacañas se impuso por 1-0 al Tarancón.\n\n## Clasificación\n\nEn lo alto, Manchego lidera con 27 puntos, seguido de Toledo con 23 y Villacañas con 21. En la parte baja, Guadalajara II ocupa la última posición con 3 puntos, por detrás de Quintanar del Rey, con 7.",
+  "texto_instagram": "Huracán Balazote golea 3-0 al Guadalajara II y San Clemente remonta al Illescas en la Jornada 11 del Grupo 18 ⚽🏆\n\nHuracán Balazote 3-0 Guadalajara II\nSan Clemente 2-1 Illescas\nAlmansa 1-0 Torrijos\nToledo 1-1 Villarrobledo\nVillacañas 1-0 Tarancón",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo18",
+    "#HuracánBalazote",
+    "#GuadalajaraII",
+    "#SanClemente",
+    "#Illescas",
+    "#Almansa",
+    "#Torrijos",
+    "#Toledo",
+    "#Villarrobledo",
+    "#Villacañas",
+    "#Tarancón"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-18-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-18-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-18-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-18-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617995,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 11",
+      "liga_id": 456,
+      "local": "Almansa",
+      "visitante": "Torrijos",
+      "escudo_local": "https://media.api-sports.io/football/teams/9896.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9909.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1618001,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 11",
+      "liga_id": 456,
+      "local": "San Clemente",
+      "visitante": "Illescas",
+      "escudo_local": "https://media.api-sports.io/football/teams/17619.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9901.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1618002,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 11",
+      "liga_id": 456,
+      "local": "Toledo",
+      "visitante": "Villarrobledo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9908.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9602.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1618003,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 11",
+      "liga_id": 456,
+      "local": "Villacañas",
+      "visitante": "Tarancón",
+      "escudo_local": "https://media.api-sports.io/football/teams/9910.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9907.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1617997,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 11",
+      "liga_id": 456,
+      "local": "Huracán Balazote",
+      "visitante": "Guadalajara II",
+      "escudo_local": "https://media.api-sports.io/football/teams/15330.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26555.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Manchego",
+      "pts": 27,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 2,
+      "equipo": "Toledo",
+      "pts": 23,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 3,
+      "equipo": "Villacañas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Villarrobledo",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 5,
+      "equipo": "San Clemente",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 6,
+      "equipo": "CD Villa",
+      "pts": 18,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 7,
+      "equipo": "Illescas",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 8,
+      "equipo": "Villarrubia",
+      "pts": 16,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 9,
+      "equipo": "Almansa",
+      "pts": 15,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 10,
+      "equipo": "Tarancón",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 11,
+      "equipo": "Noblejas",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 12,
+      "equipo": "Torrijos",
+      "pts": 14,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 13,
+      "equipo": "Socuéllamos",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 14,
+      "equipo": "La Solana",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 15,
+      "equipo": "Marchamalo",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 16,
+      "equipo": "Huracán Balazote",
+      "pts": 10,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 17,
+      "equipo": "Quintanar del Rey",
+      "pts": 7,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 18,
+      "equipo": "Guadalajara II",
+      "pts": 3,
+      "pj": 11,
+      "dg": -18
+    }
+  ]
+}

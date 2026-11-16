@@ -1,0 +1,301 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-14",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 14",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Azuaga sigue líder tras ganar a Puebla Calzada y Castuera asalta la segunda plaza",
+  "entradilla": "La jornada 11 del Grupo 14 de Tercera Federación deja un empate a dos en Llerenense y el triunfo a domicilio de Castuera en Cabeza Buey. Jerez golea a Moralo y Gévora gana en Guadiana.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 14 de Tercera Federación deja resultados muy ajustados y algunas victorias por la mínima. Azuaga se mantiene en lo más alto de la tabla tras imponerse 1-0 a Puebla Calzada, mientras que Castuera iguala en puntos con Llerenense en la tercera posición tras ganar en Cabeza Buey.\n\n## Llerenense 2-2 Atlético Pueblonuevo\n\nEmpate con goles de ambos lados en un partido de ida y vuelta. El marcador final refleja un reparto de puntos entre dos equipos que buscan posiciones de arriba y de salvación respectivamente.\n\n## Jerez 2-0 Moralo\n\nJerez suma tres puntos y se impone con claridad a Moralo, que se queda con 21 puntos en la quinta plaza.\n\n## Cabeza Buey 0-1 Castuera\n\nCastuera gana a domicilio y se coloca a dos puntos de Azuaga en la clasificación.\n\n## Guadiana 1-2 Gévora\n\nGévora se lleva el partido en campo de Guadiana, que sigue como colista con un solo punto.\n\n## Jaraíz 2-0 CD Zafra\n\nJaraíz logra una victoria sin goles encajados en su estadio.\n\n## Azuaga 1-0 Puebla Calzada\n\nAzuaga mantiene el liderato con un triunfo por la mínima ante Puebla Calzada.\n\n## Villanovense 1-0 Santa Amalia\n\nVillanovense gana y suma tres puntos que le mantienen en la cuarta posición.\n\n## Villafranca 1-1 Quintana\n\nReparto de puntos en un duelo sin goles en las mitades de cada equipo en la tabla.\n\n## Montijo 0-1 Plasencia\n\nPlasencia se impone a domicilio a Montijo, que se hunde en la zona baja.\n\n## Clasificación\n\nEn la cabeza, Azuaga (26 puntos) lidera por delante de Castuera y Llerenense (23 puntos cada uno). En la parte baja, Guadiana es colista con 1 punto, por detrás de Atlético Pueblonuevo (5 puntos) y Montijo (8 puntos).",
+  "texto_instagram": "Azuaga sigue líder tras ganar a Puebla Calzada y Castuera asalta la segunda plaza ⚽🏆\n\nLlerenense 2-2 Atlético Pueblonuevo\nJerez 2-0 Moralo\nCabeza Buey 0-1 Castuera\nGuadiana 1-2 Gévora\nJaraíz 2-0 CD Zafra\nAzuaga 1-0 Puebla Calzada\nVillanovense 1-0 Santa Amalia\nVillafranca 1-1 Quintana\nMontijo 0-1 Plasencia",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo14",
+    "#Jornada11",
+    "#Azuaga",
+    "#Castuera",
+    "#Jerez"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-14-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-14-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-14-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-14-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-14-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616778,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Villafranca",
+      "visitante": "Quintana",
+      "escudo_local": "https://media.api-sports.io/football/teams/9479.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28119.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1616779,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Villanovense",
+      "visitante": "Santa Amalia",
+      "escudo_local": "https://media.api-sports.io/football/teams/5282.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20448.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1616771,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Azuaga",
+      "visitante": "Puebla Calzada",
+      "escudo_local": "https://media.api-sports.io/football/teams/9826.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24613.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1616772,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Cabeza Buey",
+      "visitante": "Castuera",
+      "escudo_local": "https://media.api-sports.io/football/teams/26552.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22149.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1616775,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Jerez",
+      "visitante": "Moralo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9832.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9836.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1616777,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Montijo",
+      "visitante": "Plasencia",
+      "escudo_local": "https://media.api-sports.io/football/teams/9835.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9838.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1616773,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Guadiana",
+      "visitante": "Gévora",
+      "escudo_local": "https://media.api-sports.io/football/teams/28117.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/25032.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1616774,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Jaraíz",
+      "visitante": "CD Zafra",
+      "escudo_local": "https://media.api-sports.io/football/teams/18094.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28118.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1616776,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 11",
+      "liga_id": 452,
+      "local": "Llerenense",
+      "visitante": "Atlético Pueblonuevo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9833.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20279.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Azuaga",
+      "pts": 26,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 2,
+      "equipo": "Castuera",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 3,
+      "equipo": "Llerenense",
+      "pts": 23,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 4,
+      "equipo": "Villanovense",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 5,
+      "equipo": "Moralo",
+      "pts": 21,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 6,
+      "equipo": "Puebla Calzada",
+      "pts": 17,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 7,
+      "equipo": "Jaraíz",
+      "pts": 15,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 8,
+      "equipo": "Gévora",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 9,
+      "equipo": "Jerez",
+      "pts": 15,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 10,
+      "equipo": "Quintana",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 11,
+      "equipo": "Villafranca",
+      "pts": 14,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 12,
+      "equipo": "CD Zafra",
+      "pts": 13,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 13,
+      "equipo": "Cabeza Buey",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 14,
+      "equipo": "Santa Amalia",
+      "pts": 12,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 15,
+      "equipo": "Plasencia",
+      "pts": 11,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 16,
+      "equipo": "Montijo",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Pueblonuevo",
+      "pts": 5,
+      "pj": 11,
+      "dg": -15
+    },
+    {
+      "pos": 18,
+      "equipo": "Guadiana",
+      "pts": 1,
+      "pj": 11,
+      "dg": -27
+    }
+  ]
+}

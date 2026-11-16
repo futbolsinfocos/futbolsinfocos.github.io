@@ -1,0 +1,285 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-9",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 9",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Melilla gana en Almería y se mantiene líder; Alhaurino remonta y se impone a Torre del Mar",
+  "entradilla": "El Melilla vence 2-0 al Almería II y sigue en lo más alto de la clasificación del Grupo 9 de Tercera Federación. En la jornada 11, el UD San Pedro golea 3-1 al Huétor Vega y el Alhaurino gana 3-2 al Torre del Mar.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 9 de Tercera Federación deja victorias a domicilio del Melilla y del Ciudad de Torredonjimeno, que se impone 2-1 en su visita al Atlético Porcuna. El UD San Pedro y el Alhaurino también suman tres puntos en casa tras marcar tres goles cada uno.\n\n## Partidos destacados\n\n**Almería II 0-2 Melilla.** El Melilla se lleva el partido en Almería. Los datos disponibles no recogen goleadores ni minutos.\n\n**UD San Pedro 3-1 Huétor Vega.** El San Pedro gana con claridad a un Huétor Vega que sale de la zona alta de la tabla.\n\n**Alhaurino 3-2 Torre del Mar.** Triunfo local por la mínima diferencia en un partido con cinco goles.\n\n**Atlético Porcuna 1-2 Ciudad de Torredonjimeno.** El Torredonjimeno suma una victoria a domicilio frente al Porcuna.\n\n## Otros resultados\n\nCantoria 0-0 Mancha Real. Granada II 1-0 Marbelli. Atletico de Marbella 0-1 Malaga City. Churriana Vega 0-1 Motril.\n\n## Clasificación\n\nEn la parte alta, el Melilla lidera con 26 puntos, seguido del Ciudad de Torredonjimeno y el Arenas Armilla, ambos con 23. En la parte baja, el Malaga City es colista con 3 puntos, por delante del Cantoria con 5 y el Atletico de Marbella con 7.",
+  "texto_instagram": "⚽ Melilla gana en Almería y sigue líder. El UD San Pedro golea 3-1 al Huétor Vega y el Alhaurino remonta el duelo ante el Torre del Mar.\n\nAlmería II 0-2 Melilla\nUD San Pedro 3-1 Huétor Vega\nAlhaurino 3-2 Torre del Mar\nAtlético Porcuna 1-2 Ciudad de Torredonjimeno\nCantoria 0-0 Mancha Real\nGranada II 1-0 Marbelli\nAtletico de Marbella 0-1 Malaga City\nChurriana Vega 0-1 Motril\n\n🏆 Clasificación: 1.º Melilla (26), 2.º Ciudad de Torredonjimeno (23), 3.º Arenas Armilla (23)",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo9",
+    "#Melilla",
+    "#UDSanPedro",
+    "#Alhaurino",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-9-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-9-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-9-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-9-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-9-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615241,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Almería II",
+      "visitante": "Melilla",
+      "escudo_local": "https://media.api-sports.io/football/teams/9741.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5268.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1615244,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Cantoria",
+      "visitante": "Mancha Real",
+      "escudo_local": "https://media.api-sports.io/football/teams/28108.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9749.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1615247,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": "Ciudad Deportiva del Granada",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Granada II",
+      "visitante": "Marbelli",
+      "escudo_local": "https://media.api-sports.io/football/teams/9599.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24960.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1615249,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "UD San Pedro",
+      "visitante": "Huétor Vega",
+      "escudo_local": "https://media.api-sports.io/football/teams/17562.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9747.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615245,
+      "fecha": "2026-11-15T12:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Alhaurino",
+      "visitante": "Torre del Mar",
+      "escudo_local": "https://media.api-sports.io/football/teams/15357.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17558.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1615242,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Atletico de Marbella",
+      "visitante": "Malaga City",
+      "escudo_local": "https://media.api-sports.io/football/teams/28107.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24962.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615246,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Churriana Vega",
+      "visitante": "Motril",
+      "escudo_local": "https://media.api-sports.io/football/teams/26547.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9751.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1615243,
+      "fecha": "2026-11-15T17:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 11",
+      "liga_id": 447,
+      "local": "Atlético Porcuna",
+      "visitante": "Ciudad de Torredonjimeno",
+      "escudo_local": "https://media.api-sports.io/football/teams/7523.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9743.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Melilla",
+      "pts": 26,
+      "pj": 11,
+      "dg": 12
+    },
+    {
+      "pos": 2,
+      "equipo": "Ciudad de Torredonjimeno",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 3,
+      "equipo": "Arenas Armilla",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Motril",
+      "pts": 20,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 5,
+      "equipo": "Málaga II",
+      "pts": 19,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 6,
+      "equipo": "Almería II",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 7,
+      "equipo": "UD San Pedro",
+      "pts": 18,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 8,
+      "equipo": "Granada II",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 9,
+      "equipo": "Churriana Vega",
+      "pts": 15,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 10,
+      "equipo": "Marbelli",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 11,
+      "equipo": "Huétor Vega",
+      "pts": 13,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 12,
+      "equipo": "Atlético Porcuna",
+      "pts": 13,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 13,
+      "equipo": "Torre del Mar",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2
+    },
+    {
+      "pos": 14,
+      "equipo": "Alhaurino",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 15,
+      "equipo": "Mancha Real",
+      "pts": 8,
+      "pj": 11,
+      "dg": -8
+    },
+    {
+      "pos": 16,
+      "equipo": "Atletico de Marbella",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 17,
+      "equipo": "Cantoria",
+      "pts": 5,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 18,
+      "equipo": "Malaga City",
+      "pts": 3,
+      "pj": 11,
+      "dg": -17
+    }
+  ]
+}

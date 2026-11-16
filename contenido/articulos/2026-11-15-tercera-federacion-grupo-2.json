@@ -1,0 +1,284 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-2",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 2",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Sporting Gijón II golea 5-0 al Gijón Industrial y sigue segundo",
+  "entradilla": "La Jornada 11 del Grupo 2 de Tercera Federación deja una goleada del Sporting Gijón II y el liderato del Covadonga, que suma 26 puntos.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 2 de Tercera Federación deja una goleada destacada: el Sporting Gijón II se impuso 5-0 al Gijón Industrial. El Covadonga, líder, ganó 3-0 al Astur, y el Langreo goleó 4-0 al Siero. Hubo también empates en Avilés y Lealtad, y triunfos a domicilio del Colunga en Caudal.\n\n## Partido destacado\n\n**Sporting Gijón II 5-0 Gijón Industrial**. El conjunto rojiblanco se impuso con claridad en su campo y se mantiene en la segunda posición con 24 puntos.\n\n## Resto de resultados\n\n- Avilés Stadium 1-1 San Martín\n- Covadonga 3-0 Astur\n- Lealtad 1-1 Mosconia\n- Llanes 3-0 Ceares\n- Praviano 3-2 Condal\n- Langreo 4-0 Siero\n- Caudal 1-2 Colunga\n\n## Clasificación\n\nEl Covadonga encabeza la tabla con 26 puntos, seguido del Sporting Gijón II (24) y el Lealtad (21). En la cola, el Andes ocupa la última posición con 3 puntos.",
+  "texto_instagram": "El Sporting Gijón II golea 5-0 al Gijón Industrial y el Covadonga sigue líder tras ganar al Astur. ⚽\n\nAvilés Stadium 1-1 San Martín\nCovadonga 3-0 Astur\nSporting Gijón II 5-0 Gijón Industrial\nLealtad 1-1 Mosconia\nLlanes 3-0 Ceares\nPraviano 3-2 Condal\nLangreo 4-0 Siero\nCaudal 1-2 Colunga 🏆",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo2",
+    "#SportingGijónII",
+    "#Covadonga",
+    "#FútbolAsturiano"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-2-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-2-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-2-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-2-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613099,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Avilés Stadium",
+      "visitante": "San Martín",
+      "escudo_local": "https://media.api-sports.io/football/teams/15333.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9633.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1613101,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Covadonga",
+      "visitante": "Astur",
+      "escudo_local": "https://media.api-sports.io/football/teams/9623.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/25030.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1613102,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Sporting Gijón II",
+      "visitante": "Gijón Industrial",
+      "escudo_local": "https://media.api-sports.io/football/teams/9577.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9624.png",
+      "goles_local": 5,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1613104,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Lealtad",
+      "visitante": "Mosconia",
+      "escudo_local": "https://media.api-sports.io/football/teams/9396.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9629.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1613106,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Llanes",
+      "visitante": "Ceares",
+      "escudo_local": "https://media.api-sports.io/football/teams/9628.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9620.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1613107,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Praviano",
+      "visitante": "Condal",
+      "escudo_local": "https://media.api-sports.io/football/teams/9631.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9622.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1613103,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Langreo",
+      "visitante": "Siero",
+      "escudo_local": "https://media.api-sports.io/football/teams/5265.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9634.png",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1613100,
+      "fecha": "2026-11-15T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 11",
+      "liga_id": 440,
+      "local": "Caudal",
+      "visitante": "Colunga",
+      "escudo_local": "https://media.api-sports.io/football/teams/9619.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9621.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Covadonga",
+      "pts": 26,
+      "pj": 11,
+      "dg": 18
+    },
+    {
+      "pos": 2,
+      "equipo": "Sporting Gijón II",
+      "pts": 24,
+      "pj": 11,
+      "dg": 13
+    },
+    {
+      "pos": 3,
+      "equipo": "Lealtad",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 4,
+      "equipo": "Condal",
+      "pts": 20,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 5,
+      "equipo": "Caudal",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 6,
+      "equipo": "Praviano",
+      "pts": 17,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 7,
+      "equipo": "Mosconia",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 8,
+      "equipo": "Gijón Industrial",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "San Martín",
+      "pts": 16,
+      "pj": 11,
+      "dg": -1
+    },
+    {
+      "pos": 10,
+      "equipo": "Langreo",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 11,
+      "equipo": "Colunga",
+      "pts": 15,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 12,
+      "equipo": "Llanes",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 13,
+      "equipo": "Avilés Stadium",
+      "pts": 12,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 14,
+      "equipo": "Siero",
+      "pts": 12,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 15,
+      "equipo": "Ceares",
+      "pts": 9,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 16,
+      "equipo": "L'Entregu",
+      "pts": 8,
+      "pj": 11,
+      "dg": -11
+    },
+    {
+      "pos": 17,
+      "equipo": "Astur",
+      "pts": 6,
+      "pj": 11,
+      "dg": -9
+    },
+    {
+      "pos": 18,
+      "equipo": "Andes",
+      "pts": 3,
+      "pj": 11,
+      "dg": -15
+    }
+  ]
+}

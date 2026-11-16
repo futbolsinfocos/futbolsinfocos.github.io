@@ -1,0 +1,268 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-7",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 7",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Móstoles se impone al Trival Valderas y encabeza el Grupo 7 con cinco puntos de ventaja",
+  "entradilla": "El líder golea sin problemas en una jornada 11 con empates y victorias a domicilio. Móstoles suma tres puntos más en la cima.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 7 de Tercera Federación deja un empate a dos en Reyes, un empate a uno en Parla y varias victorias como visitante. El líder Móstoles se impuso 2-0 al Trival Valderas y mantiene cinco puntos de ventaja sobre el segundo.\n\n### Móstoles 2-0 Trival Valderas\n\nEl Móstoles venció al Trival Valderas por 2-0 y se mantiene como líder con 26 puntos.\n\n### Otros resultados\n\n- Torrejón 0-1 Rayo Vallecano II\n- Parla Escuela 1-1 Pozuelo Alarcón\n- Villanueva Pardillo 0-1 Real Aranjuez\n- Colonia Moscardó 1-0 Galapagar\n- Unión Adarve 0-1 Las Rozas\n- SS Reyes II 2-2 RC Alcobendas\n\n### Clasificación\n\nEn lo alto, el Móstoles lidera con 26 puntos, seguido de Colonia Moscardó y Las Rozas, ambos con 21. En la parte baja, Villanueva Pardillo cierra la tabla con 7 puntos y una diferencia de goles de -20.",
+  "texto_instagram": "El líder Móstoles se impone 2-0 al Trival Valderas y sigue en la cima del Grupo 7 🔝\n\nTorrejón 0-1 Rayo Vallecano II ⚽\nParla Escuela 1-1 Pozuelo Alarcón\nVillanueva Pardillo 0-1 Real Aranjuez\nMóstoles 2-0 Trival Valderas\nColonia Moscardó 1-0 Galapagar\nUnión Adarve 0-1 Las Rozas\nSS Reyes II 2-2 RC Alcobendas 🤝",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo7",
+    "#Móstoles",
+    "#TerceraRFEF",
+    "#FútbolBase"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-7-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-7-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-7-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-7-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-7-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614629,
+      "fecha": "2026-11-15T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Torrejón",
+      "visitante": "Rayo Vallecano II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9717.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9715.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614632,
+      "fecha": "2026-11-15T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Parla Escuela",
+      "visitante": "Pozuelo Alarcón",
+      "escudo_local": "https://media.api-sports.io/football/teams/25035.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9713.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614636,
+      "fecha": "2026-11-15T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Villanueva Pardillo",
+      "visitante": "Real Aranjuez",
+      "escudo_local": "https://media.api-sports.io/football/teams/15353.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15352.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614630,
+      "fecha": "2026-11-15T11:45:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Móstoles",
+      "visitante": "Trival Valderas",
+      "escudo_local": "https://media.api-sports.io/football/teams/9712.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9718.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614631,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Colonia Moscardó",
+      "visitante": "Galapagar",
+      "escudo_local": "https://media.api-sports.io/football/teams/17589.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17516.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614637,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "Unión Adarve",
+      "visitante": "Las Rozas",
+      "escudo_local": "https://media.api-sports.io/football/teams/9719.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9395.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614635,
+      "fecha": "2026-11-15T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 11",
+      "liga_id": 445,
+      "local": "SS Reyes II",
+      "visitante": "RC Alcobendas",
+      "escudo_local": "https://media.api-sports.io/football/teams/26545.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28105.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Móstoles",
+      "pts": 26,
+      "pj": 11,
+      "dg": 19
+    },
+    {
+      "pos": 2,
+      "equipo": "Colonia Moscardó",
+      "pts": 21,
+      "pj": 11,
+      "dg": 11
+    },
+    {
+      "pos": 3,
+      "equipo": "Las Rozas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 4,
+      "equipo": "Leganés II",
+      "pts": 18,
+      "pj": 11,
+      "dg": 10
+    },
+    {
+      "pos": 5,
+      "equipo": "Galapagar",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 6,
+      "equipo": "Cala Pozuelo",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 7,
+      "equipo": "Unión Adarve",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 8,
+      "equipo": "Fuenlabrada",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 9,
+      "equipo": "Pozuelo Alarcón",
+      "pts": 16,
+      "pj": 11,
+      "dg": -3
+    },
+    {
+      "pos": 10,
+      "equipo": "Trival Valderas",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 11,
+      "equipo": "Torrejón",
+      "pts": 14,
+      "pj": 11,
+      "dg": 6
+    },
+    {
+      "pos": 12,
+      "equipo": "Real Aranjuez",
+      "pts": 13,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 13,
+      "equipo": "Rayo Vallecano II",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 14,
+      "equipo": "Parla Escuela",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4
+    },
+    {
+      "pos": 15,
+      "equipo": "RC Alcobendas",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 16,
+      "equipo": "SS Reyes II",
+      "pts": 8,
+      "pj": 11,
+      "dg": -13
+    },
+    {
+      "pos": 17,
+      "equipo": "Alcobendas Sport",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7
+    },
+    {
+      "pos": 18,
+      "equipo": "Villanueva Pardillo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -20
+    }
+  ]
+}

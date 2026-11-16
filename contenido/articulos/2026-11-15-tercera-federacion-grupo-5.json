@@ -1,0 +1,284 @@
+{
+  "slug": "2026-11-15-tercera-federacion-grupo-5",
+  "fecha": "2026-11-15",
+  "etiqueta": "Tercera Federación · Grupo 5",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Grama golea al Mollerussa y Cornellà vence a L'Escala en la Jornada 11 del Grupo 5",
+  "entradilla": "La undécima jornada del Grupo 5 de Tercera Federación deja goleadas y victorias de los equipos de la zona alta. El Montañesa y el Grama sumaron a domicilio y el Cornellà se impuso con claridad.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 5 de Tercera Federación deja resultados claros en varios encuentros. El Grama se impuso por 3-0 al Mollerussa, el Montañesa ganó 2-0 en Vilanova y el Cornellà venció 3-1 a L'Escala en el Nou Municipal de Cornella de Llobregat.\n\n### Mollerussa 0-3 Grama\n\nEl Grama viajó a Mollerussa y se llevó los tres puntos con un marcador de 0-3. Los datos disponibles no recogen los goleadores ni sus minutos.\n\n### Vilanova 0-2 Montañesa\n\nEl Montañesa es líder con 20 puntos y ganó en Vilanova por 2-0. No hay datos de goleadores ni de minutos para este encuentro.\n\n### Cornellà 3-1 L'Escala\n\nEl Cornellà goleó a L'Escala por 3-1 en el Nou Municipal de Cornella de Llobregat. No constan los goleadores ni los minutos de los goles.\n\n### Clasificación\n\nEn la cabeza, el Montañesa lidera con 20 puntos, seguido del Cerdanyola del Vallès con 19 y el Vilanova con 19. En la parte baja, el San Cristóbal ocupa la última posición con 8 puntos y 18 goles en contra de diferencia, por delante del L'Escala con 9 puntos y el Mollerussa con 11.",
+  "texto_instagram": "Jornada 11 del Grupo 5 de Tercera Federación 🟢. El Grama goleó 3-0 al Mollerussa y el Montañesa ganó 2-0 en Vilanova 🏆.\n\nTona 2-0 Vilassar Mar\nCerdanyola del Vallès 2-1 San Cristóbal\nVilanova 0-2 Montañesa\nL'Hospitalet 1-0 Europa II\nMollerussa 0-3 Grama\nPobla Mafumet 2-0 San Juan Atletico de Montcada\nCornellà 3-1 L'Escala\nPeralada 1-0 Badalona",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo5",
+    "#Tercera",
+    "#FutbolCatalan",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-5-1.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-5-2.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-5-3.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-5-4.jpg",
+    "img/2026-11-15/2026-11-15-tercera-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614025,
+      "fecha": "2026-11-15T11:45:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Tona",
+      "visitante": "Vilassar Mar",
+      "escudo_local": "https://media.api-sports.io/football/teams/20264.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9683.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614018,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Cerdanyola del Vallès",
+      "visitante": "San Cristóbal",
+      "escudo_local": "https://media.api-sports.io/football/teams/9670.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9678.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614019,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Vilanova",
+      "visitante": "Montañesa",
+      "escudo_local": "https://media.api-sports.io/football/teams/26542.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15345.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": []
+    },
+    {
+      "id": 1614021,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "L'Hospitalet",
+      "visitante": "Europa II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9392.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24575.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614022,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Mollerussa",
+      "visitante": "Grama",
+      "escudo_local": "https://media.api-sports.io/football/teams/18096.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15344.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": []
+    },
+    {
+      "id": 1614024,
+      "fecha": "2026-11-15T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Pobla Mafumet",
+      "visitante": "San Juan Atletico de Montcada",
+      "escudo_local": "https://media.api-sports.io/football/teams/9677.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28102.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": []
+    },
+    {
+      "id": 1614020,
+      "fecha": "2026-11-15T12:30:00+01:00",
+      "estadio": "Nou Municipal de Cornella",
+      "ciudad": "Cornella de Llobregat",
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Cornellà",
+      "visitante": "L'Escala",
+      "escudo_local": "https://media.api-sports.io/football/teams/5258.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17528.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": []
+    },
+    {
+      "id": 1614023,
+      "fecha": "2026-11-15T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 11",
+      "liga_id": 443,
+      "local": "Peralada",
+      "visitante": "Badalona",
+      "escudo_local": "https://media.api-sports.io/football/teams/9676.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5250.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": []
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Montañesa",
+      "pts": 20,
+      "pj": 11,
+      "dg": 8
+    },
+    {
+      "pos": 2,
+      "equipo": "Cerdanyola del Vallès",
+      "pts": 19,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 3,
+      "equipo": "Vilanova",
+      "pts": 19,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 4,
+      "equipo": "Atlètic Lleida",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4
+    },
+    {
+      "pos": 5,
+      "equipo": "L'Hospitalet",
+      "pts": 18,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 6,
+      "equipo": "Europa II",
+      "pts": 17,
+      "pj": 11,
+      "dg": 7
+    },
+    {
+      "pos": 7,
+      "equipo": "Badalona",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5
+    },
+    {
+      "pos": 8,
+      "equipo": "Tona",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0
+    },
+    {
+      "pos": 9,
+      "equipo": "Grama",
+      "pts": 16,
+      "pj": 11,
+      "dg": 9
+    },
+    {
+      "pos": 10,
+      "equipo": "Pobla Mafumet",
+      "pts": 16,
+      "pj": 11,
+      "dg": 2
+    },
+    {
+      "pos": 11,
+      "equipo": "Cornellà",
+      "pts": 14,
+      "pj": 11,
+      "dg": 3
+    },
+    {
+      "pos": 12,
+      "equipo": "Peralada",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1
+    },
+    {
+      "pos": 13,
+      "equipo": "San Juan Atletico de Montcada",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 14,
+      "equipo": "Martinenc",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 15,
+      "equipo": "Vilassar Mar",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6
+    },
+    {
+      "pos": 16,
+      "equipo": "Mollerussa",
+      "pts": 11,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 17,
+      "equipo": "L'Escala",
+      "pts": 9,
+      "pj": 11,
+      "dg": -5
+    },
+    {
+      "pos": 18,
+      "equipo": "San Cristóbal",
+      "pts": 8,
+      "pj": 11,
+      "dg": -17
+    }
+  ]
+}
