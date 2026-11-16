@@ -193,6 +193,9 @@ def generar_redes(cfg: dict, fecha_resultados: str, hoy: str) -> list[str]:
                    "partidos": a["proximos"]} for a in previas_arts]
     solo_web = set(cfg.get("solo_web", []))
     agenda = [c for c in agenda if c.get("competicion") not in solo_web and c["partidos"]]
+    prio = {c["etiqueta"]: c.get("prioridad", 3) for c in cfg.get("competiciones", [])}
+    for c in agenda:  # la prioridad manda la de config.yaml actual, no la guardada en la agenda
+        c["prioridad"] = prio.get(c.get("competicion"), c.get("prioridad", 3))
     if agenda:
         datos_previa = {pp["id"]: pp.get("entradilla", "") for a in previas_arts
                         for pp in a.get("previas_partido", []) if pp.get("id")}
