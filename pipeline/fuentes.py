@@ -28,7 +28,7 @@ class ApiFootball:
             raise RuntimeError("Falta API_FOOTBALL_KEY (o usa --demo)")
         self.llamadas = 0
         # Las peticiones salen por nuestro servidor (IP fija y solo nuestra): API-Football bloquea las IP compartidas de GitHub
-        proxy = os.environ.get("API_FOOTBALL_PROXY")
+        proxy = (os.environ.get("API_FOOTBALL_PROXY") or "").strip()
         self.proxies = {"https": proxy, "http": proxy} if proxy else None
 
     # El plan gratuito permite 10 llamadas por minuto: dejamos una pausa entre llamadas
