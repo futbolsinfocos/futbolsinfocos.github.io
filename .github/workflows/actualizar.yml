@@ -38,10 +38,28 @@ jobs:
           fi
           echo "fecha=$F" >> "$GITHUB_OUTPUT"
 
+      - name: Conectar con nuestro servidor (IP propia para API-Football)
+        env:
+          SSH_KEY: ${{ secrets.API_FOOTBALL_SSH_KEY }}
+          SERVIDOR: ${{ secrets.API_FOOTBALL_SERVIDOR }}
+          PROXY: ${{ secrets.API_FOOTBALL_PROXY }}
+        run: |
+          SERVIDOR=$(printf '%s' "$SERVIDOR" | tr -d '[:space:]')
+          if [ -n "$SSH_KEY" ] && [ -n "$SERVIDOR" ]; then
+            mkdir -p ~/.ssh && printf '%s\n' "$SSH_KEY" > ~/.ssh/sf && chmod 600 ~/.ssh/sf
+            ssh -i ~/.ssh/sf -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 \
+                -o ExitOnForwardFailure=yes -f -N -D 1080 "root@$SERVIDOR"
+            echo "API_FOOTBALL_PROXY=socks5h://127.0.0.1:1080" >> "$GITHUB_ENV"
+            echo "Túnel SSH abierto con $SERVIDOR"
+          elif [ -n "$PROXY" ]; then
+            echo "API_FOOTBALL_PROXY=$(printf '%s' "$PROXY" | tr -d '[:space:]')" >> "$GITHUB_ENV"
+          else
+            echo "Sin servidor propio: se llama directo a API-Football"
+          fi
+
       - name: Crónicas de lo ya terminado
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          API_FOOTBALL_PROXY: ${{ secrets.API_FOOTBALL_PROXY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m pipeline actualizar --fecha ${{ steps.f.outputs.fecha }}
 
