@@ -210,8 +210,8 @@ footer .in{max-width:1200px;margin:0 auto;padding:34px 16px;display:grid;grid-te
 footer h4{color:#fff;font:700 15px Oswald,sans-serif;text-transform:uppercase;margin:0 0 10px}
 footer .in a{display:block;margin:5px 0}footer a:hover{color:var(--amarillo)}footer .ig{color:var(--amarillo);font-weight:600}
 footer .bajo{border-top:1px solid #2a2a2a;text-align:center;padding:14px 16px;font-size:12px;color:#888;line-height:1.6}
-@media(max-width:900px){.cols,.pp .cols{grid-template-columns:1fr}.cols>aside .ad.alto{display:none}.grid,.notis,.regs{grid-template-columns:1fr 1fr}
- .hero{grid-template-columns:1fr}.hero .foto{min-height:0;max-height:420px}.hero .foto img{height:auto}footer .in{grid-template-columns:1fr 1fr}
+@media(max-width:900px){.cols,.pp .cols{grid-template-columns:minmax(0,1fr)}.cols>*{min-width:0}.cols>aside .ad.alto{display:none}.grid,.notis,.regs{grid-template-columns:1fr 1fr}
+ .hero{grid-template-columns:1fr!important}.hero .foto{display:none}footer .in{grid-template-columns:1fr 1fr}
  .pp aside{order:-1}}
 @media(max-width:640px){.grid,.notis,.regs,.mini,.liga{grid-template-columns:1fr}header .hoy{display:none}
  .hero h2{font-size:27px}.hero .t{padding:18px}article,.pp,.legal{padding:20px 18px}article>p,article .cuerpo p,.pp .texto p{font-size:18px}
