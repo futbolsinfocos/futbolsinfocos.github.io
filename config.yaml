@@ -25,7 +25,7 @@ legal:
 # Contador de visitas (Google Analytics 4). Pon aquí el ID que empieza por G-.
 # Vacío = no se cuenta nada. Las visitas se ven en analytics.google.com.
 analitica:
-  id: ""
+  id: "G-W2M6QPP0P7"
 
 publicidad:
   cliente: ""
