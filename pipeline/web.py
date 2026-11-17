@@ -118,7 +118,28 @@ td,th{border-bottom:1px solid var(--linea);padding:7px 8px;text-align:left}th{co
 .ligas a{background:var(--panel);border:1px solid var(--linea);border-left:4px solid var(--amarillo);border-radius:6px;padding:14px 18px;display:block}
 .ligas a span{font-size:19px;font-weight:600;display:block}.ligas a:hover span{text-decoration:underline}.ligas small{color:var(--suave)}
 .pais{font-size:20px;margin:26px 0 12px}
-.liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.pos{color:var(--acento)}
+.liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}.res3{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:0 18px}.pos{color:var(--acento)}
+/* Escudos pequeños junto a los nombres */
+.esc{width:20px;height:20px;object-fit:contain;vertical-align:middle;flex:none}
+.partido .l,.partido>span:last-child{display:flex;align-items:center;gap:8px}.partido .l{justify-content:flex-end}
+.ticker .esc{width:16px;height:16px;margin:0 6px;background:#fff;border-radius:50%;padding:1px}
+/* Clasificación */
+.tabla-wrap{overflow-x:auto;background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:6px 10px;margin:0 0 18px}
+table.clas{margin:0;font-size:14px;font-variant-numeric:tabular-nums}
+table.clas th,table.clas td{text-align:center;padding:7px 6px;white-space:nowrap;vertical-align:middle}
+table.clas th.eq,table.clas td.eq{text-align:left;width:100%}
+table.clas td.eq span{display:inline-flex;align-items:center;gap:8px;vertical-align:middle;line-height:1.2}
+table.clas td.pts{font-weight:800;font-size:15px}
+table.clas td.p{border-left:4px solid transparent;font-weight:700}
+table.clas tr.ascenso td.p{border-left-color:#1f9d55}table.clas tr.playoff td.p{border-left-color:#2b6cb0}
+table.clas tr.descenso td.p{border-left-color:#c53030}
+table.clas tr.resalta td{background:#fff6c7}
+.forma{display:inline-flex;gap:3px}.forma i{font:700 10px Inter,sans-serif;font-style:normal;width:17px;height:17px;line-height:17px;border-radius:3px;color:#fff;text-align:center}
+.forma .W{background:#1f9d55}.forma .D{background:#8a8a8a}.forma .L{background:#c53030}
+.leyenda{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--suave);margin:-8px 0 18px}
+.leyenda span:before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.leyenda .ascenso:before{background:#1f9d55}.leyenda .playoff:before{background:#2b6cb0}.leyenda .descenso:before{background:#c53030}
+.mini-clas{margin:30px 0 10px}.mini-clas h2{margin-top:0}.mini-clas a.todo{display:inline-block;margin-top:8px;color:var(--acento);font-weight:700;font-size:15px}
 .lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--acento);margin:12px 0 4px}
 .lt-p:first-child{margin-top:0}
 .partido .centro{display:flex;flex-direction:column;align-items:center;gap:5px}
@@ -215,6 +236,7 @@ footer .bajo{border-top:1px solid #2a2a2a;text-align:center;padding:14px 16px;fo
  .pp aside{order:-1}}
 @media(max-width:640px){.grid,.notis,.regs,.mini,.liga{grid-template-columns:1fr}header .hoy{display:none}
  .hero h2{font-size:27px}.hero .t{padding:18px}article,.pp,.legal{padding:20px 18px}article>p,article .cuerpo p,.pp .texto p{font-size:18px}
+ table.clas .sm{display:none}
  .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq,.marcador .eq.v{flex-direction:column;text-align:center;gap:8px}
  footer .in{grid-template-columns:1fr}}
 """
@@ -244,8 +266,9 @@ def _ticker(arts: list[dict], prof: str) -> str:
     for a in sorted((a for a in con_partidos if a["fecha"] == ultimo), key=lambda a: a.get("prioridad", 3)):
         piezas.append(f'<a class="lt" href="{prof}ligas/{_slug_liga(a["etiqueta"])}.html">{_e(a["etiqueta"])}</a>')
         for p in a["partidos"]:
-            piezas.append(f'<a href="{prof}articulos/{a["slug"]}.html">{_e(es(p["local"]))}'
-                          f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>{_e(es(p["visitante"]))}</a>')
+            piezas.append(f'<a href="{prof}articulos/{a["slug"]}.html">{_esc(p["local"], p.get("escudo_local"))}{_e(es(p["local"]))}'
+                          f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>{_e(es(p["visitante"]))}'
+                          f'{_esc(p["visitante"], p.get("escudo_visitante"))}</a>')
     # La tira se repite dos veces y se desplaza en bucle: al llegar a la mitad vuelve al principio
     # sin que se note. Velocidad constante: ~3 s por elemento.
     tira = "".join(piezas)
@@ -476,15 +499,43 @@ def _slug_liga(etiqueta: str) -> str:
 
 
 def _filas_partidos(partidos: list[dict]) -> str:
-    return "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>'
-                   f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b><span>{_e(es(p["visitante"]))}</span></div>'
+    return "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}{_esc(p["local"], p.get("escudo_local"))}</span>'
+                   f'<b>{p["goles_local"]} - {p["goles_visitante"]}</b>'
+                   f'<span>{_esc(p["visitante"], p.get("escudo_visitante"))}{_e(es(p["visitante"]))}</span></div>'
                    for p in partidos)
 
 
-def _tabla(tabla: list[dict]) -> str:
-    filas = "".join(f'<tr><td><b class="pos">{t["pos"]}</b></td><td>{_e(es(t["equipo"]))}</td><td>{t.get("pj", "")}</td>'
-                    f'<td>{t.get("dg", "")}</td><td><strong>{t["pts"]}</strong></td></tr>' for t in tabla)
-    return f'<div class="comp"><table><tr><th>#</th><th>Equipo</th><th>PJ</th><th>DG</th><th>Pts</th></tr>{filas}</table></div>'
+ZONAS = {"ascenso": "Ascenso", "playoff": "Play-off de ascenso", "descenso": "Descenso"}
+
+
+def _forma(f: str) -> str:
+    letra = {"W": "G", "D": "E", "L": "P"}
+    return '<span class="forma">' + "".join(f'<i class="{c}">{letra[c]}</i>' for c in (f or "") if c in letra) + "</span>"
+
+
+def _tabla(tabla: list[dict], resalta: set[str] | None = None, filas_max: int | None = None) -> str:
+    """Clasificación completa (o las primeras filas_max), con escudos, zonas de ascenso/descenso y racha."""
+    resalta = resalta or set()
+    completa = "pg" in tabla[0]
+    filas = ""
+    for t in tabla[:filas_max] if filas_max else tabla:
+        nombre = es(t["equipo"])
+        clase = " ".join(c for c in (t.get("zona", ""), "resalta" if nombre in resalta else "") if c)
+        filas += (f'<tr class="{clase}"><td class="p">{t["pos"]}</td>'
+                  f'<td class="eq"><span>{_esc(nombre, t.get("escudo"))}{_e(nombre)}</span></td><td>{t.get("pj", "")}</td>')
+        if completa and not filas_max:
+            filas += "".join(f'<td class="sm">{t.get(k, "")}</td>' for k in ("pg", "pe", "pp", "gf", "gc"))
+        filas += f'<td>{t.get("dg", "")}</td><td class="pts">{t["pts"]}</td>'
+        if completa and not filas_max:
+            filas += f'<td class="sm">{_forma(t.get("forma"))}</td>'
+        filas += "</tr>"
+    cab = '<th>#</th><th class="eq">Equipo</th><th>PJ</th>'
+    if completa and not filas_max:
+        cab += "".join(f'<th class="sm">{k}</th>' for k in ("G", "E", "P", "GF", "GC"))
+    cab += "<th>DG</th><th>Pts</th>" + ('<th class="sm">Racha</th>' if completa and not filas_max else "")
+    zonas = [z for z in ZONAS if any(t.get("zona") == z for t in tabla[:filas_max])]
+    leyenda = ('<div class="leyenda">' + "".join(f'<span class="{z}">{ZONAS[z]}</span>' for z in zonas) + "</div>") if zonas else ""
+    return f'<div class="tabla-wrap"><table class="clas"><tr>{cab}</tr>{filas}</table></div>{leyenda}'
 
 
 def _ligas(arts: list[dict]) -> dict[str, list[dict]]:
@@ -546,8 +597,9 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     previa = next((a for a in lista if a.get("proximos")), None)
     ultima_jugada = next((a["fecha"] for a in lista if a.get("partidos")), "")
     if previa and previa["fecha"] > ultima_jugada:
-        filas = "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>'
-                        f'<b class="hora">{_e(p["fecha"][11:16] or "--:--")}</b><span>{_e(es(p["visitante"]))}</span></div>'
+        filas = "".join(f'<div class="partido"><span class="l">{_e(es(p["local"]))}{_esc(p["local"], p.get("escudo_local"))}</span>'
+                        f'<b class="hora">{_e(p["fecha"][11:16] or "--:--")}</b>'
+                        f'<span>{_esc(p["visitante"], p.get("escudo_visitante"))}{_e(es(p["visitante"]))}</span></div>'
                         for p in previa["proximos"])
         out += (f'<h2 class="sec tit">Próximos partidos</h2><div class="comp"><h3 class="tit">'
                 f'<a href="{_url(previa, prof)}">{fecha_larga(previa["fecha"])} · Leer la previa →</a></h3>{filas}</div>')
@@ -555,11 +607,11 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     # Resultados: las 3 últimas jornadas con partidos
     res = "".join(f'<div class="comp"><h3 class="tit">{fecha_larga(a["fecha"])}</h3>{_filas_partidos(a["partidos"])}</div>'
                   for a in [a for a in lista if a.get("partidos")][:3])
-    out += f'<section><h2 class="sec tit">Resultados</h2>{res or "<div class=vacio>Sin resultados todavía.</div>"}</section>'
-    tabla = next((a["clasificacion"] for a in lista if a.get("clasificacion")), None)
-    out += '<section><h2 class="sec tit">Clasificación</h2>' + (_tabla(tabla) if tabla else
-           '<div class="vacio">La clasificación aparecerá aquí en cuanto la fuente de datos la publique.</div>') + "</section>"
+    out += f'<section style="grid-column:1/-1"><h2 class="sec tit">Resultados</h2><div class="res3">{res or "<div class=vacio>Sin resultados todavía.</div>"}</div></section>'
     out += "</div>"
+    tabla = next((a["clasificacion"] for a in lista if a.get("clasificacion")), None)
+    out += '<section id="clasificacion"><h2 class="sec tit">Clasificación</h2>' + (_tabla(tabla) if tabla else
+           '<div class="vacio">La clasificación aparecerá aquí en cuanto la fuente de datos la publique.</div>') + "</section>"
     noticias = sorted(lista + _noticias_de(etiqueta=etiqueta), key=lambda a: a["fecha"], reverse=True)[:12]
     out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
         _tarjeta(a, prof, f'<span class="tag">{_e(_etiqueta(a))}</span>') for a in noticias) + "</section>"
@@ -605,6 +657,33 @@ def _mapa_previas(arts: list[dict]) -> dict:
             t = next((t for t in titulos if loc in t.lower() and vis in t.lower()), None)
             mapa[p["id"]] = f'articulos/{a["slug"]}.html' + (f"#{_ancla(t)}" if t else "")
     return mapa
+
+
+ESCUDOS: dict[str, str] = {}  # nombre del equipo (en español) → URL de su escudo; se rellena en construir()
+
+
+def _recoger_escudos(arts: list[dict], agenda: dict) -> None:
+    ESCUDOS.clear()
+    def mete(nombre, url):
+        if nombre and url:
+            ESCUDOS.setdefault(es(nombre), url)
+    for a in sorted(arts, key=lambda a: a["fecha"], reverse=True):
+        for p in (a.get("partidos") or []) + (a.get("proximos") or []):
+            mete(p.get("local"), p.get("escudo_local"))
+            mete(p.get("visitante"), p.get("escudo_visitante"))
+        for t in a.get("clasificacion") or []:
+            mete(t.get("equipo"), t.get("escudo"))
+    for comps in agenda.values():
+        for c in comps:
+            for p in c.get("partidos", []):
+                mete(p.get("local"), p.get("escudo_local"))
+                mete(p.get("visitante"), p.get("escudo_visitante"))
+
+
+def _esc(nombre: str | None, url: str | None = None) -> str:
+    """Escudo pequeño junto al nombre del equipo (no ocupa nada si no lo tenemos o no carga)."""
+    url = url or ESCUDOS.get(es(nombre) or "")
+    return f'<img class="esc" src="{_e(url)}" alt="" loading="lazy" onerror="this.remove()">' if url else ""
 
 
 def _escudo(nombre: str, url: str | None) -> str:
@@ -690,8 +769,8 @@ def _fila_agenda(p: dict, prof: str = "") -> str:
     if p.get("id") in PREVIAS and p.get("goles_local") is None:  # botón debajo de la hora
         centro = (f'<span class="centro">{centro}'
                   f'<a class="btn-previa" href="{prof}{PREVIAS[p["id"]]}">Previa</a></span>')
-    return (f'<div class="partido"><span class="l">{_e(es(p["local"]))}</span>{centro}'
-            f'<span>{_e(es(p["visitante"]))}</span></div>')
+    return (f'<div class="partido"><span class="l">{_e(es(p["local"]))}{_esc(p["local"], p.get("escudo_local"))}</span>{centro}'
+            f'<span>{_esc(p["visitante"], p.get("escudo_visitante"))}{_e(es(p["visitante"]))}</span></div>')
 
 
 PRIORIDAD: dict[str, int] = {}  # competición → prioridad actual en config.yaml (se rellena en construir())
@@ -865,6 +944,15 @@ def _con_anuncio(cfg: dict, texto_html: str) -> str:
     return "</p>".join(partes[:2]) + "</p>" + _anuncio(cfg, "dentro_texto", "txt") + "</p>".join(partes[2:])
 
 
+def _mini_clasificacion(a: dict) -> str:
+    """En la crónica: los 6 primeros de la tabla (y resaltados los equipos de la jornada) + enlace a la completa."""
+    tabla = a.get("clasificacion")
+    if not tabla or a.get("tipo") == "previa":
+        return ""
+    return ('<section class="mini-clas"><h2>Así va la clasificación</h2>' + _tabla(tabla, filas_max=6)
+            + f'<a class="todo" href="../ligas/{_slug_liga(a["etiqueta"])}.html#clasificacion">Ver la clasificación completa →</a></section>')
+
+
 def _relacionados(a: dict, arts: list[dict], prof: str) -> str:
     otros = [x for x in arts if x["slug"] != a["slug"] and x.get("tipo") == a.get("tipo")][:3]
     if not otros:
@@ -891,6 +979,7 @@ def construir(cfg: dict) -> Path:
     NOTICIAS.extend(cargar_noticias())
     PREVIAS.clear()
     PREVIAS.update(_mapa_previas(arts))
+    _recoger_escudos(arts, agenda)
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     (SALIDA / "articulos").mkdir(parents=True)
@@ -971,7 +1060,8 @@ def construir(cfg: dict) -> Path:
                   f'<p class="entradilla">{_e(a["entradilla"])}</p>'
                   f'<div class="firma-art">Por <b>Redacción {_e(nombre)}</b> · {fecha_larga(a["fecha"])}</div>'
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
-                  + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _anuncio(cfg, "final_articulo", "txt")
+                  + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _mini_clasificacion(a)
+                  + _anuncio(cfg, "final_articulo", "txt")
                   + _relacionados(a, arts, "../")
                   + '<a class="volver" href="../index.html">← Volver a la portada</a></article>')
         mismos = [x for x in arts if x.get("competicion") == a.get("competicion") and x["slug"] != a["slug"]]
