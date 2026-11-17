@@ -1,0 +1,51 @@
+# TEMPORAL: genera ejemplos de previas/crónicas nuevas en esta rama. Se borra antes de fusionar.
+name: Ejemplos (temporal)
+on:
+  push:
+    branches: [claude/previas-cronicas-pro]
+    paths: ["ejemplos/generar_ejemplos.py", ".github/workflows/ejemplos-temporal.yml"]
+permissions:
+  contents: write
+jobs:
+  ejemplos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Conectar con nuestro servidor
+        env:
+          SSH_KEY: ${{ secrets.API_FOOTBALL_SSH_KEY }}
+          SERVIDOR: ${{ secrets.API_FOOTBALL_SERVIDOR }}
+        run: |
+          SERVIDOR=$(printf '%s' "$SERVIDOR" | tr -d '[:space:]')
+          mkdir -p ~/.ssh && printf '%s\n' "$SSH_KEY" > ~/.ssh/sf && chmod 600 ~/.ssh/sf
+          ssh -i ~/.ssh/sf -o StrictHostKeyChecking=accept-new -o ServerAliveInterval=30 \
+              -o ExitOnForwardFailure=yes -f -N -D 1080 "root@$SERVIDOR"
+          echo "API_FOOTBALL_PROXY=socks5h://127.0.0.1:1080" >> "$GITHUB_ENV"
+      - name: Generar ejemplos
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m ejemplos.generar_ejemplos
+      - name: Guardar ejemplos y escudos en la rama
+        run: |
+          python - <<'PY'
+          import json, glob, re, requests
+          from pathlib import Path
+          d = Path("ejemplos/escudos"); d.mkdir(exist_ok=True)
+          urls = set()
+          for f in glob.glob("ejemplos/*.json"):
+              urls |= set(re.findall(r'https://media\.api-sports\.io/football/teams/\d+\.png', Path(f).read_text()))
+          for u in urls:
+              try:
+                  (d / u.rsplit("/", 1)[1]).write_bytes(requests.get(u, timeout=10).content)
+              except Exception as e:
+                  print(u, e)
+          PY
+          git config user.name "edicion-bot"; git config user.email "edicion-bot@users.noreply.github.com"
+          git add ejemplos
+          git diff --cached --quiet && exit 0
+          git commit -m "Ejemplos generados [skip ci]"
+          git push

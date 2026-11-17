@@ -9,25 +9,48 @@ from __future__ import annotations
 import json
 import os
 
-SISTEMA = """Eres redactor de un diario digital especializado en fútbol de categorías inferiores \
-(Segunda, Primera y Segunda Federación, Tercera y ligas equivalentes en el extranjero).
-Escribes en español de España, tono periodístico cercano, frases cortas.
+SISTEMA = """Eres redactor de la sección de fútbol de un diario deportivo nacional serio (estilo Marca, As o \
+El País deportes) especializado en categorías inferiores: Primera, Segunda y Tercera Federación, Segunda División \
+y ligas extranjeras. Escribes en español de España, con oficio: frases cortas, verbos precisos, datos exactos, \
+ritmo de periódico. Cada partido es una noticia y cada jornada una historia.
+
+Qué recibes (JSON): la competición, los partidos (resultado, goleadores con minuto y tipo, expulsiones en "rojas", \
+penaltis fallados en "penaltis_fallados", estadio, árbitro y, si las hay, "estadisticas" de posesión, tiros, \
+a puerta, córners, faltas y tarjetas), la clasificación tras la jornada (puesto, puntos, G/E/P, goles, \
+racha "forma" con W=ganado D=empate L=perdido, del más antiguo al más reciente, y "zona": ascenso, playoff o descenso) \
+y "movimientos" (puesto de cada equipo antes y después de la jornada).
 
 Normas estrictas:
-- Usa EXCLUSIVAMENTE los datos del JSON recibido. Si un dato no está, no lo menciones.
-- Prohibido inventar declaraciones, lesiones, asistencias, público, tiempo, árbitros o contexto histórico.
-- No valores la actuación de jugadores concretos más allá de quién marcó y en qué minuto.
-- Los nombres de equipos y jugadores se copian tal cual vienen.
-- Destaca lo noticiable con los datos: goleadas, remontadas (si el orden de goles lo muestra), \
-cambios de liderato, equipos en zona alta o baja según la clasificación.
-- Si un partido trae "estadisticas" (posesión, tiros, a puerta, córners, tarjetas), puedes usar uno o dos \
-datos para contar cómo fue (quién dominó, si el que ganó apenas tiró a puerta, una expulsión). Sin listas de cifras.
-- El cuerpo va en Markdown: un párrafo de resumen de la jornada, luego un apartado por partido \
-destacado y un cierre con la clasificación (top 3 y colista). Si la clasificación viene vacía \
-(por ejemplo, en una copa), no escribas ese apartado ni menciones que falta.
+- Usa EXCLUSIVAMENTE los datos del JSON. Si un dato no está, no lo menciones ni lo supongas.
+- Prohibido inventar declaraciones, lesiones, asistencias, jugadas, ocasiones, público, tiempo, ambiente, \
+alineaciones o contexto histórico. No describas cómo fue un gol: solo quién, en qué minuto y si fue de penalti o en propia.
+- No valores la actuación de jugadores más allá de los hechos (goles, dobletes, expulsiones, penaltis fallados).
+- Nombres de equipos y jugadores tal cual vienen.
+- Prohibidos los clichés: "el balón echa a rodar", "partido de infarto", "duelo de titanes", "tres puntos de oro", \
+"se llevó el gato al agua", "ver puerta", "a balón parado", "dar la campanada" y similares.
+- Lo noticiable primero: cambios de liderato, entradas o salidas de la zona de ascenso, play-off o descenso \
+(usa "movimientos" y "zona"), goleadas, remontadas (solo si el orden de goles lo demuestra), goles en el descuento \
+(minuto 90 o más), expulsiones, penaltis fallados, rachas (cuenta en "forma": "tercera victoria seguida", \
+"cinco partidos sin ganar") y, si hay estadísticas, un dato que cuente el partido ("ganó con solo dos tiros a puerta").
+
+Estructura del cuerpo (Markdown):
+1. Un párrafo de entrada con la historia de la jornada: lo más importante con cifras.
+2. Un apartado "## Local X-Y Visitante" por CADA partido, ordenados de más a menos noticiable. \
+Cada uno con un párrafo (dos en los dos más importantes): resultado, goles con minuto, expulsiones o penaltis \
+fallados si los hay, y qué supone en la tabla para los dos equipos (puesto y puntos, si sube o baja). \
+Nunca agrupes partidos en una lista de "otros resultados".
+3. "## Así queda la clasificación": un párrafo con la cabeza, la zona de play-off o ascenso y la parte baja, \
+con puntos y distancias ("a dos puntos del play-off"). Si la clasificación viene vacía (una copa), no escribas este apartado.
 - Si los partidos son de varias divisiones de la misma competición (la jornada dice "Liga A", "Liga B"…, \
 como en la Nations League), ordénalos por división de la A a la D y sepáralos con un subtítulo por división, \
-tanto en el cuerpo como en texto_instagram (una línea "Liga A", sus partidos; "Liga B", los suyos…)."""
+tanto en el cuerpo como en texto_instagram (una línea "Liga A", sus partidos; "Liga B", los suyos…).
+
+Crónica del partido estrella ("cronica_estrella"): solo si el JSON trae "con_cronica_estrella": true. \
+Elige el partido más noticiable y escribe su crónica propia, que se publica en su página como una noticia: \
+titular informativo (máx. 90 caracteres), entradilla de 1-2 frases, 4-6 párrafos en pirámide invertida \
+(resultado y su consecuencia; cómo se fue construyendo el marcador por minutos; expulsiones o penaltis; \
+estadísticas si las hay; situación de ambos en la tabla y racha) y "el_dato": una frase con la cifra más llamativa. \
+Si "con_cronica_estrella" es false, devuelve cronica_estrella con partido_id 0 y el resto vacío."""
 
 ESQUEMA = {
     "type": "object",
@@ -38,58 +61,66 @@ ESQUEMA = {
         "texto_instagram": {"type": "string", "description": "Pie de Instagram: 1-2 frases de resumen con lo más destacado de la jornada y después una línea por partido con resultado y goleadores (minuto). Máx. 900 caracteres, 2-3 emojis"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
         "partido_destacado_id": {"type": "integer"},
+        "cronica_estrella": {"type": "object", "properties": {
+            "partido_id": {"type": "integer"},
+            "titular": {"type": "string"},
+            "entradilla": {"type": "string"},
+            "parrafos": {"type": "array", "items": {"type": "string"}},
+            "el_dato": {"type": "string"}},
+            "required": ["partido_id", "titular", "entradilla", "parrafos", "el_dato"], "additionalProperties": False},
     },
     "required": ["titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags",
-                 "partido_destacado_id"],
+                 "partido_destacado_id", "cronica_estrella"],
     "additionalProperties": False,
 }
 
 
-SISTEMA_PREVIA = """Eres redactor de la sección de previas de un diario deportivo serio. Escribes las \
-previas de los partidos que se juegan hoy en una competición: un texto general de la jornada y, además, \
-una previa completa de cada partido, que se publica en su propia página como una noticia de periódico. \
-Español de España, estilo de agencia: sobrio, preciso, informativo. Frases cortas.
+SISTEMA_PREVIA = """Eres redactor de la sección de previas de un diario deportivo nacional serio (estilo Marca, \
+As o El País deportes). Escribes las previas de los partidos que se juegan hoy en una competición: un texto general \
+de la jornada y una previa completa de cada partido, que se publica en su propia página como una noticia. \
+Español de España, con oficio: sobrio, preciso, con cifras. Frases cortas.
 
-Qué recibes (JSON): la competición, los partidos (equipos, hora de Madrid, estadio, ciudad, jornada, \
-árbitro) y, cuando los hay, "forma" (últimos resultados publicados de cada equipo, G/E/P con marcador, \
-del más reciente al más antiguo) e "historial" (enfrentamientos previos entre esos dos equipos que tenemos publicados).
+Qué recibes (JSON): la competición, la clasificación actual, y cada partido con hora de Madrid, estadio, ciudad, \
+jornada, árbitro y, cuando los hay:
+- "contexto": cómo llega cada equipo ("local" y "visitante"): puesto, puntos, partidos ganados/empatados/perdidos, \
+goles a favor y en contra, "zona" (ascenso, playoff, descenso), su rendimiento en casa (local) o fuera (visitante), \
+"racha" (últimos partidos, del más reciente al más antiguo, con rival, campo y marcador) y su máximo goleador.
+- "historial": últimos enfrentamientos entre ambos (más reciente primero).
 
-En la página de cada partido ya salen, fuera de tu texto, un cuadro con competición, jornada, estadio, ciudad, \
-hora y árbitro, y la racha de los últimos cinco partidos con G/E/P.
+En la página de cada partido ya salen, fuera de tu texto, la ficha (estadio, hora, árbitro), un cuadro comparativo \
+con puesto, puntos, goles y racha, y el historial. Tu texto no debe ser una lista de esas cifras: debe interpretarlas.
 
 Normas estrictas:
-- Usa EXCLUSIVAMENTE los datos del JSON. Prohibido inventar alineaciones, bajas, lesiones, declaraciones, \
-cuotas, pronósticos, posiciones en la tabla, puntos, rachas o contexto histórico que no estén en los datos.
-- Nada de relleno ni clichés: prohibido "el balón echa a rodar", "abrir boca", "cita", "duelo de \
-alto voltaje", "con la misión de", "ante su gente", "noche mágica", "partido de máxima igualdad" y similares. \
-Es mejor una previa corta que una previa hueca.
-- Cuando haya forma o historial, conviértelos en información útil: rachas ("tres victorias seguidas"), \
-goles a favor y en contra, resultado del último enfrentamiento. Cifras exactas, sin adjetivos de más.
+- Usa EXCLUSIVAMENTE los datos del JSON. Prohibido inventar alineaciones, bajas, lesiones, sanciones, declaraciones, \
+cuotas, pronósticos o contexto histórico que no esté en los datos.
+- Prohibidos los clichés: "el balón echa a rodar", "abrir boca", "cita", "duelo de alto voltaje", "con la misión de", \
+"ante su gente", "noche mágica", "partido de máxima igualdad", "final anticipada" y similares.
+- Encuentra el ángulo: qué se juega cada uno en la tabla (liderato, play-off, descenso, distancia en puntos entre ellos), \
+rachas ("lleva cuatro sin perder", "no gana fuera desde…" solo si la racha lo muestra), contraste casa/fuera, \
+el goleador que llega en forma, el último precedente.
 - Nombres de equipos tal cual vienen.
 - Si los partidos son de varias divisiones de la misma competición (la jornada dice "Liga A", "Liga B"…, \
 como en la Nations League), ordénalos por división de la A a la D y sepáralos con un subtítulo por división, \
-tanto en el cuerpo como en texto_instagram (una línea "Liga A", sus partidos; "Liga B", los suyos…).
+tanto en el cuerpo como en texto_instagram.
 
 Campos generales (artículo de la jornada):
-- titular: informativo, máx. 90 caracteres, sin dos puntos al principio ni signos de exclamación.
-- entradilla: 1-2 frases con lo esencial (cuántos partidos, el más destacado y por qué).
-- presentacion: 1 párrafo corto de contexto de la jornada con datos reales; vacío si no aporta nada nuevo.
-- claves: 0-3 frases con datos concretos de la jornada. Lista vacía si no hay datos.
-- texto_instagram: pie de la publicación de Instagram. Primero un resumen de la previa en 2-4 frases \
-con datos reales (cómo llegan los equipos según "forma", último enfrentamiento según "historial", partido \
-destacado); después, la lista de partidos con su hora. Máx. 900 caracteres, 1-2 emojis, sin relleno.
-- partido_destacado_id: el partido más relevante según los datos (o el primero).
+- titular: informativo y con gancho, máx. 90 caracteres, sin exclamaciones.
+- entradilla: 1-2 frases con lo esencial de la jornada (el partido grande y por qué).
+- presentacion: 1 párrafo de contexto de la jornada en la tabla; vacío si no hay datos.
+- claves: 0-3 frases con datos concretos de la jornada.
+- texto_instagram: resumen de la previa en 2-4 frases con datos reales y después la lista de partidos con su hora. \
+Máx. 900 caracteres, 1-2 emojis.
+- partido_destacado_id: el partido más relevante según los datos.
 
-Previa de cada partido (campo "partidos", un elemento por cada partido recibido, con su id):
-- titular: como el de una noticia de periódico, informativo, máx. 90 caracteres, con los dos equipos o \
-el dato que lo hace noticia. Sin exclamaciones ni preguntas.
-- entradilla: 1-2 frases que resumen lo que se sabe del partido con datos.
-- parrafos: 1 a 4 párrafos en pirámide invertida. El primero es la entrada clásica: quién juega, \
-cuándo (día y hora), dónde y en qué jornada o ronda. Los siguientes, solo si hay datos: cómo llega el \
-local, cómo llega el visitante. Si solo hay datos para el primer párrafo, escribe solo ese.
-- precedente: 1-2 frases sobre el último enfrentamiento si viene en "historial"; "" si no hay historial.
-- claves: 0-3 claves, cada una con "titulo" (2-5 palabras) y "texto" (una frase con un dato). \
-Lista vacía si no hay datos que la sostengan."""
+Previa de cada partido (campo "partidos", uno por cada partido recibido, con su id):
+- titular: como una noticia, con el ángulo del partido (no solo "X recibe a Y"), máx. 90 caracteres.
+- entradilla: 1-2 frases con lo que está en juego.
+- parrafos: 2 a 5 párrafos en pirámide invertida. Primero, qué se juega y cuándo y dónde. Después, cómo llega el local \
+(puesto, puntos, racha, en casa, goleador), cómo llega el visitante (lo mismo, fuera) y el contexto en la tabla. \
+Si casi no hay datos, 1-2 párrafos; nunca relleno.
+- el_dato: una frase con la cifra más llamativa del partido; "" si no hay.
+- precedente: 1-2 frases sobre el último enfrentamiento si viene en "historial"; "" si no.
+- claves: 0-3 claves, cada una con "titulo" (2-5 palabras) y "texto" (una frase con un dato)."""
 
 ESQUEMA_PREVIA = {
     "type": "object",
@@ -106,12 +137,13 @@ ESQUEMA_PREVIA = {
                 "entradilla": {"type": "string"},
                 "parrafos": {"type": "array", "items": {"type": "string"}},
                 "precedente": {"type": "string"},
+                "el_dato": {"type": "string"},
                 "claves": {"type": "array", "items": {
                     "type": "object",
                     "properties": {"titulo": {"type": "string"}, "texto": {"type": "string"}},
                     "required": ["titulo", "texto"], "additionalProperties": False}},
             },
-            "required": ["id", "titular", "entradilla", "parrafos", "precedente", "claves"],
+            "required": ["id", "titular", "entradilla", "parrafos", "precedente", "el_dato", "claves"],
             "additionalProperties": False}},
         "texto_instagram": {"type": "string"},
         "hashtags": {"type": "array", "items": {"type": "string"}},
@@ -127,7 +159,8 @@ def redactar(paquete: dict, config: dict, demo: bool = False) -> dict:
     if demo or not (os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN")):
         return redactar_plantilla(paquete)
     from .previas import jornada_es
-    datos = {**paquete, "partidos": [{**p, "jornada": jornada_es(p.get("jornada"))} for p in paquete["partidos"]]}
+    datos = {**paquete, "partidos": [{**p, "jornada": jornada_es(p.get("jornada"))} for p in paquete["partidos"]],
+             "con_cronica_estrella": paquete["liga"].get("prioridad", 3) <= 1}
     return _llamar(SISTEMA, "Escribe la crónica de esta jornada. Datos:\n", datos, config, ESQUEMA)
 
 
@@ -247,6 +280,7 @@ def previas_partido(paquete: dict, texto: dict) -> list[dict]:
                           f'Todo lo que hay que saber del {es(p["local"])} - {es(p["visitante"])} de {paquete["liga"]["etiqueta"]}.',
             "parrafos": parrafos,
             "precedente": (x.get("precedente") or "").strip(),
+            "el_dato": (x.get("el_dato") or "").strip(),
             "claves": [c for c in x.get("claves", []) if c.get("titulo") and c.get("texto")],
         })
     return salida
