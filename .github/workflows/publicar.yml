@@ -62,7 +62,7 @@ jobs:
       - name: Guardar qué se ha publicado
         run: |
           git config user.name "edicion-bot"; git config user.email "edicion-bot@users.noreply.github.com"
-          git add contenido/articulos
+          git add contenido/articulos contenido/instagram
           git diff --cached --quiet && exit 0
           git commit -m "Marcar posts de Instagram publicados [skip ci]"
           git push
