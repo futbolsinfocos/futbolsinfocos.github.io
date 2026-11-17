@@ -1,7 +1,7 @@
 """Genera las imágenes para Instagram (1080x1350, formato vertical 4:5).
 
 Estilo "rótulo de tele": negro y amarillo, letra Inter Black cursiva estrechada, bandas inclinadas.
-Gráficos propios: sin fotos de agencias ni escudos, para no tener problemas de derechos.
+Gráficos propios, sin fotos de agencias. Escudos de los equipos (los da API-Football) solo como referencia informativa.
 Las fuentes van dentro del repositorio (marca/fuentes) para que salgan igual en GitHub Actions.
 """
 from __future__ import annotations
@@ -30,6 +30,42 @@ TEXTO = "Inter-SemiBoldItalic.otf"
 NEGRITA = "Inter-Bold.otf"
 POR_TARJETA = 3          # partidos por imagen de resultados
 POR_PREVIA = 7           # partidos por imagen de previa
+
+
+ESCUDOS_DIR = RAIZ / "data" / "escudos"
+
+
+@lru_cache(maxsize=512)
+def _escudo_original(url: str):
+    """Descarga (una vez; queda guardado en data/escudos) el escudo de un equipo. None si no se puede."""
+    if not url:
+        return None
+    archivo = ESCUDOS_DIR / re.sub(r"[^A-Za-z0-9._-]", "_", url.rsplit("/", 1)[-1])
+    try:
+        if not archivo.exists():
+            import requests
+            r = requests.get(url, timeout=10)
+            r.raise_for_status()
+            ESCUDOS_DIR.mkdir(parents=True, exist_ok=True)
+            archivo.write_bytes(r.content)
+        return Image.open(archivo).convert("RGBA")
+    except Exception as e:
+        print(f"Sin escudo {url}: {e}")
+        return None
+
+
+def escudo(img: Image.Image, url: str | None, centro: tuple[int, int], tam: int) -> bool:
+    """Pega el escudo sobre un círculo blanco de diámetro tam. Devuelve False si no hay escudo."""
+    original = _escudo_original(url or "")
+    if original is None:
+        return False
+    x, y = centro[0] - tam // 2, centro[1] - tam // 2
+    ImageDraw.Draw(img).ellipse([x, y, x + tam, y + tam], fill=BLANCO)
+    e = original.copy()
+    lado = int(tam * 0.74)
+    e.thumbnail((lado, lado), Image.LANCZOS)
+    img.paste(e, (centro[0] - e.width // 2, centro[1] - e.height // 2), e)
+    return True
 
 
 @lru_cache(maxsize=None)
@@ -251,6 +287,7 @@ def tarjetas_resultados(paquete: dict, cuenta: str, carpeta: Path, base: str) ->
     trozos = [(div, ps[i:i + POR_TARJETA]) for div, ps in por_division(partidos)
               for i in range(0, len(ps), POR_TARJETA)][:7]
     hay_clasif = bool(paquete.get("clasificacion"))
+    hay_escudos = any(p.get("escudo_local") or p.get("escudo_visitante") for p in partidos)
     salida = []
     for n, (div, trozo) in enumerate(trozos, 1):
         img, d = fondo()
@@ -266,8 +303,11 @@ def tarjetas_resultados(paquete: dict, cuenta: str, carpeta: Path, base: str) ->
                 d.polygon([(60, yy), (860, yy), (850, yy + 84), (50, yy + 84)], fill=BARRA_GANA if gana else BARRA)
                 if gana:
                     d.polygon([(50, yy), (64, yy), (54, yy + 84), (40, yy + 84)], fill=AMARILLO)
-                texto(img, (90, yy + 42), eq.upper(), 62, BLANCO if gana or gl == gv else GRIS,
-                      estrecho=0.82, ancho_max=740)
+                url = p.get("escudo_local" if k == 0 else "escudo_visitante")
+                escudo(img, url, (112, yy + 42), 68)
+                x_nombre = 168 if hay_escudos else 90
+                texto(img, (x_nombre, yy + 42), eq.upper(), 62, BLANCO if gana or gl == gv else GRIS,
+                      estrecho=0.82, ancho_max=830 - x_nombre)
                 d.polygon([(870, yy), (1030, yy), (1020, yy + 84), (860, yy + 84)], fill=AMARILLO if gana else BLANCO)
                 texto(img, (945, yy + 42), str(g), 76, NEGRO, ancla="m", estrecho=0.9)
             y = _goleadores(d, p, y + 196) + 40
@@ -283,6 +323,11 @@ def tarjeta_clasificacion(paquete: dict, cuenta: str, destino: Path) -> Path | N
     if not tabla:
         return None
     titulo, grupo = _partes(paquete)
+    escudos = {}
+    for p in paquete.get("partidos", []):
+        escudos.setdefault(p["local"], p.get("escudo_local"))
+        escudos.setdefault(p["visitante"], p.get("escudo_visitante"))
+    hay_escudos = any(t.get("escudo") or escudos.get(t["equipo"]) for t in tabla)
     img, d = fondo()
     cabecera(img, d, "Clasificación", _junta(titulo, grupo))
     filas = tabla if len(tabla) <= 12 else tabla[:8] + tabla[-4:]
@@ -299,7 +344,10 @@ def tarjeta_clasificacion(paquete: dict, cuenta: str, destino: Path) -> Path | N
         d.polygon([(60, y), (1030, y), (1022, y + alto - 8), (52, y + alto - 8)], fill=BARRA_GANA if lider else BARRA)
         d.polygon([(60, y), (140, y), (132, y + alto - 8), (52, y + alto - 8)], fill=AMARILLO if lider else BLANCO)
         texto(img, (96, y + alto // 2 - 4), str(t["pos"]), 44, NEGRO, ancla="m", estrecho=0.9)
-        texto(img, (170, y + alto // 2 - 4), t["equipo"].upper(), 44, BLANCO, estrecho=0.82, ancho_max=600)
+        tam_e = alto - 18
+        escudo(img, t.get("escudo") or escudos.get(t["equipo"]), (170 + tam_e // 2, y + alto // 2 - 4), tam_e)
+        x_nombre = 170 + tam_e + 14 if hay_escudos else 170
+        texto(img, (x_nombre, y + alto // 2 - 4), t["equipo"].upper(), 44, BLANCO, estrecho=0.82, ancho_max=770 - x_nombre)
         d.text((860, y + alto // 2 - 4), str(t["pj"]), font=fuente(ROTULO, 32), fill=GRIS, anchor="mm")
         texto(img, (965, y + alto // 2 - 4), str(t["pts"]), 50, AMARILLO if lider else BLANCO, ancla="m", estrecho=0.9)
         y += alto
@@ -417,6 +465,10 @@ def tarjeta_destacado(articulo: dict, p: dict, cuenta: str, destino: Path) -> Pa
     x0 = 540 - w // 2
     d.polygon([(x0 + 30, 490), (x0 + w + 30, 490), (x0 + w, 700), (x0, 700)], fill=AMARILLO)
     texto(img, (535, 595), marcador, 230, NEGRO, ancla="m", estrecho=0.85)
+    lado = min(180, x0 - 50)
+    if lado >= 110:
+        escudo(img, p.get("escudo_local"), (x0 - lado // 2 - 20, 595), lado)
+        escudo(img, p.get("escudo_visitante"), (x0 + w + 50 + lado // 2, 595), lado)
     texto(img, (540, 810), p["visitante"].upper(), 140, BLANCO if gv >= gl else GRIS, ancla="m", estrecho=0.78, ancho_max=980)
     f = fuente(TEXTO, 30)
     gol = lambda g: f"{g['jugador']} {g['min']}'" + (" (p)" if "Penalty" in (g.get("tipo") or "") else "")

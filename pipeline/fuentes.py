@@ -114,13 +114,31 @@ class ApiFootball:
             return []
         tabla = resp[0]["league"]["standings"][0]
         return [{"pos": t["rank"], "equipo": es(t["team"]["name"]), "pts": t["points"],
-                 "pj": t["all"]["played"], "dg": t["goalsDiff"]} for t in tabla]
+                 "pj": t["all"]["played"], "dg": t["goalsDiff"],
+                 "pg": t["all"]["win"], "pe": t["all"]["draw"], "pp": t["all"]["lose"],
+                 "gf": t["all"]["goals"]["for"], "gc": t["all"]["goals"]["against"],
+                 "forma": (t.get("form") or "")[-5:], "zona": zona(t.get("description")),
+                 "escudo": t["team"].get("logo")} for t in tabla]
 
     def goleadores(self, partido_id: int) -> list[dict]:
         eventos = self._get("fixtures/events", fixture=partido_id)
         return [{"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]),
                  "jugador": e["player"]["name"], "tipo": e["detail"]}
                 for e in eventos if e["type"] == "Goal" and e["detail"] != "Missed Penalty"]
+
+
+def zona(desc: str | None) -> str:
+    """'Promotion - Primera Federación (Play Offs)' → 'playoff'; 'Relegation...' → 'descenso'."""
+    d = (desc or "").lower()
+    if not d:
+        return ""
+    if "releg" in d:
+        return "descenso"
+    if "play" in d:
+        return "playoff"
+    if "promot" in d or "champions" in d:
+        return "ascenso"
+    return "otra"
 
 
 def traducir_grupo(txt: str) -> str:
