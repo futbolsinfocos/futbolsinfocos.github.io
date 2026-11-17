@@ -6,7 +6,7 @@ medio:
   nombre: "Sin Focos"
   lema: "El fútbol que no sale en la tele"
   instagram: "@sinfocosfutbol"
-  url_web: "https://futbolsinfocos.github.io"   # URL pública donde se sirve la web
+  url_web: "https://sinfocos.es"   # URL pública donde se sirve la web
   idioma: "es"
   zona_horaria: "Europe/Madrid"
 
