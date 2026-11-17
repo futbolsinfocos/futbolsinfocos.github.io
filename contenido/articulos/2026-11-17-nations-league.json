@@ -1,0 +1,661 @@
+{
+  "slug": "2026-11-17-nations-league",
+  "fecha": "2026-11-17",
+  "etiqueta": "Nations League",
+  "competicion": "Nations League",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Noruega remonta a Dinamarca con un penalti de Haaland en el 90 y Portugal gana en Gales con diez",
+  "entradilla": "Noruega levanta un 2-0 con un penalti de Haaland en el descuento. Portugal se impone en Gales por 2-3 pese a quedarse con diez en el 74.",
+  "cuerpo_markdown": "Noruega remontó a Dinamarca en Copenhague con un penalti de Haaland en el minuto 90 y Portugal ganó 2-3 en Cardiff, donde Pedro Neto fue expulsado en el 74. En la Liga B, Irlanda del Norte, Austria y Suecia firmaron empates, mientras Irlanda goleó a Kosovo por 3-0 y Bosnia y Herzegovina venció a Rumanía por 2-1.\n\n## Liga A\n\n## Dinamarca 2-3 Noruega\n\nDinamarca se adelantó con goles de Rasmus Hojlund en el 11 y de Pierre-Emile Højbjerg en el 14, pero Noruega le dio la vuelta. Erling Haaland marcó en el 37, Martin Odegaard en el 83 y Haaland, de penalti, en el 90. Dinamarca cede su 2-0 y Noruega suma tres goles en el tramo final del partido.\n\n## Gales 2-3 Portugal\n\nBruno Fernandes abrió el marcador para Portugal en el 11 y David Brooks igualó para Gales en el 13. Sorba Thomas puso en ventaja a Gales en el 40, Pedro Neto empató en el 43 y Carlos Forbs dio el triunfo a Portugal en el 70. Pedro Neto fue expulsado en el 74, por lo que Portugal terminó con diez jugadores.\n\n## Liga B\n\n## Rep. of Ireland 3-0 Kosovo\n\nIrlanda goleó a Kosovo por tres goles de diferencia. Troy Parrott marcó dos penaltis, en el 28 y en el 50, y Jack Moylan anotó en el 75. Kreshnik Hajrizi fue expulsado en el 26 en las filas de Kosovo.\n\n## Bosnia y Herzegovina 2-1 Rumanía\n\nDaniel Birligea marcó para Rumanía en el 6. Benjamin Tahirovic empató en el 44 y Esmir Bajraktarević dio la victoria a Bosnia y Herzegovina en el 82.\n\n## Ucrania 1-0 Georgia\n\nDanylo Sikan marcó en el minuto 1 y Ucrania se impuso a Georgia. Luka Lochoshvili fue expulsado en el 90 en las filas de Georgia.\n\n## Hungría 1-1 Irlanda del Norte\n\nBarnabás Varga adelantó a Hungría en el 35 y Justin Devenny igualó para Irlanda del Norte en el 65.\n\n## Israel 1-1 Austria\n\nDor Peretz marcó para Israel en el 36 y Sasa Kalajdzic igualó para Austria en el 62.\n\n## Polonia 1-1 Suecia\n\nAdrian Benedyczak marcó para Polonia en el 16 y Hugo Larsson igualó para Suecia en el 24.\n\n## Así queda la clasificación\n\nFrancia encabeza la clasificación con 13 puntos, tras ganar cuatro partidos y empatar uno, y ocupa la zona de play-off. Bélgica es segunda con 12 puntos, a un punto de Francia, también en zona de play-off. Italia es tercera con 10 puntos, fuera de la zona de play-off y sin zona asignada. Turquía, con 0 puntos y seis derrotas, está en la zona de descenso.",
+  "texto_instagram": "🏆 Noruega remonta a Dinamarca con un penalti de Haaland en el 90 y Portugal gana en Gales con diez ⚽\n\nLiga A\nDinamarca 2-3 Noruega: Hojlund 11, Højbjerg 14; Haaland 37, Odegaard 83, Haaland (penalti) 90\nGales 2-3 Portugal: Brooks 13, Thomas 40; Bruno Fernandes 11, Pedro Neto 43, Forbs 70. Expulsado Pedro Neto 74\n\nLiga B\nRep. of Ireland 3-0 Kosovo: Parrott (penalti) 28 y 50, Moylan 75. Expulsado Hajrizi 26\nBosnia y Herzegovina 2-1 Rumanía: Birligea 6; Tahirovic 44, Bajraktarević 82\nUcrania 1-0 Georgia: Sikan 1. Expulsado Lochoshvili 90\nHungría 1-1 Irlanda del Norte: Varga 35; Devenny 65\nIsrael 1-1 Austria: Peretz 36; Kalajdzic 62\nPolonia 1-1 Suecia: Benedyczak 16; Larsson 24 🇪🇺",
+  "hashtags": [
+    "#NationsLeague",
+    "#Noruega",
+    "#Dinamarca",
+    "#Portugal",
+    "#Gales",
+    "#Haaland",
+    "#Fútbol"
+  ],
+  "imagenes": [
+    "img/2026-11-17/2026-11-17-nations-league-1.jpg",
+    "img/2026-11-17/2026-11-17-nations-league-2.jpg",
+    "img/2026-11-17/2026-11-17-nations-league-3.jpg",
+    "img/2026-11-17/2026-11-17-nations-league-4.jpg",
+    "img/2026-11-17/2026-11-17-nations-league-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1528992,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Cardiff City Stadium",
+      "ciudad": "Cardiff",
+      "arbitro": "Sven Jablonski",
+      "jornada": "League A - 6",
+      "liga_id": 5,
+      "id_local": 767,
+      "id_visitante": 27,
+      "local": "Gales",
+      "visitante": "Portugal",
+      "escudo_local": "https://media.api-sports.io/football/teams/767.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/27.png",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 11,
+          "equipo": "Portugal",
+          "jugador": "Bruno Fernandes",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 13,
+          "equipo": "Gales",
+          "jugador": "David Brooks",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 40,
+          "equipo": "Gales",
+          "jugador": "Sorba Thomas",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 43,
+          "equipo": "Portugal",
+          "jugador": "Pedro Neto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 70,
+          "equipo": "Portugal",
+          "jugador": "Carlos Forbs",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 74,
+          "equipo": "Portugal",
+          "jugador": "Pedro Neto"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "41%",
+          "tiros": 22,
+          "a_puerta": 8,
+          "corners": 6,
+          "faltas": 5,
+          "fueras_juego": 1,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "59%",
+          "tiros": 11,
+          "a_puerta": 6,
+          "corners": 1,
+          "faltas": 11,
+          "fueras_juego": 2,
+          "amarillas": 2,
+          "rojas": 1
+        }
+      }
+    },
+    {
+      "id": 1528993,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Parken Stadium",
+      "ciudad": "Copenhagen",
+      "arbitro": "Halil Umut Meler",
+      "jornada": "League A - 6",
+      "liga_id": 5,
+      "id_local": 21,
+      "id_visitante": 1090,
+      "local": "Dinamarca",
+      "visitante": "Noruega",
+      "escudo_local": "https://media.api-sports.io/football/teams/21.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/1090.png",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 11,
+          "equipo": "Dinamarca",
+          "jugador": "Rasmus Hojlund",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 14,
+          "equipo": "Dinamarca",
+          "jugador": "Pierre-Emile Højbjerg",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 37,
+          "equipo": "Noruega",
+          "jugador": "Erling Haaland",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Noruega",
+          "jugador": "Martin Odegaard",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Noruega",
+          "jugador": "Erling Haaland",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "48%",
+          "tiros": 7,
+          "a_puerta": 4,
+          "corners": 1,
+          "faltas": 10,
+          "fueras_juego": 1,
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "52%",
+          "tiros": 22,
+          "a_puerta": 7,
+          "corners": 7,
+          "faltas": 12,
+          "fueras_juego": 2,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1528994,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Kosicka futbalova arena",
+      "ciudad": "Kosice",
+      "arbitro": "Martin Matosa",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 772,
+      "id_visitante": 1104,
+      "local": "Ucrania",
+      "visitante": "Georgia",
+      "escudo_local": "https://media.api-sports.io/football/teams/772.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/1104.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 1,
+          "equipo": "Ucrania",
+          "jugador": "Danylo Sikan",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 90,
+          "equipo": "Georgia",
+          "jugador": "Luka Lochoshvili"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "40%",
+          "tiros": 11,
+          "a_puerta": 3,
+          "corners": 5,
+          "faltas": 14,
+          "fueras_juego": 1,
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "60%",
+          "tiros": 12,
+          "a_puerta": 4,
+          "corners": 11,
+          "faltas": 14,
+          "fueras_juego": 2,
+          "amarillas": 4,
+          "rojas": 1
+        }
+      }
+    },
+    {
+      "id": 1528995,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Puskás Aréna",
+      "ciudad": "Budapest",
+      "arbitro": "Marco Guida",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 769,
+      "id_visitante": 771,
+      "local": "Hungría",
+      "visitante": "Irlanda del Norte",
+      "escudo_local": "https://media.api-sports.io/football/teams/769.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/771.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 35,
+          "equipo": "Hungría",
+          "jugador": "Barnabás Varga",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 65,
+          "equipo": "Irlanda del Norte",
+          "jugador": "Justin Devenny",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "76%",
+          "tiros": 17,
+          "a_puerta": 2,
+          "corners": 5,
+          "faltas": 7,
+          "fueras_juego": 0,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "24%",
+          "tiros": 8,
+          "a_puerta": 2,
+          "corners": 4,
+          "faltas": 9,
+          "fueras_juego": 4,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1528996,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Nagyerdei Stadion",
+      "ciudad": "Debrecen",
+      "arbitro": "Davide Massa",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 1116,
+      "id_visitante": 775,
+      "local": "Israel",
+      "visitante": "Austria",
+      "escudo_local": "https://media.api-sports.io/football/teams/1116.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/775.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 36,
+          "equipo": "Israel",
+          "jugador": "Dor Peretz",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 62,
+          "equipo": "Austria",
+          "jugador": "Sasa Kalajdzic",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "39%",
+          "tiros": 3,
+          "a_puerta": 2,
+          "corners": 5,
+          "faltas": 4,
+          "fueras_juego": 0,
+          "amarillas": 0,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "61%",
+          "tiros": 21,
+          "a_puerta": 6,
+          "corners": 8,
+          "faltas": 12,
+          "fueras_juego": 1,
+          "amarillas": 0,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1528997,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Aviva Stadium",
+      "ciudad": "Dublin",
+      "arbitro": "Edgars Malcevs",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 776,
+      "id_visitante": 1111,
+      "local": "Rep. Of Ireland",
+      "visitante": "Kosovo",
+      "escudo_local": "https://media.api-sports.io/football/teams/776.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/1111.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 28,
+          "equipo": "Rep. Of Ireland",
+          "jugador": "Troy Parrott",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 50,
+          "equipo": "Rep. Of Ireland",
+          "jugador": "Troy Parrott",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 75,
+          "equipo": "Rep. Of Ireland",
+          "jugador": "Jack Moylan",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 26,
+          "equipo": "Kosovo",
+          "jugador": "Kreshnik Hajrizi"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "61%",
+          "tiros": 28,
+          "a_puerta": 12,
+          "corners": 9,
+          "faltas": 17,
+          "fueras_juego": 1,
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "39%",
+          "tiros": 5,
+          "a_puerta": 3,
+          "corners": 4,
+          "faltas": 11,
+          "fueras_juego": 2,
+          "amarillas": 1,
+          "rojas": 1
+        }
+      }
+    },
+    {
+      "id": 1528998,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Stadion Śląska  Wrocław",
+      "ciudad": "Wroclaw",
+      "arbitro": "Felix Zwayer",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 24,
+      "id_visitante": 5,
+      "local": "Polonia",
+      "visitante": "Suecia",
+      "escudo_local": "https://media.api-sports.io/football/teams/24.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 16,
+          "equipo": "Polonia",
+          "jugador": "Adrian Benedyczak",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 24,
+          "equipo": "Suecia",
+          "jugador": "Hugo Larsson",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "38%",
+          "tiros": 10,
+          "a_puerta": 3,
+          "corners": 2,
+          "faltas": 9,
+          "fueras_juego": 1,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "62%",
+          "tiros": 17,
+          "a_puerta": 6,
+          "corners": 8,
+          "faltas": 15,
+          "fueras_juego": 0,
+          "amarillas": 0,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1528999,
+      "fecha": "2026-11-17T20:45:00+01:00",
+      "estadio": "Stadion Bilino Polje",
+      "ciudad": "Zenica",
+      "arbitro": "Jose Maria Sanchez Martinez",
+      "jornada": "League B - 6",
+      "liga_id": 5,
+      "id_local": 1113,
+      "id_visitante": 774,
+      "local": "Bosnia y Herzegovina",
+      "visitante": "Rumanía",
+      "escudo_local": "https://media.api-sports.io/football/teams/1113.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/774.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "Rumanía",
+          "jugador": "Daniel Birligea",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 44,
+          "equipo": "Bosnia y Herzegovina",
+          "jugador": "Benjamin Tahirovic",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 82,
+          "equipo": "Bosnia y Herzegovina",
+          "jugador": "Esmir Bajraktarević",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "55%",
+          "tiros": 13,
+          "a_puerta": 6,
+          "corners": 4,
+          "faltas": 17,
+          "fueras_juego": 0,
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "45%",
+          "tiros": 13,
+          "a_puerta": 6,
+          "corners": 4,
+          "faltas": 12,
+          "fueras_juego": 3,
+          "amarillas": 4,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Francia",
+      "pts": 13,
+      "pj": 6,
+      "dg": 4,
+      "pg": 4,
+      "pe": 1,
+      "pp": 1,
+      "gf": 10,
+      "gc": 6,
+      "forma": "WLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/2.png",
+      "equipo_id": 2,
+      "casa": {
+        "pj": 3,
+        "pg": 2,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 3,
+        "pg": 2,
+        "pe": 0,
+        "pp": 1,
+        "gf": 3,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Bélgica",
+      "pts": 12,
+      "pj": 6,
+      "dg": 5,
+      "pg": 4,
+      "pe": 0,
+      "pp": 2,
+      "gf": 12,
+      "gc": 7,
+      "forma": "WWLWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/1.png",
+      "equipo_id": 1,
+      "casa": {
+        "pj": 3,
+        "pg": 2,
+        "pe": 0,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 3,
+        "pg": 2,
+        "pe": 0,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Italia",
+      "pts": 10,
+      "pj": 6,
+      "dg": 2,
+      "pg": 3,
+      "pe": 1,
+      "pp": 2,
+      "gf": 12,
+      "gc": 10,
+      "forma": "LWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/768.png",
+      "equipo_id": 768,
+      "casa": {
+        "pj": 3,
+        "pg": 2,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 3,
+        "pg": 1,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Turquía",
+      "pts": 0,
+      "pj": 6,
+      "dg": -11,
+      "pg": 0,
+      "pe": 0,
+      "pp": 6,
+      "gf": 4,
+      "gc": 15,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/777.png",
+      "equipo_id": 777,
+      "casa": {
+        "pj": 3,
+        "pg": 0,
+        "pe": 0,
+        "pp": 3,
+        "gf": 2,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 3,
+        "pg": 0,
+        "pe": 0,
+        "pp": 3,
+        "gf": 2,
+        "gc": 8
+      }
+    }
+  ],
+  "movimientos": {}
+}

@@ -1,0 +1,193 @@
+{
+  "etiqueta": "Nations League",
+  "competicion": "Nations League",
+  "goleadores": [
+    {
+      "jugador": "H. Kane",
+      "equipo": "Inglaterra",
+      "escudo": "https://media.api-sports.io/football/teams/10.png",
+      "goles": 8,
+      "penaltis": 2,
+      "pj": 6
+    },
+    {
+      "jugador": "A. Guðjohnsen",
+      "equipo": "Islandia",
+      "escudo": "https://media.api-sports.io/football/teams/18.png",
+      "goles": 6,
+      "penaltis": 2,
+      "pj": 6
+    },
+    {
+      "jugador": "V. Gyökeres",
+      "equipo": "Suecia",
+      "escudo": "https://media.api-sports.io/football/teams/5.png",
+      "goles": 6,
+      "penaltis": 2,
+      "pj": 5
+    },
+    {
+      "jugador": "M. Olise",
+      "equipo": "Francia",
+      "escudo": "https://media.api-sports.io/football/teams/2.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "L. Walta",
+      "equipo": "Finlandia",
+      "escudo": "https://media.api-sports.io/football/teams/1099.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "N. Krstović",
+      "equipo": "Montenegro",
+      "escudo": "https://media.api-sports.io/football/teams/1109.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 6
+    },
+    {
+      "jugador": "J. Pohjanpalo",
+      "equipo": "Finlandia",
+      "escudo": "https://media.api-sports.io/football/teams/1099.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 6
+    },
+    {
+      "jugador": "F. Esposito",
+      "equipo": "Italia",
+      "escudo": "https://media.api-sports.io/football/teams/768.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 6
+    },
+    {
+      "jugador": "R. Højlund",
+      "equipo": "Dinamarca",
+      "escudo": "https://media.api-sports.io/football/teams/21.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 5
+    },
+    {
+      "jugador": "O. Óskarsson",
+      "equipo": "Islandia",
+      "escudo": "https://media.api-sports.io/football/teams/18.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "R. Manaj",
+      "equipo": "Albania",
+      "escudo": "https://media.api-sports.io/football/teams/778.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "A. Svanbäck",
+      "equipo": "Finlandia",
+      "escudo": "https://media.api-sports.io/football/teams/1099.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 5
+    },
+    {
+      "jugador": "Lamine Yamal",
+      "equipo": "España",
+      "escudo": "https://media.api-sports.io/football/teams/9.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 5
+    },
+    {
+      "jugador": "Z. Amdouni",
+      "equipo": "Suiza",
+      "escudo": "https://media.api-sports.io/football/teams/15.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "T. Reijnders",
+      "equipo": "Países Bajos",
+      "escudo": "https://media.api-sports.io/football/teams/1118.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "F. Wirtz",
+      "equipo": "Alemania",
+      "escudo": "https://media.api-sports.io/football/teams/25.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 4
+    },
+    {
+      "jugador": "E. Haaland",
+      "equipo": "Noruega",
+      "escudo": "https://media.api-sports.io/football/teams/1090.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 5
+    },
+    {
+      "jugador": "T. Parrott",
+      "equipo": "Rep. Of Ireland",
+      "escudo": "https://media.api-sports.io/football/teams/776.png",
+      "goles": 4,
+      "penaltis": 2,
+      "pj": 5
+    },
+    {
+      "jugador": "D. Šturm",
+      "equipo": "Eslovenia",
+      "escudo": "https://media.api-sports.io/football/teams/1091.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 6
+    },
+    {
+      "jugador": "K. De Bruyne",
+      "equipo": "Bélgica",
+      "escudo": "https://media.api-sports.io/football/teams/1.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 5
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Turquía",
+      "escudo": "https://media.api-sports.io/football/teams/777.png",
+      "amarillas": 15,
+      "rojas": 1
+    },
+    {
+      "equipo": "Bélgica",
+      "escudo": "https://media.api-sports.io/football/teams/1.png",
+      "amarillas": 14,
+      "rojas": 0
+    },
+    {
+      "equipo": "Italia",
+      "escudo": "https://media.api-sports.io/football/teams/768.png",
+      "amarillas": 14,
+      "rojas": 0
+    },
+    {
+      "equipo": "Francia",
+      "escudo": "https://media.api-sports.io/football/teams/2.png",
+      "amarillas": 9,
+      "rojas": 1
+    }
+  ],
+  "fecha": "2026-11-17"
+}
