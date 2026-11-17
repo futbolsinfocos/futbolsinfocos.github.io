@@ -276,7 +276,7 @@ def _pagina(cfg: dict, titulo: str, cuerpo: str, prof: str = "", descripcion: st
 <meta name="theme-color" content="#111111"><link rel="icon" href="{prof}img/logo.png">
 <meta property="og:title" content="{_e(titulo)}"><meta property="og:description" content="{_e(descripcion or m['lema'])}">
 <meta property="og:site_name" content="{_e(m['nombre'])}"><meta property="og:image" content="{_e(m['url_web'].rstrip('/'))}/img/logo.png">
-<link rel="alternate" type="application/rss+xml" href="{prof}rss.xml">{FUENTES}{_script_adsense(cfg)}<style>{CSS}</style></head><body>
+<link rel="alternate" type="application/rss+xml" href="{prof}rss.xml">{FUENTES}{_script_analitica()}{_script_adsense(cfg)}<style>{CSS}</style></head><body>
 <div class="top"><header><a href="{prof}index.html"><img class="logo" src="{prof}img/logo.png" alt="{_e(m['nombre'])}"></a>
 <a href="{prof}index.html"><div class="n tit">{_e(m['nombre'])}</div><div class="l">{_e(m['lema'])}</div></a>
 <div class="hoy">{_hoy_largo()}</div></header></div>
@@ -290,10 +290,55 @@ regional, con Hypermotion y las grandes ligas en segundo plano. Crónicas, previ
 <a href="{prof}contacto.html">Contacto</a><a href="{prof}rss.xml">RSS</a></div>
 <div><h4>Legal</h4><a href="{prof}aviso-legal.html">Aviso legal</a><a href="{prof}privacidad.html">Política de privacidad</a>
 <a href="{prof}cookies.html">Política de cookies</a>
-<a href="#" onclick="window.googlefc&&googlefc.callbackQueue.push(googlefc.showRevocationMessage);return false">Configurar cookies</a></div></div>
+<a href="#" onclick="return sfCookies()">Configurar cookies</a></div></div>
 <div class="bajo">© {date.today().year} {_e(m['nombre'])} · Datos de partidos: API-Football. Crónicas elaboradas a partir de esos datos y revisadas
 por la redacción. Las noticias de otros medios enlazan siempre a su fuente. ¿Ves un error? Escríbenos y lo corregimos.</div></footer>
-</body></html>"""
+{_aviso_cookies(prof)}</body></html>"""
+
+
+# ── Contador de visitas (Google Analytics 4) ─────────────────────────────────
+# Sale de config.yaml → analitica.id (G-…). Vacío = no se cuenta nada.
+# Modo de consentimiento de Google: por defecto todo DENEGADO en todas las visitas; solo se
+# guardan cookies de Analytics si la persona acepta. Mientras no haya AdSense (y por tanto no
+# haya aviso de Google), la web enseña su propio aviso sencillo (_aviso_cookies). Cuando
+# haya AdSense, el aviso de Google se encarga y el nuestro desaparece solo.
+ANALITICA: dict = {}
+
+
+def _script_analitica() -> str:
+    gid = (ANALITICA.get("id") or "").strip()
+    if not gid:
+        return ""
+    return (f'<script async src="https://www.googletagmanager.com/gtag/js?id={_e(gid)}"></script><script>'
+            'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}'
+            "gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',"
+            "analytics_storage:'denied',wait_for_update:500});"
+            "try{if(localStorage.getItem('sf_cookies')==='si')gtag('consent','update',{analytics_storage:'granted'})}catch(e){}"
+            f"gtag('js',new Date());gtag('config','{_e(gid)}');</script>")
+
+
+def _aviso_cookies(prof: str = "") -> str:
+    """Función «Configurar cookies» y, si no hay AdSense pero sí Analytics, un aviso propio Aceptar/Rechazar."""
+    propio = bool((ANALITICA.get("id") or "").strip()) and not PUBLI.get("cliente")
+    js = ("<script>function sfCookies(){if(window.googlefc&&googlefc.callbackQueue){"
+          "googlefc.callbackQueue.push(googlefc.showRevocationMessage)}else{var a=document.getElementById('sfck');"
+          "if(a)a.style.display='flex'}return false}")
+    if not propio:
+        return js + "</script>"
+    return ('<div id="sfck" style="display:none;position:fixed;left:0;right:0;bottom:0;z-index:99;background:#111;color:#fff;'
+            'padding:14px 16px;gap:12px;align-items:center;justify-content:center;flex-wrap:wrap;font:15px/1.4 system-ui,sans-serif">'
+            f'<span style="max-width:640px">Usamos cookies de Google Analytics para contar las visitas, solo si nos dejas. '
+            f'<a href="{prof}cookies.html" style="color:#ffd400">Más información</a></span>'
+            '<span style="display:flex;gap:8px"><button onclick="sfElige(0)" style="padding:9px 16px;border:1px solid #fff;'
+            'background:none;color:#fff;font-weight:700;cursor:pointer">Rechazar</button>'
+            '<button onclick="sfElige(1)" style="padding:9px 16px;border:0;background:#ffd400;color:#111;font-weight:700;'
+            'cursor:pointer">Aceptar</button></span></div>'
+            + js +
+            "function sfElige(s){try{localStorage.setItem('sf_cookies',s?'si':'no')}catch(e){}"
+            "if(window.gtag)gtag('consent','update',{analytics_storage:s?'granted':'denied'});"
+            "document.getElementById('sfck').style.display='none'}"
+            "var sfv=null;try{sfv=localStorage.getItem('sf_cookies')}catch(e){}"
+            "if(!sfv)document.getElementById('sfck').style.display='flex'</script>")
 
 
 # ── Publicidad (Google AdSense) ──────────────────────────────────────────────
@@ -831,6 +876,8 @@ def _relacionados(a: dict, arts: list[dict], prof: str) -> str:
 def construir(cfg: dict) -> Path:
     PUBLI.clear()
     PUBLI.update(cfg.get("publicidad") or {})
+    ANALITICA.clear()
+    ANALITICA.update(cfg.get("analitica") or {})
     PRIORIDAD.clear()
     PRIORIDAD.update({c["etiqueta"]: c.get("prioridad", 3) for c in cfg.get("competiciones", [])})
     PRINCIPAL.clear()
