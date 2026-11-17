@@ -20,6 +20,8 @@ Normas estrictas:
 - Los nombres de equipos y jugadores se copian tal cual vienen.
 - Destaca lo noticiable con los datos: goleadas, remontadas (si el orden de goles lo muestra), \
 cambios de liderato, equipos en zona alta o baja según la clasificación.
+- Si un partido trae "estadisticas" (posesión, tiros, a puerta, córners, tarjetas), puedes usar uno o dos \
+datos para contar cómo fue (quién dominó, si el que ganó apenas tiró a puerta, una expulsión). Sin listas de cifras.
 - El cuerpo va en Markdown: un párrafo de resumen de la jornada, luego un apartado por partido \
 destacado y un cierre con la clasificación (top 3 y colista). Si la clasificación viene vacía \
 (por ejemplo, en una copa), no escribas ese apartado ni menciones que falta.
@@ -140,6 +142,15 @@ def redactar_previa(paquete: dict, config: dict, demo: bool = False) -> dict:
     return texto
 
 
+def _sin_escudos(x):
+    """Quita las URL de escudos e ids internos: a la IA no le sirven y encarecen la petición."""
+    if isinstance(x, dict):
+        return {k: _sin_escudos(v) for k, v in x.items() if not k.startswith("escudo") and k != "equipo_id"}
+    if isinstance(x, list):
+        return [_sin_escudos(v) for v in x]
+    return x
+
+
 def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema: dict) -> dict:
     import anthropic
 
@@ -155,7 +166,7 @@ def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema
         output_config={"effort": config["ia"].get("esfuerzo", "low"),
                        "format": {"type": "json_schema", "schema": esquema}},
         messages=[{"role": "user", "content":
-                   instruccion + json.dumps(paquete, ensure_ascii=False)}],
+                   instruccion + json.dumps(_sin_escudos(paquete), ensure_ascii=False)}],
     )
     if "haiku" in modelo:
         resp = client.messages.create(**peticion)

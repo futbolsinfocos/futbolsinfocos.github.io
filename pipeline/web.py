@@ -139,6 +139,19 @@ table.clas tr.resalta td{background:#fff6c7}
 .leyenda{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--suave);margin:-8px 0 18px}
 .leyenda span:before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
 .leyenda .ascenso:before{background:#1f9d55}.leyenda .playoff:before{background:#2b6cb0}.leyenda .descenso:before{background:#c53030}
+.est-liga{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+table.clas td.jug{text-align:left;width:100%}table.clas td.jug small{display:inline-flex;align-items:center;gap:5px;color:var(--suave);font-size:12px;margin-left:6px}
+table.clas .am:before,table.clas .ro:before{content:"";display:inline-block;width:10px;height:14px;border-radius:2px;margin-right:5px;vertical-align:-2px}
+table.clas .am:before{background:#f4c400}table.clas .ro:before{background:#d22}
+.stats{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px;margin:6px 0 10px}
+.stat{background:var(--panel);border:1px solid var(--linea);border-radius:6px;padding:12px 14px;font:500 13px Inter,sans-serif}
+.stat h3{display:flex;align-items:center;justify-content:center;gap:8px;font:700 15px Inter,sans-serif;margin:0 0 10px;text-transform:none;border:0;padding:0}
+.stat h3 b{background:var(--negro);color:var(--amarillo);border-radius:4px;padding:1px 8px}
+.st{display:grid;grid-template-columns:34px 1fr 34px;align-items:center;gap:8px;margin:7px 0}
+.st span:first-child{text-align:right;font-weight:700}.st span:last-child{font-weight:700}
+.st div{position:relative}.st div small{display:block;text-align:center;color:var(--suave);font-size:11px;margin-bottom:3px}
+.st div i{display:flex;height:6px;border-radius:3px;overflow:hidden;background:#e4e4e4}
+.st div i b{background:var(--negro)}.st div i b+b{background:var(--amarillo)}
 .mini-clas{margin:30px 0 10px}.mini-clas h2{margin-top:0}.mini-clas a.todo{display:inline-block;margin-top:8px;color:var(--acento);font-weight:700;font-size:15px}
 .lt-p{display:block;font:700 11px Inter,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--acento);margin:12px 0 4px}
 .lt-p:first-child{margin-top:0}
@@ -236,7 +249,7 @@ footer .bajo{border-top:1px solid #2a2a2a;text-align:center;padding:14px 16px;fo
  .pp aside{order:-1}}
 @media(max-width:640px){.grid,.notis,.regs,.mini,.liga{grid-template-columns:1fr}header .hoy{display:none}
  .hero h2{font-size:27px}.hero .t{padding:18px}article,.pp,.legal{padding:20px 18px}article>p,article .cuerpo p,.pp .texto p{font-size:18px}
- table.clas .sm{display:none}
+ table.clas .sm{display:none}.est-liga{grid-template-columns:1fr}
  .marcador{padding:16px 12px;gap:6px}.escudo{width:42px;height:42px;font-size:14px}.marcador .eq,.marcador .eq.v{flex-direction:column;text-align:center;gap:8px}
  footer .in{grid-template-columns:1fr}}
 """
@@ -612,6 +625,7 @@ def _pagina_liga(etiqueta: str, lista: list[dict]) -> str:
     tabla = next((a["clasificacion"] for a in lista if a.get("clasificacion")), None)
     out += '<section id="clasificacion"><h2 class="sec tit">Clasificación</h2>' + (_tabla(tabla) if tabla else
            '<div class="vacio">La clasificación aparecerá aquí en cuanto la fuente de datos la publique.</div>') + "</section>"
+    out += _estadisticas_liga(ESTADS.get(etiqueta))
     noticias = sorted(lista + _noticias_de(etiqueta=etiqueta), key=lambda a: a["fecha"], reverse=True)[:12]
     out += '<h2 class="sec tit">Últimas noticias</h2><section class="grid">' + "".join(
         _tarjeta(a, prof, f'<span class="tag">{_e(_etiqueta(a))}</span>') for a in noticias) + "</section>"
@@ -659,6 +673,7 @@ def _mapa_previas(arts: list[dict]) -> dict:
     return mapa
 
 
+ESTADS: dict[str, dict] = {}  # etiqueta de la liga → máximos goleadores y tarjetas (contenido/estadisticas)
 ESCUDOS: dict[str, str] = {}  # nombre del equipo (en español) → URL de su escudo; se rellena en construir()
 
 
@@ -944,6 +959,67 @@ def _con_anuncio(cfg: dict, texto_html: str) -> str:
     return "</p>".join(partes[:2]) + "</p>" + _anuncio(cfg, "dentro_texto", "txt") + "</p>".join(partes[2:])
 
 
+def _estadisticas_liga(e: dict | None) -> str:
+    """Máximos goleadores y tarjetas por equipo en la página de la liga."""
+    if not e or not (e.get("goleadores") or e.get("tarjetas")):
+        return ""
+    bloques = ""
+    if e.get("goleadores"):
+        filas, pos, prev = "", 0, None
+        for i, g in enumerate(e["goleadores"][:15], 1):
+            pos = pos if g["goles"] == prev else i
+            prev = g["goles"]
+            pen = f' <small>({g["penaltis"]} de penalti)</small>' if g.get("penaltis") else ""
+            filas += (f'<tr><td class="p">{pos}</td><td class="jug"><b>{_e(g["jugador"])}</b>'
+                      f'<small>{_esc(g["equipo"], g.get("escudo"))}{_e(es(g["equipo"]))}</small></td>'
+                      f'<td>{g.get("pj") or ""}</td><td class="pts">{g["goles"]}{pen}</td></tr>')
+        bloques += ('<section><h2 class="sec tit">Máximos goleadores</h2><div class="tabla-wrap"><table class="clas">'
+                    f'<tr><th>#</th><th class="eq">Jugador</th><th>PJ</th><th>Goles</th></tr>{filas}</table></div></section>')
+    if e.get("tarjetas"):
+        filas = "".join(f'<tr><td class="eq"><span>{_esc(t["equipo"], t.get("escudo"))}{_e(es(t["equipo"]))}</span></td>'
+                        f'<td><span class="am">{t["amarillas"]}</span></td><td><span class="ro">{t["rojas"]}</span></td></tr>'
+                        for t in e["tarjetas"])
+        bloques += ('<section><h2 class="sec tit">Tarjetas por equipo</h2><div class="tabla-wrap"><table class="clas">'
+                    f'<tr><th class="eq">Equipo</th><th>Amarillas</th><th>Rojas</th></tr>{filas}</table></div></section>')
+    return f'<div class="est-liga">{bloques}</div>'
+
+
+ETIQ_STATS = [("posesion", "Posesión"), ("tiros", "Tiros"), ("a_puerta", "Tiros a puerta"), ("corners", "Córners"),
+              ("faltas", "Faltas"), ("fueras_juego", "Fueras de juego"), ("amarillas", "Amarillas"), ("rojas", "Rojas")]
+
+
+def _num(v) -> float:
+    try:
+        return float(str(v).rstrip("%"))
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _estadisticas_partidos(a: dict) -> str:
+    """En la crónica: estadísticas de cada partido que las tenga (posesión, tiros, córners…)."""
+    cajas = ""
+    for p in a.get("partidos") or []:
+        st = p.get("estadisticas")
+        if not st:
+            continue
+        filas = ""
+        for k, nombre in ETIQ_STATS:
+            l, v = st["local"].get(k), st["visitante"].get(k)
+            if l is None and v is None:
+                continue
+            nl, nv = _num(l), _num(v)
+            barra = "" if nl + nv == 0 else (f'<b style="width:{round(nl * 100 / (nl + nv))}%"></b>'
+                                             f'<b style="width:{100 - round(nl * 100 / (nl + nv))}%"></b>')
+            filas += (f'<div class="st"><span>{_e(l if l is not None else 0)}</span><div><small>{nombre}</small>'
+                      f'<i>{barra}</i></div>'
+                      f'<span>{_e(v if v is not None else 0)}</span></div>')
+        if filas:
+            cajas += (f'<div class="stat"><h3>{_esc(p["local"], p.get("escudo_local"))}{_e(es(p["local"]))} '
+                      f'<b>{p["goles_local"]}-{p["goles_visitante"]}</b> {_e(es(p["visitante"]))}'
+                      f'{_esc(p["visitante"], p.get("escudo_visitante"))}</h3>{filas}</div>')
+    return f'<section class="mini-clas"><h2>Estadísticas de los partidos</h2><div class="stats">{cajas}</div></section>' if cajas else ""
+
+
 def _mini_clasificacion(a: dict) -> str:
     """En la crónica: los 6 primeros de la tabla (y resaltados los equipos de la jornada) + enlace a la completa."""
     tabla = a.get("clasificacion")
@@ -980,6 +1056,10 @@ def construir(cfg: dict) -> Path:
     PREVIAS.clear()
     PREVIAS.update(_mapa_previas(arts))
     _recoger_escudos(arts, agenda)
+    ESTADS.clear()
+    for f in sorted((CONTENIDO / "estadisticas").glob("*.json")) if (CONTENIDO / "estadisticas").exists() else []:
+        e = json.loads(f.read_text())
+        ESTADS[e["etiqueta"]] = e
     if SALIDA.exists():
         shutil.rmtree(SALIDA)
     (SALIDA / "articulos").mkdir(parents=True)
@@ -1060,7 +1140,7 @@ def construir(cfg: dict) -> Path:
                   f'<p class="entradilla">{_e(a["entradilla"])}</p>'
                   f'<div class="firma-art">Por <b>Redacción {_e(nombre)}</b> · {fecha_larga(a["fecha"])}</div>'
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
-                  + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _mini_clasificacion(a)
+                  + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _estadisticas_partidos(a) + _mini_clasificacion(a)
                   + _anuncio(cfg, "final_articulo", "txt")
                   + _relacionados(a, arts, "../")
                   + '<a class="volver" href="../index.html">← Volver a la portada</a></article>')

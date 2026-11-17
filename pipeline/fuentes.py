@@ -31,8 +31,8 @@ class ApiFootball:
         proxy = (os.environ.get("API_FOOTBALL_PROXY") or "").strip()
         self.proxies = {"https": proxy, "http": proxy} if proxy else None
 
-    # El plan gratuito permite 10 llamadas por minuto: dejamos una pausa entre llamadas
-    PAUSA = float(os.environ.get("API_FOOTBALL_PAUSA", "6.5"))
+    # Plan Pro: 300 llamadas por minuto (el gratuito eran 10): una pausa corta entre llamadas basta
+    PAUSA = float(os.environ.get("API_FOOTBALL_PAUSA", "0.3"))
     _ultima = 0.0
 
     def _get(self, ruta: str, **params) -> list:
@@ -53,7 +53,7 @@ class ApiFootball:
         datos = r.json()
         if datos.get("errors"):
             raise RuntimeError(f"API-Football {ruta}: {datos['errors']}")
-        return datos.get("response", [])
+        return datos.get("response", [])  # lista casi siempre; teams/statistics devuelve un objeto
 
     # ── Competiciones ──
     def resolver_ligas(self, competiciones: list[dict]) -> list[dict]:
@@ -118,13 +118,50 @@ class ApiFootball:
                  "pg": t["all"]["win"], "pe": t["all"]["draw"], "pp": t["all"]["lose"],
                  "gf": t["all"]["goals"]["for"], "gc": t["all"]["goals"]["against"],
                  "forma": (t.get("form") or "")[-5:], "zona": zona(t.get("description")),
-                 "escudo": t["team"].get("logo")} for t in tabla]
+                 "escudo": t["team"].get("logo"), "equipo_id": t["team"]["id"]} for t in tabla]
+
+    def estadisticas_partido(self, partido_id: int) -> dict | None:
+        """Posesión, tiros, córners… de un partido. None si la API no las tiene (pasa mucho en 2ª/3ª RFEF)."""
+        resp = self._get("fixtures/statistics", fixture=partido_id)
+        if len(resp) != 2:
+            return None
+        lados = []
+        for equipo in resp:
+            v = {t["type"]: t["value"] for t in equipo.get("statistics", [])}
+            lados.append({k: v.get(tipo) for k, tipo in ESTADISTICAS.items()})
+        if not any(x is not None for lado in lados for x in lado.values()):
+            return None
+        return {"local": lados[0], "visitante": lados[1]}
+
+    def goleadores_liga(self, liga_id: int, temporada: int) -> list[dict]:
+        """Máximos goleadores de la competición (hasta 20)."""
+        salida = []
+        for r in self._get("players/topscorers", league=liga_id, season=temporada)[:20]:
+            st = (r.get("statistics") or [{}])[0]
+            salida.append({"jugador": r["player"]["name"], "equipo": es(st.get("team", {}).get("name")),
+                           "escudo": st.get("team", {}).get("logo"),
+                           "goles": (st.get("goals") or {}).get("total") or 0,
+                           "penaltis": (st.get("penalty") or {}).get("scored") or 0,
+                           "pj": (st.get("games") or {}).get("appearences") or 0})
+        return salida
+
+    def tarjetas_equipo(self, liga_id: int, temporada: int, equipo_id: int) -> tuple[int, int]:
+        """Amarillas y rojas de un equipo en la competición."""
+        r = self._get("teams/statistics", league=liga_id, season=temporada, team=equipo_id)
+        cards = (r or {}).get("cards", {}) if isinstance(r, dict) else {}
+        suma = lambda color: sum((v or {}).get("total") or 0 for v in (cards.get(color) or {}).values())
+        return suma("yellow"), suma("red")
 
     def goleadores(self, partido_id: int) -> list[dict]:
         eventos = self._get("fixtures/events", fixture=partido_id)
         return [{"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]),
                  "jugador": e["player"]["name"], "tipo": e["detail"]}
                 for e in eventos if e["type"] == "Goal" and e["detail"] != "Missed Penalty"]
+
+
+ESTADISTICAS = {"posesion": "Ball Possession", "tiros": "Total Shots", "a_puerta": "Shots on Goal",
+                "corners": "Corner Kicks", "faltas": "Fouls", "fueras_juego": "Offsides",
+                "amarillas": "Yellow Cards", "rojas": "Red Cards"}
 
 
 def zona(desc: str | None) -> str:
@@ -164,10 +201,13 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
     }
 
 
-def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None = None) -> list[dict]:
-    """Devuelve un 'paquete' por competición/grupo con partidos, clasificación y goleadores.
-    conocidos: {id_partido: goleadores} de partidos ya descargados en otra pasada del día (no se repiten llamadas)."""
+def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None = None,
+              stats_conocidas: dict | None = None) -> list[dict]:
+    """Devuelve un 'paquete' por competición/grupo con partidos, clasificación, goleadores y estadísticas.
+    conocidos: {id_partido: goleadores} de partidos ya descargados en otra pasada del día (no se repiten llamadas).
+    stats_conocidas: {id_partido: estadísticas} igual, para las estadísticas del partido."""
     conocidos = conocidos or {}
+    stats_conocidas = stats_conocidas or {}
     ligas = api.resolver_ligas(config["competiciones"])
     print(f"Competiciones encontradas en API-Football: {len(ligas)}")
     for l in ligas:
@@ -180,17 +220,22 @@ def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None
         suyos = [p for p in partidos if p["liga_id"] == liga["id"]]
         if not suyos:
             continue
-        if liga["prioridad"] == 1:
-            for p in suyos:
-                if p["id"] in conocidos:
-                    p["goleadores"] = conocidos[p["id"]]
-                    continue
-                if presupuesto <= 0:
-                    break
+        for p in suyos:  # con el plan Pro: goleadores y estadísticas de todos los partidos
+            if p["id"] in conocidos:
+                p["goleadores"] = conocidos[p["id"]]
+            elif presupuesto > 0:
                 try:
                     p["goleadores"] = api.goleadores(p["id"])
                 except Exception as e:  # sin goleadores la crónica sale igual
                     print(f"Sin goleadores para {p['local']}-{p['visitante']}: {e}")
+                presupuesto -= 1
+            if p["id"] in stats_conocidas:
+                p["estadisticas"] = stats_conocidas[p["id"]]
+            elif presupuesto > 0:
+                try:
+                    p["estadisticas"] = api.estadisticas_partido(p["id"])
+                except Exception as e:
+                    print(f"Sin estadísticas para {p['local']}-{p['visitante']}: {e}")
                 presupuesto -= 1
         try:
             tabla = api.clasificacion(liga["id"], liga["temporada"])
@@ -199,6 +244,26 @@ def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None
             tabla = []
         paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
     return paquetes[: config["limites"]["max_articulos_dia"]]
+
+
+def estadisticas_liga(liga: dict, tabla: list[dict], api: ApiFootball) -> dict:
+    """Máximos goleadores y tarjetas por equipo de una competición (una vez por jornada)."""
+    salida = {"etiqueta": liga["etiqueta"], "competicion": liga["competicion"], "goleadores": [], "tarjetas": []}
+    try:
+        salida["goleadores"] = api.goleadores_liga(liga["id"], liga["temporada"])
+    except Exception as e:
+        print(f"Sin goleadores de {liga['etiqueta']}: {e}")
+    for t in tabla:
+        if not t.get("equipo_id"):
+            continue
+        try:
+            am, ro = api.tarjetas_equipo(liga["id"], liga["temporada"], t["equipo_id"])
+        except Exception as e:
+            print(f"Sin tarjetas de {t['equipo']}: {e}")
+            continue
+        salida["tarjetas"].append({"equipo": t["equipo"], "escudo": t.get("escudo"), "amarillas": am, "rojas": ro})
+    salida["tarjetas"].sort(key=lambda x: (-x["amarillas"] - 3 * x["rojas"], x["equipo"]))
+    return salida
 
 
 def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:

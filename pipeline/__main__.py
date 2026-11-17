@@ -34,12 +34,14 @@ def generar(cfg: dict, fecha: str, demo: bool):
         from .demo import paquetes_demo
         paquetes = paquetes_demo(fecha)
     else:
-        from .fuentes import ApiFootball, recopilar
+        from .fuentes import ApiFootball, recopilar, estadisticas_liga
         api = ApiFootball()
         previos = [json.loads(f.read_text()) for f in (CONTENIDO / "articulos").glob(f"{fecha}-*.json")]
         conocidos = {p["id"]: p.get("goleadores", []) for a in previos if a.get("tipo") != "previa"
                      for p in a.get("partidos", []) if p.get("id")}
-        paquetes = recopilar(fecha, cfg, api, conocidos)
+        stats = {p["id"]: p.get("estadisticas") for a in previos if a.get("tipo") != "previa"
+                 for p in a.get("partidos", []) if p.get("id") and "estadisticas" in p}
+        paquetes = recopilar(fecha, cfg, api, conocidos, stats)
         print(f"API-Football: {api.llamadas} llamadas")
     if not paquetes:
         print(f"Sin partidos terminados el {fecha} en las competiciones configuradas.")
@@ -57,6 +59,12 @@ def generar(cfg: dict, fecha: str, demo: bool):
                 print(f"Ya existe {s} con todos sus partidos, se salta")
                 continue
             print(f"{s}: hay partidos nuevos desde la última pasada, se rehace la crónica")
+        if not demo:  # máximos goleadores y tarjetas de la competición (solo cuando hay jornada nueva)
+            est = estadisticas_liga(liga, paq.get("clasificacion") or [], api)
+            if est["goleadores"] or est["tarjetas"]:
+                (CONTENIDO / "estadisticas").mkdir(exist_ok=True)
+                (CONTENIDO / "estadisticas" / f"{slug(liga['etiqueta'])}.json").write_text(
+                    json.dumps({**est, "fecha": fecha}, ensure_ascii=False, indent=2))
         try:
             texto = redactor.redactar(paq, cfg, demo=demo)
         except Exception as e:  # una competición fallida no tumba el resto
