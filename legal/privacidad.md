@@ -13,14 +13,14 @@ En {nombre} nos tomamos en serio tu privacidad. Aquí te explicamos, de forma cl
 | Datos | Para qué | Base legal | Cuánto tiempo |
 |---|---|---|---|
 | Cookies de publicidad (Google AdSense) | Mostrar anuncios, personalizados si lo aceptas | Tu consentimiento | Según la política de cookies |
-| Cookies de medición de audiencia | Saber cuántas visitas recibimos | Tu consentimiento | Hasta 14 meses |
+| Cookies de medición de audiencia (Google Analytics) | Saber cuántas visitas recibimos y qué artículos se leen, de forma agregada | Tu consentimiento | Hasta 14 meses |
 | Nombre, correo y texto que nos envíes en el formulario de corresponsales o por correo | Contestarte y, si lo pides, publicar tu crónica firmada | Tu consentimiento | Mientras colabores con nosotros o hasta que pidas borrarlos |
 
 No vendemos tus datos ni los usamos para nada distinto de lo indicado.
 
 ## Con quién se comparten
 
-- **Google Ireland Ltd.** (publicidad AdSense y aviso de cookies). Puede transferir datos a EE. UU. bajo el Marco de Privacidad de Datos UE-EE. UU. Más información en [cómo usa Google la información de los sitios que usan sus servicios](https://policies.google.com/technologies/partner-sites).
+- **Google Ireland Ltd.** (estadísticas de Google Analytics, publicidad AdSense y aviso de cookies). Puede transferir datos a EE. UU. bajo el Marco de Privacidad de Datos UE-EE. UU. Más información en [cómo usa Google la información de los sitios que usan sus servicios](https://policies.google.com/technologies/partner-sites).
 - **GitHub Inc.**, que aloja la web y registra datos técnicos de conexión (como la dirección IP) por seguridad.
 - **Google Forms**, si nos escribes a través del formulario de corresponsales.
 

@@ -22,6 +22,11 @@ legal:
 #   cliente → el código de editor que da AdSense (empieza por ca-pub-)
 #   huecos  → el código de cada bloque de anuncio que se crea en AdSense (Anuncios › Por bloque de anuncios)
 #   muestra → true para ver los huecos en gris y revisar dónde caen (ponerlo en false al activar AdSense)
+# Contador de visitas (Google Analytics 4). Pon aquí el ID que empieza por G-.
+# Vacío = no se cuenta nada. Las visitas se ven en analytics.google.com.
+analitica:
+  id: "G-W2M6QPP0P7"
+
 publicidad:
   cliente: ""
   muestra: false
