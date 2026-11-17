@@ -871,66 +871,75 @@
     "movimientos": {
       "Lugo": {
         "antes": 1,
-        "ahora": 1
+        "ahora": 1,
+        "cambio": "se mantiene"
       },
       "UD Logroñés": {
         "antes": 2,
-        "ahora": 2
+        "ahora": 2,
+        "cambio": "se mantiene"
       },
       "Pontevedra": {
         "antes": 4,
-        "ahora": 3
+        "ahora": 3,
+        "cambio": "sube 1 puesto"
       },
       "Mirandés": {
         "antes": 8,
-        "ahora": 4
+        "ahora": 4,
+        "cambio": "sube 4 puestos"
       },
       "Real Avilés": {
         "antes": 7,
-        "ahora": 6
+        "ahora": 6,
+        "cambio": "sube 1 puesto"
       },
       "Extremadura 1924": {
         "antes": 9,
-        "ahora": 9
+        "ahora": 9,
+        "cambio": "se mantiene"
       },
       "Zamora": {
         "antes": 17,
-        "ahora": 16
+        "ahora": 16,
+        "cambio": "sube 1 puesto"
       },
       "Arenas Getxo": {
         "antes": 19,
-        "ahora": 19
+        "ahora": 19,
+        "cambio": "se mantiene"
       }
     }
   },
   "texto": {
-    "titular": "El Mirandés tumba al líder Lugo en el Anxo Carro y salta a puestos de play-off",
-    "entradilla": "El Lugo perdió 1-3 en casa ante un Mirandés que pasó del octavo al cuarto puesto. El líder conserva cuatro puntos de ventaja porque el UD Logroñés solo empató con el Arenas Getxo.",
-    "cuerpo_markdown": "El líder cayó en casa y la zona noble se apretó. El Mirandés ganó 1-3 en el Anxo Carro y subió del octavo al cuarto puesto, ya en play-off. El Lugo sigue primero con 28 puntos, cuatro más que el UD Logroñés, que empató 2-2 con el Arenas Getxo gracias a un gol de M. Baselga en el minuto 90. El Pontevedra, con doblete de P. Gaye, ganó 2-3 en Almendralejo y es tercero. En Zamora, el Real Avilés arrancó un 2-2 con un penalti en el 90 tras jugar con diez desde el minuto 33.\n\n## Lugo 1-3 Mirandés\n\nEl Mirandés golpeó pronto: J. Gonzalez marcó en el minuto 5 e I. Unzueta amplió de penalti en el 33. R. Martinez hizo el 0-3 en el 56. El visitante se quedó con diez por la expulsión de M. Lozano en el 68, y un minuto después A. Costa recortó de penalti para el Lugo.\n\nEl Lugo, que solo había perdido una vez en casa, sigue líder con 28 puntos. El Mirandés suma 20 y escala del octavo al cuarto puesto, dentro del play-off.\n\n## UD Logroñés 2-2 Arenas Getxo\n\nE. Zabaleta adelantó al Arenas Getxo en el minuto 33 y C. Garcia empató en el 55. El autor del gol local fue expulsado en el 73, y un minuto después R. Torres Manzanares puso el 1-2 de penalti. Con diez, el UD Logroñés igualó en el 90 con un tanto de M. Baselga.\n\nEl UD Logroñés mantiene la segunda plaza con 24 puntos, a cuatro del Lugo. El Arenas Getxo, con 12, sigue penúltimo.\n\n## Extremadura 1924 2-3 Pontevedra\n\nP. Gaye abrió el marcador en el minuto 12 y Rodri empató en el 24. Gaye firmó su doblete en el 40 y D. Mba hizo el 1-3 en el 75. I. Burgos acortó en el 90. El Pontevedra sube del cuarto al tercer puesto con 21 puntos y suma cuatro victorias en sus últimos cinco partidos. El Extremadura 1924 se queda noveno con 16.\n\n## Zamora 2-2 Real Avilés\n\nEl Real Avilés jugó con diez desde el minuto 33 por la expulsión de A. Carmona. El Zamora se puso 2-0 con goles de I. Yurrieta Incera (54) y J. Albert (62). D. Liduena Alonso recortó en el 64, y en el 90 A. Santamaria empató de penalti. En el mismo minuto vio la roja J. Albert. El Zamora pasa del 17º al 16º puesto con 13 puntos, todavía en descenso. El Real Avilés sube del séptimo al sexto con 18.\n\n## Así queda la clasificación\n\nEl Lugo lidera con 28 puntos, cuatro más que el UD Logroñés (24). Completan el play-off el Pontevedra (21), el Mirandés (20) y el Mérida AD (19). El Real Avilés, el Cacereño y el Racing de Ferrol, con 18, están a un punto. Abajo, la Cultural Leonesa marca la salvación con 13 puntos, los mismos que Zamora y Unionistas de Salamanca, ya en descenso. Les siguen el Deportivo La Coruña II y el Arenas Getxo, con 12, y el UD Ourense, colista con 8.",
-    "texto_instagram": "⚽ El Mirandés asalta el Anxo Carro (1-3) y se mete en play-off; el Lugo sigue líder con cuatro puntos de ventaja. Doblete de Gaye y el Pontevedra ya es tercero 🔥\n\nLugo 1-3 Mirandés: J. Gonzalez 5', Unzueta 33' (p), R. Martinez 56'; A. Costa 69' (p)\nUD Logroñés 2-2 Arenas Getxo: Zabaleta 33', C. Garcia 55', Torres Manzanares 74' (p), Baselga 90'\nExtremadura 1924 2-3 Pontevedra: Gaye 12' y 40', Rodri 24', Mba 75', Burgos 90'\nZamora 2-2 Real Avilés: Yurrieta Incera 54', Albert 62', Liduena Alonso 64', Santamaria 90' (p) 📊",
+    "titular": "El Mirandés asalta Lugo y se mete en play-off; el líder conserva cuatro puntos",
+    "entradilla": "El Mirandés ganó 1-3 en el Anxo Carro con diez desde el 68 y escaló del octavo al cuarto puesto. El Lugo sigue líder con 28 puntos, cuatro más que el UD Logroñés, que empató en el 90 ante el Arenas Getxo.",
+    "cuerpo_markdown": "La duodécima jornada del Grupo 1 de Primera Federación dejó al líder sin puntos y a la zona de play-off con nuevo inquilino. El Mirandés ganó 1-3 en Lugo y subió cuatro puestos, hasta el cuarto. El Lugo mantiene el liderato con 28 puntos porque el UD Logroñés no pasó del 2-2 ante el Arenas Getxo. El Pontevedra venció 2-3 en Almendralejo con un doblete de P. Gaye y es tercero. Hubo cuatro expulsiones y cuatro goles en el minuto 90 o más en los cuatro partidos.\n\n## Lugo 1-3 Mirandés\n\nEl Mirandés se impuso en el Anxo Carro con goles de J. Gonzalez (5), I. Unzueta de penalti (33) y R. Martinez (56). A. Costa recortó de penalti en el 69, un minuto después de la expulsión de M. Lozano, que dejó al Mirandés con diez desde el 68.\n\nLa victoria impulsa al Mirandés del octavo al cuarto puesto, con 20 puntos, ya en zona de play-off. El Lugo sigue líder con 28 puntos y conserva cuatro de ventaja sobre el segundo.\n\n## Extremadura 1924 2-3 Pontevedra\n\nP. Gaye firmó un doblete para el Pontevedra (12 y 40); entre medias empató Rodri (24) para el Extremadura 1924. D. Mba amplió en el 75 y I. Burgos acortó en el 90, sin tiempo para más.\n\nEl Pontevedra encadena su segunda victoria seguida, la cuarta en los últimos cinco partidos, y sube del cuarto al tercer puesto con 21 puntos. El Extremadura 1924 se mantiene noveno con 16.\n\n## Zamora 2-2 Real Avilés\n\nEl Real Avilés jugó con diez desde el 33 por la expulsión de A. Carmona. El Zamora se adelantó con goles de I. Yurrieta Incera (54) y J. Albert (62), pero D. Liduena Alonso recortó en el 64 y A. Santamaria empató de penalti en el 90. J. Albert, autor del segundo gol local, fue expulsado en el 90. El Zamora suma cinco partidos sin ganar y, aunque sube del 17.º al 16.º puesto, sigue en descenso con 13 puntos. El Real Avilés sube del séptimo al sexto, con 18, a un punto del play-off.\n\n## UD Logroñés 2-2 Arenas Getxo\n\nE. Zabaleta adelantó al Arenas Getxo en el 33 y C. Garcia empató en el 55. El propio C. Garcia fue expulsado en el 73 y un minuto después R. Torres Manzanares marcó de penalti el 1-2. M. Baselga rescató el empate para el UD Logroñés en el 90. El conjunto riojano se mantiene segundo con 24 puntos, a cuatro del líder. El Arenas Getxo sigue 19.º, en descenso, con 12 puntos, a uno de la salvación.\n\n## Así queda la clasificación\n\nEl Lugo lidera con 28 puntos, cuatro más que el UD Logroñés (24). La zona de play-off la completan Pontevedra (21), Mirandés (20) y Mérida AD (19); por detrás, Real Avilés, Cacereño y Racing de Ferrol, con 18, están a un punto. En la parte baja, Cultural Leonesa marca la salvación con 13 puntos, los mismos que Zamora y Unionistas de Salamanca, ya en descenso. Deportivo La Coruña II y Arenas Getxo tienen 12 y el UD Ourense cierra la tabla con 8, a cinco de la permanencia.",
+    "texto_instagram": "⚽ El Mirandés gana 1-3 en Lugo con diez y salta del 8.º al 4.º puesto. El líder conserva cuatro puntos sobre el UD Logroñés, que empató en el 90 🔥\n\nLugo 1-3 Mirandés: J. Gonzalez (5), I. Unzueta (33, p.), R. Martinez (56); A. Costa (69, p.)\nExtremadura 1924 2-3 Pontevedra: Rodri (24), I. Burgos (90); P. Gaye (12, 40), D. Mba (75)\nZamora 2-2 Real Avilés: I. Yurrieta Incera (54), J. Albert (62); D. Liduena Alonso (64), A. Santamaria (90, p.)\nUD Logroñés 2-2 Arenas Getxo: C. Garcia (55), M. Baselga (90); E. Zabaleta (33), R. Torres Manzanares (74, p.) 📊",
     "hashtags": [
-      "#PrimeraFederación",
-      "#Grupo1",
+      "#PrimeraFederacion",
+      "#1RFEF",
       "#Lugo",
-      "#Mirandés",
+      "#Mirandes",
       "#Pontevedra",
-      "#UDLogroñés",
+      "#UDLogrones",
       "#Zamora",
-      "#RealAvilés"
+      "#RealAviles",
+      "#ArenasGetxo",
+      "#Extremadura1924"
     ],
     "partido_destacado_id": 1570830,
     "cronica_estrella": {
       "partido_id": 1570830,
-      "titular": "El Mirandés gana 1-3 en el campo del líder Lugo y entra en play-off",
-      "entradilla": "Goles de J. Gonzalez, Unzueta de penalti y R. Martinez dieron al Mirandés la victoria en el Anxo Carro. El equipo burgalés sube del octavo al cuarto puesto.",
+      "titular": "El Mirandés gana 1-3 en Lugo con diez y entra en el play-off",
+      "entradilla": "El Mirandés sumó en el Anxo Carro una victoria que lo sube del octavo al cuarto puesto. El Lugo, pese a la derrota, sigue líder con 28 puntos.",
       "parrafos": [
-        "El Mirandés ganó 1-3 al Lugo en el Anxo Carro y dejó tocado al líder. Con el triunfo, el equipo visitante sube del octavo al cuarto puesto y entra en la zona de play-off.",
-        "J. Gonzalez adelantó al Mirandés en el minuto 5. I. Unzueta marcó el segundo de penalti en el 33, y R. Martinez puso el 0-3 en el 56.",
-        "En el minuto 68, M. Lozano fue expulsado y el Mirandés se quedó con diez. Un minuto después, A. Costa transformó un penalti para el 1-3 definitivo.",
-        "El Lugo sigue líder con 28 puntos, cuatro más que el UD Logroñés. Es su segunda derrota en casa esta temporada, tras cinco victorias en seis partidos como local.",
-        "El Mirandés suma 20 puntos, a uno del tercero, el Pontevedra, y a ocho del liderato."
+        "El Mirandés derrotó 1-3 al Lugo en el Anxo Carro en la duodécima jornada del Grupo 1 de Primera Federación. El triunfo lo eleva cuatro puestos, del octavo al cuarto, y lo coloca en zona de play-off con 20 puntos.",
+        "J. Gonzalez abrió el marcador en el minuto 5. I. Unzueta amplió de penalti en el 33 y R. Martinez hizo el 0-3 en el 56.",
+        "El partido cambió en el 68 con la expulsión de M. Lozano, del Mirandés. Un minuto después, A. Costa recortó de penalti para el Lugo, que ya no volvió a marcar.",
+        "El Lugo conserva el liderato con 28 puntos, cuatro más que el UD Logroñés, que empató 2-2 ante el Arenas Getxo. El Mirandés queda a un punto del Pontevedra, tercero, y a uno por encima del Mérida AD, quinto."
       ],
-      "el_dato": "El Mirandés marcó tres goles en el Anxo Carro, donde el Lugo solo había encajado cinco en sus cinco partidos anteriores como local."
+      "el_dato": "El Mirandés subió cuatro puestos en una sola jornada, del octavo al cuarto."
     }
   }
 }

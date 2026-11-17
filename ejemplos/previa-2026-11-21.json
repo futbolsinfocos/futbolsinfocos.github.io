@@ -56,7 +56,7 @@
                 "campo": "fuera",
                 "marcador": "3-1",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-08",
@@ -64,7 +64,7 @@
                 "campo": "casa",
                 "marcador": "0-2",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-31",
@@ -72,7 +72,7 @@
                 "campo": "fuera",
                 "marcador": "1-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-27",
@@ -88,7 +88,7 @@
                 "campo": "casa",
                 "marcador": "2-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           },
@@ -118,7 +118,7 @@
                 "campo": "casa",
                 "marcador": "0-0",
                 "resultado": "E",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-08",
@@ -126,7 +126,7 @@
                 "campo": "fuera",
                 "marcador": "0-2",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-31",
@@ -134,7 +134,7 @@
                 "campo": "casa",
                 "marcador": "3-1",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-24",
@@ -142,7 +142,7 @@
                 "campo": "fuera",
                 "marcador": "1-2",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-18",
@@ -150,23 +150,11 @@
                 "campo": "fuera",
                 "marcador": "1-2",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           }
-        },
-        "historial": [
-          {
-            "fecha": "2025-07-26",
-            "competicion": "Friendlies Clubs",
-            "resultado": "Athletic Club II 1-0 Mirandés"
-          },
-          {
-            "fecha": "2022-07-27",
-            "competicion": "Friendlies Clubs",
-            "resultado": "Athletic Club II 0-0 Mirandés"
-          }
-        ]
+        }
       },
       {
         "id": 1570843,
@@ -212,7 +200,7 @@
                 "campo": "casa",
                 "marcador": "1-2",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-08",
@@ -220,7 +208,7 @@
                 "campo": "fuera",
                 "marcador": "1-1",
                 "resultado": "E",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-31",
@@ -228,7 +216,7 @@
                 "campo": "fuera",
                 "marcador": "0-0",
                 "resultado": "E",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-27",
@@ -244,7 +232,7 @@
                 "campo": "casa",
                 "marcador": "0-0",
                 "resultado": "E",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           },
@@ -274,7 +262,7 @@
                 "campo": "casa",
                 "marcador": "2-3",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-06",
@@ -282,7 +270,7 @@
                 "campo": "fuera",
                 "marcador": "2-5",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-01",
@@ -290,7 +278,7 @@
                 "campo": "casa",
                 "marcador": "3-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-27",
@@ -306,7 +294,7 @@
                 "campo": "fuera",
                 "marcador": "5-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           }
@@ -356,7 +344,7 @@
                 "campo": "fuera",
                 "marcador": "3-2",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-07",
@@ -364,7 +352,7 @@
                 "campo": "casa",
                 "marcador": "1-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-01",
@@ -372,7 +360,7 @@
                 "campo": "fuera",
                 "marcador": "0-0",
                 "resultado": "E",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-27",
@@ -388,7 +376,7 @@
                 "campo": "fuera",
                 "marcador": "2-1",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           },
@@ -418,7 +406,7 @@
                 "campo": "casa",
                 "marcador": "1-3",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-06",
@@ -426,7 +414,7 @@
                 "campo": "fuera",
                 "marcador": "1-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-11-01",
@@ -434,7 +422,7 @@
                 "campo": "casa",
                 "marcador": "2-1",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-23",
@@ -442,7 +430,7 @@
                 "campo": "fuera",
                 "marcador": "1-4",
                 "resultado": "P",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               },
               {
                 "fecha": "2026-10-17",
@@ -450,7 +438,7 @@
                 "campo": "casa",
                 "marcador": "3-0",
                 "resultado": "G",
-                "competicion": "Primera División RFEF - Group 1"
+                "competicion": "Primera Federación · Grupo 1"
               }
             ]
           }
@@ -458,18 +446,13 @@
         "historial": [
           {
             "fecha": "2026-02-21",
-            "competicion": "Primera División RFEF - Group 1",
+            "competicion": "Primera Federación · Grupo 1",
             "resultado": "Pontevedra 1-1 Lugo"
           },
           {
             "fecha": "2025-11-22",
-            "competicion": "Primera División RFEF - Group 1",
+            "competicion": "Primera Federación · Grupo 1",
             "resultado": "Lugo 1-0 Pontevedra"
-          },
-          {
-            "fecha": "2024-08-17",
-            "competicion": "Friendlies Clubs",
-            "resultado": "Pontevedra 1-0 Lugo"
           }
         ]
       }
@@ -1124,7 +1107,7 @@
           "campo": "fuera",
           "marcador": "3-1",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-08",
@@ -1132,7 +1115,7 @@
           "campo": "casa",
           "marcador": "0-2",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-31",
@@ -1140,7 +1123,7 @@
           "campo": "fuera",
           "marcador": "1-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-27",
@@ -1156,7 +1139,7 @@
           "campo": "casa",
           "marcador": "2-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ],
       "Athletic Club II": [
@@ -1166,7 +1149,7 @@
           "campo": "casa",
           "marcador": "0-0",
           "resultado": "E",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-08",
@@ -1174,7 +1157,7 @@
           "campo": "fuera",
           "marcador": "0-2",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-31",
@@ -1182,7 +1165,7 @@
           "campo": "casa",
           "marcador": "3-1",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-24",
@@ -1190,7 +1173,7 @@
           "campo": "fuera",
           "marcador": "1-2",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-18",
@@ -1198,7 +1181,7 @@
           "campo": "fuera",
           "marcador": "1-2",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ],
       "Ponferradina": [
@@ -1208,7 +1191,7 @@
           "campo": "casa",
           "marcador": "1-2",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-08",
@@ -1216,7 +1199,7 @@
           "campo": "fuera",
           "marcador": "1-1",
           "resultado": "E",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-31",
@@ -1224,7 +1207,7 @@
           "campo": "fuera",
           "marcador": "0-0",
           "resultado": "E",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-27",
@@ -1240,7 +1223,7 @@
           "campo": "casa",
           "marcador": "0-0",
           "resultado": "E",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ],
       "Extremadura 1924": [
@@ -1250,7 +1233,7 @@
           "campo": "casa",
           "marcador": "2-3",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-06",
@@ -1258,7 +1241,7 @@
           "campo": "fuera",
           "marcador": "2-5",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-01",
@@ -1266,7 +1249,7 @@
           "campo": "casa",
           "marcador": "3-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-27",
@@ -1282,7 +1265,7 @@
           "campo": "fuera",
           "marcador": "5-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ],
       "Pontevedra": [
@@ -1292,7 +1275,7 @@
           "campo": "fuera",
           "marcador": "3-2",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-07",
@@ -1300,7 +1283,7 @@
           "campo": "casa",
           "marcador": "1-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-01",
@@ -1308,7 +1291,7 @@
           "campo": "fuera",
           "marcador": "0-0",
           "resultado": "E",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-27",
@@ -1324,7 +1307,7 @@
           "campo": "fuera",
           "marcador": "2-1",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ],
       "Lugo": [
@@ -1334,7 +1317,7 @@
           "campo": "casa",
           "marcador": "1-3",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-06",
@@ -1342,7 +1325,7 @@
           "campo": "fuera",
           "marcador": "1-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-11-01",
@@ -1350,7 +1333,7 @@
           "campo": "casa",
           "marcador": "2-1",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-23",
@@ -1358,7 +1341,7 @@
           "campo": "fuera",
           "marcador": "1-4",
           "resultado": "P",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         },
         {
           "fecha": "2026-10-17",
@@ -1366,194 +1349,198 @@
           "campo": "casa",
           "marcador": "3-0",
           "resultado": "G",
-          "competicion": "Primera División RFEF - Group 1"
+          "competicion": "Primera Federación · Grupo 1"
         }
       ]
     }
   },
   "texto": {
-    "titular": "El Pontevedra pone a prueba a un Lugo líder que viene de perder",
-    "entradilla": "El tercero recibe al primero en la jornada 13 del Grupo 1 de Primera Federación. El Pontevedra no pierde en Liga desde hace cuatro partidos y está a siete puntos del Lugo, que cayó en casa ante el Mirandés.",
-    "presentacion": "La jornada del sábado afecta a la zona alta. El Lugo lidera con 28 puntos, cuatro más que la UD Logroñés. Pontevedra (21) y Mirandés (20) ocupan la tercera y la cuarta plaza, en puestos de play-off, y ambos juegan en casa. En la zona media, Extremadura 1924 (16) visita a una Ponferradina (15) que solo tiene dos puntos de margen sobre el descenso.",
+    "titular": "El Lugo, líder tocado, visita a un Pontevedra que encadena cinco jornadas sin perder",
+    "entradilla": "El Lugo defiende en Pasarón cuatro puntos de ventaja sobre el segundo tras caer 1-3 en casa ante el Mirandés. Enfrente, el tercer clasificado, invicto en sus últimas cinco jornadas de liga.",
+    "presentacion": "La jornada 13 del Grupo 1 arranca con tres partidos. El Lugo lidera con 28 puntos, cuatro más que el UD Logroñés y siete más que el Pontevedra, tercero con 21. El Mirandés, cuarto con 20, recibe en Anduva al Athletic Club II, décimo con 16. Por la tarde, Ponferradina (14º, 15 puntos) y Extremadura 1924 (9º, 16) se miden en El Toralín, a tres y cuatro puntos del play-off que marca el Mérida AD con 19.",
     "claves": [
-      "El Mirandés ganó 1-3 en Lugo la jornada pasada y le cortó una racha de dos victorias seguidas.",
-      "El Pontevedra suma cuatro jornadas de Liga sin perder: tres victorias y un empate.",
-      "La Ponferradina ha marcado 8 goles en 12 jornadas; el Extremadura 1924 lleva 15 solo fuera de casa."
+      "El Lugo perdió su última jornada en casa ante el Mirandés (1-3), su segunda derrota de la temporada.",
+      "La Ponferradina suma 8 goles en 12 jornadas, solo por delante del UD Ourense (5).",
+      "El Extremadura 1924 ha marcado 15 goles fuera de casa, la segunda mejor cifra del grupo tras el UD Logroñés (16)."
     ],
     "partidos": [
       {
-        "id": 1570844,
-        "titular": "El Pontevedra, cuatro jornadas sin perder, desafía al líder",
-        "entradilla": "El tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.",
-        "parrafos": [
-          "El Pontevedra y el Lugo se miden este sábado a las 18:45 en Pontevedra, en la jornada 13 del Grupo 1 de Primera Federación. Es el partido del tercero contra el primero. Separa a ambos una distancia de siete puntos.",
-          "El Pontevedra es tercero con 21 puntos y no pierde en Liga desde hace cuatro jornadas. En ese tramo ha ganado 2-1 en el campo de la Cultural Leonesa, ha empatado 0-0 en el de Barakaldo, ha ganado 1-0 al UD Ourense y 3-2 en el del Extremadura 1924. Su única derrota reciente fue en la Copa del Rey, 0-2 ante el Arosa. En casa es menos sólido que fuera: tres victorias, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
-          "El Lugo es líder con 28 puntos, 9 victorias y la mejor diferencia de goles del grupo, +8, igual que la UD Logroñés. Pero llega tras perder 1-3 en casa ante el Mirandés y ha caído en dos de sus últimos cuatro partidos, después de haber perdido también 4-1 en el campo del Real Unión. Fuera de casa es fiable: cuatro victorias, un empate y una derrota.",
-          "El último enfrentamiento de Liga terminó en empate en Pontevedra. La UD Logroñés, segunda con 24 puntos, está pendiente de lo que haga el líder."
-        ],
-        "precedente": "El 21 de febrero de 2026 empataron 1-1 en Pontevedra. En noviembre de 2025 ganó el Lugo 1-0 en su campo.",
-        "el_dato": "El Lugo ha sumado 13 de los 18 puntos que ha disputado como visitante.",
-        "claves": [
-          {
-            "titulo": "Siete puntos de diferencia",
-            "texto": "El Lugo tiene 28 puntos y el Pontevedra 21; una victoria local reduciría la distancia a cuatro."
-          },
-          {
-            "titulo": "Líder tocado",
-            "texto": "El Lugo ha perdido dos de sus últimos cuatro partidos, 4-1 contra el Real Unión y 1-3 contra el Mirandés."
-          },
-          {
-            "titulo": "Pontevedra, mejor fuera",
-            "texto": "Ha encajado 7 goles en seis partidos en casa y 6 en seis partidos fuera."
-          }
-        ]
-      },
-      {
         "id": 1570842,
-        "titular": "El Mirandés busca confirmar en Anduva su victoria en Lugo",
-        "entradilla": "El cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.",
+        "titular": "El Mirandés vuelve a Anduva tras tumbar al líder y con el play-off en la mano",
+        "entradilla": "El cuarto clasificado recibe a un Athletic Club II que solo ha ganado uno de sus últimos cinco partidos de liga. Una victoria mantendría al Mirandés en la pelea por la zona alta.",
         "parrafos": [
-          "El Mirandés recibe al Athletic Club II este sábado a las 13:00 en el Estadio Municipal de Anduva, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son cuartos, con 20 puntos; los visitantes son décimos, con 16.",
-          "El Mirandés llega después de ganar 1-3 en el campo del líder. Lleva tres victorias en sus últimas cuatro jornadas de Liga, aunque entre ellas perdió 0-2 en casa ante el CD Coria. En Anduva ha ganado tres partidos, ha empatado uno y ha perdido uno, con solo 3 goles encajados en cinco partidos.",
-          "El Athletic Club II ha ganado solo uno de sus últimos cinco partidos, 3-1 al Cacereño. Fuera de casa ha perdido sus tres últimos encuentros: 1-2 en el campo del CD Coria, 1-2 en el del Unionistas de Salamanca y 0-2 en el del Mérida AD. Viene de empatar 0-0 con el Racing de Ferrol.",
-          "Una victoria local mantendría al Mirandés en zona de play-off y lo pondría a siete puntos del filial rojiblanco."
+          "El Mirandés recibe este sábado a las 13:00 al Athletic Club II en el Estadio Municipal de Anduva, en Miranda de Ebro, en la jornada 13 de Primera Federación.",
+          "Los rojillos son cuartos con 20 puntos (6 victorias, 2 empates y 4 derrotas) y llegan de ganar 1-3 en el campo del líder, el Lugo. En casa han firmado tres triunfos, un empate y una derrota, con solo 3 goles encajados en cinco partidos. Su único tropiezo reciente en Anduva fue el 0-2 ante el CD Coria.",
+          "El filial rojiblanco es décimo con 16 puntos y un balance equilibrado: 4 victorias, 4 empates y 4 derrotas. Su forma es discreta: un empate sin goles ante el Racing de Ferrol, una derrota en Mérida (2-0) y una sola victoria en las últimas cinco jornadas. Lejos de Lezama suma dos triunfos, un empate y tres derrotas.",
+          "Cuatro puntos separan a ambos. El Mirandés está a uno del Pontevedra, tercero, y el Athletic Club II quedaría a tres del play-off si gana en Anduva."
         ],
-        "precedente": "Solo se han enfrentado en partidos amistosos. El último, en julio de 2025, lo ganó el Athletic Club II por 1-0.",
-        "el_dato": "El Mirandés ha encajado 3 goles en cinco partidos como local.",
+        "precedente": "",
+        "el_dato": "El Mirandés solo ha encajado 3 goles en sus cinco partidos en Anduva.",
         "claves": [
           {
-            "titulo": "Golpe en Lugo",
-            "texto": "El Mirandés ganó 1-3 en el campo del líder en la última jornada."
+            "titulo": "Solidez en casa",
+            "texto": "El Mirandés ha ganado tres de sus cinco partidos como local y solo ha perdido uno."
           },
           {
-            "titulo": "Filial sin puntos fuera",
-            "texto": "El Athletic Club II ha perdido sus tres últimos partidos como visitante."
+            "titulo": "Filial irregular",
+            "texto": "El Athletic Club II ha perdido tres de sus últimas cinco jornadas de liga."
           },
           {
-            "titulo": "Cuatro puntos de diferencia",
-            "texto": "El Mirandés tiene 20 puntos y el Athletic Club II tiene 16."
+            "titulo": "Moral alta",
+            "texto": "El Mirandés llega de ganar 1-3 en el campo del líder, el Lugo."
           }
         ]
       },
       {
         "id": 1570843,
-        "titular": "La Ponferradina, sin gol, se mide al mejor ataque visitante del grupo",
-        "entradilla": "El equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.",
+        "titular": "La Ponferradina, sin ganar en cinco jornadas, mide su falta de gol con el Extremadura",
+        "entradilla": "El equipo berciano, el segundo menos goleador del grupo, recibe a un Extremadura 1924 que marca mucho fuera pero llega de dos derrotas seguidas.",
         "parrafos": [
-          "La Ponferradina recibe al Extremadura 1924 este sábado a las 18:45 en Ponferrada, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son decimocuartos, con 15 puntos. Los visitantes son novenos, con 16.",
-          "La Ponferradina no ha ganado ninguno de sus últimos cinco partidos: ha empatado cuatro y viene de perder 1-2 en casa ante el Cacereño. Ha marcado 8 goles en 12 jornadas; solo el UD Ourense ha marcado menos. En casa ha marcado 3 goles en seis partidos. Tiene dos puntos más que el Zamora, el primer equipo en puestos de descenso.",
-          "El Extremadura 1924 presenta el perfil contrario. Ha marcado 23 goles y fuera de casa lleva 15 en seis partidos, el segundo mejor registro del grupo. Sin embargo, llega tras dos derrotas en las que ha encajado ocho goles: 5-2 en el campo del Real Avilés y 2-3 en casa ante el Pontevedra. Antes había ganado 0-5 en el campo del Deportivo La Coruña II."
+          "Ponferradina y Extremadura 1924 se enfrentan este sábado a las 18:45 en Ponferrada, en la jornada 13 de Primera Federación. Un punto separa a los dos equipos, ambos en la zona media de la tabla.",
+          "La Ponferradina es 14ª con 15 puntos y es el equipo de los empates: seis en doce jornadas. No gana en liga desde hace cinco partidos, con cuatro empates seguidos y la derrota ante el Cacereño (1-2) en la última jornada. Su problema es el gol: 8 tantos a favor, solo por delante del UD Ourense. En casa ha marcado 3 goles en seis partidos.",
+          "El Extremadura 1924 es noveno con 16 puntos y propone lo contrario: 23 goles a favor y 18 en contra. Fuera ha marcado 15, con tres victorias y tres derrotas, sin un solo empate. Llega en mala racha: perdió 2-5 en Avilés y 2-3 en casa ante el Pontevedra, ocho goles encajados en dos jornadas.",
+          "El play-off, que marca el Mérida AD con 19 puntos, queda a cuatro para la Ponferradina y a tres para el Extremadura."
         ],
         "precedente": "",
-        "el_dato": "El Extremadura 1924 ha marcado 15 goles fuera de casa, casi el doble de los 8 que suma la Ponferradina en todo el campeonato.",
+        "el_dato": "La Ponferradina ha marcado 3 goles en sus seis partidos en casa.",
         "claves": [
           {
-            "titulo": "Seis empates",
-            "texto": "La Ponferradina ha empatado la mitad de sus 12 partidos de Liga."
+            "titulo": "Gol escaso",
+            "texto": "La Ponferradina suma 8 goles en 12 jornadas, el segundo peor registro del grupo."
           },
           {
-            "titulo": "Defensa visitante frágil",
-            "texto": "El Extremadura 1924 ha encajado 8 goles en sus dos últimos partidos."
+            "titulo": "Peligro visitante",
+            "texto": "El Extremadura 1924 ha marcado 15 goles en seis partidos fuera de casa."
           },
           {
-            "titulo": "Margen corto",
-            "texto": "La Ponferradina tiene 15 puntos, dos más que el Zamora, decimosexto."
+            "titulo": "Defensa en apuros",
+            "texto": "El Extremadura encajó ocho goles en sus dos últimas jornadas, ambas perdidas."
+          }
+        ]
+      },
+      {
+        "id": 1570844,
+        "titular": "El Lugo pone a prueba su liderato ante el Pontevedra, invicto en cinco jornadas",
+        "entradilla": "El líder llega de perder 1-3 en casa y defiende cuatro puntos de ventaja. El Pontevedra, tercero a siete, puede recortar distancias.",
+        "parrafos": [
+          "El Pontevedra recibe al Lugo este sábado a las 18:45 en Pontevedra, en la jornada 13 de Primera Federación. Es el partido de la jornada: el tercero contra el líder, separados por siete puntos.",
+          "El Pontevedra es tercero con 21 puntos y llega en su mejor momento: cinco jornadas de liga sin perder, con cuatro victorias, la última por 3-2 en el campo del Extremadura 1924. En casa es menos fiable: tres triunfos, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
+          "El Lugo lidera con 28 puntos (9 victorias, 1 empate y 2 derrotas) y la mejor diferencia de goles del grupo, +8, compartida con UD Logroñés y Real Avilés. Pero viene de caer 1-3 ante el Mirandés en casa. Fuera es sólido: cuatro victorias, un empate y una derrota.",
+          "Una derrota del Lugo dejaría al Pontevedra a cuatro puntos y daría opciones al UD Logroñés, segundo con 24, de acercarse al liderato."
+        ],
+        "precedente": "El último enfrentamiento, el 21 de febrero de 2026 en Pontevedra, acabó 1-1. En noviembre de 2025 el Lugo ganó 1-0 en casa.",
+        "el_dato": "El Pontevedra no pierde en liga desde hace cinco jornadas, con cuatro victorias y un empate.",
+        "claves": [
+          {
+            "titulo": "Líder herido",
+            "texto": "El Lugo llega de perder 1-3 en casa ante el Mirandés, su segunda derrota del curso."
+          },
+          {
+            "titulo": "Fiable a domicilio",
+            "texto": "El Lugo ha sumado 13 de 18 puntos posibles fuera de casa."
+          },
+          {
+            "titulo": "Pontevedra lanzado",
+            "texto": "El Pontevedra ha ganado cuatro de sus últimas cinco jornadas de liga."
           }
         ]
       }
     ],
-    "texto_instagram": "⚽ Jornada 13 del Grupo 1 de Primera Federación. El Pontevedra, tercero y con cuatro jornadas de Liga sin perder, recibe al Lugo, líder con 28 puntos que viene de caer 1-3 ante el Mirandés. El Mirandés, cuarto, recibe en Anduva a un Athletic Club II que ha perdido sus tres últimos partidos fuera. La Ponferradina, con 8 goles en 12 jornadas, se mide al Extremadura 1924, que ha marcado 15 goles como visitante.\n\n🕐 13:00 Mirandés - Athletic Club II\n🕐 18:45 Ponferradina - Extremadura 1924\n🕐 18:45 Pontevedra - Lugo",
+    "texto_instagram": "⚽ Jornada 13 en el Grupo 1 de Primera Federación. El Lugo, líder con 28 puntos, visita al Pontevedra, tercero con 21 e invicto en cinco jornadas, tras caer 1-3 en casa ante el Mirandés. Los rojillos, cuartos, reciben al Athletic Club II en Anduva, donde solo han encajado 3 goles. La Ponferradina, sin ganar en cinco jornadas, mide su falta de gol con el Extremadura 1924.\n\n13:00 Mirandés - Athletic Club II\n18:45 Ponferradina - Extremadura 1924\n18:45 Pontevedra - Lugo",
     "hashtags": [
-      "#PrimeraFederacion",
-      "#PontevedraLugo",
-      "#Mirandes",
+      "#PrimeraFederación",
+      "#Grupo1",
+      "#Pontevedra",
+      "#Lugo",
+      "#Mirandés",
       "#Ponferradina",
       "#Extremadura1924",
       "#AthleticClub"
     ],
     "partido_destacado_id": 1570844,
-    "cuerpo_markdown": "La jornada del sábado afecta a la zona alta. El Lugo lidera con 28 puntos, cuatro más que la UD Logroñés. Pontevedra (21) y Mirandés (20) ocupan la tercera y la cuarta plaza, en puestos de play-off, y ambos juegan en casa. En la zona media, Extremadura 1924 (16) visita a una Ponferradina (15) que solo tiene dos puntos de margen sobre el descenso.\n\n## Claves de la jornada\n\n- El Mirandés ganó 1-3 en Lugo la jornada pasada y le cortó una racha de dos victorias seguidas.\n- El Pontevedra suma cuatro jornadas de Liga sin perder: tres victorias y un empate.\n- La Ponferradina ha marcado 8 goles en 12 jornadas; el Extremadura 1924 lleva 15 solo fuera de casa.\n\n## Mirandés - Athletic Club II\n\n<p class=\"ficha\"><b>13:00</b> · Estadio Municipal de Anduva (Miranda de Ebro) · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Mirandés</span><span class=\"fG\" title=\"2-0 vs Racing de Ferrol\">G</span><span class=\"fE\" title=\"3-3 vs Atlético Tordesillas\">E</span><span class=\"fG\" title=\"1-0 vs UD Logroñés\">G</span><span class=\"fP\" title=\"0-2 vs CD Coria\">P</span><span class=\"fG\" title=\"3-1 vs Lugo\">G</span><br><span class=\"eq\">Athletic Club II</span><span class=\"fP\" title=\"1-2 vs CD Coria\">P</span><span class=\"fP\" title=\"1-2 vs Unionistas de Salamanca\">P</span><span class=\"fG\" title=\"3-1 vs Cacereño\">G</span><span class=\"fP\" title=\"0-2 vs Mérida AD\">P</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span></p>\n\nEl cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.\n\n[Leer la previa completa →](../previas/2026-11-21-mirandes-athletic-club-ii.html)\n\n## Ponferradina - Extremadura 1924\n\n<p class=\"ficha\"><b>18:45</b> · Ponferrada · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Ponferradina</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fE\" title=\"1-1 vs Llanera\">E</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span><span class=\"fE\" title=\"1-1 vs Cultural Leonesa\">E</span><span class=\"fP\" title=\"1-2 vs Cacereño\">P</span><br><span class=\"eq\">Extremadura 1924</span><span class=\"fG\" title=\"5-0 vs Deportivo La Coruña II\">G</span><span class=\"fG\" title=\"4-2 vs Don Benito\">G</span><span class=\"fG\" title=\"3-0 vs Unionistas de Salamanca\">G</span><span class=\"fP\" title=\"2-5 vs Real Avilés\">P</span><span class=\"fP\" title=\"2-3 vs Pontevedra\">P</span></p>\n\nEl equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.\n\n[Leer la previa completa →](../previas/2026-11-21-ponferradina-extremadura-1924.html)\n\n## Pontevedra - Lugo\n\n<p class=\"ficha\"><b>18:45</b> · Pontevedra · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Pontevedra</span><span class=\"fG\" title=\"2-1 vs Cultural Leonesa\">G</span><span class=\"fP\" title=\"0-2 vs Arosa\">P</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fG\" title=\"1-0 vs UD Ourense\">G</span><span class=\"fG\" title=\"3-2 vs Extremadura 1924\">G</span><br><span class=\"eq\">Lugo</span><span class=\"fG\" title=\"3-0 vs Deportivo La Coruña II\">G</span><span class=\"fP\" title=\"1-4 vs Real Unión\">P</span><span class=\"fG\" title=\"2-1 vs Mérida AD\">G</span><span class=\"fG\" title=\"1-0 vs Cacereño\">G</span><span class=\"fP\" title=\"1-3 vs Mirandés\">P</span></p>\n\nEl tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.\n\n[Leer la previa completa →](../previas/2026-11-21-pontevedra-lugo.html)",
+    "cuerpo_markdown": "La jornada 13 del Grupo 1 arranca con tres partidos. El Lugo lidera con 28 puntos, cuatro más que el UD Logroñés y siete más que el Pontevedra, tercero con 21. El Mirandés, cuarto con 20, recibe en Anduva al Athletic Club II, décimo con 16. Por la tarde, Ponferradina (14º, 15 puntos) y Extremadura 1924 (9º, 16) se miden en El Toralín, a tres y cuatro puntos del play-off que marca el Mérida AD con 19.\n\n## Claves de la jornada\n\n- El Lugo perdió su última jornada en casa ante el Mirandés (1-3), su segunda derrota de la temporada.\n- La Ponferradina suma 8 goles en 12 jornadas, solo por delante del UD Ourense (5).\n- El Extremadura 1924 ha marcado 15 goles fuera de casa, la segunda mejor cifra del grupo tras el UD Logroñés (16).\n\n## Mirandés - Athletic Club II\n\n<p class=\"ficha\"><b>13:00</b> · Estadio Municipal de Anduva (Miranda de Ebro) · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Mirandés</span><span class=\"fG\" title=\"2-0 vs Racing de Ferrol\">G</span><span class=\"fE\" title=\"3-3 vs Atlético Tordesillas\">E</span><span class=\"fG\" title=\"1-0 vs UD Logroñés\">G</span><span class=\"fP\" title=\"0-2 vs CD Coria\">P</span><span class=\"fG\" title=\"3-1 vs Lugo\">G</span><br><span class=\"eq\">Athletic Club II</span><span class=\"fP\" title=\"1-2 vs CD Coria\">P</span><span class=\"fP\" title=\"1-2 vs Unionistas de Salamanca\">P</span><span class=\"fG\" title=\"3-1 vs Cacereño\">G</span><span class=\"fP\" title=\"0-2 vs Mérida AD\">P</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span></p>\n\nEl cuarto clasificado recibe a un Athletic Club II que solo ha ganado uno de sus últimos cinco partidos de liga. Una victoria mantendría al Mirandés en la pelea por la zona alta.\n\n[Leer la previa completa →](../previas/2026-11-21-mirandes-athletic-club-ii.html)\n\n## Ponferradina - Extremadura 1924\n\n<p class=\"ficha\"><b>18:45</b> · Ponferrada · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Ponferradina</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fE\" title=\"1-1 vs Llanera\">E</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span><span class=\"fE\" title=\"1-1 vs Cultural Leonesa\">E</span><span class=\"fP\" title=\"1-2 vs Cacereño\">P</span><br><span class=\"eq\">Extremadura 1924</span><span class=\"fG\" title=\"5-0 vs Deportivo La Coruña II\">G</span><span class=\"fG\" title=\"4-2 vs Don Benito\">G</span><span class=\"fG\" title=\"3-0 vs Unionistas de Salamanca\">G</span><span class=\"fP\" title=\"2-5 vs Real Avilés\">P</span><span class=\"fP\" title=\"2-3 vs Pontevedra\">P</span></p>\n\nEl equipo berciano, el segundo menos goleador del grupo, recibe a un Extremadura 1924 que marca mucho fuera pero llega de dos derrotas seguidas.\n\n[Leer la previa completa →](../previas/2026-11-21-ponferradina-extremadura-1924.html)\n\n## Pontevedra - Lugo\n\n<p class=\"ficha\"><b>18:45</b> · Pontevedra · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Pontevedra</span><span class=\"fG\" title=\"2-1 vs Cultural Leonesa\">G</span><span class=\"fP\" title=\"0-2 vs Arosa\">P</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fG\" title=\"1-0 vs UD Ourense\">G</span><span class=\"fG\" title=\"3-2 vs Extremadura 1924\">G</span><br><span class=\"eq\">Lugo</span><span class=\"fG\" title=\"3-0 vs Deportivo La Coruña II\">G</span><span class=\"fP\" title=\"1-4 vs Real Unión\">P</span><span class=\"fG\" title=\"2-1 vs Mérida AD\">G</span><span class=\"fG\" title=\"1-0 vs Cacereño\">G</span><span class=\"fP\" title=\"1-3 vs Mirandés\">P</span></p>\n\nEl líder llega de perder 1-3 en casa y defiende cuatro puntos de ventaja. El Pontevedra, tercero a siete, puede recortar distancias.\n\n[Leer la previa completa →](../previas/2026-11-21-pontevedra-lugo.html)",
     "previas_partido": [
       {
         "id": 1570842,
         "slug": "2026-11-21-mirandes-athletic-club-ii",
-        "titular": "El Mirandés busca confirmar en Anduva su victoria en Lugo",
-        "entradilla": "El cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.",
+        "titular": "El Mirandés vuelve a Anduva tras tumbar al líder y con el play-off en la mano",
+        "entradilla": "El cuarto clasificado recibe a un Athletic Club II que solo ha ganado uno de sus últimos cinco partidos de liga. Una victoria mantendría al Mirandés en la pelea por la zona alta.",
         "parrafos": [
-          "El Mirandés recibe al Athletic Club II este sábado a las 13:00 en el Estadio Municipal de Anduva, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son cuartos, con 20 puntos; los visitantes son décimos, con 16.",
-          "El Mirandés llega después de ganar 1-3 en el campo del líder. Lleva tres victorias en sus últimas cuatro jornadas de Liga, aunque entre ellas perdió 0-2 en casa ante el CD Coria. En Anduva ha ganado tres partidos, ha empatado uno y ha perdido uno, con solo 3 goles encajados en cinco partidos.",
-          "El Athletic Club II ha ganado solo uno de sus últimos cinco partidos, 3-1 al Cacereño. Fuera de casa ha perdido sus tres últimos encuentros: 1-2 en el campo del CD Coria, 1-2 en el del Unionistas de Salamanca y 0-2 en el del Mérida AD. Viene de empatar 0-0 con el Racing de Ferrol.",
-          "Una victoria local mantendría al Mirandés en zona de play-off y lo pondría a siete puntos del filial rojiblanco."
+          "El Mirandés recibe este sábado a las 13:00 al Athletic Club II en el Estadio Municipal de Anduva, en Miranda de Ebro, en la jornada 13 de Primera Federación.",
+          "Los rojillos son cuartos con 20 puntos (6 victorias, 2 empates y 4 derrotas) y llegan de ganar 1-3 en el campo del líder, el Lugo. En casa han firmado tres triunfos, un empate y una derrota, con solo 3 goles encajados en cinco partidos. Su único tropiezo reciente en Anduva fue el 0-2 ante el CD Coria.",
+          "El filial rojiblanco es décimo con 16 puntos y un balance equilibrado: 4 victorias, 4 empates y 4 derrotas. Su forma es discreta: un empate sin goles ante el Racing de Ferrol, una derrota en Mérida (2-0) y una sola victoria en las últimas cinco jornadas. Lejos de Lezama suma dos triunfos, un empate y tres derrotas.",
+          "Cuatro puntos separan a ambos. El Mirandés está a uno del Pontevedra, tercero, y el Athletic Club II quedaría a tres del play-off si gana en Anduva."
         ],
-        "precedente": "Solo se han enfrentado en partidos amistosos. El último, en julio de 2025, lo ganó el Athletic Club II por 1-0.",
-        "el_dato": "El Mirandés ha encajado 3 goles en cinco partidos como local.",
+        "precedente": "",
+        "el_dato": "El Mirandés solo ha encajado 3 goles en sus cinco partidos en Anduva.",
         "claves": [
           {
-            "titulo": "Golpe en Lugo",
-            "texto": "El Mirandés ganó 1-3 en el campo del líder en la última jornada."
+            "titulo": "Solidez en casa",
+            "texto": "El Mirandés ha ganado tres de sus cinco partidos como local y solo ha perdido uno."
           },
           {
-            "titulo": "Filial sin puntos fuera",
-            "texto": "El Athletic Club II ha perdido sus tres últimos partidos como visitante."
+            "titulo": "Filial irregular",
+            "texto": "El Athletic Club II ha perdido tres de sus últimas cinco jornadas de liga."
           },
           {
-            "titulo": "Cuatro puntos de diferencia",
-            "texto": "El Mirandés tiene 20 puntos y el Athletic Club II tiene 16."
+            "titulo": "Moral alta",
+            "texto": "El Mirandés llega de ganar 1-3 en el campo del líder, el Lugo."
           }
         ]
       },
       {
         "id": 1570843,
         "slug": "2026-11-21-ponferradina-extremadura-1924",
-        "titular": "La Ponferradina, sin gol, se mide al mejor ataque visitante del grupo",
-        "entradilla": "El equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.",
+        "titular": "La Ponferradina, sin ganar en cinco jornadas, mide su falta de gol con el Extremadura",
+        "entradilla": "El equipo berciano, el segundo menos goleador del grupo, recibe a un Extremadura 1924 que marca mucho fuera pero llega de dos derrotas seguidas.",
         "parrafos": [
-          "La Ponferradina recibe al Extremadura 1924 este sábado a las 18:45 en Ponferrada, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son decimocuartos, con 15 puntos. Los visitantes son novenos, con 16.",
-          "La Ponferradina no ha ganado ninguno de sus últimos cinco partidos: ha empatado cuatro y viene de perder 1-2 en casa ante el Cacereño. Ha marcado 8 goles en 12 jornadas; solo el UD Ourense ha marcado menos. En casa ha marcado 3 goles en seis partidos. Tiene dos puntos más que el Zamora, el primer equipo en puestos de descenso.",
-          "El Extremadura 1924 presenta el perfil contrario. Ha marcado 23 goles y fuera de casa lleva 15 en seis partidos, el segundo mejor registro del grupo. Sin embargo, llega tras dos derrotas en las que ha encajado ocho goles: 5-2 en el campo del Real Avilés y 2-3 en casa ante el Pontevedra. Antes había ganado 0-5 en el campo del Deportivo La Coruña II."
+          "Ponferradina y Extremadura 1924 se enfrentan este sábado a las 18:45 en Ponferrada, en la jornada 13 de Primera Federación. Un punto separa a los dos equipos, ambos en la zona media de la tabla.",
+          "La Ponferradina es 14ª con 15 puntos y es el equipo de los empates: seis en doce jornadas. No gana en liga desde hace cinco partidos, con cuatro empates seguidos y la derrota ante el Cacereño (1-2) en la última jornada. Su problema es el gol: 8 tantos a favor, solo por delante del UD Ourense. En casa ha marcado 3 goles en seis partidos.",
+          "El Extremadura 1924 es noveno con 16 puntos y propone lo contrario: 23 goles a favor y 18 en contra. Fuera ha marcado 15, con tres victorias y tres derrotas, sin un solo empate. Llega en mala racha: perdió 2-5 en Avilés y 2-3 en casa ante el Pontevedra, ocho goles encajados en dos jornadas.",
+          "El play-off, que marca el Mérida AD con 19 puntos, queda a cuatro para la Ponferradina y a tres para el Extremadura."
         ],
         "precedente": "",
-        "el_dato": "El Extremadura 1924 ha marcado 15 goles fuera de casa, casi el doble de los 8 que suma la Ponferradina en todo el campeonato.",
+        "el_dato": "La Ponferradina ha marcado 3 goles en sus seis partidos en casa.",
         "claves": [
           {
-            "titulo": "Seis empates",
-            "texto": "La Ponferradina ha empatado la mitad de sus 12 partidos de Liga."
+            "titulo": "Gol escaso",
+            "texto": "La Ponferradina suma 8 goles en 12 jornadas, el segundo peor registro del grupo."
           },
           {
-            "titulo": "Defensa visitante frágil",
-            "texto": "El Extremadura 1924 ha encajado 8 goles en sus dos últimos partidos."
+            "titulo": "Peligro visitante",
+            "texto": "El Extremadura 1924 ha marcado 15 goles en seis partidos fuera de casa."
           },
           {
-            "titulo": "Margen corto",
-            "texto": "La Ponferradina tiene 15 puntos, dos más que el Zamora, decimosexto."
+            "titulo": "Defensa en apuros",
+            "texto": "El Extremadura encajó ocho goles en sus dos últimas jornadas, ambas perdidas."
           }
         ]
       },
       {
         "id": 1570844,
         "slug": "2026-11-21-pontevedra-lugo",
-        "titular": "El Pontevedra, cuatro jornadas sin perder, desafía al líder",
-        "entradilla": "El tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.",
+        "titular": "El Lugo pone a prueba su liderato ante el Pontevedra, invicto en cinco jornadas",
+        "entradilla": "El líder llega de perder 1-3 en casa y defiende cuatro puntos de ventaja. El Pontevedra, tercero a siete, puede recortar distancias.",
         "parrafos": [
-          "El Pontevedra y el Lugo se miden este sábado a las 18:45 en Pontevedra, en la jornada 13 del Grupo 1 de Primera Federación. Es el partido del tercero contra el primero. Separa a ambos una distancia de siete puntos.",
-          "El Pontevedra es tercero con 21 puntos y no pierde en Liga desde hace cuatro jornadas. En ese tramo ha ganado 2-1 en el campo de la Cultural Leonesa, ha empatado 0-0 en el de Barakaldo, ha ganado 1-0 al UD Ourense y 3-2 en el del Extremadura 1924. Su única derrota reciente fue en la Copa del Rey, 0-2 ante el Arosa. En casa es menos sólido que fuera: tres victorias, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
-          "El Lugo es líder con 28 puntos, 9 victorias y la mejor diferencia de goles del grupo, +8, igual que la UD Logroñés. Pero llega tras perder 1-3 en casa ante el Mirandés y ha caído en dos de sus últimos cuatro partidos, después de haber perdido también 4-1 en el campo del Real Unión. Fuera de casa es fiable: cuatro victorias, un empate y una derrota.",
-          "El último enfrentamiento de Liga terminó en empate en Pontevedra. La UD Logroñés, segunda con 24 puntos, está pendiente de lo que haga el líder."
+          "El Pontevedra recibe al Lugo este sábado a las 18:45 en Pontevedra, en la jornada 13 de Primera Federación. Es el partido de la jornada: el tercero contra el líder, separados por siete puntos.",
+          "El Pontevedra es tercero con 21 puntos y llega en su mejor momento: cinco jornadas de liga sin perder, con cuatro victorias, la última por 3-2 en el campo del Extremadura 1924. En casa es menos fiable: tres triunfos, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
+          "El Lugo lidera con 28 puntos (9 victorias, 1 empate y 2 derrotas) y la mejor diferencia de goles del grupo, +8, compartida con UD Logroñés y Real Avilés. Pero viene de caer 1-3 ante el Mirandés en casa. Fuera es sólido: cuatro victorias, un empate y una derrota.",
+          "Una derrota del Lugo dejaría al Pontevedra a cuatro puntos y daría opciones al UD Logroñés, segundo con 24, de acercarse al liderato."
         ],
-        "precedente": "El 21 de febrero de 2026 empataron 1-1 en Pontevedra. En noviembre de 2025 ganó el Lugo 1-0 en su campo.",
-        "el_dato": "El Lugo ha sumado 13 de los 18 puntos que ha disputado como visitante.",
+        "precedente": "El último enfrentamiento, el 21 de febrero de 2026 en Pontevedra, acabó 1-1. En noviembre de 2025 el Lugo ganó 1-0 en casa.",
+        "el_dato": "El Pontevedra no pierde en liga desde hace cinco jornadas, con cuatro victorias y un empate.",
         "claves": [
           {
-            "titulo": "Siete puntos de diferencia",
-            "texto": "El Lugo tiene 28 puntos y el Pontevedra 21; una victoria local reduciría la distancia a cuatro."
+            "titulo": "Líder herido",
+            "texto": "El Lugo llega de perder 1-3 en casa ante el Mirandés, su segunda derrota del curso."
           },
           {
-            "titulo": "Líder tocado",
-            "texto": "El Lugo ha perdido dos de sus últimos cuatro partidos, 4-1 contra el Real Unión y 1-3 contra el Mirandés."
+            "titulo": "Fiable a domicilio",
+            "texto": "El Lugo ha sumado 13 de 18 puntos posibles fuera de casa."
           },
           {
-            "titulo": "Pontevedra, mejor fuera",
-            "texto": "Ha encajado 7 goles en seis partidos en casa y 6 en seis partidos fuera."
+            "titulo": "Pontevedra lanzado",
+            "texto": "El Pontevedra ha ganado cuatro de sus últimas cinco jornadas de liga."
           }
         ]
       }
