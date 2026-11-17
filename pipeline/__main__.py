@@ -37,8 +37,8 @@ def generar(cfg: dict, fecha: str, demo: bool):
         from .fuentes import ApiFootball, recopilar, estadisticas_liga
         api = ApiFootball()
         previos = [json.loads(f.read_text()) for f in (CONTENIDO / "articulos").glob(f"{fecha}-*.json")]
-        conocidos = {p["id"]: p.get("goleadores", []) for a in previos if a.get("tipo") != "previa"
-                     for p in a.get("partidos", []) if p.get("id")}
+        conocidos = {p["id"]: {k: p.get(k, []) for k in ("goleadores", "rojas", "penaltis_fallados")}
+                     for a in previos if a.get("tipo") != "previa" for p in a.get("partidos", []) if p.get("id")}
         stats = {p["id"]: p.get("estadisticas") for a in previos if a.get("tipo") != "previa"
                  for p in a.get("partidos", []) if p.get("id") and "estadisticas" in p}
         paquetes = recopilar(fecha, cfg, api, conocidos, stats)
@@ -77,7 +77,13 @@ def generar(cfg: dict, fecha: str, demo: bool):
             **{k: texto[k] for k in ("titular", "entradilla", "cuerpo_markdown", "texto_instagram", "hashtags")},
             "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],
             "partidos": paq["partidos"], "clasificacion": paq["clasificacion"],
+            "movimientos": paq.get("movimientos") or {},
         }
+        estrella = texto.get("cronica_estrella") or {}
+        if estrella.get("parrafos") and any(p["id"] == estrella.get("partido_id") for p in paq["partidos"]):
+            pe = next(p for p in paq["partidos"] if p["id"] == estrella["partido_id"])
+            from .previas import slug_partido
+            articulo["cronica_estrella"] = {**estrella, "slug": slug_partido(fecha, pe)}
         if anterior:  # conserva lo que ya se publicó en Instagram
             articulo.update({k: v for k, v in anterior.items() if k.startswith("ig_") or k == "publicado_instagram"})
         destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
@@ -162,9 +168,13 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
         if destino.exists():
             continue
         equipos = {p["local"] for p in paq["partidos"]} | {p["visitante"] for p in paq["partidos"]}
-        paq["forma"] = forma_equipos(equipos, fecha)
+        # La racha y el historial vienen de la API (plan Pro); si faltan, los de nuestras crónicas publicadas
+        publicada = forma_equipos(equipos, fecha)
+        paq["forma"] = {**publicada, **(paq.get("forma") or {})}
         guardados = [json.loads(x.read_text()) for x in (CONTENIDO / "articulos").glob("*.json")]
         for p in paq["partidos"]:
+            if p.get("historial"):
+                continue
             h = historial([g for g in guardados if g["fecha"] < fecha], p["local"], p["visitante"])
             if h:
                 p["historial"] = h
@@ -181,7 +191,8 @@ def generar_previas(cfg: dict, fecha: str, demo: bool) -> list[str]:
             "imagenes_web": [str(imgs[0].relative_to(CONTENIDO))],
             "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],  # carrusel de Instagram
             "proximos": [{k: p.get(k) for k in ("id", "fecha", "estadio", "ciudad", "jornada", "arbitro",
-                                                 "local", "visitante", "escudo_local", "escudo_visitante")}
+                                                 "local", "visitante", "escudo_local", "escudo_visitante",
+                                                 "contexto", "historial")}
                          for p in paq["partidos"]],
             "forma": paq["forma"],
             # Previa completa de cada partido, con página propia en previas/<slug>.html

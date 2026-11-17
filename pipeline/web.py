@@ -185,6 +185,21 @@ table.clas .am:before{background:#f4c400}table.clas .ro:before{background:#d22}
 .pp .texto h2{font:700 22px Oswald,sans-serif;text-transform:uppercase;margin:30px 0 12px;border-left:5px solid var(--amarillo);padding-left:10px}
 .claves{list-style:none;padding:0;margin:0}.claves li{border-left:4px solid var(--amarillo);padding:10px 16px;margin-bottom:12px;
  background:var(--fondo);font-size:16px;line-height:1.5}.claves b{color:var(--negro)}
+.eldato{background:var(--negro);color:#fff;border-radius:6px;padding:16px 20px;margin:6px 0 24px;font:600 17px/1.45 Inter,sans-serif}
+.eldato b{display:block;font:700 13px Oswald,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--amarillo);margin-bottom:4px}
+.cara{width:100%;border-collapse:collapse;font:500 14px Inter,sans-serif;font-variant-numeric:tabular-nums;margin:0}
+.cara td{padding:7px 4px;border-bottom:1px solid var(--linea);text-align:center;width:30%}
+.cara td.k{width:40%;color:var(--suave);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+.cara tr.cab td{font-weight:700;border-bottom:2px solid var(--negro)}.cara tr.cab img{width:30px;height:30px;object-fit:contain;display:block;margin:0 auto 4px}
+.cara td.mejor{font-weight:800;background:#fff6c7}
+.cara .forma i{width:15px;height:15px;line-height:15px;font-size:9px}
+.h2h{list-style:none;padding:0;margin:0;font-size:14px}.h2h li{padding:7px 0;border-bottom:1px solid var(--linea)}.h2h small{display:block;color:var(--suave);font-size:12px}
+.goles{display:grid;grid-template-columns:1fr 1fr;gap:4px 24px;font-size:14px;color:#ddd;margin:-14px 0 26px;background:var(--negro);border-radius:0 0 8px 8px;padding:0 26px 16px}
+.goles div:last-child{text-align:right}
+.estrella{display:block;background:var(--negro);color:#fff;border-radius:6px;padding:16px 20px;margin:0 0 24px;border-left:6px solid var(--amarillo)}
+.estrella small{font:700 12px Oswald,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--amarillo)}
+.estrella strong{display:block;font:700 21px/1.2 Oswald,sans-serif;margin:4px 0}.estrella span{color:#ccc;font-size:14px}
+.estrella:hover strong{text-decoration:underline}
 .pp aside .caja{background:var(--fondo);border:1px solid var(--linea);border-radius:6px;padding:16px 18px;margin-bottom:18px}
 .pp aside h3{font:700 16px Oswald,sans-serif;text-transform:uppercase;letter-spacing:.06em;margin:0 0 8px;border-bottom:3px solid var(--amarillo);padding-bottom:6px}
 .dato{display:flex;justify-content:space-between;gap:12px;font-size:14px;padding:8px 0;border-bottom:1px solid var(--linea);text-align:right}
@@ -737,6 +752,8 @@ def _pagina_previa(cfg: dict, a: dict, pp: dict, p: dict) -> str:
     # Texto
     parrafos = pp.get("parrafos") or []
     texto = (_parrafo_inicial(parrafos[0]) if parrafos else "") + "".join(f"<p>{_e(t)}</p>" for t in parrafos[1:])
+    if pp.get("el_dato"):
+        texto += f'<div class="eldato"><b>El dato</b>{_e(pp["el_dato"])}</div>'
     if pp.get("precedente"):
         texto += f'<h2>El último precedente</h2><p>{_e(pp["precedente"])}</p>'
     if pp.get("claves"):
@@ -749,8 +766,13 @@ def _pagina_previa(cfg: dict, a: dict, pp: dict, p: dict) -> str:
              ("Día", dia_partido(p.get("fecha")).capitalize()), ("Hora", hora), ("Árbitro", arbitro)]
     caja = '<div class="caja"><h3>Ficha del partido</h3>' + "".join(
         f'<div class="dato"><span>{k}</span>{_e(v)}</div>' for k, v in datos if v) + "</div>"
+    caja += _comparativo(p, loc, vis)
+    if p.get("historial"):
+        caja += ('<div class="caja"><h3>Últimos enfrentamientos</h3><ul class="h2h">' + "".join(
+            f'<li>{_e(h["resultado"])}<small>{fecha_larga(h["fecha"])} · {_e(h.get("competicion", ""))}</small></li>'
+            for h in p["historial"][:5]) + "</ul></div>")
     forma = a.get("forma") or {}
-    if forma.get(p["local"]) or forma.get(p["visitante"]):
+    if (forma.get(p["local"]) or forma.get(p["visitante"])) and not (p.get("contexto") or {}).get("local", {}).get("racha"):
         filas = ""
         for e in (p["local"], p["visitante"]):
             res = "".join(f'<i class="f{r["resultado"]}" title="{_e(r["marcador"] + " vs " + es(r["rival"]))}">{r["resultado"]}</i>'
@@ -770,6 +792,77 @@ def _pagina_previa(cfg: dict, a: dict, pp: dict, p: dict) -> str:
             + ("" if o["titular"].endswith("previa del partido") else f'<span>{_e(o["titular"])}</span>')
             + '</a>' for o in otras) + "</div>"
     out += (f'<a class="volver" href="{_url(a, prof)}">← Previa de toda la jornada de {_e(a["etiqueta"])}</a></div>')
+    return out
+
+
+def _comparativo(p: dict, loc: str, vis: str) -> str:
+    """Cuadro 'Cara a cara' de la previa: puesto, puntos, goles, casa/fuera, racha y goleador de cada equipo."""
+    ctx = p.get("contexto") or {}
+    L, V = ctx.get("local") or {}, ctx.get("visitante") or {}
+    if not (L or V):
+        return ""
+    def reg(r):
+        return f'{r.get("pg", 0)}-{r.get("pe", 0)}-{r.get("pp", 0)}' if r else "—"
+    def racha(c):
+        letras = "".join(x["resultado"] for x in reversed(c.get("racha") or []))
+        return _forma(letras.replace("G", "W").replace("E", "D").replace("P", "L")) if letras else "—"
+    filas = [("Puesto", L.get("pos"), V.get("pos"), "menos"), ("Puntos", L.get("pts"), V.get("pts"), "mas"),
+             ("G-E-P", reg(L), reg(V), None), ("Goles a favor", L.get("gf"), V.get("gf"), "mas"),
+             ("Goles en contra", L.get("gc"), V.get("gc"), "menos"),
+             ("En casa / Fuera", reg(L.get("casa")), reg(V.get("fuera")), None)]
+    html_f = ""
+    for k, a_, b_, mejor in filas:
+        if a_ is None and b_ is None:
+            continue
+        ca = cb = ""
+        if mejor and isinstance(a_, (int, float)) and isinstance(b_, (int, float)) and a_ != b_:
+            gana_a = (a_ > b_) if mejor == "mas" else (a_ < b_)
+            ca, cb = (' class="mejor"', "") if gana_a else ("", ' class="mejor"')
+        html_f += f'<tr><td{ca}>{_e(a_ if a_ is not None else "—")}</td><td class="k">{k}</td><td{cb}>{_e(b_ if b_ is not None else "—")}</td></tr>'
+    if L.get("racha") or V.get("racha"):
+        html_f += f'<tr><td>{racha(L)}</td><td class="k">Racha</td><td>{racha(V)}</td></tr>'
+    if L.get("goleador") or V.get("goleador"):
+        g = lambda c: f'{_e(c["goleador"]["jugador"])} ({c["goleador"]["goles"]})' if c.get("goleador") else "—"
+        html_f += f'<tr><td>{g(L)}</td><td class="k">Máximo goleador</td><td>{g(V)}</td></tr>'
+    cab = (f'<tr class="cab"><td>{_esc(loc, p.get("escudo_local"))}{_e(loc)}</td><td class="k"></td>'
+           f'<td>{_esc(vis, p.get("escudo_visitante"))}{_e(vis)}</td></tr>')
+    return f'<div class="caja"><h3>Cara a cara</h3><table class="cara">{cab}{html_f}</table></div>'
+
+
+def _pagina_cronica_estrella(cfg: dict, a: dict, ce: dict, p: dict) -> str:
+    """Crónica del partido estrella en su propia página, maquetada como una noticia."""
+    prof = "../"
+    loc, vis = es(p["local"]), es(p["visitante"])
+    jornada = jornada_es(p.get("jornada"))
+    out = (f'<div class="pp"><div class="miga"><a href="{prof}ligas/{_slug_liga(a["etiqueta"])}.html">Crónica · {_e(a["etiqueta"])}</a>'
+           + (f' <span>· {_e(jornada)}</span>' if jornada else "") + '</div>'
+           f'<h1 class="tit">{_e(ce["titular"])}</h1><p class="entr">{_e(ce["entradilla"])}</p>'
+           f'<div class="firma"><div><b>Redacción {_e(cfg["medio"]["nombre"])}</b> · {fecha_larga(a["fecha"])}</div></div>'
+           f'<div class="marcador"><div class="eq">{_escudo(loc, p.get("escudo_local"))}<span>{_e(loc)}</span></div>'
+           f'<div class="hora"><b>{p["goles_local"]}-{p["goles_visitante"]}</b><span>Final</span></div>'
+           f'<div class="eq v">{_escudo(vis, p.get("escudo_visitante"))}<span>{_e(vis)}</span></div></div>')
+    gol = lambda g: f'⚽ {_e(g["jugador"])} {g["min"]}\'' + (" (p)" if "Penalty" in (g.get("tipo") or "") else "") + (
+        " (pp)" if "Own" in (g.get("tipo") or "") else "")
+    izq = [gol(g) for g in p.get("goleadores", []) if g.get("equipo") == p["local"]]
+    der = [gol(g) for g in p.get("goleadores", []) if g.get("equipo") == p["visitante"]]
+    izq += [f'🟥 {_e(r["jugador"])} {r["min"]}\'' for r in p.get("rojas", []) if r.get("equipo") == p["local"]]
+    der += [f'🟥 {_e(r["jugador"])} {r["min"]}\'' for r in p.get("rojas", []) if r.get("equipo") == p["visitante"]]
+    if izq or der:
+        out += f'<div class="goles"><div>{"<br>".join(izq)}</div><div>{"<br>".join(der)}</div></div>'
+    parrafos = ce.get("parrafos") or []
+    texto = (_parrafo_inicial(parrafos[0]) if parrafos else "") + "".join(f"<p>{_e(t)}</p>" for t in parrafos[1:])
+    if ce.get("el_dato"):
+        texto += f'<div class="eldato"><b>El dato</b>{_e(ce["el_dato"])}</div>'
+    texto += _estadisticas_partidos({"partidos": [p]})
+    sede = p.get("estadio")
+    arbitro = re.sub(r",.*$", "", p.get("arbitro") or "")
+    datos = [("Competición", a["etiqueta"]), ("Jornada", jornada.removeprefix("Jornada ")), ("Estadio", sede),
+             ("Ciudad", p.get("ciudad")), ("Árbitro", arbitro)]
+    caja = '<div class="caja"><h3>Ficha del partido</h3>' + "".join(
+        f'<div class="dato"><span>{k}</span>{_e(v)}</div>' for k, v in datos if v) + "</div>"
+    out += (f'<div class="cols"><div class="texto">{_con_anuncio(cfg, texto)}{_mini_clasificacion(a)}</div>'
+            f'<aside>{caja}{_anuncio(cfg, "lateral", "lat")}</aside></div>')
+    out += f'<a class="volver" href="{prof}articulos/{a["slug"]}.html">← Crónica de toda la jornada de {_e(a["etiqueta"])}</a></div>'
     return out
 
 
@@ -1020,6 +1113,14 @@ def _estadisticas_partidos(a: dict) -> str:
     return f'<section class="mini-clas"><h2>Estadísticas de los partidos</h2><div class="stats">{cajas}</div></section>' if cajas else ""
 
 
+def _enlace_estrella(a: dict) -> str:
+    ce = a.get("cronica_estrella")
+    if not ce or not ce.get("slug"):
+        return ""
+    return (f'<a class="estrella" href="../cronicas/{ce["slug"]}.html"><small>La crónica del partido</small>'
+            f'<strong>{_e(ce["titular"])}</strong><span>{_e(ce["entradilla"])}</span></a>')
+
+
 def _mini_clasificacion(a: dict) -> str:
     """En la crónica: los 6 primeros de la tabla (y resaltados los equipos de la jornada) + enlace a la completa."""
     tabla = a.get("clasificacion")
@@ -1139,6 +1240,7 @@ def construir(cfg: dict) -> Path:
         cuerpo = (_migas(a, "../") + f'<article><span class="tag">{_e(_etiqueta(a))}</span><h1 class="tit">{_e(a["titular"])}</h1>'
                   f'<p class="entradilla">{_e(a["entradilla"])}</p>'
                   f'<div class="firma-art">Por <b>Redacción {_e(nombre)}</b> · {fecha_larga(a["fecha"])}</div>'
+                  + _enlace_estrella(a)
                   + (f'<div class="fotos">{fotos}</div>' if fotos else "")
                   + f'<div class="cuerpo">{_con_anuncio(cfg, texto)}</div>' + _estadisticas_partidos(a) + _mini_clasificacion(a)
                   + _anuncio(cfg, "final_articulo", "txt")
@@ -1158,6 +1260,15 @@ def construir(cfg: dict) -> Path:
                 (SALIDA / "previas" / f'{pp["slug"]}.html').write_text(
                     _pagina(cfg, f'{pp["titular"]} · {nombre}', _pagina_previa(cfg, a, pp, partidos[pp["id"]]), "../",
                             pp["entradilla"], ticker=_ticker(arts, "../"), activa=_nav_de(a.get("competicion"))))
+
+    (SALIDA / "cronicas").mkdir()
+    for a in arts:  # crónica propia del partido estrella de cada grupo de 1ª y 2ª RFEF
+        ce = a.get("cronica_estrella")
+        pe = next((p for p in a.get("partidos", []) if ce and p["id"] == ce.get("partido_id")), None)
+        if pe:
+            (SALIDA / "cronicas" / f'{ce["slug"]}.html').write_text(
+                _pagina(cfg, f'{ce["titular"]} · {nombre}', _pagina_cronica_estrella(cfg, a, ce, pe), "../",
+                        ce["entradilla"], ticker=_ticker(arts, "../"), activa=_nav_de(a.get("competicion"))))
 
     (SALIDA / "noticias").mkdir()
     for n in NOTICIAS:  # una página por noticia

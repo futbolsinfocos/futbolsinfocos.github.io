@@ -118,7 +118,8 @@ class ApiFootball:
                  "pg": t["all"]["win"], "pe": t["all"]["draw"], "pp": t["all"]["lose"],
                  "gf": t["all"]["goals"]["for"], "gc": t["all"]["goals"]["against"],
                  "forma": (t.get("form") or "")[-5:], "zona": zona(t.get("description")),
-                 "escudo": t["team"].get("logo"), "equipo_id": t["team"]["id"]} for t in tabla]
+                 "escudo": t["team"].get("logo"), "equipo_id": t["team"]["id"],
+                 "casa": _registro(t.get("home")), "fuera": _registro(t.get("away"))} for t in tabla]
 
     def estadisticas_partido(self, partido_id: int) -> dict | None:
         """Posesión, tiros, córners… de un partido. None si la API no las tiene (pasa mucho en 2ª/3ª RFEF)."""
@@ -152,11 +153,98 @@ class ApiFootball:
         suma = lambda color: sum((v or {}).get("total") or 0 for v in (cards.get(color) or {}).values())
         return suma("yellow"), suma("red")
 
+    def eventos(self, partido_id: int) -> dict:
+        """Goles, expulsiones y penaltis fallados de un partido (una sola llamada)."""
+        ev = self._get("fixtures/events", fixture=partido_id)
+        fila = lambda e: {"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]), "jugador": e["player"]["name"]}
+        return {
+            "goleadores": [{**fila(e), "tipo": e["detail"]} for e in ev
+                           if e["type"] == "Goal" and e["detail"] != "Missed Penalty"],
+            "rojas": [fila(e) for e in ev if e["type"] == "Card" and e["detail"] in ("Red Card", "Second Yellow card")],
+            "penaltis_fallados": [fila(e) for e in ev if e["type"] == "Goal" and e["detail"] == "Missed Penalty"],
+        }
+
+    def ultimos(self, equipo_id: int, n: int = 5) -> list[dict]:
+        """Últimos n partidos terminados del equipo (cualquier competición), del más reciente al más antiguo."""
+        salida = []
+        for f in self._get("fixtures", team=equipo_id, last=n + 3):  # +3 por si hay amistosos, que se descartan
+            if len(salida) >= n or _amistoso(f):
+                continue
+            casa = f["teams"]["home"]["id"] == equipo_id
+            gf, gc = (f["goals"]["home"], f["goals"]["away"]) if casa else (f["goals"]["away"], f["goals"]["home"])
+            if gf is None or gc is None:
+                continue
+            rival = f["teams"]["away" if casa else "home"]["name"]
+            salida.append({"fecha": f["fixture"]["date"][:10], "rival": es(rival), "campo": "casa" if casa else "fuera",
+                           "marcador": f"{gf}-{gc}", "resultado": "G" if gf > gc else "E" if gf == gc else "P",
+                           "competicion": comp_es(f["league"]["name"])})
+        return salida
+
+    def historial(self, id_a: int, id_b: int, n: int = 5) -> list[dict]:
+        """Últimos enfrentamientos entre dos equipos (más reciente primero)."""
+        salida = []
+        for f in self._get("fixtures/headtohead", h2h=f"{id_a}-{id_b}", last=n + 5):
+            if f["goals"]["home"] is None or _amistoso(f) or len(salida) >= n:
+                continue
+            salida.append({"fecha": f["fixture"]["date"][:10], "competicion": comp_es(f["league"]["name"]),
+                           "resultado": f'{es(f["teams"]["home"]["name"])} {f["goals"]["home"]}-{f["goals"]["away"]} '
+                                        f'{es(f["teams"]["away"]["name"])}'})
+        return salida
+
     def goleadores(self, partido_id: int) -> list[dict]:
         eventos = self._get("fixtures/events", fixture=partido_id)
         return [{"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]),
                  "jugador": e["player"]["name"], "tipo": e["detail"]}
                 for e in eventos if e["type"] == "Goal" and e["detail"] != "Missed Penalty"]
+
+
+def _amistoso(f: dict) -> bool:
+    return "friendl" in (f.get("league", {}).get("name") or "").lower()
+
+
+def comp_es(nombre: str) -> str:
+    """'Primera División RFEF - Group 1' → 'Primera Federación · Grupo 1'."""
+    t = (nombre or "").replace("Primera División RFEF", "Primera Federación").replace("Segunda División RFEF", "Segunda Federación")
+    t = t.replace("Tercera División RFEF", "Tercera Federación").replace("Segunda División", "Segunda División")
+    t = re.sub(r"\s*-\s*Group\s*", " · Grupo ", t)
+    return t
+
+
+def _registro(r: dict | None) -> dict:
+    """Partidos en casa o fuera de la clasificación: {'pj','pg','pe','pp','gf','gc'}."""
+    if not r:
+        return {}
+    return {"pj": r.get("played"), "pg": r.get("win"), "pe": r.get("draw"), "pp": r.get("lose"),
+            "gf": (r.get("goals") or {}).get("for"), "gc": (r.get("goals") or {}).get("against")}
+
+
+def posiciones_antes(tabla: list[dict], partidos: list[dict]) -> dict:
+    """Puesto de cada equipo antes de la jornada (quitando el resultado de estos partidos): equipo → puesto."""
+    if not tabla:
+        return {}
+    quita = {}
+    for p in partidos:
+        gl, gv = p.get("goles_local"), p.get("goles_visitante")
+        if gl is None or gv is None:
+            continue
+        for eq, a, b in ((p["local"], gl, gv), (p["visitante"], gv, gl)):
+            quita[eq] = (3 if a > b else 1 if a == b else 0, a - b, a)
+    filas = []
+    for t in tabla:
+        q = quita.get(t["equipo"], (0, 0, 0))
+        filas.append((t["pts"] - q[0], (t.get("dg") or 0) - q[1], (t.get("gf") or 0) - q[2], t["equipo"]))
+    filas.sort(key=lambda x: (-x[0], -x[1], -x[2]))
+    return {f[3]: i for i, f in enumerate(filas, 1)}
+
+
+def _movimiento(antes: int | None, ahora: int) -> dict:
+    if not antes or antes == ahora:
+        cambio = "se mantiene"
+    elif ahora < antes:
+        cambio = f"sube {antes - ahora} puesto" + ("s" if antes - ahora > 1 else "")
+    else:
+        cambio = f"baja {ahora - antes} puesto" + ("s" if ahora - antes > 1 else "")
+    return {"antes": antes, "ahora": ahora, "cambio": cambio}
 
 
 ESTADISTICAS = {"posesion": "Ball Possession", "tiros": "Total Shots", "a_puerta": "Shots on Goal",
@@ -191,6 +279,8 @@ def normalizar_partido(f: dict, liga: dict) -> dict:
         "arbitro": f["fixture"].get("referee"),
         "jornada": f["league"].get("round"),
         "liga_id": liga["id"],
+        "id_local": f["teams"]["home"]["id"],
+        "id_visitante": f["teams"]["away"]["id"],
         "local": es(f["teams"]["home"]["name"]),
         "visitante": es(f["teams"]["away"]["name"]),
         "escudo_local": f["teams"]["home"].get("logo"),
@@ -222,10 +312,11 @@ def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None
             continue
         for p in suyos:  # con el plan Pro: goleadores y estadísticas de todos los partidos
             if p["id"] in conocidos:
-                p["goleadores"] = conocidos[p["id"]]
+                previo = conocidos[p["id"]]
+                p.update(previo if isinstance(previo, dict) else {"goleadores": previo})
             elif presupuesto > 0:
                 try:
-                    p["goleadores"] = api.goleadores(p["id"])
+                    p.update(api.eventos(p["id"]))
                 except Exception as e:  # sin goleadores la crónica sale igual
                     print(f"Sin goleadores para {p['local']}-{p['visitante']}: {e}")
                 presupuesto -= 1
@@ -242,7 +333,11 @@ def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None
         except Exception as e:  # el plan gratuito no da clasificaciones de la temporada actual
             print(f"Sin clasificación para {liga['etiqueta']}: {e}")
             tabla = []
-        paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla})
+        antes = posiciones_antes(tabla, suyos)
+        movimientos = {t["equipo"]: _movimiento(antes.get(t["equipo"]), t["pos"]) for t in tabla
+                       if any(t["equipo"] in (p["local"], p["visitante"]) for p in suyos)}
+        paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla,
+                         "movimientos": movimientos})
     return paquetes[: config["limites"]["max_articulos_dia"]]
 
 
@@ -276,7 +371,58 @@ def recopilar_previas(fecha: str, config: dict, api: ApiFootball) -> list[dict]:
         suyos = sorted((p for p in partidos if p["liga_id"] == liga["id"]), key=lambda p: p["fecha"])
         if suyos:
             paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos})
-    return paquetes[: config["limites"].get("max_previas_dia", 12)]
+    paquetes = paquetes[: config["limites"].get("max_previas_dia", 12)]
+    for paq in paquetes:
+        contexto_previa(paq, api)
+    return paquetes
+
+
+def contexto_previa(paq: dict, api: ApiFootball) -> None:
+    """Añade a cada partido cómo llega cada equipo: puesto, puntos, casa/fuera, racha, máximo goleador e historial."""
+    liga = paq["liga"]
+    try:
+        tabla = api.clasificacion(liga["id"], liga["temporada"])
+    except Exception as e:
+        print(f"Sin clasificación para la previa de {liga['etiqueta']}: {e}")
+        tabla = []
+    paq["clasificacion"] = tabla
+    try:
+        pichichis = api.goleadores_liga(liga["id"], liga["temporada"])
+    except Exception as e:
+        print(f"Sin goleadores para la previa de {liga['etiqueta']}: {e}")
+        pichichis = []
+    por_equipo = {}
+    for g in pichichis:
+        por_equipo.setdefault(g["equipo"], {"jugador": g["jugador"], "goles": g["goles"]})
+    filas = {t["equipo"]: t for t in tabla}
+    paq["forma"] = paq.get("forma") or {}
+    for p in paq["partidos"]:
+        ctx = {}
+        for lado, eq, eid, sitio in (("local", p["local"], p.get("id_local"), "casa"),
+                                     ("visitante", p["visitante"], p.get("id_visitante"), "fuera")):
+            t = filas.get(eq, {})
+            c = {k: t.get(k) for k in ("pos", "pts", "pj", "pg", "pe", "pp", "gf", "gc", "dg", "zona") if t.get(k) is not None}
+            if t.get(sitio):
+                c[sitio] = t[sitio]
+            if eq in por_equipo:
+                c["goleador"] = por_equipo[eq]
+            if eid:
+                try:
+                    racha = api.ultimos(eid)
+                    if racha:
+                        c["racha"] = racha
+                        paq["forma"][eq] = racha
+                except Exception as e:
+                    print(f"Sin racha de {eq}: {e}")
+            ctx[lado] = c
+        p["contexto"] = ctx
+        if p.get("id_local") and p.get("id_visitante"):
+            try:
+                h = api.historial(p["id_local"], p["id_visitante"])
+                if h:
+                    p["historial"] = h
+            except Exception as e:
+                print(f"Sin historial {p['local']}-{p['visitante']}: {e}")
 
 
 def recopilar_agenda(fechas: list[str], config: dict, api: ApiFootball) -> dict:
