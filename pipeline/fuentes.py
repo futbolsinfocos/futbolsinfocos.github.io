@@ -167,7 +167,9 @@ class ApiFootball:
     def ultimos(self, equipo_id: int, n: int = 5) -> list[dict]:
         """Últimos n partidos terminados del equipo (cualquier competición), del más reciente al más antiguo."""
         salida = []
-        for f in self._get("fixtures", team=equipo_id, last=n):
+        for f in self._get("fixtures", team=equipo_id, last=n + 3):  # +3 por si hay amistosos, que se descartan
+            if len(salida) >= n or _amistoso(f):
+                continue
             casa = f["teams"]["home"]["id"] == equipo_id
             gf, gc = (f["goals"]["home"], f["goals"]["away"]) if casa else (f["goals"]["away"], f["goals"]["home"])
             if gf is None or gc is None:
@@ -175,16 +177,16 @@ class ApiFootball:
             rival = f["teams"]["away" if casa else "home"]["name"]
             salida.append({"fecha": f["fixture"]["date"][:10], "rival": es(rival), "campo": "casa" if casa else "fuera",
                            "marcador": f"{gf}-{gc}", "resultado": "G" if gf > gc else "E" if gf == gc else "P",
-                           "competicion": f["league"]["name"]})
+                           "competicion": comp_es(f["league"]["name"])})
         return salida
 
     def historial(self, id_a: int, id_b: int, n: int = 5) -> list[dict]:
         """Últimos enfrentamientos entre dos equipos (más reciente primero)."""
         salida = []
-        for f in self._get("fixtures/headtohead", h2h=f"{id_a}-{id_b}", last=n):
-            if f["goals"]["home"] is None:
+        for f in self._get("fixtures/headtohead", h2h=f"{id_a}-{id_b}", last=n + 5):
+            if f["goals"]["home"] is None or _amistoso(f) or len(salida) >= n:
                 continue
-            salida.append({"fecha": f["fixture"]["date"][:10], "competicion": f["league"]["name"],
+            salida.append({"fecha": f["fixture"]["date"][:10], "competicion": comp_es(f["league"]["name"]),
                            "resultado": f'{es(f["teams"]["home"]["name"])} {f["goals"]["home"]}-{f["goals"]["away"]} '
                                         f'{es(f["teams"]["away"]["name"])}'})
         return salida
@@ -194,6 +196,18 @@ class ApiFootball:
         return [{"min": e["time"]["elapsed"], "equipo": es(e["team"]["name"]),
                  "jugador": e["player"]["name"], "tipo": e["detail"]}
                 for e in eventos if e["type"] == "Goal" and e["detail"] != "Missed Penalty"]
+
+
+def _amistoso(f: dict) -> bool:
+    return "friendl" in (f.get("league", {}).get("name") or "").lower()
+
+
+def comp_es(nombre: str) -> str:
+    """'Primera División RFEF - Group 1' → 'Primera Federación · Grupo 1'."""
+    t = (nombre or "").replace("Primera División RFEF", "Primera Federación").replace("Segunda División RFEF", "Segunda Federación")
+    t = t.replace("Tercera División RFEF", "Tercera Federación").replace("Segunda División", "Segunda División")
+    t = re.sub(r"\s*-\s*Group\s*", " · Grupo ", t)
+    return t
 
 
 def _registro(r: dict | None) -> dict:
@@ -221,6 +235,16 @@ def posiciones_antes(tabla: list[dict], partidos: list[dict]) -> dict:
         filas.append((t["pts"] - q[0], (t.get("dg") or 0) - q[1], (t.get("gf") or 0) - q[2], t["equipo"]))
     filas.sort(key=lambda x: (-x[0], -x[1], -x[2]))
     return {f[3]: i for i, f in enumerate(filas, 1)}
+
+
+def _movimiento(antes: int | None, ahora: int) -> dict:
+    if not antes or antes == ahora:
+        cambio = "se mantiene"
+    elif ahora < antes:
+        cambio = f"sube {antes - ahora} puesto" + ("s" if antes - ahora > 1 else "")
+    else:
+        cambio = f"baja {ahora - antes} puesto" + ("s" if ahora - antes > 1 else "")
+    return {"antes": antes, "ahora": ahora, "cambio": cambio}
 
 
 ESTADISTICAS = {"posesion": "Ball Possession", "tiros": "Total Shots", "a_puerta": "Shots on Goal",
@@ -310,7 +334,7 @@ def recopilar(fecha: str, config: dict, api: ApiFootball, conocidos: dict | None
             print(f"Sin clasificación para {liga['etiqueta']}: {e}")
             tabla = []
         antes = posiciones_antes(tabla, suyos)
-        movimientos = {t["equipo"]: {"antes": antes.get(t["equipo"]), "ahora": t["pos"]} for t in tabla
+        movimientos = {t["equipo"]: _movimiento(antes.get(t["equipo"]), t["pos"]) for t in tabla
                        if any(t["equipo"] in (p["local"], p["visitante"]) for p in suyos)}
         paquetes.append({"liga": liga, "fecha": fecha, "partidos": suyos, "clasificacion": tabla,
                          "movimientos": movimientos})

@@ -25,7 +25,10 @@ Normas estrictas:
 - Prohibido inventar declaraciones, lesiones, asistencias, jugadas, ocasiones, público, tiempo, ambiente, \
 alineaciones o contexto histórico. No describas cómo fue un gol: solo quién, en qué minuto y si fue de penalti o en propia.
 - No valores la actuación de jugadores más allá de los hechos (goles, dobletes, expulsiones, penaltis fallados).
-- Nombres de equipos y jugadores tal cual vienen.
+- Nombres de equipos y jugadores tal cual vienen. Si a un gol o una expulsión le falta el nombre, cuéntalo sin \
+nombre ("una expulsión en el 61") y nunca digas que el dato falta.
+- Para decir si un equipo sube o baja en la tabla usa SOLO "movimientos" (campo "cambio"); no lo deduzcas tú.
+- "Goleó" solo con tres o más goles de diferencia.
 - Prohibidos los clichés: "el balón echa a rodar", "partido de infarto", "duelo de titanes", "tres puntos de oro", \
 "se llevó el gato al agua", "ver puerta", "a balón parado", "dar la campanada" y similares.
 - Lo noticiable primero: cambios de liderato, entradas o salidas de la zona de ascenso, play-off o descenso \

@@ -1,4 +1,4 @@
-# TEMPORAL: genera ejemplos de previas/crónicas nuevas en esta rama. Se borra antes de fusionar.
+# TEMPORAL (v2): genera ejemplos de previas/crónicas nuevas en esta rama. Se borra antes de fusionar.
 name: Ejemplos (temporal)
 on:
   push:
