@@ -110,6 +110,19 @@ solo_web: ["Copa del Rey"]
 # Competiciones con muchos grupos: en Instagram van en UNA publicación (un grupo por imagen)
 agrupar_instagram: ["Segunda Federación", "Tercera Federación"]
 
+# X (Twitter): se publica solo al aprobar la edición. Cada post cuesta ~0,015 $; con enlace, 0,20 $.
+#   activo        → false para dejar de publicar en X sin tocar nada más
+#   desde         → no publica nada anterior a esta fecha (para no soltar de golpe lo atrasado)
+#   max_posts_dia → posts de resultados/previas al día (el post con enlace va aparte)
+#   enlace_diario → un post al día con enlace a la crónica más destacada
+#   previas_dias  → días con previas (0 = lunes … 4 = viernes, 5 = sábado, 6 = domingo)
+x:
+  activo: true
+  desde: "2026-11-18"
+  max_posts_dia: 20
+  enlace_diario: true
+  previas_dias: [4]
+
 limites:
   max_articulos_dia: 25          # crónicas de jornada (una por competición/grupo con partidos)
   max_previas_dia: 12            # previas de los partidos del día (solo web por ahora)

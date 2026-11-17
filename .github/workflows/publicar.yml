@@ -13,7 +13,7 @@ on:
         type: boolean
         default: false
       solo_web:
-        description: "Solo actualizar la web, sin publicar en Instagram"
+        description: "Solo actualizar la web, sin publicar en Instagram ni en X"
         type: boolean
         default: false
   schedule:
@@ -66,3 +66,32 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Marcar posts de Instagram publicados [skip ci]"
           git push
+
+  x:
+    # va después de Instagram para que no se pisen al guardar qué se ha publicado
+    needs: [web, instagram]
+    if: ${{ !cancelled() && needs.web.result == 'success' && !inputs.solo_web && !inputs.prueba_make }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Publicar en X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: |
+          if [ -z "$X_API_KEY" ] || [ -z "$X_ACCESS_TOKEN" ]; then echo "X aún no configurado; se omite."; exit 0; fi
+          python -m pipeline x
+      - name: Guardar qué se ha publicado
+        if: ${{ always() }}
+        run: |
+          git config user.name "edicion-bot"; git config user.email "edicion-bot@users.noreply.github.com"
+          git add contenido/articulos
+          git diff --cached --quiet && exit 0
+          git commit -m "Marcar posts de X publicados [skip ci]"
+          git pull --rebase origin main && git push

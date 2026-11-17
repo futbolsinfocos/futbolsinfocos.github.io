@@ -6,6 +6,7 @@
   python -m pipeline regionales                              → partidos de Regional del formulario de corresponsales
   python -m pipeline web                                     → construye _site/
   python -m pipeline instagram [--simular]                   → publica lo pendiente en Instagram
+  python -m pipeline x [--simular]                           → publica lo pendiente en X (Twitter)
 """
 from __future__ import annotations
 
@@ -70,8 +71,9 @@ def generar(cfg: dict, fecha: str, demo: bool):
             "imagenes": [str(i.relative_to(CONTENIDO)) for i in imgs],
             "partidos": paq["partidos"], "clasificacion": paq["clasificacion"],
         }
-        if anterior:  # conserva lo que ya se publicó en Instagram
-            articulo.update({k: v for k, v in anterior.items() if k.startswith("ig_") or k == "publicado_instagram"})
+        if anterior:  # conserva lo que ya se publicó en Instagram y en X
+            articulo.update({k: v for k, v in anterior.items()
+                             if k.startswith(("ig_", "x_")) or k == "publicado_instagram"})
         destino.write_text(json.dumps(articulo, ensure_ascii=False, indent=2))
         creados.append(s)
         print(f"✔ {liga['etiqueta']}: {texto['titular']}")
@@ -233,6 +235,8 @@ def main():
     i = sub.add_parser("instagram")
     i.add_argument("--simular", action="store_true")
     i.add_argument("--prueba-make", action="store_true", help="manda un post de ejemplo al webhook de Make")
+    xp = sub.add_parser("x", help="publica en X (Twitter) los resultados y el enlace del día")
+    xp.add_argument("--simular", action="store_true")
     args = ap.parse_args()
     cfg = yaml.safe_load((RAIZ / "config.yaml").read_text())
 
@@ -280,6 +284,9 @@ def main():
             prueba_make(cfg)
         else:
             print("Publicados:", publicar_pendientes(cfg, simular=args.simular))
+    elif args.orden == "x":
+        from .x import publicar_pendientes as publicar_x
+        print("Publicados en X:", publicar_x(cfg, simular=args.simular))
 
 
 if __name__ == "__main__":
