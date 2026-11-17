@@ -1,0 +1,936 @@
+{
+  "paquete": {
+    "liga": {
+      "id": 435,
+      "nombre_api": "Primera División RFEF - Group 1",
+      "temporada": 2026,
+      "etiqueta": "Primera Federación · Grupo 1",
+      "competicion": "Primera Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "pais": "Spain"
+    },
+    "fecha": "2026-11-15",
+    "partidos": [
+      {
+        "id": 1570828,
+        "fecha": "2026-11-15T12:00:00+01:00",
+        "estadio": "Estadio Francisco de la Hera",
+        "ciudad": "Almendralejo",
+        "arbitro": "C. Castell Orozco",
+        "jornada": "Group 1 - 12",
+        "liga_id": 435,
+        "id_local": 24612,
+        "id_visitante": 9407,
+        "local": "Extremadura 1924",
+        "visitante": "Pontevedra",
+        "escudo_local": "https://media.api-sports.io/football/teams/24612.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/9407.png",
+        "goles_local": 2,
+        "goles_visitante": 3,
+        "goleadores": [
+          {
+            "min": 12,
+            "equipo": "Pontevedra",
+            "jugador": "P. Gaye",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 24,
+            "equipo": "Extremadura 1924",
+            "jugador": "Rodri",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 40,
+            "equipo": "Pontevedra",
+            "jugador": "P. Gaye",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 75,
+            "equipo": "Pontevedra",
+            "jugador": "D. Mba",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 90,
+            "equipo": "Extremadura 1924",
+            "jugador": "I. Burgos",
+            "tipo": "Normal Goal"
+          }
+        ],
+        "rojas": [],
+        "penaltis_fallados": [],
+        "estadisticas": null
+      },
+      {
+        "id": 1570835,
+        "fecha": "2026-11-15T14:15:00+01:00",
+        "estadio": "Estadio Ruta de la Plata",
+        "ciudad": "Zamora",
+        "arbitro": "I. Irurtzun",
+        "jornada": "Group 1 - 12",
+        "liga_id": 435,
+        "id_local": 9418,
+        "id_visitante": 9632,
+        "local": "Zamora",
+        "visitante": "Real Avilés",
+        "escudo_local": "https://media.api-sports.io/football/teams/9418.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/9632.png",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "goleadores": [
+          {
+            "min": 54,
+            "equipo": "Zamora",
+            "jugador": "I. Yurrieta Incera",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 62,
+            "equipo": "Zamora",
+            "jugador": "J. Albert",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 64,
+            "equipo": "Real Avilés",
+            "jugador": "D. Liduena Alonso",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 90,
+            "equipo": "Real Avilés",
+            "jugador": "A. Santamaria",
+            "tipo": "Penalty"
+          }
+        ],
+        "rojas": [
+          {
+            "min": 33,
+            "equipo": "Real Avilés",
+            "jugador": "A. Carmona"
+          },
+          {
+            "min": 90,
+            "equipo": "Zamora",
+            "jugador": "J. Albert"
+          }
+        ],
+        "penaltis_fallados": [],
+        "estadisticas": null
+      },
+      {
+        "id": 1570830,
+        "fecha": "2026-11-15T16:30:00+01:00",
+        "estadio": "Estadio Anxo Carro",
+        "ciudad": "Lugo",
+        "arbitro": "J. T. Lajara",
+        "jornada": "Group 1 - 12",
+        "liga_id": 435,
+        "id_local": 716,
+        "id_visitante": 799,
+        "local": "Lugo",
+        "visitante": "Mirandés",
+        "escudo_local": "https://media.api-sports.io/football/teams/716.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/799.png",
+        "goles_local": 1,
+        "goles_visitante": 3,
+        "goleadores": [
+          {
+            "min": 5,
+            "equipo": "Mirandés",
+            "jugador": "J. Gonzalez",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 33,
+            "equipo": "Mirandés",
+            "jugador": "I. Unzueta",
+            "tipo": "Penalty"
+          },
+          {
+            "min": 56,
+            "equipo": "Mirandés",
+            "jugador": "R. Martinez",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 69,
+            "equipo": "Lugo",
+            "jugador": "A. Costa",
+            "tipo": "Penalty"
+          }
+        ],
+        "rojas": [
+          {
+            "min": 68,
+            "equipo": "Mirandés",
+            "jugador": "M. Lozano"
+          }
+        ],
+        "penaltis_fallados": [],
+        "estadisticas": null
+      },
+      {
+        "id": 1570833,
+        "fecha": "2026-11-15T16:30:00+01:00",
+        "estadio": "Estadio Las Gaunas",
+        "ciudad": null,
+        "arbitro": "G. Amigo",
+        "jornada": "Group 1 - 12",
+        "liga_id": 435,
+        "id_local": 5280,
+        "id_visitante": 9578,
+        "local": "UD Logroñés",
+        "visitante": "Arenas Getxo",
+        "escudo_local": "https://media.api-sports.io/football/teams/5280.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/9578.png",
+        "goles_local": 2,
+        "goles_visitante": 2,
+        "goleadores": [
+          {
+            "min": 33,
+            "equipo": "Arenas Getxo",
+            "jugador": "E. Zabaleta",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 55,
+            "equipo": "UD Logroñés",
+            "jugador": "C. Garcia",
+            "tipo": "Normal Goal"
+          },
+          {
+            "min": 74,
+            "equipo": "Arenas Getxo",
+            "jugador": "R. Torres Manzanares",
+            "tipo": "Penalty"
+          },
+          {
+            "min": 90,
+            "equipo": "UD Logroñés",
+            "jugador": "M. Baselga",
+            "tipo": "Normal Goal"
+          }
+        ],
+        "rojas": [
+          {
+            "min": 73,
+            "equipo": "UD Logroñés",
+            "jugador": "C. Garcia"
+          }
+        ],
+        "penaltis_fallados": [],
+        "estadisticas": null
+      }
+    ],
+    "clasificacion": [
+      {
+        "pos": 1,
+        "equipo": "Lugo",
+        "pts": 28,
+        "pj": 12,
+        "dg": 8,
+        "pg": 9,
+        "pe": 1,
+        "pp": 2,
+        "gf": 20,
+        "gc": 12,
+        "forma": "LWWLW",
+        "zona": "ascenso",
+        "escudo": "https://media.api-sports.io/football/teams/716.png",
+        "equipo_id": 716,
+        "casa": {
+          "pj": 6,
+          "pg": 5,
+          "pe": 0,
+          "pp": 1,
+          "gf": 11,
+          "gc": 5
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 9,
+          "gc": 7
+        }
+      },
+      {
+        "pos": 2,
+        "equipo": "UD Logroñés",
+        "pts": 24,
+        "pj": 12,
+        "dg": 8,
+        "pg": 7,
+        "pe": 3,
+        "pp": 2,
+        "gf": 24,
+        "gc": 16,
+        "forma": "DWLWD",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/5280.png",
+        "equipo_id": 5280,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 5,
+          "pe": 0,
+          "pp": 1,
+          "gf": 16,
+          "gc": 9
+        }
+      },
+      {
+        "pos": 3,
+        "equipo": "Pontevedra",
+        "pts": 21,
+        "pj": 12,
+        "dg": 3,
+        "pg": 6,
+        "pe": 3,
+        "pp": 3,
+        "gf": 16,
+        "gc": 13,
+        "forma": "WWDWW",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/9407.png",
+        "equipo_id": 9407,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 9,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 7,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 4,
+        "equipo": "Mirandés",
+        "pts": 20,
+        "pj": 12,
+        "dg": 3,
+        "pg": 6,
+        "pe": 2,
+        "pp": 4,
+        "gf": 16,
+        "gc": 13,
+        "forma": "WLWWL",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/799.png",
+        "equipo_id": 799,
+        "casa": {
+          "pj": 5,
+          "pg": 3,
+          "pe": 1,
+          "pp": 1,
+          "gf": 6,
+          "gc": 3
+        },
+        "fuera": {
+          "pj": 7,
+          "pg": 3,
+          "pe": 1,
+          "pp": 3,
+          "gf": 10,
+          "gc": 10
+        }
+      },
+      {
+        "pos": 5,
+        "equipo": "Mérida AD",
+        "pts": 19,
+        "pj": 12,
+        "dg": 6,
+        "pg": 6,
+        "pe": 1,
+        "pp": 5,
+        "gf": 21,
+        "gc": 15,
+        "forma": "WWLDW",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/10140.png",
+        "equipo_id": 10140,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 11,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 10,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 6,
+        "equipo": "Real Avilés",
+        "pts": 18,
+        "pj": 12,
+        "dg": 8,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 25,
+        "gc": 17,
+        "forma": "DWWLW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9632.png",
+        "equipo_id": 9632,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 13,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 12,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 7,
+        "equipo": "Cacereño",
+        "pts": 18,
+        "pj": 12,
+        "dg": 1,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 11,
+        "gc": 10,
+        "forma": "WLLWL",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9384.png",
+        "equipo_id": 9384,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 7,
+          "gc": 2
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 4,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 8,
+        "equipo": "Racing de Ferrol",
+        "pts": 18,
+        "pj": 12,
+        "dg": 1,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 10,
+        "gc": 9,
+        "forma": "DLDLW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9409.png",
+        "equipo_id": 9409,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 8,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 2,
+          "gc": 5
+        }
+      },
+      {
+        "pos": 9,
+        "equipo": "Extremadura 1924",
+        "pts": 16,
+        "pj": 12,
+        "dg": 5,
+        "pg": 5,
+        "pe": 1,
+        "pp": 6,
+        "gf": 23,
+        "gc": 18,
+        "forma": "LLWWD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/24612.png",
+        "equipo_id": 24612,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 15,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 10,
+        "equipo": "Athletic Club II",
+        "pts": 16,
+        "pj": 12,
+        "dg": 2,
+        "pg": 4,
+        "pe": 4,
+        "pp": 4,
+        "gf": 17,
+        "gc": 15,
+        "forma": "DLWLL",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9579.png",
+        "equipo_id": 9579,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 9,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 11,
+        "equipo": "Real Unión",
+        "pts": 16,
+        "pj": 12,
+        "dg": 1,
+        "pg": 4,
+        "pe": 4,
+        "pp": 4,
+        "gf": 20,
+        "gc": 19,
+        "forma": "WLLWD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9586.png",
+        "equipo_id": 9586,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 12,
+          "gc": 8
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 8,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 12,
+        "equipo": "Barakaldo",
+        "pts": 15,
+        "pj": 12,
+        "dg": 0,
+        "pg": 3,
+        "pe": 6,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12,
+        "forma": "DWDDW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/5251.png",
+        "equipo_id": 5251,
+        "casa": {
+          "pj": 7,
+          "pg": 3,
+          "pe": 4,
+          "pp": 0,
+          "gf": 9,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 5,
+          "pg": 0,
+          "pe": 2,
+          "pp": 3,
+          "gf": 3,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 13,
+        "equipo": "CD Coria",
+        "pts": 15,
+        "pj": 12,
+        "dg": -1,
+        "pg": 4,
+        "pe": 3,
+        "pp": 5,
+        "gf": 18,
+        "gc": 19,
+        "forma": "WWLDW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9827.png",
+        "equipo_id": 9827,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 13,
+          "gc": 10
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 5,
+          "gc": 9
+        }
+      },
+      {
+        "pos": 14,
+        "equipo": "Ponferradina",
+        "pts": 15,
+        "pj": 12,
+        "dg": -1,
+        "pg": 3,
+        "pe": 6,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9,
+        "forma": "LDDDD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/4907.png",
+        "equipo_id": 4907,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 3,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 4,
+          "pp": 1,
+          "gf": 5,
+          "gc": 5
+        }
+      },
+      {
+        "pos": 15,
+        "equipo": "Cultural Leonesa",
+        "pts": 13,
+        "pj": 12,
+        "dg": -1,
+        "pg": 3,
+        "pe": 4,
+        "pp": 5,
+        "gf": 11,
+        "gc": 12,
+        "forma": "LDLLD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/725.png",
+        "equipo_id": 725,
+        "casa": {
+          "pj": 5,
+          "pg": 2,
+          "pe": 2,
+          "pp": 1,
+          "gf": 9,
+          "gc": 6
+        },
+        "fuera": {
+          "pj": 7,
+          "pg": 1,
+          "pe": 2,
+          "pp": 4,
+          "gf": 2,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 16,
+        "equipo": "Zamora",
+        "pts": 13,
+        "pj": 12,
+        "dg": -2,
+        "pg": 3,
+        "pe": 4,
+        "pp": 5,
+        "gf": 13,
+        "gc": 15,
+        "forma": "DLLLD",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9418.png",
+        "equipo_id": 9418,
+        "casa": {
+          "pj": 7,
+          "pg": 1,
+          "pe": 3,
+          "pp": 3,
+          "gf": 9,
+          "gc": 11
+        },
+        "fuera": {
+          "pj": 5,
+          "pg": 2,
+          "pe": 1,
+          "pp": 2,
+          "gf": 4,
+          "gc": 4
+        }
+      },
+      {
+        "pos": 17,
+        "equipo": "Unionistas de Salamanca",
+        "pts": 13,
+        "pj": 12,
+        "dg": -7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 7,
+        "gf": 15,
+        "gc": 22,
+        "forma": "LWLWL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/5281.png",
+        "equipo_id": 5281,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 0,
+          "pp": 2,
+          "gf": 11,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 0,
+          "pe": 1,
+          "pp": 5,
+          "gf": 4,
+          "gc": 13
+        }
+      },
+      {
+        "pos": 18,
+        "equipo": "Deportivo La Coruña II",
+        "pts": 12,
+        "pj": 12,
+        "dg": -7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 6,
+        "gf": 14,
+        "gc": 21,
+        "forma": "DLWLL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9610.png",
+        "equipo_id": 9610,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 7,
+          "gc": 10
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 1,
+          "pp": 4,
+          "gf": 7,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 19,
+        "equipo": "Arenas Getxo",
+        "pts": 12,
+        "pj": 12,
+        "dg": -13,
+        "pg": 3,
+        "pe": 3,
+        "pp": 6,
+        "gf": 12,
+        "gc": 25,
+        "forma": "DWWWL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9578.png",
+        "equipo_id": 9578,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 6,
+          "gc": 11
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 6,
+          "gc": 14
+        }
+      },
+      {
+        "pos": 20,
+        "equipo": "UD Ourense",
+        "pts": 8,
+        "pj": 12,
+        "dg": -14,
+        "pg": 2,
+        "pe": 2,
+        "pp": 8,
+        "gf": 5,
+        "gc": 19,
+        "forma": "LLWLL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9617.png",
+        "equipo_id": 9617,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 3,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 0,
+          "pe": 1,
+          "pp": 5,
+          "gf": 2,
+          "gc": 12
+        }
+      }
+    ],
+    "movimientos": {
+      "Lugo": {
+        "antes": 1,
+        "ahora": 1
+      },
+      "UD Logroñés": {
+        "antes": 2,
+        "ahora": 2
+      },
+      "Pontevedra": {
+        "antes": 4,
+        "ahora": 3
+      },
+      "Mirandés": {
+        "antes": 8,
+        "ahora": 4
+      },
+      "Real Avilés": {
+        "antes": 7,
+        "ahora": 6
+      },
+      "Extremadura 1924": {
+        "antes": 9,
+        "ahora": 9
+      },
+      "Zamora": {
+        "antes": 17,
+        "ahora": 16
+      },
+      "Arenas Getxo": {
+        "antes": 19,
+        "ahora": 19
+      }
+    }
+  },
+  "texto": {
+    "titular": "El Mirandés tumba al líder Lugo en el Anxo Carro y salta a puestos de play-off",
+    "entradilla": "El Lugo perdió 1-3 en casa ante un Mirandés que pasó del octavo al cuarto puesto. El líder conserva cuatro puntos de ventaja porque el UD Logroñés solo empató con el Arenas Getxo.",
+    "cuerpo_markdown": "El líder cayó en casa y la zona noble se apretó. El Mirandés ganó 1-3 en el Anxo Carro y subió del octavo al cuarto puesto, ya en play-off. El Lugo sigue primero con 28 puntos, cuatro más que el UD Logroñés, que empató 2-2 con el Arenas Getxo gracias a un gol de M. Baselga en el minuto 90. El Pontevedra, con doblete de P. Gaye, ganó 2-3 en Almendralejo y es tercero. En Zamora, el Real Avilés arrancó un 2-2 con un penalti en el 90 tras jugar con diez desde el minuto 33.\n\n## Lugo 1-3 Mirandés\n\nEl Mirandés golpeó pronto: J. Gonzalez marcó en el minuto 5 e I. Unzueta amplió de penalti en el 33. R. Martinez hizo el 0-3 en el 56. El visitante se quedó con diez por la expulsión de M. Lozano en el 68, y un minuto después A. Costa recortó de penalti para el Lugo.\n\nEl Lugo, que solo había perdido una vez en casa, sigue líder con 28 puntos. El Mirandés suma 20 y escala del octavo al cuarto puesto, dentro del play-off.\n\n## UD Logroñés 2-2 Arenas Getxo\n\nE. Zabaleta adelantó al Arenas Getxo en el minuto 33 y C. Garcia empató en el 55. El autor del gol local fue expulsado en el 73, y un minuto después R. Torres Manzanares puso el 1-2 de penalti. Con diez, el UD Logroñés igualó en el 90 con un tanto de M. Baselga.\n\nEl UD Logroñés mantiene la segunda plaza con 24 puntos, a cuatro del Lugo. El Arenas Getxo, con 12, sigue penúltimo.\n\n## Extremadura 1924 2-3 Pontevedra\n\nP. Gaye abrió el marcador en el minuto 12 y Rodri empató en el 24. Gaye firmó su doblete en el 40 y D. Mba hizo el 1-3 en el 75. I. Burgos acortó en el 90. El Pontevedra sube del cuarto al tercer puesto con 21 puntos y suma cuatro victorias en sus últimos cinco partidos. El Extremadura 1924 se queda noveno con 16.\n\n## Zamora 2-2 Real Avilés\n\nEl Real Avilés jugó con diez desde el minuto 33 por la expulsión de A. Carmona. El Zamora se puso 2-0 con goles de I. Yurrieta Incera (54) y J. Albert (62). D. Liduena Alonso recortó en el 64, y en el 90 A. Santamaria empató de penalti. En el mismo minuto vio la roja J. Albert. El Zamora pasa del 17º al 16º puesto con 13 puntos, todavía en descenso. El Real Avilés sube del séptimo al sexto con 18.\n\n## Así queda la clasificación\n\nEl Lugo lidera con 28 puntos, cuatro más que el UD Logroñés (24). Completan el play-off el Pontevedra (21), el Mirandés (20) y el Mérida AD (19). El Real Avilés, el Cacereño y el Racing de Ferrol, con 18, están a un punto. Abajo, la Cultural Leonesa marca la salvación con 13 puntos, los mismos que Zamora y Unionistas de Salamanca, ya en descenso. Les siguen el Deportivo La Coruña II y el Arenas Getxo, con 12, y el UD Ourense, colista con 8.",
+    "texto_instagram": "⚽ El Mirandés asalta el Anxo Carro (1-3) y se mete en play-off; el Lugo sigue líder con cuatro puntos de ventaja. Doblete de Gaye y el Pontevedra ya es tercero 🔥\n\nLugo 1-3 Mirandés: J. Gonzalez 5', Unzueta 33' (p), R. Martinez 56'; A. Costa 69' (p)\nUD Logroñés 2-2 Arenas Getxo: Zabaleta 33', C. Garcia 55', Torres Manzanares 74' (p), Baselga 90'\nExtremadura 1924 2-3 Pontevedra: Gaye 12' y 40', Rodri 24', Mba 75', Burgos 90'\nZamora 2-2 Real Avilés: Yurrieta Incera 54', Albert 62', Liduena Alonso 64', Santamaria 90' (p) 📊",
+    "hashtags": [
+      "#PrimeraFederación",
+      "#Grupo1",
+      "#Lugo",
+      "#Mirandés",
+      "#Pontevedra",
+      "#UDLogroñés",
+      "#Zamora",
+      "#RealAvilés"
+    ],
+    "partido_destacado_id": 1570830,
+    "cronica_estrella": {
+      "partido_id": 1570830,
+      "titular": "El Mirandés gana 1-3 en el campo del líder Lugo y entra en play-off",
+      "entradilla": "Goles de J. Gonzalez, Unzueta de penalti y R. Martinez dieron al Mirandés la victoria en el Anxo Carro. El equipo burgalés sube del octavo al cuarto puesto.",
+      "parrafos": [
+        "El Mirandés ganó 1-3 al Lugo en el Anxo Carro y dejó tocado al líder. Con el triunfo, el equipo visitante sube del octavo al cuarto puesto y entra en la zona de play-off.",
+        "J. Gonzalez adelantó al Mirandés en el minuto 5. I. Unzueta marcó el segundo de penalti en el 33, y R. Martinez puso el 0-3 en el 56.",
+        "En el minuto 68, M. Lozano fue expulsado y el Mirandés se quedó con diez. Un minuto después, A. Costa transformó un penalti para el 1-3 definitivo.",
+        "El Lugo sigue líder con 28 puntos, cuatro más que el UD Logroñés. Es su segunda derrota en casa esta temporada, tras cinco victorias en seis partidos como local.",
+        "El Mirandés suma 20 puntos, a uno del tercero, el Pontevedra, y a ocho del liderato."
+      ],
+      "el_dato": "El Mirandés marcó tres goles en el Anxo Carro, donde el Lugo solo había encajado cinco en sus cinco partidos anteriores como local."
+    }
+  }
+}

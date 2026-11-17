@@ -1,0 +1,1562 @@
+{
+  "paquete": {
+    "liga": {
+      "id": 435,
+      "nombre_api": "Primera División RFEF - Group 1",
+      "temporada": 2026,
+      "etiqueta": "Primera Federación · Grupo 1",
+      "competicion": "Primera Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "pais": "Spain"
+    },
+    "fecha": "2026-11-21",
+    "partidos": [
+      {
+        "id": 1570842,
+        "fecha": "2026-11-21T13:00:00+01:00",
+        "estadio": "Estadio Municipal de Anduva",
+        "ciudad": "Miranda de Ebro",
+        "arbitro": null,
+        "jornada": "Group 1 - 13",
+        "liga_id": 435,
+        "id_local": 799,
+        "id_visitante": 9579,
+        "local": "Mirandés",
+        "visitante": "Athletic Club II",
+        "escudo_local": "https://media.api-sports.io/football/teams/799.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/9579.png",
+        "goles_local": null,
+        "goles_visitante": null,
+        "goleadores": [],
+        "contexto": {
+          "local": {
+            "pos": 4,
+            "pts": 20,
+            "pj": 12,
+            "pg": 6,
+            "pe": 2,
+            "pp": 4,
+            "gf": 16,
+            "gc": 13,
+            "dg": 3,
+            "zona": "playoff",
+            "casa": {
+              "pj": 5,
+              "pg": 3,
+              "pe": 1,
+              "pp": 1,
+              "gf": 6,
+              "gc": 3
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-15",
+                "rival": "Lugo",
+                "campo": "fuera",
+                "marcador": "3-1",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-08",
+                "rival": "CD Coria",
+                "campo": "casa",
+                "marcador": "0-2",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-31",
+                "rival": "UD Logroñés",
+                "campo": "fuera",
+                "marcador": "1-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-27",
+                "rival": "Atlético Tordesillas",
+                "campo": "fuera",
+                "marcador": "3-3",
+                "resultado": "E",
+                "competicion": "Copa del Rey"
+              },
+              {
+                "fecha": "2026-10-24",
+                "rival": "Racing de Ferrol",
+                "campo": "casa",
+                "marcador": "2-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          },
+          "visitante": {
+            "pos": 10,
+            "pts": 16,
+            "pj": 12,
+            "pg": 4,
+            "pe": 4,
+            "pp": 4,
+            "gf": 17,
+            "gc": 15,
+            "dg": 2,
+            "zona": "",
+            "fuera": {
+              "pj": 6,
+              "pg": 2,
+              "pe": 1,
+              "pp": 3,
+              "gf": 9,
+              "gc": 8
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-14",
+                "rival": "Racing de Ferrol",
+                "campo": "casa",
+                "marcador": "0-0",
+                "resultado": "E",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-08",
+                "rival": "Mérida AD",
+                "campo": "fuera",
+                "marcador": "0-2",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-31",
+                "rival": "Cacereño",
+                "campo": "casa",
+                "marcador": "3-1",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-24",
+                "rival": "Unionistas de Salamanca",
+                "campo": "fuera",
+                "marcador": "1-2",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-18",
+                "rival": "CD Coria",
+                "campo": "fuera",
+                "marcador": "1-2",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          }
+        },
+        "historial": [
+          {
+            "fecha": "2025-07-26",
+            "competicion": "Friendlies Clubs",
+            "resultado": "Athletic Club II 1-0 Mirandés"
+          },
+          {
+            "fecha": "2022-07-27",
+            "competicion": "Friendlies Clubs",
+            "resultado": "Athletic Club II 0-0 Mirandés"
+          }
+        ]
+      },
+      {
+        "id": 1570843,
+        "fecha": "2026-11-21T18:45:00+01:00",
+        "estadio": null,
+        "ciudad": "Ponferrada",
+        "arbitro": null,
+        "jornada": "Group 1 - 13",
+        "liga_id": 435,
+        "id_local": 4907,
+        "id_visitante": 24612,
+        "local": "Ponferradina",
+        "visitante": "Extremadura 1924",
+        "escudo_local": "https://media.api-sports.io/football/teams/4907.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/24612.png",
+        "goles_local": null,
+        "goles_visitante": null,
+        "goleadores": [],
+        "contexto": {
+          "local": {
+            "pos": 14,
+            "pts": 15,
+            "pj": 12,
+            "pg": 3,
+            "pe": 6,
+            "pp": 3,
+            "gf": 8,
+            "gc": 9,
+            "dg": -1,
+            "zona": "",
+            "casa": {
+              "pj": 6,
+              "pg": 2,
+              "pe": 2,
+              "pp": 2,
+              "gf": 3,
+              "gc": 4
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-13",
+                "rival": "Cacereño",
+                "campo": "casa",
+                "marcador": "1-2",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-08",
+                "rival": "Cultural Leonesa",
+                "campo": "fuera",
+                "marcador": "1-1",
+                "resultado": "E",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-31",
+                "rival": "Racing de Ferrol",
+                "campo": "fuera",
+                "marcador": "0-0",
+                "resultado": "E",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-27",
+                "rival": "Llanera",
+                "campo": "fuera",
+                "marcador": "1-1",
+                "resultado": "E",
+                "competicion": "Copa del Rey"
+              },
+              {
+                "fecha": "2026-10-24",
+                "rival": "Barakaldo",
+                "campo": "casa",
+                "marcador": "0-0",
+                "resultado": "E",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          },
+          "visitante": {
+            "pos": 9,
+            "pts": 16,
+            "pj": 12,
+            "pg": 5,
+            "pe": 1,
+            "pp": 6,
+            "gf": 23,
+            "gc": 18,
+            "dg": 5,
+            "zona": "",
+            "fuera": {
+              "pj": 6,
+              "pg": 3,
+              "pe": 0,
+              "pp": 3,
+              "gf": 15,
+              "gc": 11
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-15",
+                "rival": "Pontevedra",
+                "campo": "casa",
+                "marcador": "2-3",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-06",
+                "rival": "Real Avilés",
+                "campo": "fuera",
+                "marcador": "2-5",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-01",
+                "rival": "Unionistas de Salamanca",
+                "campo": "casa",
+                "marcador": "3-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-27",
+                "rival": "Don Benito",
+                "campo": "fuera",
+                "marcador": "4-2",
+                "resultado": "G",
+                "competicion": "Copa del Rey"
+              },
+              {
+                "fecha": "2026-10-24",
+                "rival": "Deportivo La Coruña II",
+                "campo": "fuera",
+                "marcador": "5-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 1570844,
+        "fecha": "2026-11-21T18:45:00+01:00",
+        "estadio": null,
+        "ciudad": "Pontevedra",
+        "arbitro": null,
+        "jornada": "Group 1 - 13",
+        "liga_id": 435,
+        "id_local": 9407,
+        "id_visitante": 716,
+        "local": "Pontevedra",
+        "visitante": "Lugo",
+        "escudo_local": "https://media.api-sports.io/football/teams/9407.png",
+        "escudo_visitante": "https://media.api-sports.io/football/teams/716.png",
+        "goles_local": null,
+        "goles_visitante": null,
+        "goleadores": [],
+        "contexto": {
+          "local": {
+            "pos": 3,
+            "pts": 21,
+            "pj": 12,
+            "pg": 6,
+            "pe": 3,
+            "pp": 3,
+            "gf": 16,
+            "gc": 13,
+            "dg": 3,
+            "zona": "playoff",
+            "casa": {
+              "pj": 6,
+              "pg": 3,
+              "pe": 1,
+              "pp": 2,
+              "gf": 9,
+              "gc": 7
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-15",
+                "rival": "Extremadura 1924",
+                "campo": "fuera",
+                "marcador": "3-2",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-07",
+                "rival": "UD Ourense",
+                "campo": "casa",
+                "marcador": "1-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-01",
+                "rival": "Barakaldo",
+                "campo": "fuera",
+                "marcador": "0-0",
+                "resultado": "E",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-27",
+                "rival": "Arosa",
+                "campo": "fuera",
+                "marcador": "0-2",
+                "resultado": "P",
+                "competicion": "Copa del Rey"
+              },
+              {
+                "fecha": "2026-10-24",
+                "rival": "Cultural Leonesa",
+                "campo": "fuera",
+                "marcador": "2-1",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          },
+          "visitante": {
+            "pos": 1,
+            "pts": 28,
+            "pj": 12,
+            "pg": 9,
+            "pe": 1,
+            "pp": 2,
+            "gf": 20,
+            "gc": 12,
+            "dg": 8,
+            "zona": "ascenso",
+            "fuera": {
+              "pj": 6,
+              "pg": 4,
+              "pe": 1,
+              "pp": 1,
+              "gf": 9,
+              "gc": 7
+            },
+            "racha": [
+              {
+                "fecha": "2026-11-15",
+                "rival": "Mirandés",
+                "campo": "casa",
+                "marcador": "1-3",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-06",
+                "rival": "Cacereño",
+                "campo": "fuera",
+                "marcador": "1-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-11-01",
+                "rival": "Mérida AD",
+                "campo": "casa",
+                "marcador": "2-1",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-23",
+                "rival": "Real Unión",
+                "campo": "fuera",
+                "marcador": "1-4",
+                "resultado": "P",
+                "competicion": "Primera División RFEF - Group 1"
+              },
+              {
+                "fecha": "2026-10-17",
+                "rival": "Deportivo La Coruña II",
+                "campo": "casa",
+                "marcador": "3-0",
+                "resultado": "G",
+                "competicion": "Primera División RFEF - Group 1"
+              }
+            ]
+          }
+        },
+        "historial": [
+          {
+            "fecha": "2026-02-21",
+            "competicion": "Primera División RFEF - Group 1",
+            "resultado": "Pontevedra 1-1 Lugo"
+          },
+          {
+            "fecha": "2025-11-22",
+            "competicion": "Primera División RFEF - Group 1",
+            "resultado": "Lugo 1-0 Pontevedra"
+          },
+          {
+            "fecha": "2024-08-17",
+            "competicion": "Friendlies Clubs",
+            "resultado": "Pontevedra 1-0 Lugo"
+          }
+        ]
+      }
+    ],
+    "clasificacion": [
+      {
+        "pos": 1,
+        "equipo": "Lugo",
+        "pts": 28,
+        "pj": 12,
+        "dg": 8,
+        "pg": 9,
+        "pe": 1,
+        "pp": 2,
+        "gf": 20,
+        "gc": 12,
+        "forma": "LWWLW",
+        "zona": "ascenso",
+        "escudo": "https://media.api-sports.io/football/teams/716.png",
+        "equipo_id": 716,
+        "casa": {
+          "pj": 6,
+          "pg": 5,
+          "pe": 0,
+          "pp": 1,
+          "gf": 11,
+          "gc": 5
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 9,
+          "gc": 7
+        }
+      },
+      {
+        "pos": 2,
+        "equipo": "UD Logroñés",
+        "pts": 24,
+        "pj": 12,
+        "dg": 8,
+        "pg": 7,
+        "pe": 3,
+        "pp": 2,
+        "gf": 24,
+        "gc": 16,
+        "forma": "DWLWD",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/5280.png",
+        "equipo_id": 5280,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 5,
+          "pe": 0,
+          "pp": 1,
+          "gf": 16,
+          "gc": 9
+        }
+      },
+      {
+        "pos": 3,
+        "equipo": "Pontevedra",
+        "pts": 21,
+        "pj": 12,
+        "dg": 3,
+        "pg": 6,
+        "pe": 3,
+        "pp": 3,
+        "gf": 16,
+        "gc": 13,
+        "forma": "WWDWW",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/9407.png",
+        "equipo_id": 9407,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 9,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 7,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 4,
+        "equipo": "Mirandés",
+        "pts": 20,
+        "pj": 12,
+        "dg": 3,
+        "pg": 6,
+        "pe": 2,
+        "pp": 4,
+        "gf": 16,
+        "gc": 13,
+        "forma": "WLWWL",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/799.png",
+        "equipo_id": 799,
+        "casa": {
+          "pj": 5,
+          "pg": 3,
+          "pe": 1,
+          "pp": 1,
+          "gf": 6,
+          "gc": 3
+        },
+        "fuera": {
+          "pj": 7,
+          "pg": 3,
+          "pe": 1,
+          "pp": 3,
+          "gf": 10,
+          "gc": 10
+        }
+      },
+      {
+        "pos": 5,
+        "equipo": "Mérida AD",
+        "pts": 19,
+        "pj": 12,
+        "dg": 6,
+        "pg": 6,
+        "pe": 1,
+        "pp": 5,
+        "gf": 21,
+        "gc": 15,
+        "forma": "WWLDW",
+        "zona": "playoff",
+        "escudo": "https://media.api-sports.io/football/teams/10140.png",
+        "equipo_id": 10140,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 11,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 10,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 6,
+        "equipo": "Real Avilés",
+        "pts": 18,
+        "pj": 12,
+        "dg": 8,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 25,
+        "gc": 17,
+        "forma": "DWWLW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9632.png",
+        "equipo_id": 9632,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 13,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 12,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 7,
+        "equipo": "Cacereño",
+        "pts": 18,
+        "pj": 12,
+        "dg": 1,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 11,
+        "gc": 10,
+        "forma": "WLLWL",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9384.png",
+        "equipo_id": 9384,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 7,
+          "gc": 2
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 4,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 8,
+        "equipo": "Racing de Ferrol",
+        "pts": 18,
+        "pj": 12,
+        "dg": 1,
+        "pg": 5,
+        "pe": 3,
+        "pp": 4,
+        "gf": 10,
+        "gc": 9,
+        "forma": "DLDLW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9409.png",
+        "equipo_id": 9409,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 1,
+          "pp": 1,
+          "gf": 8,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 2,
+          "gc": 5
+        }
+      },
+      {
+        "pos": 9,
+        "equipo": "Extremadura 1924",
+        "pts": 16,
+        "pj": 12,
+        "dg": 5,
+        "pg": 5,
+        "pe": 1,
+        "pp": 6,
+        "gf": 23,
+        "gc": 18,
+        "forma": "LLWWD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/24612.png",
+        "equipo_id": 24612,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 0,
+          "pp": 3,
+          "gf": 15,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 10,
+        "equipo": "Athletic Club II",
+        "pts": 16,
+        "pj": 12,
+        "dg": 2,
+        "pg": 4,
+        "pe": 4,
+        "pp": 4,
+        "gf": 17,
+        "gc": 15,
+        "forma": "DLWLL",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9579.png",
+        "equipo_id": 9579,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 3,
+          "pp": 1,
+          "gf": 8,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 9,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 11,
+        "equipo": "Real Unión",
+        "pts": 16,
+        "pj": 12,
+        "dg": 1,
+        "pg": 4,
+        "pe": 4,
+        "pp": 4,
+        "gf": 20,
+        "gc": 19,
+        "forma": "WLLWD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9586.png",
+        "equipo_id": 9586,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 2,
+          "pp": 1,
+          "gf": 12,
+          "gc": 8
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 8,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 12,
+        "equipo": "Barakaldo",
+        "pts": 15,
+        "pj": 12,
+        "dg": 0,
+        "pg": 3,
+        "pe": 6,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12,
+        "forma": "DWDDW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/5251.png",
+        "equipo_id": 5251,
+        "casa": {
+          "pj": 7,
+          "pg": 3,
+          "pe": 4,
+          "pp": 0,
+          "gf": 9,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 5,
+          "pg": 0,
+          "pe": 2,
+          "pp": 3,
+          "gf": 3,
+          "gc": 8
+        }
+      },
+      {
+        "pos": 13,
+        "equipo": "CD Coria",
+        "pts": 15,
+        "pj": 12,
+        "dg": -1,
+        "pg": 4,
+        "pe": 3,
+        "pp": 5,
+        "gf": 18,
+        "gc": 19,
+        "forma": "WWLDW",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/9827.png",
+        "equipo_id": 9827,
+        "casa": {
+          "pj": 6,
+          "pg": 3,
+          "pe": 1,
+          "pp": 2,
+          "gf": 13,
+          "gc": 10
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 5,
+          "gc": 9
+        }
+      },
+      {
+        "pos": 14,
+        "equipo": "Ponferradina",
+        "pts": 15,
+        "pj": 12,
+        "dg": -1,
+        "pg": 3,
+        "pe": 6,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9,
+        "forma": "LDDDD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/4907.png",
+        "equipo_id": 4907,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 3,
+          "gc": 4
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 4,
+          "pp": 1,
+          "gf": 5,
+          "gc": 5
+        }
+      },
+      {
+        "pos": 15,
+        "equipo": "Cultural Leonesa",
+        "pts": 13,
+        "pj": 12,
+        "dg": -1,
+        "pg": 3,
+        "pe": 4,
+        "pp": 5,
+        "gf": 11,
+        "gc": 12,
+        "forma": "LDLLD",
+        "zona": "",
+        "escudo": "https://media.api-sports.io/football/teams/725.png",
+        "equipo_id": 725,
+        "casa": {
+          "pj": 5,
+          "pg": 2,
+          "pe": 2,
+          "pp": 1,
+          "gf": 9,
+          "gc": 6
+        },
+        "fuera": {
+          "pj": 7,
+          "pg": 1,
+          "pe": 2,
+          "pp": 4,
+          "gf": 2,
+          "gc": 6
+        }
+      },
+      {
+        "pos": 16,
+        "equipo": "Zamora",
+        "pts": 13,
+        "pj": 12,
+        "dg": -2,
+        "pg": 3,
+        "pe": 4,
+        "pp": 5,
+        "gf": 13,
+        "gc": 15,
+        "forma": "DLLLD",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9418.png",
+        "equipo_id": 9418,
+        "casa": {
+          "pj": 7,
+          "pg": 1,
+          "pe": 3,
+          "pp": 3,
+          "gf": 9,
+          "gc": 11
+        },
+        "fuera": {
+          "pj": 5,
+          "pg": 2,
+          "pe": 1,
+          "pp": 2,
+          "gf": 4,
+          "gc": 4
+        }
+      },
+      {
+        "pos": 17,
+        "equipo": "Unionistas de Salamanca",
+        "pts": 13,
+        "pj": 12,
+        "dg": -7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 7,
+        "gf": 15,
+        "gc": 22,
+        "forma": "LWLWL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/5281.png",
+        "equipo_id": 5281,
+        "casa": {
+          "pj": 6,
+          "pg": 4,
+          "pe": 0,
+          "pp": 2,
+          "gf": 11,
+          "gc": 9
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 0,
+          "pe": 1,
+          "pp": 5,
+          "gf": 4,
+          "gc": 13
+        }
+      },
+      {
+        "pos": 18,
+        "equipo": "Deportivo La Coruña II",
+        "pts": 12,
+        "pj": 12,
+        "dg": -7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 6,
+        "gf": 14,
+        "gc": 21,
+        "forma": "DLWLL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9610.png",
+        "equipo_id": 9610,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 2,
+          "pp": 2,
+          "gf": 7,
+          "gc": 10
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 1,
+          "pp": 4,
+          "gf": 7,
+          "gc": 11
+        }
+      },
+      {
+        "pos": 19,
+        "equipo": "Arenas Getxo",
+        "pts": 12,
+        "pj": 12,
+        "dg": -13,
+        "pg": 3,
+        "pe": 3,
+        "pp": 6,
+        "gf": 12,
+        "gc": 25,
+        "forma": "DWWWL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9578.png",
+        "equipo_id": 9578,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 6,
+          "gc": 11
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 1,
+          "pe": 2,
+          "pp": 3,
+          "gf": 6,
+          "gc": 14
+        }
+      },
+      {
+        "pos": 20,
+        "equipo": "UD Ourense",
+        "pts": 8,
+        "pj": 12,
+        "dg": -14,
+        "pg": 2,
+        "pe": 2,
+        "pp": 8,
+        "gf": 5,
+        "gc": 19,
+        "forma": "LLWLL",
+        "zona": "descenso",
+        "escudo": "https://media.api-sports.io/football/teams/9617.png",
+        "equipo_id": 9617,
+        "casa": {
+          "pj": 6,
+          "pg": 2,
+          "pe": 1,
+          "pp": 3,
+          "gf": 3,
+          "gc": 7
+        },
+        "fuera": {
+          "pj": 6,
+          "pg": 0,
+          "pe": 1,
+          "pp": 5,
+          "gf": 2,
+          "gc": 12
+        }
+      }
+    ],
+    "forma": {
+      "Mirandés": [
+        {
+          "fecha": "2026-11-15",
+          "rival": "Lugo",
+          "campo": "fuera",
+          "marcador": "3-1",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-08",
+          "rival": "CD Coria",
+          "campo": "casa",
+          "marcador": "0-2",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-31",
+          "rival": "UD Logroñés",
+          "campo": "fuera",
+          "marcador": "1-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-27",
+          "rival": "Atlético Tordesillas",
+          "campo": "fuera",
+          "marcador": "3-3",
+          "resultado": "E",
+          "competicion": "Copa del Rey"
+        },
+        {
+          "fecha": "2026-10-24",
+          "rival": "Racing de Ferrol",
+          "campo": "casa",
+          "marcador": "2-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ],
+      "Athletic Club II": [
+        {
+          "fecha": "2026-11-14",
+          "rival": "Racing de Ferrol",
+          "campo": "casa",
+          "marcador": "0-0",
+          "resultado": "E",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-08",
+          "rival": "Mérida AD",
+          "campo": "fuera",
+          "marcador": "0-2",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-31",
+          "rival": "Cacereño",
+          "campo": "casa",
+          "marcador": "3-1",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-24",
+          "rival": "Unionistas de Salamanca",
+          "campo": "fuera",
+          "marcador": "1-2",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-18",
+          "rival": "CD Coria",
+          "campo": "fuera",
+          "marcador": "1-2",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ],
+      "Ponferradina": [
+        {
+          "fecha": "2026-11-13",
+          "rival": "Cacereño",
+          "campo": "casa",
+          "marcador": "1-2",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-08",
+          "rival": "Cultural Leonesa",
+          "campo": "fuera",
+          "marcador": "1-1",
+          "resultado": "E",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-31",
+          "rival": "Racing de Ferrol",
+          "campo": "fuera",
+          "marcador": "0-0",
+          "resultado": "E",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-27",
+          "rival": "Llanera",
+          "campo": "fuera",
+          "marcador": "1-1",
+          "resultado": "E",
+          "competicion": "Copa del Rey"
+        },
+        {
+          "fecha": "2026-10-24",
+          "rival": "Barakaldo",
+          "campo": "casa",
+          "marcador": "0-0",
+          "resultado": "E",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ],
+      "Extremadura 1924": [
+        {
+          "fecha": "2026-11-15",
+          "rival": "Pontevedra",
+          "campo": "casa",
+          "marcador": "2-3",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-06",
+          "rival": "Real Avilés",
+          "campo": "fuera",
+          "marcador": "2-5",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-01",
+          "rival": "Unionistas de Salamanca",
+          "campo": "casa",
+          "marcador": "3-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-27",
+          "rival": "Don Benito",
+          "campo": "fuera",
+          "marcador": "4-2",
+          "resultado": "G",
+          "competicion": "Copa del Rey"
+        },
+        {
+          "fecha": "2026-10-24",
+          "rival": "Deportivo La Coruña II",
+          "campo": "fuera",
+          "marcador": "5-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ],
+      "Pontevedra": [
+        {
+          "fecha": "2026-11-15",
+          "rival": "Extremadura 1924",
+          "campo": "fuera",
+          "marcador": "3-2",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-07",
+          "rival": "UD Ourense",
+          "campo": "casa",
+          "marcador": "1-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-01",
+          "rival": "Barakaldo",
+          "campo": "fuera",
+          "marcador": "0-0",
+          "resultado": "E",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-27",
+          "rival": "Arosa",
+          "campo": "fuera",
+          "marcador": "0-2",
+          "resultado": "P",
+          "competicion": "Copa del Rey"
+        },
+        {
+          "fecha": "2026-10-24",
+          "rival": "Cultural Leonesa",
+          "campo": "fuera",
+          "marcador": "2-1",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ],
+      "Lugo": [
+        {
+          "fecha": "2026-11-15",
+          "rival": "Mirandés",
+          "campo": "casa",
+          "marcador": "1-3",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-06",
+          "rival": "Cacereño",
+          "campo": "fuera",
+          "marcador": "1-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-11-01",
+          "rival": "Mérida AD",
+          "campo": "casa",
+          "marcador": "2-1",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-23",
+          "rival": "Real Unión",
+          "campo": "fuera",
+          "marcador": "1-4",
+          "resultado": "P",
+          "competicion": "Primera División RFEF - Group 1"
+        },
+        {
+          "fecha": "2026-10-17",
+          "rival": "Deportivo La Coruña II",
+          "campo": "casa",
+          "marcador": "3-0",
+          "resultado": "G",
+          "competicion": "Primera División RFEF - Group 1"
+        }
+      ]
+    }
+  },
+  "texto": {
+    "titular": "El Pontevedra pone a prueba a un Lugo líder que viene de perder",
+    "entradilla": "El tercero recibe al primero en la jornada 13 del Grupo 1 de Primera Federación. El Pontevedra no pierde en Liga desde hace cuatro partidos y está a siete puntos del Lugo, que cayó en casa ante el Mirandés.",
+    "presentacion": "La jornada del sábado afecta a la zona alta. El Lugo lidera con 28 puntos, cuatro más que la UD Logroñés. Pontevedra (21) y Mirandés (20) ocupan la tercera y la cuarta plaza, en puestos de play-off, y ambos juegan en casa. En la zona media, Extremadura 1924 (16) visita a una Ponferradina (15) que solo tiene dos puntos de margen sobre el descenso.",
+    "claves": [
+      "El Mirandés ganó 1-3 en Lugo la jornada pasada y le cortó una racha de dos victorias seguidas.",
+      "El Pontevedra suma cuatro jornadas de Liga sin perder: tres victorias y un empate.",
+      "La Ponferradina ha marcado 8 goles en 12 jornadas; el Extremadura 1924 lleva 15 solo fuera de casa."
+    ],
+    "partidos": [
+      {
+        "id": 1570844,
+        "titular": "El Pontevedra, cuatro jornadas sin perder, desafía al líder",
+        "entradilla": "El tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.",
+        "parrafos": [
+          "El Pontevedra y el Lugo se miden este sábado a las 18:45 en Pontevedra, en la jornada 13 del Grupo 1 de Primera Federación. Es el partido del tercero contra el primero. Separa a ambos una distancia de siete puntos.",
+          "El Pontevedra es tercero con 21 puntos y no pierde en Liga desde hace cuatro jornadas. En ese tramo ha ganado 2-1 en el campo de la Cultural Leonesa, ha empatado 0-0 en el de Barakaldo, ha ganado 1-0 al UD Ourense y 3-2 en el del Extremadura 1924. Su única derrota reciente fue en la Copa del Rey, 0-2 ante el Arosa. En casa es menos sólido que fuera: tres victorias, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
+          "El Lugo es líder con 28 puntos, 9 victorias y la mejor diferencia de goles del grupo, +8, igual que la UD Logroñés. Pero llega tras perder 1-3 en casa ante el Mirandés y ha caído en dos de sus últimos cuatro partidos, después de haber perdido también 4-1 en el campo del Real Unión. Fuera de casa es fiable: cuatro victorias, un empate y una derrota.",
+          "El último enfrentamiento de Liga terminó en empate en Pontevedra. La UD Logroñés, segunda con 24 puntos, está pendiente de lo que haga el líder."
+        ],
+        "precedente": "El 21 de febrero de 2026 empataron 1-1 en Pontevedra. En noviembre de 2025 ganó el Lugo 1-0 en su campo.",
+        "el_dato": "El Lugo ha sumado 13 de los 18 puntos que ha disputado como visitante.",
+        "claves": [
+          {
+            "titulo": "Siete puntos de diferencia",
+            "texto": "El Lugo tiene 28 puntos y el Pontevedra 21; una victoria local reduciría la distancia a cuatro."
+          },
+          {
+            "titulo": "Líder tocado",
+            "texto": "El Lugo ha perdido dos de sus últimos cuatro partidos, 4-1 contra el Real Unión y 1-3 contra el Mirandés."
+          },
+          {
+            "titulo": "Pontevedra, mejor fuera",
+            "texto": "Ha encajado 7 goles en seis partidos en casa y 6 en seis partidos fuera."
+          }
+        ]
+      },
+      {
+        "id": 1570842,
+        "titular": "El Mirandés busca confirmar en Anduva su victoria en Lugo",
+        "entradilla": "El cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.",
+        "parrafos": [
+          "El Mirandés recibe al Athletic Club II este sábado a las 13:00 en el Estadio Municipal de Anduva, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son cuartos, con 20 puntos; los visitantes son décimos, con 16.",
+          "El Mirandés llega después de ganar 1-3 en el campo del líder. Lleva tres victorias en sus últimas cuatro jornadas de Liga, aunque entre ellas perdió 0-2 en casa ante el CD Coria. En Anduva ha ganado tres partidos, ha empatado uno y ha perdido uno, con solo 3 goles encajados en cinco partidos.",
+          "El Athletic Club II ha ganado solo uno de sus últimos cinco partidos, 3-1 al Cacereño. Fuera de casa ha perdido sus tres últimos encuentros: 1-2 en el campo del CD Coria, 1-2 en el del Unionistas de Salamanca y 0-2 en el del Mérida AD. Viene de empatar 0-0 con el Racing de Ferrol.",
+          "Una victoria local mantendría al Mirandés en zona de play-off y lo pondría a siete puntos del filial rojiblanco."
+        ],
+        "precedente": "Solo se han enfrentado en partidos amistosos. El último, en julio de 2025, lo ganó el Athletic Club II por 1-0.",
+        "el_dato": "El Mirandés ha encajado 3 goles en cinco partidos como local.",
+        "claves": [
+          {
+            "titulo": "Golpe en Lugo",
+            "texto": "El Mirandés ganó 1-3 en el campo del líder en la última jornada."
+          },
+          {
+            "titulo": "Filial sin puntos fuera",
+            "texto": "El Athletic Club II ha perdido sus tres últimos partidos como visitante."
+          },
+          {
+            "titulo": "Cuatro puntos de diferencia",
+            "texto": "El Mirandés tiene 20 puntos y el Athletic Club II tiene 16."
+          }
+        ]
+      },
+      {
+        "id": 1570843,
+        "titular": "La Ponferradina, sin gol, se mide al mejor ataque visitante del grupo",
+        "entradilla": "El equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.",
+        "parrafos": [
+          "La Ponferradina recibe al Extremadura 1924 este sábado a las 18:45 en Ponferrada, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son decimocuartos, con 15 puntos. Los visitantes son novenos, con 16.",
+          "La Ponferradina no ha ganado ninguno de sus últimos cinco partidos: ha empatado cuatro y viene de perder 1-2 en casa ante el Cacereño. Ha marcado 8 goles en 12 jornadas; solo el UD Ourense ha marcado menos. En casa ha marcado 3 goles en seis partidos. Tiene dos puntos más que el Zamora, el primer equipo en puestos de descenso.",
+          "El Extremadura 1924 presenta el perfil contrario. Ha marcado 23 goles y fuera de casa lleva 15 en seis partidos, el segundo mejor registro del grupo. Sin embargo, llega tras dos derrotas en las que ha encajado ocho goles: 5-2 en el campo del Real Avilés y 2-3 en casa ante el Pontevedra. Antes había ganado 0-5 en el campo del Deportivo La Coruña II."
+        ],
+        "precedente": "",
+        "el_dato": "El Extremadura 1924 ha marcado 15 goles fuera de casa, casi el doble de los 8 que suma la Ponferradina en todo el campeonato.",
+        "claves": [
+          {
+            "titulo": "Seis empates",
+            "texto": "La Ponferradina ha empatado la mitad de sus 12 partidos de Liga."
+          },
+          {
+            "titulo": "Defensa visitante frágil",
+            "texto": "El Extremadura 1924 ha encajado 8 goles en sus dos últimos partidos."
+          },
+          {
+            "titulo": "Margen corto",
+            "texto": "La Ponferradina tiene 15 puntos, dos más que el Zamora, decimosexto."
+          }
+        ]
+      }
+    ],
+    "texto_instagram": "⚽ Jornada 13 del Grupo 1 de Primera Federación. El Pontevedra, tercero y con cuatro jornadas de Liga sin perder, recibe al Lugo, líder con 28 puntos que viene de caer 1-3 ante el Mirandés. El Mirandés, cuarto, recibe en Anduva a un Athletic Club II que ha perdido sus tres últimos partidos fuera. La Ponferradina, con 8 goles en 12 jornadas, se mide al Extremadura 1924, que ha marcado 15 goles como visitante.\n\n🕐 13:00 Mirandés - Athletic Club II\n🕐 18:45 Ponferradina - Extremadura 1924\n🕐 18:45 Pontevedra - Lugo",
+    "hashtags": [
+      "#PrimeraFederacion",
+      "#PontevedraLugo",
+      "#Mirandes",
+      "#Ponferradina",
+      "#Extremadura1924",
+      "#AthleticClub"
+    ],
+    "partido_destacado_id": 1570844,
+    "cuerpo_markdown": "La jornada del sábado afecta a la zona alta. El Lugo lidera con 28 puntos, cuatro más que la UD Logroñés. Pontevedra (21) y Mirandés (20) ocupan la tercera y la cuarta plaza, en puestos de play-off, y ambos juegan en casa. En la zona media, Extremadura 1924 (16) visita a una Ponferradina (15) que solo tiene dos puntos de margen sobre el descenso.\n\n## Claves de la jornada\n\n- El Mirandés ganó 1-3 en Lugo la jornada pasada y le cortó una racha de dos victorias seguidas.\n- El Pontevedra suma cuatro jornadas de Liga sin perder: tres victorias y un empate.\n- La Ponferradina ha marcado 8 goles en 12 jornadas; el Extremadura 1924 lleva 15 solo fuera de casa.\n\n## Mirandés - Athletic Club II\n\n<p class=\"ficha\"><b>13:00</b> · Estadio Municipal de Anduva (Miranda de Ebro) · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Mirandés</span><span class=\"fG\" title=\"2-0 vs Racing de Ferrol\">G</span><span class=\"fE\" title=\"3-3 vs Atlético Tordesillas\">E</span><span class=\"fG\" title=\"1-0 vs UD Logroñés\">G</span><span class=\"fP\" title=\"0-2 vs CD Coria\">P</span><span class=\"fG\" title=\"3-1 vs Lugo\">G</span><br><span class=\"eq\">Athletic Club II</span><span class=\"fP\" title=\"1-2 vs CD Coria\">P</span><span class=\"fP\" title=\"1-2 vs Unionistas de Salamanca\">P</span><span class=\"fG\" title=\"3-1 vs Cacereño\">G</span><span class=\"fP\" title=\"0-2 vs Mérida AD\">P</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span></p>\n\nEl cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.\n\n[Leer la previa completa →](../previas/2026-11-21-mirandes-athletic-club-ii.html)\n\n## Ponferradina - Extremadura 1924\n\n<p class=\"ficha\"><b>18:45</b> · Ponferrada · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Ponferradina</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fE\" title=\"1-1 vs Llanera\">E</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span><span class=\"fE\" title=\"1-1 vs Cultural Leonesa\">E</span><span class=\"fP\" title=\"1-2 vs Cacereño\">P</span><br><span class=\"eq\">Extremadura 1924</span><span class=\"fG\" title=\"5-0 vs Deportivo La Coruña II\">G</span><span class=\"fG\" title=\"4-2 vs Don Benito\">G</span><span class=\"fG\" title=\"3-0 vs Unionistas de Salamanca\">G</span><span class=\"fP\" title=\"2-5 vs Real Avilés\">P</span><span class=\"fP\" title=\"2-3 vs Pontevedra\">P</span></p>\n\nEl equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.\n\n[Leer la previa completa →](../previas/2026-11-21-ponferradina-extremadura-1924.html)\n\n## Pontevedra - Lugo\n\n<p class=\"ficha\"><b>18:45</b> · Pontevedra · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Pontevedra</span><span class=\"fG\" title=\"2-1 vs Cultural Leonesa\">G</span><span class=\"fP\" title=\"0-2 vs Arosa\">P</span><span class=\"fE\" title=\"0-0 vs Barakaldo\">E</span><span class=\"fG\" title=\"1-0 vs UD Ourense\">G</span><span class=\"fG\" title=\"3-2 vs Extremadura 1924\">G</span><br><span class=\"eq\">Lugo</span><span class=\"fG\" title=\"3-0 vs Deportivo La Coruña II\">G</span><span class=\"fP\" title=\"1-4 vs Real Unión\">P</span><span class=\"fG\" title=\"2-1 vs Mérida AD\">G</span><span class=\"fG\" title=\"1-0 vs Cacereño\">G</span><span class=\"fP\" title=\"1-3 vs Mirandés\">P</span></p>\n\nEl tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.\n\n[Leer la previa completa →](../previas/2026-11-21-pontevedra-lugo.html)",
+    "previas_partido": [
+      {
+        "id": 1570842,
+        "slug": "2026-11-21-mirandes-athletic-club-ii",
+        "titular": "El Mirandés busca confirmar en Anduva su victoria en Lugo",
+        "entradilla": "El cuarto, en puestos de play-off, recibe a un Athletic Club II que ha perdido sus tres últimos partidos fuera de casa.",
+        "parrafos": [
+          "El Mirandés recibe al Athletic Club II este sábado a las 13:00 en el Estadio Municipal de Anduva, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son cuartos, con 20 puntos; los visitantes son décimos, con 16.",
+          "El Mirandés llega después de ganar 1-3 en el campo del líder. Lleva tres victorias en sus últimas cuatro jornadas de Liga, aunque entre ellas perdió 0-2 en casa ante el CD Coria. En Anduva ha ganado tres partidos, ha empatado uno y ha perdido uno, con solo 3 goles encajados en cinco partidos.",
+          "El Athletic Club II ha ganado solo uno de sus últimos cinco partidos, 3-1 al Cacereño. Fuera de casa ha perdido sus tres últimos encuentros: 1-2 en el campo del CD Coria, 1-2 en el del Unionistas de Salamanca y 0-2 en el del Mérida AD. Viene de empatar 0-0 con el Racing de Ferrol.",
+          "Una victoria local mantendría al Mirandés en zona de play-off y lo pondría a siete puntos del filial rojiblanco."
+        ],
+        "precedente": "Solo se han enfrentado en partidos amistosos. El último, en julio de 2025, lo ganó el Athletic Club II por 1-0.",
+        "el_dato": "El Mirandés ha encajado 3 goles en cinco partidos como local.",
+        "claves": [
+          {
+            "titulo": "Golpe en Lugo",
+            "texto": "El Mirandés ganó 1-3 en el campo del líder en la última jornada."
+          },
+          {
+            "titulo": "Filial sin puntos fuera",
+            "texto": "El Athletic Club II ha perdido sus tres últimos partidos como visitante."
+          },
+          {
+            "titulo": "Cuatro puntos de diferencia",
+            "texto": "El Mirandés tiene 20 puntos y el Athletic Club II tiene 16."
+          }
+        ]
+      },
+      {
+        "id": 1570843,
+        "slug": "2026-11-21-ponferradina-extremadura-1924",
+        "titular": "La Ponferradina, sin gol, se mide al mejor ataque visitante del grupo",
+        "entradilla": "El equipo de El Bierzo, con dos puntos de margen sobre el descenso, recibe a un Extremadura 1924 que marca mucho fuera de casa, pero que ha perdido sus dos últimos partidos.",
+        "parrafos": [
+          "La Ponferradina recibe al Extremadura 1924 este sábado a las 18:45 en Ponferrada, en la jornada 13 del Grupo 1 de Primera Federación. Los locales son decimocuartos, con 15 puntos. Los visitantes son novenos, con 16.",
+          "La Ponferradina no ha ganado ninguno de sus últimos cinco partidos: ha empatado cuatro y viene de perder 1-2 en casa ante el Cacereño. Ha marcado 8 goles en 12 jornadas; solo el UD Ourense ha marcado menos. En casa ha marcado 3 goles en seis partidos. Tiene dos puntos más que el Zamora, el primer equipo en puestos de descenso.",
+          "El Extremadura 1924 presenta el perfil contrario. Ha marcado 23 goles y fuera de casa lleva 15 en seis partidos, el segundo mejor registro del grupo. Sin embargo, llega tras dos derrotas en las que ha encajado ocho goles: 5-2 en el campo del Real Avilés y 2-3 en casa ante el Pontevedra. Antes había ganado 0-5 en el campo del Deportivo La Coruña II."
+        ],
+        "precedente": "",
+        "el_dato": "El Extremadura 1924 ha marcado 15 goles fuera de casa, casi el doble de los 8 que suma la Ponferradina en todo el campeonato.",
+        "claves": [
+          {
+            "titulo": "Seis empates",
+            "texto": "La Ponferradina ha empatado la mitad de sus 12 partidos de Liga."
+          },
+          {
+            "titulo": "Defensa visitante frágil",
+            "texto": "El Extremadura 1924 ha encajado 8 goles en sus dos últimos partidos."
+          },
+          {
+            "titulo": "Margen corto",
+            "texto": "La Ponferradina tiene 15 puntos, dos más que el Zamora, decimosexto."
+          }
+        ]
+      },
+      {
+        "id": 1570844,
+        "slug": "2026-11-21-pontevedra-lugo",
+        "titular": "El Pontevedra, cuatro jornadas sin perder, desafía al líder",
+        "entradilla": "El tercero recibe al Lugo con siete puntos de desventaja. Una victoria lo dejaría a cuatro del primer puesto.",
+        "parrafos": [
+          "El Pontevedra y el Lugo se miden este sábado a las 18:45 en Pontevedra, en la jornada 13 del Grupo 1 de Primera Federación. Es el partido del tercero contra el primero. Separa a ambos una distancia de siete puntos.",
+          "El Pontevedra es tercero con 21 puntos y no pierde en Liga desde hace cuatro jornadas. En ese tramo ha ganado 2-1 en el campo de la Cultural Leonesa, ha empatado 0-0 en el de Barakaldo, ha ganado 1-0 al UD Ourense y 3-2 en el del Extremadura 1924. Su única derrota reciente fue en la Copa del Rey, 0-2 ante el Arosa. En casa es menos sólido que fuera: tres victorias, un empate y dos derrotas, con 7 goles encajados en seis partidos.",
+          "El Lugo es líder con 28 puntos, 9 victorias y la mejor diferencia de goles del grupo, +8, igual que la UD Logroñés. Pero llega tras perder 1-3 en casa ante el Mirandés y ha caído en dos de sus últimos cuatro partidos, después de haber perdido también 4-1 en el campo del Real Unión. Fuera de casa es fiable: cuatro victorias, un empate y una derrota.",
+          "El último enfrentamiento de Liga terminó en empate en Pontevedra. La UD Logroñés, segunda con 24 puntos, está pendiente de lo que haga el líder."
+        ],
+        "precedente": "El 21 de febrero de 2026 empataron 1-1 en Pontevedra. En noviembre de 2025 ganó el Lugo 1-0 en su campo.",
+        "el_dato": "El Lugo ha sumado 13 de los 18 puntos que ha disputado como visitante.",
+        "claves": [
+          {
+            "titulo": "Siete puntos de diferencia",
+            "texto": "El Lugo tiene 28 puntos y el Pontevedra 21; una victoria local reduciría la distancia a cuatro."
+          },
+          {
+            "titulo": "Líder tocado",
+            "texto": "El Lugo ha perdido dos de sus últimos cuatro partidos, 4-1 contra el Real Unión y 1-3 contra el Mirandés."
+          },
+          {
+            "titulo": "Pontevedra, mejor fuera",
+            "texto": "Ha encajado 7 goles en seis partidos en casa y 6 en seis partidos fuera."
+          }
+        ]
+      }
+    ]
+  }
+}
