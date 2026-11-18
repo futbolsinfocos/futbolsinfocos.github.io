@@ -46,7 +46,9 @@ jobs:
     if: ${{ !inputs.solo_web }}
     runs-on: ubuntu-latest
     steps:
+      # Siempre la última versión de main: así ve las marcas de "ya publicado" de ejecuciones anteriores
       - uses: actions/checkout@v4
+        with: {ref: main}
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
@@ -65,4 +67,6 @@ jobs:
           git add contenido/articulos contenido/instagram
           git diff --cached --quiet && exit 0
           git commit -m "Marcar posts de Instagram publicados [skip ci]"
-          git push
+          # Si otro cambio llegó a main mientras tanto, se integra y se reintenta (si no, se repetirían posts)
+          for i in 1 2 3 4; do git pull --rebase -q && git push && exit 0; sleep $((i * 5)); done
+          exit 1
