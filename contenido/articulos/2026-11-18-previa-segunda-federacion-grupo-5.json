@@ -1,0 +1,283 @@
+{
+  "slug": "2026-11-18-previa-segunda-federacion-grupo-5",
+  "tipo": "previa",
+  "fecha": "2026-11-18",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Salamanca UDS puede dormir líder si gana al Albacete II",
+  "entradilla": "El Salamanca UDS, quinto con 19 puntos, recupera a las 20:30 su partido pendiente ante el Albacete II. Una victoria le daría 22 puntos y el liderato provisional del Grupo 5.",
+  "cuerpo_markdown": "El Salamanca UDS y el Albacete II son los únicos equipos del Grupo 5 con diez partidos jugados; el resto suma once. La cabeza está muy apretada: Conquense y A Madrid III tienen 21 puntos, Numancia y SS Reyes 20, y el Salamanca UDS 19. Ganar le daría 22 puntos y el primer puesto. El Albacete II, decimotercero con 12, llega con el peor registro defensivo de la categoría.\n\n## Claves de la jornada\n\n- Con un triunfo, el Salamanca UDS pasaría de quinto a líder provisional con 22 puntos.\n- El Salamanca UDS no ha perdido en casa: cuatro victorias y un empate, con 9 goles a favor y 3 en contra.\n- El Albacete II no ha ganado fuera: dos empates y tres derrotas, con 14 goles encajados en cinco partidos.\n\n## Salamanca UDS - Albacete II\n\n<p class=\"ficha\"><b>20:30</b> · Jornada 11</p><p class=\"forma\"><span class=\"eq\">Salamanca UDS</span><span class=\"fE\" title=\"1-1 vs Navalcarnero\">E</span><span class=\"fP\" title=\"1-2 vs CF Talavera\">P</span><span class=\"fG\" title=\"1-0 vs Gimnástica Segoviana\">G</span><span class=\"fG\" title=\"3-1 vs Real Ávila\">G</span><span class=\"fP\" title=\"0-5 vs Celta de Vigo\">P</span><br><span class=\"eq\">Albacete II</span><span class=\"fP\" title=\"0-4 vs Conquense\">P</span><span class=\"fE\" title=\"2-2 vs Getafe II\">E</span><span class=\"fG\" title=\"2-1 vs A Madrid III\">G</span><span class=\"fP\" title=\"1-2 vs SS Reyes\">P</span><span class=\"fG\" title=\"1-0 vs Gimnástica Segoviana\">G</span></p>\n\nEl partido pendiente de la jornada 11 vale el primer puesto para el Salamanca UDS. Si gana, sumará 22 puntos y superará a Conquense y A Madrid III.\n\n[Leer la previa completa →](../previas/2026-11-18-salamanca-uds-albacete-ii.html)",
+  "texto_instagram": "⚽ El Salamanca UDS puede ser líder esta noche. Quinto con 19 puntos y un partido menos, sumaría 22 si gana al Albacete II y superaría a Conquense y A Madrid III (21). En casa está invicto: 4 victorias y 1 empate. El Albacete II no ha ganado fuera (2E, 3D) y es el equipo más goleado del grupo, con 24 tantos encajados.\n\nSegunda Federación · Grupo 5 · Jornada 11 (aplazado)\n20:30 Salamanca UDS - Albacete II",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#SalamancaUDS",
+    "#AlbaceteII",
+    "#Grupo5"
+  ],
+  "imagenes_web": [
+    "img/2026-11-18/2026-11-18-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573350,
+      "fecha": "2026-11-18T20:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 5 - 11",
+      "arbitro": null,
+      "local": "Salamanca UDS",
+      "visitante": "Albacete II",
+      "escudo_local": "https://media.api-sports.io/football/teams/9588.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9895.png",
+      "contexto": {
+        "local": {
+          "pos": 5,
+          "pts": 19,
+          "pj": 10,
+          "pg": 6,
+          "pe": 1,
+          "pp": 3,
+          "gf": 16,
+          "gc": 11,
+          "dg": 5,
+          "zona": "playoff",
+          "casa": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 1,
+            "pp": 0,
+            "gf": 9,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-13",
+              "rival": "Celta de Vigo",
+              "campo": "casa",
+              "marcador": "0-5",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Real Ávila",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Gimnástica Segoviana",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "CF Talavera",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Navalcarnero",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 13,
+          "pts": 12,
+          "pj": 10,
+          "pg": 3,
+          "pe": 3,
+          "pp": 4,
+          "gf": 13,
+          "gc": 24,
+          "dg": -11,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 2,
+            "pp": 3,
+            "gf": 4,
+            "gc": 14
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Gimnástica Segoviana",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "SS Reyes",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "A Madrid III",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Getafe II",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Conquense",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Salamanca UDS": [
+      {
+        "fecha": "2026-11-13",
+        "rival": "Celta de Vigo",
+        "campo": "casa",
+        "marcador": "0-5",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Real Ávila",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Gimnástica Segoviana",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "CF Talavera",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Navalcarnero",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ],
+    "Albacete II": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Gimnástica Segoviana",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "SS Reyes",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "A Madrid III",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Getafe II",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Conquense",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573350,
+      "slug": "2026-11-18-salamanca-uds-albacete-ii",
+      "titular": "El Salamanca UDS busca el liderato ante un Albacete II sin victorias fuera",
+      "entradilla": "El partido pendiente de la jornada 11 vale el primer puesto para el Salamanca UDS. Si gana, sumará 22 puntos y superará a Conquense y A Madrid III.",
+      "parrafos": [
+        "El Salamanca UDS recibe esta noche, a las 20:30, al Albacete II en el partido aplazado de la jornada 11 del Grupo 5 de Segunda Federación. Es el único encuentro del día y el más decisivo para la cabeza: con 19 puntos, el equipo salmantino puede sumar 22 y pasar del quinto al primer puesto.",
+        "El Salamanca UDS es un equipo fuerte en casa. Allí suma cuatro victorias y un empate en cinco partidos, con 9 goles a favor y solo 3 en contra. En liga venía de ganar dos seguidos: 1-0 a la Gimnástica Segoviana y 3-1 en el campo del Real Ávila. Su último partido, sin embargo, fue un 0-5 ante el Celta de Vigo en la Copa del Rey.",
+        "El Albacete II es decimotercero con 12 puntos y una diferencia de goles de -11. Sus 24 goles encajados son la cifra más alta del grupo. Lejos de casa no ha ganado: dos empates y tres derrotas, con 4 goles a favor y 14 en contra. Sus dos victorias recientes, ante la Gimnástica Segoviana (1-0) y el A Madrid III (2-1), llegaron en su campo.",
+        "La distancia entre ambos es de siete puntos. Una victoria visitante dejaría al Albacete II con 15, a la altura del CF Talavera, octavo, y frenaría a uno de los aspirantes al liderato."
+      ],
+      "precedente": "",
+      "el_dato": "El Albacete II ha encajado 14 goles en cinco salidas y aún no conoce la victoria fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Fortaleza local",
+          "texto": "El Salamanca UDS sigue invicto en casa, con 4 victorias y 1 empate y solo 3 goles recibidos."
+        },
+        {
+          "titulo": "Liderato en juego",
+          "texto": "Con un triunfo, el Salamanca UDS llegaría a 22 puntos, uno más que Conquense y A Madrid III."
+        },
+        {
+          "titulo": "Defensa más castigada",
+          "texto": "El Albacete II es el equipo más goleado del grupo, con 24 goles en contra en 10 jornadas."
+        }
+      ]
+    }
+  ]
+}
