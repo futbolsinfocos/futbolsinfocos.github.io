@@ -1,0 +1,585 @@
+{
+  "slug": "2026-11-18-previa-tercera-federacion-grupo-11",
+  "tipo": "previa",
+  "fecha": "2026-11-18",
+  "etiqueta": "Tercera Federación · Grupo 11",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Binissalem recibe a un Formentera que solo ha ganado una vez fuera de casa",
+  "entradilla": "Se juegan dos partidos de la séptima jornada del Grupo 11 en Baleares. El PE Sant Jordi y el Santanyí, empatados a 17 puntos, son el duelo con más en juego por el playoff.",
+  "cuerpo_markdown": "La jornada deja a Ibiza Islas Pitiusas como líder con 25 puntos y a Platges Calvià segundo con 24. El playoff va del 2.º al 5.º puesto, y Porreres cierra esa zona con 19 puntos. En zona de descenso están Migjorn (16.º, 6 puntos), Arenal (17.º, 5) e Inter Ibiza (18.º, 5).\n\n## Claves de la jornada\n\n- Ibiza Islas Pitiusas lidera con 25 puntos y 4 victorias en casa en 6 partidos.\n- Migjorn, Arenal e Inter Ibiza están en descenso con 6, 5 y 5 puntos.\n- Binissalem y Formentera, 12.º y 10.º, están a cuatro puntos o más del playoff.\n\n## Binissalem - Formentera\n\n<p class=\"ficha\"><b>16:30</b> · Jornada 7</p><p class=\"forma\"><span class=\"eq\">Binissalem</span><span class=\"fG\" title=\"3-2 vs Andratx\">G</span><span class=\"fE\" title=\"1-1 vs Inter Ibiza\">E</span><span class=\"fG\" title=\"3-0 vs Arenal\">G</span><span class=\"fG\" title=\"2-1 vs Santanyí\">G</span><span class=\"fE\" title=\"2-2 vs Constància\">E</span><br><span class=\"eq\">Formentera</span><span class=\"fG\" title=\"2-1 vs Manacor\">G</span><span class=\"fP\" title=\"2-3 vs Platges Calvià\">P</span><span class=\"fG\" title=\"2-0 vs Migjorn\">G</span><span class=\"fP\" title=\"0-1 vs Sineu\">P</span><span class=\"fE\" title=\"0-0 vs Andratx\">E</span></p>\n\nBinissalem (12.º, 14 puntos) y Formentera (10.º, 15) se miden en mitad de tabla. Ninguno está cerca del playoff ni del descenso.\n\n[Leer la previa completa →](../previas/2026-11-18-binissalem-formentera.html)\n\n## PE Sant Jordi - Santanyí\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 7</p><p class=\"forma\"><span class=\"eq\">PE Sant Jordi</span><span class=\"fG\" title=\"3-0 vs Arenal\">G</span><span class=\"fE\" title=\"2-2 vs Constància\">E</span><span class=\"fG\" title=\"3-0 vs Alcúdia\">G</span><span class=\"fE\" title=\"1-1 vs Mercadal\">E</span><span class=\"fE\" title=\"1-1 vs Porreres\">E</span><br><span class=\"eq\">Santanyí</span><span class=\"fG\" title=\"3-0 vs Llosetense\">G</span><span class=\"fE\" title=\"0-0 vs Ibiza Islas Pitiusas\">E</span><span class=\"fE\" title=\"1-1 vs Manacor\">E</span><span class=\"fP\" title=\"1-2 vs Binissalem\">P</span><span class=\"fG\" title=\"2-0 vs Platges Calvià\">G</span></p>\n\nEl PE Sant Jordi y el Santanyí llegan empatados a 17 puntos, 6.º y 7.º, a dos del quinto puesto. Los dos han perdido solo un partido en diez.\n\n[Leer la previa completa →](../previas/2026-11-18-pe-sant-jordi-santanyi.html)",
+  "texto_instagram": "Sant Jordi y Santanyí, empatados a 17 puntos, juegan por dos puntos para meterse en el playoff del Grupo 11. Binissalem, 12.º, recibe a un Formentera que solo ha ganado una vez fuera. ⚽ Hoy, séptima jornada: 16:30 Binissalem - Formentera · 17:00 PE Sant Jordi - Santanyí 📋",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Baleares",
+    "#Binissalem",
+    "#Formentera",
+    "#PESantJordi",
+    "#Santanyí"
+  ],
+  "imagenes_web": [
+    "img/2026-11-18/2026-11-18-previa-tercera-federacion-grupo-11.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-previa-tercera-federacion-grupo-11.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1615817,
+      "fecha": "2026-11-18T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 11 - 7",
+      "arbitro": null,
+      "local": "Binissalem",
+      "visitante": "Formentera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9774.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9780.png",
+      "contexto": {
+        "local": {
+          "pos": 12,
+          "pts": 14,
+          "pj": 10,
+          "pg": 4,
+          "pe": 2,
+          "pp": 4,
+          "gf": 16,
+          "gc": 15,
+          "dg": 1,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 9,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Constància",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-11-06",
+              "rival": "Santanyí",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Arenal",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Inter Ibiza",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-10",
+              "rival": "Andratx",
+              "campo": "fuera",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 10,
+          "pts": 15,
+          "pj": 10,
+          "pg": 4,
+          "pe": 3,
+          "pp": 3,
+          "gf": 13,
+          "gc": 9,
+          "dg": 4,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 3,
+            "pp": 1,
+            "gf": 3,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Andratx",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Sineu",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Migjorn",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Platges Calvià",
+              "campo": "casa",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Manacor",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-04-12",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Binissalem 1-1 Formentera"
+        },
+        {
+          "fecha": "2025-12-07",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Formentera 0-1 Binissalem"
+        },
+        {
+          "fecha": "2025-03-22",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Binissalem 1-1 Formentera"
+        },
+        {
+          "fecha": "2024-11-10",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Formentera 0-0 Binissalem"
+        },
+        {
+          "fecha": "2021-01-24",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Binissalem 2-0 Formentera"
+        }
+      ]
+    },
+    {
+      "id": 1615822,
+      "fecha": "2026-11-18T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 11 - 7",
+      "arbitro": null,
+      "local": "PE Sant Jordi",
+      "visitante": "Santanyí",
+      "escudo_local": "https://media.api-sports.io/football/teams/15313.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9789.png",
+      "contexto": {
+        "local": {
+          "pos": 6,
+          "pts": 17,
+          "pj": 10,
+          "pg": 4,
+          "pe": 5,
+          "pp": 1,
+          "gf": 17,
+          "gc": 11,
+          "dg": 6,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 3,
+            "pp": 0,
+            "gf": 7,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Porreres",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Mercadal",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Alcúdia",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Constància",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-10",
+              "rival": "Arenal",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 7,
+          "pts": 17,
+          "pj": 10,
+          "pg": 4,
+          "pe": 5,
+          "pp": 1,
+          "gf": 12,
+          "gc": 6,
+          "dg": 6,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 2,
+            "pp": 0,
+            "gf": 6,
+            "gc": 2
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Platges Calvià",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-11-06",
+              "rival": "Binissalem",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Manacor",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Ibiza Islas Pitiusas",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 11"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Llosetense",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 11"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-03-15",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Santanyí 1-4 PE Sant Jordi"
+        },
+        {
+          "fecha": "2025-01-15",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "PE Sant Jordi 1-1 Santanyí"
+        },
+        {
+          "fecha": "2023-04-06",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "PE Sant Jordi 0-2 Santanyí"
+        },
+        {
+          "fecha": "2022-12-10",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Santanyí 2-0 PE Sant Jordi"
+        },
+        {
+          "fecha": "2022-03-23",
+          "competicion": "Tercera Federación · Grupo 11",
+          "resultado": "Santanyí 2-0 PE Sant Jordi"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Binissalem": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Constància",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-11-06",
+        "rival": "Santanyí",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Arenal",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Inter Ibiza",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-10",
+        "rival": "Andratx",
+        "campo": "fuera",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      }
+    ],
+    "PE Sant Jordi": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Porreres",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Mercadal",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Alcúdia",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Constància",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-10",
+        "rival": "Arenal",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      }
+    ],
+    "Formentera": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Andratx",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Sineu",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Migjorn",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Platges Calvià",
+        "campo": "casa",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Manacor",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      }
+    ],
+    "Santanyí": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Platges Calvià",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-11-06",
+        "rival": "Binissalem",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Manacor",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Ibiza Islas Pitiusas",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 11"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Llosetense",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 11"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1615817,
+      "slug": "2026-11-18-binissalem-formentera",
+      "titular": "Binissalem recibe a un Formentera que solo ha ganado una vez fuera de casa",
+      "entradilla": "Binissalem (12.º, 14 puntos) y Formentera (10.º, 15) se miden en mitad de tabla. Ninguno está cerca del playoff ni del descenso.",
+      "parrafos": [
+        "Binissalem y Formentera se enfrentan a las 16:30 en la séptima jornada del Grupo 11. Los dos están a cuatro puntos o más de la zona de playoff y lejos del descenso, en la parte media de la tabla.",
+        "El Binissalem lleva cinco partidos sin perder, con tres victorias y dos empates. Su última salida fue un 2-2 ante el Constància en casa. En casa tiene dos victorias, un empate y dos derrotas, con nueve goles a favor y ocho en contra.",
+        "El Formentera ha ganado una vez en cinco partidos fuera, con tres empates y una derrota. En esas cinco salidas solo ha marcado tres goles y ha encajado otros tres. Su última victoria fue un 2-1 al Manacor en casa."
+      ],
+      "precedente": "El último enfrentamiento fue en abril de 2026, con un empate 1-1. Antes, en diciembre de 2025, el Binissalem ganó 1-0 en Formentera.",
+      "el_dato": "El Formentera solo ha marcado tres goles en sus cinco partidos fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Binissalem sin perder",
+          "texto": "Suma cinco partidos sin perder, con tres victorias y dos empates."
+        },
+        {
+          "titulo": "Casa irregular",
+          "texto": "El Binissalem tiene dos victorias y dos derrotas en casa, con nueve goles a favor."
+        },
+        {
+          "titulo": "Formentera a domicilio",
+          "texto": "Fuera ha sumado tres empates y una victoria, con tres goles a favor y tres en contra."
+        }
+      ]
+    },
+    {
+      "id": 1615822,
+      "slug": "2026-11-18-pe-sant-jordi-santanyi",
+      "titular": "Sant Jordi y Santanyí, a dos puntos del playoff y empatados a 17 puntos",
+      "entradilla": "El PE Sant Jordi y el Santanyí llegan empatados a 17 puntos, 6.º y 7.º, a dos del quinto puesto. Los dos han perdido solo un partido en diez.",
+      "parrafos": [
+        "El PE Sant Jordi y el Santanyí se enfrentan a las 17:00 en la séptima jornada. Los dos suman 17 puntos y solo han perdido un partido en diez. En juego, dos puntos para entrar en la zona de playoff, que ocupa Porreres con 19 puntos.",
+        "El PE Sant Jordi no ha perdido en casa: dos victorias y tres empates, con siete goles a favor y tres en contra. Su racha reciente tiene dos victorias y tres empates, con un 3-0 al Arenal como último triunfo fuera.",
+        "El Santanyí es el mejor visitante de su grupo en esta parte de la tabla: tres victorias y dos empates fuera, con seis goles a favor y dos en contra. Su única derrota reciente fue en casa, 1-2 ante el Binissalem el 6 de noviembre."
+      ],
+      "precedente": "En marzo de 2025 el PE Sant Jordi ganó 4-1 en Santanyí. Antes, en enero de 2025, ambos empataron 1-1 en Sant Jordi.",
+      "el_dato": "El Santanyí no ha perdido fuera en sus cinco últimas salidas: tres victorias y dos empates, con solo dos goles encajados.",
+      "claves": [
+        {
+          "titulo": "Empate a 17",
+          "texto": "Ambos suman 17 puntos, 6.º y 7.º, con seis goles de diferencia."
+        },
+        {
+          "titulo": "Sant Jordi en casa",
+          "texto": "No ha perdido en casa: dos victorias y tres empates, con siete goles marcados."
+        },
+        {
+          "titulo": "Santanyí a domicilio",
+          "texto": "Fuera tiene tres victorias y dos empates, con solo dos goles encajados."
+        }
+      ]
+    }
+  ]
+}

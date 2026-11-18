@@ -1,0 +1,282 @@
+{
+  "slug": "2026-11-18-previa-segunda-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-18",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Bergantiños, invicto en casa, pone a prueba al líder Sestao River",
+  "entradilla": "El Sestao River visita al Bergantiños en el partido de la jornada 11 que tiene pendiente: si gana, el líder se escapa a cinco puntos del Deportivo Alavés II. El quinto clasificado defiende un registro sin derrotas como local.",
+  "cuerpo_markdown": "El Sestao River manda en el Grupo 1 con 25 puntos en diez partidos, dos más que el Deportivo Alavés II, que ya ha disputado once. El Bergantiños, quinto con 18 y también con un partido menos, puede igualar con una victoria los 21 puntos del Eibar II, tercero. Enfrente estarán la defensa menos goleada del grupo, con solo tres tantos encajados, y uno de los ataques más productivos, con 23 goles.\n\n## Claves de la jornada\n\n- El Sestao River ha encajado tres goles en diez jornadas y ninguno en sus tres últimos partidos de liga.\n- El Bergantiños suma 4 victorias y 1 empate en casa, con 11 goles a favor y 4 en contra.\n- Con una victoria, el Sestao River llegaría a 28 puntos, cinco más que el Deportivo Alavés II.\n\n## Bergantiños - Sestao River\n\n<p class=\"ficha\"><b>20:00</b> · Jornada 11</p><p class=\"forma\"><span class=\"eq\">Bergantiños</span><span class=\"fE\" title=\"2-2 vs Arosa\">E</span><span class=\"fG\" title=\"3-0 vs Real Oviedo II\">G</span><span class=\"fP\" title=\"2-3 vs Eibar II\">P</span><span class=\"fE\" title=\"1-1 vs Ourense CF\">E</span><span class=\"fP\" title=\"3-4 vs Llanera\">P</span><br><span class=\"eq\">Sestao River</span><span class=\"fG\" title=\"1-0 vs Arosa\">G</span><span class=\"fG\" title=\"4-3 vs Espanyol\">G</span><span class=\"fG\" title=\"2-0 vs Coruxo\">G</span><span class=\"fG\" title=\"2-0 vs Deportivo Alavés II\">G</span><span class=\"fG\" title=\"1-0 vs Recreativo Huelva\">G</span></p>\n\nEl líder puede abrir una brecha de cinco puntos sobre el segundo. El Bergantiños necesita ganar para engancharse a la zona alta y frenar una racha de una sola victoria en cinco jornadas.\n\n[Leer la previa completa →](../previas/2026-11-18-bergantinos-sestao-river.html)",
+  "texto_instagram": "⚽ El líder Sestao River visita al Bergantiños con la opción de escaparse a cinco puntos del Deportivo Alavés II. Llega con cinco victorias seguidas y solo tres goles encajados en diez jornadas. El Bergantiños, quinto con 18 puntos, no ha perdido en casa (4 victorias y 1 empate).\n\nSegunda Federación · Grupo 1\n20:00 Bergantiños - Sestao River",
+  "hashtags": [
+    "#SegundaFederación",
+    "#Bergantiños",
+    "#SestaoRiver",
+    "#SegundaRFEF"
+  ],
+  "imagenes_web": [
+    "img/2026-11-18/2026-11-18-previa-segunda-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-previa-segunda-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572123,
+      "fecha": "2026-11-18T20:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 11",
+      "arbitro": null,
+      "local": "Bergantiños",
+      "visitante": "Sestao River",
+      "escudo_local": "https://media.api-sports.io/football/teams/9383.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9413.png",
+      "contexto": {
+        "local": {
+          "pos": 5,
+          "pts": 18,
+          "pj": 10,
+          "pg": 5,
+          "pe": 3,
+          "pp": 2,
+          "gf": 23,
+          "gc": 15,
+          "dg": 8,
+          "zona": "playoff",
+          "casa": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 1,
+            "pp": 0,
+            "gf": 11,
+            "gc": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Llanera",
+              "campo": "fuera",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Ourense CF",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Eibar II",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Real Oviedo II",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Arosa",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 1,
+          "pts": 25,
+          "pj": 10,
+          "pg": 8,
+          "pe": 1,
+          "pp": 1,
+          "gf": 13,
+          "gc": 3,
+          "dg": 10,
+          "zona": "ascenso",
+          "fuera": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 0,
+            "pp": 1,
+            "gf": 6,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Recreativo Huelva",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Copa Federacion"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Deportivo Alavés II",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Coruxo",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Espanyol",
+              "campo": "casa",
+              "marcador": "4-3",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Arosa",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Bergantiños": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Llanera",
+        "campo": "fuera",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Ourense CF",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Eibar II",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Real Oviedo II",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Arosa",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ],
+    "Sestao River": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Recreativo Huelva",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Copa Federacion"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Deportivo Alavés II",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Coruxo",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Espanyol",
+        "campo": "casa",
+        "marcador": "4-3",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Arosa",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1572123,
+      "slug": "2026-11-18-bergantinos-sestao-river",
+      "titular": "El Sestao River busca escaparse ante un Bergantiños que no pierde en casa",
+      "entradilla": "El líder puede abrir una brecha de cinco puntos sobre el segundo. El Bergantiños necesita ganar para engancharse a la zona alta y frenar una racha de una sola victoria en cinco jornadas.",
+      "parrafos": [
+        "El Bergantiños y el Sestao River juegan este miércoles a las 20:00 el partido de la jornada 11 de Segunda Federación, Grupo 1. Ambos han disputado diez encuentros, uno menos que la mayoría del grupo. El líder tiene la oportunidad de alejarse en la tabla; el local, la de meterse en la pelea por la tercera plaza.",
+        "El Bergantiños es quinto con 18 puntos y está en zona de play-off. En casa no conoce la derrota: 4 victorias y 1 empate, con 11 goles a favor y 4 en contra. Fuera de casa su rendimiento es otro. Las dos derrotas de su racha reciente llegaron lejos de su campo, 2-3 ante el Eibar II y 3-4 ante el Llanera. Suma una victoria en sus cinco últimos partidos, el 3-0 al Real Oviedo II. Su ataque es el segundo del grupo, con 23 goles, pero ha encajado 15.",
+        "El Sestao River llega lanzado. Encadena cinco victorias en todas las competiciones, entre ellas el 4-3 al Espanyol en la Copa del Rey y el 1-0 al Recreativo Huelva en la Copa Federación. Su fortaleza está atrás: solo ha recibido tres goles en diez jornadas. En sus tres últimos partidos de liga ganó sin encajar ante el Arosa (1-0), el Coruxo (2-0) y el Deportivo Alavés II (2-0). Como visitante suma 4 victorias y 1 derrota, con 6 goles a favor y 3 en contra.",
+        "La tabla le da al partido un peso doble. Una victoria del Sestao River lo dejaría con 28 puntos, cinco por encima del Deportivo Alavés II. Si gana el Bergantiños, alcanzaría los 21 puntos del Eibar II, tercero, y recortaría a cuatro la distancia con el líder."
+      ],
+      "precedente": "",
+      "el_dato": "El Sestao River ha encajado solo tres goles en diez jornadas de liga, la mejor defensa del grupo.",
+      "claves": [
+        {
+          "titulo": "Fortín local",
+          "texto": "El Bergantiños no ha perdido en casa: 4 victorias y 1 empate, con 11 goles a favor y 4 en contra."
+        },
+        {
+          "titulo": "Líder en racha",
+          "texto": "El Sestao River acumula cinco victorias seguidas entre liga y Copa."
+        },
+        {
+          "titulo": "Ataque contra muro",
+          "texto": "Los 23 goles del Bergantiños se miden a los 3 que ha recibido el Sestao River."
+        }
+      ]
+    }
+  ]
+}

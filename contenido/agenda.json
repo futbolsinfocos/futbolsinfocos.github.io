@@ -1,94 +1,4 @@
 {
-  "2026-11-17": [
-    {
-      "etiqueta": "Nations League",
-      "competicion": "Nations League",
-      "grupo": "internacional",
-      "prioridad": 3,
-      "partidos": [
-        {
-          "id": 1528992,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Cardiff City Stadium",
-          "jornada": "League A - 6",
-          "local": "Gales",
-          "visitante": "Portugal",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528993,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Parken Stadium",
-          "jornada": "League A - 6",
-          "local": "Dinamarca",
-          "visitante": "Noruega",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528994,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Kosicka futbalova arena",
-          "jornada": "League B - 6",
-          "local": "Ucrania",
-          "visitante": "Georgia",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528995,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Puskás Aréna",
-          "jornada": "League B - 6",
-          "local": "Hungría",
-          "visitante": "Irlanda del Norte",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528996,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Nagyerdei Stadion",
-          "jornada": "League B - 6",
-          "local": "Israel",
-          "visitante": "Austria",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528997,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Aviva Stadium",
-          "jornada": "League B - 6",
-          "local": "Rep. Of Ireland",
-          "visitante": "Kosovo",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528998,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Stadion Śląska  Wrocław",
-          "jornada": "League B - 6",
-          "local": "Polonia",
-          "visitante": "Suecia",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1528999,
-          "fecha": "2026-11-17T20:45:00+01:00",
-          "estadio": "Stadion Bilino Polje",
-          "jornada": "League B - 6",
-          "local": "Bosnia y Herzegovina",
-          "visitante": "Rumanía",
-          "goles_local": null,
-          "goles_visitante": null
-        }
-      ]
-    }
-  ],
   "2026-11-18": [
     {
       "etiqueta": "Segunda Federación · Grupo 1",
@@ -396,5 +306,6 @@
         }
       ]
     }
-  ]
+  ],
+  "2026-11-19": []
 }
