@@ -197,7 +197,7 @@ def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema
     modelo = ia["modelo"] if prioridad <= ia.get("modelo_bueno_hasta_prioridad", 9) else ia.get("modelo_barato", ia["modelo"])
     peticion = dict(
         model=modelo,
-        max_tokens=16000,
+        max_tokens=32000,
         system=sistema,
         output_config={"effort": config["ia"].get("esfuerzo", "low"),
                        "format": {"type": "json_schema", "schema": esquema}},
@@ -205,11 +205,13 @@ def _llamar(sistema: str, instruccion: str, paquete: dict, config: dict, esquema
                    instruccion + json.dumps(_sin_escudos(paquete), ensure_ascii=False)}],
     )
     if "haiku" in modelo:
-        resp = client.messages.create(**peticion)
+        with client.messages.stream(**peticion) as flujo:
+            resp = flujo.get_final_message()
     else:
         # Si el modelo principal declina por un falso positivo de seguridad, la API reintenta sola
-        resp = client.beta.messages.create(**peticion, betas=["server-side-fallback-2026-07-01"],
-                                           fallbacks="default")
+        with client.beta.messages.stream(**peticion, betas=["server-side-fallback-2026-07-01"],
+                                         fallbacks="default") as flujo:
+            resp = flujo.get_final_message()
     if resp.stop_reason == "refusal":
         raise RuntimeError(f"El modelo declinó el texto de {paquete['liga']['etiqueta']}")
     if resp.stop_reason == "max_tokens":
