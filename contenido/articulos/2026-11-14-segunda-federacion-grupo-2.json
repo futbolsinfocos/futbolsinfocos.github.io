@@ -5,10 +5,10 @@
   "competicion": "Segunda Federación",
   "grupo": "espana",
   "prioridad": 1,
-  "titular": "Ebro, Osasuna II y Girona II ganan en la Jornada 11 del Grupo 2",
-  "entradilla": "El Ebro superó 3-1 al Utebo, el Osasuna II venció 2-0 a la SD Logroñés y el Girona II asaltó el Estadi Johan Cruyff (0-1) en el sábado de la Segunda Federación.",
-  "cuerpo_markdown": "Tres partidos y tres victorias sin empates en el sábado de la Jornada 11 del Grupo 2 de Segunda Federación. El Ebro fue el más goleador, el Osasuna II dejó su portería a cero y el Girona II se llevó el derbi de filiales en Barcelona.\n\n## Ebro 3-1 Utebo\n\nEl Ebro encarriló el partido antes del descanso. Chegu abrió el marcador en el minuto 36 y Paki amplió de penalti en el 43. El Utebo recortó distancias nada más reanudarse el juego, con gol de D. Santiago en el 51. Escolar Sergio cerró el 3-1 en el minuto 77.\n\n## Osasuna II 2-0 SD Logroñés\n\nEn Tajonar, el filial rojillo madrugó. I. Arrasate marcó en el minuto 3. A. Bonel sentenció en el 55 para firmar un 2-0 sin réplica de la SD Logroñés.\n\n## Barcelona B 0-1 Girona II\n\nEl Girona II ganó en el Estadi Johan Cruyff. R. Artero anotó el único gol del encuentro en el minuto 54.",
-  "texto_instagram": "⚽ Sábado de victorias en el Grupo 2 de Segunda Federación: el Ebro gana 3-1, el Osasuna II no concede y el Girona II asalta el Johan Cruyff 🔥\n\nEbro 3-1 Utebo: Chegu (36'), Paki (43', pen.), D. Santiago (51'), Escolar Sergio (77')\nOsasuna II 2-0 SD Logroñés: I. Arrasate (3'), A. Bonel (55')\nBarcelona B 0-1 Girona II: R. Artero (54') 📊",
+  "titular": "Ebro, Osasuna B y Girona B ganan en la Jornada 11 del Grupo 2",
+  "entradilla": "El Ebro superó 3-1 al Utebo, el Osasuna B venció 2-0 a la SD Logroñés y el Girona B asaltó el Estadi Johan Cruyff (0-1) en el sábado de la Segunda Federación.",
+  "cuerpo_markdown": "Tres partidos y tres victorias sin empates en el sábado de la Jornada 11 del Grupo 2 de Segunda Federación. El Ebro fue el más goleador, el Osasuna B dejó su portería a cero y el Girona B se llevó el derbi de filiales en Barcelona.\n\n## Ebro 3-1 Utebo\n\nEl Ebro encarriló el partido antes del descanso. Chegu abrió el marcador en el minuto 36 y Paki amplió de penalti en el 43. El Utebo recortó distancias nada más reanudarse el juego, con gol de D. Santiago en el 51. Escolar Sergio cerró el 3-1 en el minuto 77.\n\n## Osasuna B 2-0 SD Logroñés\n\nEn Tajonar, el filial rojillo madrugó. I. Arrasate marcó en el minuto 3. A. Bonel sentenció en el 55 para firmar un 2-0 sin réplica de la SD Logroñés.\n\n## Barcelona B 0-1 Girona B\n\nEl Girona B ganó en el Estadi Johan Cruyff. R. Artero anotó el único gol del encuentro en el minuto 54.",
+  "texto_instagram": "⚽ Sábado de victorias en el Grupo 2 de Segunda Federación: el Ebro gana 3-1, el Osasuna B no concede y el Girona B asalta el Johan Cruyff 🔥\n\nEbro 3-1 Utebo: Chegu (36'), Paki (43', pen.), D. Santiago (51'), Escolar Sergio (77')\nOsasuna B 2-0 SD Logroñés: I. Arrasate (3'), A. Bonel (55')\nBarcelona B 0-1 Girona B: R. Artero (54') 📊",
   "hashtags": [
     "#SegundaFederacion",
     "#2RFEF",
@@ -74,7 +74,7 @@
       "arbitro": null,
       "jornada": "Group 2 - 11",
       "liga_id": 876,
-      "local": "Osasuna II",
+      "local": "Osasuna B",
       "visitante": "SD Logroñés",
       "escudo_local": "https://media.api-sports.io/football/teams/9584.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9411.png",
@@ -83,13 +83,13 @@
       "goleadores": [
         {
           "min": 3,
-          "equipo": "Osasuna II",
+          "equipo": "Osasuna B",
           "jugador": "I. Arrasate",
           "tipo": "Normal Goal"
         },
         {
           "min": 55,
-          "equipo": "Osasuna II",
+          "equipo": "Osasuna B",
           "jugador": "A. Bonel",
           "tipo": "Normal Goal"
         }
@@ -104,7 +104,7 @@
       "jornada": "Group 2 - 11",
       "liga_id": 876,
       "local": "Barcelona B",
-      "visitante": "Girona II",
+      "visitante": "Girona B",
       "escudo_local": "https://media.api-sports.io/football/teams/712.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/15343.png",
       "goles_local": 0,
@@ -112,7 +112,7 @@
       "goleadores": [
         {
           "min": 54,
-          "equipo": "Girona II",
+          "equipo": "Girona B",
           "jugador": "R. Artero",
           "tipo": "Normal Goal"
         }

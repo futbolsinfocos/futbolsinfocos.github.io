@@ -6,9 +6,9 @@
   "grupo": "espana",
   "prioridad": 1,
   "titular": "El Portugalete golea al Marino y el Racing B remonta con dos penaltis de Castellanos",
-  "entradilla": "La jornada 11 del Grupo 1 de Segunda Federación deja un 4-1 del Portugalete ante el Marino de Luanco y la remontada del Racing Santander II en el derbi ante la Gimnástica. Amorebieta-Eibar II y Atlético Astorga-Arosa terminan en tablas.",
-  "cuerpo_markdown": "La jornada 11 del Grupo 1 de Segunda Federación arrancó este sábado con cuatro partidos y 13 goles. El Portugalete firmó la goleada del día ante el Marino de Luanco (4-1). El Racing Santander II remontó frente a la Gimnástica Torrelavega (2-1). Amorebieta y Eibar II empataron a uno, igual que Atlético Astorga y Arosa.\n\n## Portugalete 4-1 Marino de Luanco\n\nEl Portugalete resolvió pronto. J. Garcia abrió el marcador en el minuto 10. J. Lopez hizo el segundo en el 30 y J. Garcia, de penalti, firmó su doblete en el 34. Al descanso, 3-0. G. Crespo amplió la ventaja en el 68. I. Villaldea maquilló el resultado para el Marino de Luanco en el 90.\n\n## Racing Santander II 2-1 Gimnástica Torrelavega\n\nRemontada del filial racinguista. D. Salas adelantó a la Gimnástica Torrelavega en el minuto 37 y el visitante se fue ganando al descanso. Tras la reanudación apareció J. Castellanos, que transformó dos penaltis en apenas cuatro minutos, en el 49 y el 53, para darle la vuelta al marcador.\n\n## Amorebieta 1-1 Eibar II\n\nEn Urritxe, Guillermo puso por delante al Amorebieta en el minuto 17. La ventaja aguantó hasta el 75, cuando I. Zubiria igualó de penalti para el Eibar II.\n\n## Atlético Astorga 1-1 Arosa\n\nG. Rabanillo adelantó al Atlético Astorga en el minuto 31. El Arosa respondió en la segunda parte con el tanto de J. Maceira en el 55, que dejó el reparto de puntos.",
-  "texto_instagram": "⚽ Jornada 11 del Grupo 1 de Segunda Federación: goleada del Portugalete al Marino y remontada del Racing Santander II con dos penaltis de Castellanos 🔥\n\nRacing Santander II 2-1 Gimnástica Torrelavega: D. Salas (37'); J. Castellanos (49' pen., 53' pen.)\nAmorebieta 1-1 Eibar II: Guillermo (17'); I. Zubiria (75' pen.)\nAtlético Astorga 1-1 Arosa: G. Rabanillo (31'); J. Maceira (55')\nPortugalete 4-1 Marino de Luanco: J. Garcia (10', 34' pen.), J. Lopez (30'), G. Crespo (68'); I. Villaldea (90') 💪",
+  "entradilla": "La jornada 11 del Grupo 1 de Segunda Federación deja un 4-1 del Portugalete ante el Marino de Luanco y la remontada del Racing Santander B en el derbi ante la Gimnástica. Amorebieta-Eibar B y Atlético Astorga-Arosa terminan en tablas.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 1 de Segunda Federación arrancó este sábado con cuatro partidos y 13 goles. El Portugalete firmó la goleada del día ante el Marino de Luanco (4-1). El Racing Santander B remontó frente a la Gimnástica Torrelavega (2-1). Amorebieta y Eibar B empataron a uno, igual que Atlético Astorga y Arosa.\n\n## Portugalete 4-1 Marino de Luanco\n\nEl Portugalete resolvió pronto. J. Garcia abrió el marcador en el minuto 10. J. Lopez hizo el segundo en el 30 y J. Garcia, de penalti, firmó su doblete en el 34. Al descanso, 3-0. G. Crespo amplió la ventaja en el 68. I. Villaldea maquilló el resultado para el Marino de Luanco en el 90.\n\n## Racing Santander B 2-1 Gimnástica Torrelavega\n\nRemontada del filial racinguista. D. Salas adelantó a la Gimnástica Torrelavega en el minuto 37 y el visitante se fue ganando al descanso. Tras la reanudación apareció J. Castellanos, que transformó dos penaltis en apenas cuatro minutos, en el 49 y el 53, para darle la vuelta al marcador.\n\n## Amorebieta 1-1 Eibar B\n\nEn Urritxe, Guillermo puso por delante al Amorebieta en el minuto 17. La ventaja aguantó hasta el 75, cuando I. Zubiria igualó de penalti para el Eibar B.\n\n## Atlético Astorga 1-1 Arosa\n\nG. Rabanillo adelantó al Atlético Astorga en el minuto 31. El Arosa respondió en la segunda parte con el tanto de J. Maceira en el 55, que dejó el reparto de puntos.",
+  "texto_instagram": "⚽ Jornada 11 del Grupo 1 de Segunda Federación: goleada del Portugalete al Marino y remontada del Racing Santander B con dos penaltis de Castellanos 🔥\n\nRacing Santander B 2-1 Gimnástica Torrelavega: D. Salas (37'); J. Castellanos (49' pen., 53' pen.)\nAmorebieta 1-1 Eibar B: Guillermo (17'); I. Zubiria (75' pen.)\nAtlético Astorga 1-1 Arosa: G. Rabanillo (31'); J. Maceira (55')\nPortugalete 4-1 Marino de Luanco: J. Garcia (10', 34' pen.), J. Lopez (30'), G. Crespo (68'); I. Villaldea (90') 💪",
   "hashtags": [
     "#SegundaFederacion",
     "#SegundaRFEF",
@@ -36,7 +36,7 @@
       "arbitro": null,
       "jornada": "Group 1 - 11",
       "liga_id": 875,
-      "local": "Racing Santander II",
+      "local": "Racing Santander B",
       "visitante": "Gimnástica Torrelavega",
       "escudo_local": "https://media.api-sports.io/football/teams/9643.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/5264.png",
@@ -51,13 +51,13 @@
         },
         {
           "min": 49,
-          "equipo": "Racing Santander II",
+          "equipo": "Racing Santander B",
           "jugador": "J. Castellanos",
           "tipo": "Penalty"
         },
         {
           "min": 53,
-          "equipo": "Racing Santander II",
+          "equipo": "Racing Santander B",
           "jugador": "J. Castellanos",
           "tipo": "Penalty"
         }
@@ -72,7 +72,7 @@
       "jornada": "Group 1 - 11",
       "liga_id": 875,
       "local": "Amorebieta",
-      "visitante": "Eibar II",
+      "visitante": "Eibar B",
       "escudo_local": "https://media.api-sports.io/football/teams/9380.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/24572.png",
       "goles_local": 1,
@@ -86,7 +86,7 @@
         },
         {
           "min": 75,
-          "equipo": "Eibar II",
+          "equipo": "Eibar B",
           "jugador": "I. Zubiria",
           "tipo": "Penalty"
         }

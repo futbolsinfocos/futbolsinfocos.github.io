@@ -6,6 +6,8 @@ con una línea más: "Nombre en la API": "Nombre en español".
 """
 from __future__ import annotations
 
+import re
+
 SELECCIONES = {
     "Albania": "Albania", "Andorra": "Andorra", "Armenia": "Armenia", "Austria": "Austria",
     "Azerbaijan": "Azerbaiyán", "Belarus": "Bielorrusia", "Belgium": "Bélgica",
@@ -58,4 +60,14 @@ def es(nombre: str | None) -> str | None:
     """Devuelve el nombre en español si lo conocemos; si no, el original."""
     if not nombre:
         return nombre
-    return _TODOS.get(nombre, nombre)
+    return filial(_TODOS.get(nombre, nombre))
+
+
+# Filiales con letra, como se dice en España: "Albacete II" → "Albacete B", "Real Madrid III" → "Real Madrid C"
+_FILIAL = re.compile(r"(?<!rupo)(?<=[\wÀ-ÿ.]) (III|II)\b")
+
+
+def filial(texto: str | None) -> str | None:
+    if not texto:
+        return texto
+    return _FILIAL.sub(lambda m: " C" if m.group(1) == "III" else " B", texto)

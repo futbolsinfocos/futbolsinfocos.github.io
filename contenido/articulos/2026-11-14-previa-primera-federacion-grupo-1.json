@@ -7,9 +7,9 @@
   "grupo": "espana",
   "prioridad": 1,
   "titular": "Cinco partidos de la jornada 12 en el Grupo 1 de Primera Federación",
-  "entradilla": "La jornada 12 del Grupo 1 de Primera Federación reúne hoy, sábado, cinco partidos. Abre el Athletic Club II-Racing de Ferrol a las 13:00 en Lezama.",
-  "cuerpo_markdown": "## Athletic Club II - Racing de Ferrol\n\n<p class=\"ficha\"><b>13:00</b> · Lezama Facilities · Jornada 12</p>\n\nAthletic Club II y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-athletic-club-ii-racing-de-ferrol.html)\n\n## Real Unión - Cultural Leonesa\n\n<p class=\"ficha\"><b>16:30</b> · Stadium Gal (Irun) · Jornada 12</p>\n\nEl Real Unión recibe hoy a las 16:30 a la Cultural Leonesa en Irun, en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-real-union-cultural-leonesa.html)\n\n## UD Ourense - Mérida AD\n\n<p class=\"ficha\"><b>16:30</b> · Estadio de O Couto · Jornada 12</p>\n\nUD Ourense y Mérida AD juegan hoy a las 16:30 en la jornada 12 del Grupo 1.\n\n[Leer la previa completa →](../previas/2026-11-14-ud-ourense-merida-ad.html)\n\n## CD Coria - Unionistas de Salamanca\n\n<p class=\"ficha\"><b>18:45</b> · Estadio La Isla (Coria) · Jornada 12</p>\n\nCD Coria y Unionistas de Salamanca juegan hoy a las 18:45 en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-cd-coria-unionistas-de-salamanca.html)\n\n## Deportivo La Coruña II - Barakaldo\n\n<p class=\"ficha\"><b>18:45</b> · Ciudad Deportiva de Abegondo · Jornada 12</p>\n\nEl Deportivo La Coruña II recibe hoy a las 18:45 al Barakaldo en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-la-coruna-ii-barakaldo.html)",
-  "texto_instagram": "⚽ Jornada 12 del Grupo 1 de Primera Federación. Cinco partidos este sábado, a partir de las 13:00 en Lezama con el Athletic Club II-Racing de Ferrol.\n\n13:00 Athletic Club II - Racing de Ferrol\n16:30 Real Unión - Cultural Leonesa\n16:30 UD Ourense - Mérida AD\n18:45 CD Coria - Unionistas de Salamanca\n18:45 Deportivo La Coruña II - Barakaldo",
+  "entradilla": "La jornada 12 del Grupo 1 de Primera Federación reúne hoy, sábado, cinco partidos. Abre el Athletic Club B-Racing de Ferrol a las 13:00 en Lezama.",
+  "cuerpo_markdown": "## Athletic Club B - Racing de Ferrol\n\n<p class=\"ficha\"><b>13:00</b> · Lezama Facilities · Jornada 12</p>\n\nAthletic Club B y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-athletic-club-ii-racing-de-ferrol.html)\n\n## Real Unión - Cultural Leonesa\n\n<p class=\"ficha\"><b>16:30</b> · Stadium Gal (Irun) · Jornada 12</p>\n\nEl Real Unión recibe hoy a las 16:30 a la Cultural Leonesa en Irun, en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-real-union-cultural-leonesa.html)\n\n## UD Ourense - Mérida AD\n\n<p class=\"ficha\"><b>16:30</b> · Estadio de O Couto · Jornada 12</p>\n\nUD Ourense y Mérida AD juegan hoy a las 16:30 en la jornada 12 del Grupo 1.\n\n[Leer la previa completa →](../previas/2026-11-14-ud-ourense-merida-ad.html)\n\n## CD Coria - Unionistas de Salamanca\n\n<p class=\"ficha\"><b>18:45</b> · Estadio La Isla (Coria) · Jornada 12</p>\n\nCD Coria y Unionistas de Salamanca juegan hoy a las 18:45 en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-cd-coria-unionistas-de-salamanca.html)\n\n## Deportivo La Coruña B - Barakaldo\n\n<p class=\"ficha\"><b>18:45</b> · Ciudad Deportiva de Abegondo · Jornada 12</p>\n\nEl Deportivo La Coruña B recibe hoy a las 18:45 al Barakaldo en la jornada 12.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-la-coruna-ii-barakaldo.html)",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 1 de Primera Federación. Cinco partidos este sábado, a partir de las 13:00 en Lezama con el Athletic Club B-Racing de Ferrol.\n\n13:00 Athletic Club B - Racing de Ferrol\n16:30 Real Unión - Cultural Leonesa\n16:30 UD Ourense - Mérida AD\n18:45 CD Coria - Unionistas de Salamanca\n18:45 Deportivo La Coruña B - Barakaldo",
   "hashtags": [
     "#PrimeraFederación",
     "#PrimeraRFEF",
@@ -30,7 +30,7 @@
       "ciudad": "Lezama",
       "jornada": "Group 1 - 12",
       "arbitro": null,
-      "local": "Athletic Club II",
+      "local": "Athletic Club B",
       "visitante": "Racing de Ferrol",
       "escudo_local": "https://media.api-sports.io/football/teams/9579.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9409.png"
@@ -78,7 +78,7 @@
       "ciudad": null,
       "jornada": "Group 1 - 12",
       "arbitro": null,
-      "local": "Deportivo La Coruña II",
+      "local": "Deportivo La Coruña B",
       "visitante": "Barakaldo",
       "escudo_local": "https://media.api-sports.io/football/teams/9610.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/5251.png"
@@ -89,10 +89,10 @@
     {
       "id": 1570826,
       "slug": "2026-11-14-athletic-club-ii-racing-de-ferrol",
-      "titular": "El Athletic Club II recibe al Racing de Ferrol en Lezama",
-      "entradilla": "Athletic Club II y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.",
+      "titular": "El Athletic Club B recibe al Racing de Ferrol en Lezama",
+      "entradilla": "Athletic Club B y Racing de Ferrol juegan hoy a las 13:00 en la jornada 12 del Grupo 1 de Primera Federación.",
       "parrafos": [
-        "El Athletic Club II y el Racing de Ferrol se enfrentan este sábado 14 de noviembre a las 13:00 en las instalaciones de Lezama, en partido de la jornada 12 del Grupo 1 de Primera Federación."
+        "El Athletic Club B y el Racing de Ferrol se enfrentan este sábado 14 de noviembre a las 13:00 en las instalaciones de Lezama, en partido de la jornada 12 del Grupo 1 de Primera Federación."
       ],
       "precedente": "",
       "claves": []
@@ -133,10 +133,10 @@
     {
       "id": 1570829,
       "slug": "2026-11-14-deportivo-la-coruna-ii-barakaldo",
-      "titular": "Deportivo La Coruña II y Barakaldo juegan en Abegondo",
-      "entradilla": "El Deportivo La Coruña II recibe hoy a las 18:45 al Barakaldo en la jornada 12.",
+      "titular": "Deportivo La Coruña B y Barakaldo juegan en Abegondo",
+      "entradilla": "El Deportivo La Coruña B recibe hoy a las 18:45 al Barakaldo en la jornada 12.",
       "parrafos": [
-        "El Deportivo La Coruña II y el Barakaldo se enfrentan este sábado 14 de noviembre a las 18:45 en la Ciudad Deportiva de Abegondo, en partido de la jornada 12 del Grupo 1 de Primera Federación."
+        "El Deportivo La Coruña B y el Barakaldo se enfrentan este sábado 14 de noviembre a las 18:45 en la Ciudad Deportiva de Abegondo, en partido de la jornada 12 del Grupo 1 de Primera Federación."
       ],
       "precedente": "",
       "claves": []

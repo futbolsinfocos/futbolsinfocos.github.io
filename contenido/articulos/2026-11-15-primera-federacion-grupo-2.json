@@ -6,9 +6,9 @@
   "grupo": "espana",
   "prioridad": 1,
   "titular": "El Alcorcón remonta en Murcia y se aúpa al tercer puesto del Grupo 2",
-  "entradilla": "El Alcorcón le dio la vuelta al marcador en el Enrique Roca (1-2) y adelantó al Real Murcia en la tabla. Cartagena, Algeciras y Atlético Madrid II también sumaron de tres en la Jornada 12.",
-  "cuerpo_markdown": "La Jornada 12 de Primera Federación · Grupo 2 dejó cuatro partidos y ningún empate. Todos se resolvieron por la mínima. Dos victorias locales, dos visitantes. La más llamativa, la remontada del Alcorcón en Murcia.\n\n## Real Murcia 1-2 Alcorcón\n\nEl Real Murcia se adelantó antes del descanso con un gol de D. Bosilj en el minuto 43. Tras el paso por vestuarios, el Alcorcón le dio la vuelta. J. Lancho empató en el 55 y X. Irurita firmó el 1-2 en el 68. Con este triunfo, el Alcorcón es tercero con 21 puntos. El Real Murcia, cuarto con 20.\n\n## Ibiza 0-1 FC Cartagena\n\nUn penalti transformado por I. Ribeiro en el minuto 38 decidió el duelo en Can Misses. El FC Cartagena suma 19 puntos y es quinto. El Ibiza se queda octavo con 18.\n\n## Algeciras 2-1 Antequera\n\nEl Algeciras encarriló el partido en la segunda parte. P. Martinez abrió el marcador en el 59 y A. Gomez amplió en el 74. Luismi Gutierrez recortó para el Antequera en el 90, sin tiempo para más. El Algeciras sube a 17 puntos, décimo. El Antequera, decimoquinto con 14.\n\n## Atlético Madrid II 1-0 Teruel\n\nUn gol de D. Garcia en el minuto 81 dio el triunfo al filial rojiblanco, que alcanza los 14 puntos. El Teruel sigue colista.\n\n## Clasificación\n\nEl Zaragoza manda con 27 puntos, cuatro más que el Villarreal II (23). El Alcorcón completa el podio con 21. En la parte baja, el Teruel es último con 7 puntos, empatado con el Rayo Majadahonda pero con peor diferencia de goles (-14).",
-  "texto_instagram": "⚽ Jornada 12 sin empates y todo por la mínima. El Alcorcón remonta en Murcia y se sube al podio 📈 El Teruel sigue colista.\n\nAtlético Madrid II 1-0 Teruel: D. Garcia (81')\nIbiza 0-1 FC Cartagena: I. Ribeiro (38' pen.)\nAlgeciras 2-1 Antequera: P. Martinez (59'), A. Gomez (74'); Luismi Gutierrez (90')\nReal Murcia 1-2 Alcorcón: D. Bosilj (43'); J. Lancho (55'), X. Irurita (68') 🔥",
+  "entradilla": "El Alcorcón le dio la vuelta al marcador en el Enrique Roca (1-2) y adelantó al Real Murcia en la tabla. Cartagena, Algeciras y Atlético Madrid B también sumaron de tres en la Jornada 12.",
+  "cuerpo_markdown": "La Jornada 12 de Primera Federación · Grupo 2 dejó cuatro partidos y ningún empate. Todos se resolvieron por la mínima. Dos victorias locales, dos visitantes. La más llamativa, la remontada del Alcorcón en Murcia.\n\n## Real Murcia 1-2 Alcorcón\n\nEl Real Murcia se adelantó antes del descanso con un gol de D. Bosilj en el minuto 43. Tras el paso por vestuarios, el Alcorcón le dio la vuelta. J. Lancho empató en el 55 y X. Irurita firmó el 1-2 en el 68. Con este triunfo, el Alcorcón es tercero con 21 puntos. El Real Murcia, cuarto con 20.\n\n## Ibiza 0-1 FC Cartagena\n\nUn penalti transformado por I. Ribeiro en el minuto 38 decidió el duelo en Can Misses. El FC Cartagena suma 19 puntos y es quinto. El Ibiza se queda octavo con 18.\n\n## Algeciras 2-1 Antequera\n\nEl Algeciras encarriló el partido en la segunda parte. P. Martinez abrió el marcador en el 59 y A. Gomez amplió en el 74. Luismi Gutierrez recortó para el Antequera en el 90, sin tiempo para más. El Algeciras sube a 17 puntos, décimo. El Antequera, decimoquinto con 14.\n\n## Atlético Madrid B 1-0 Teruel\n\nUn gol de D. Garcia en el minuto 81 dio el triunfo al filial rojiblanco, que alcanza los 14 puntos. El Teruel sigue colista.\n\n## Clasificación\n\nEl Zaragoza manda con 27 puntos, cuatro más que el Villarreal B (23). El Alcorcón completa el podio con 21. En la parte baja, el Teruel es último con 7 puntos, empatado con el Rayo Majadahonda pero con peor diferencia de goles (-14).",
+  "texto_instagram": "⚽ Jornada 12 sin empates y todo por la mínima. El Alcorcón remonta en Murcia y se sube al podio 📈 El Teruel sigue colista.\n\nAtlético Madrid B 1-0 Teruel: D. Garcia (81')\nIbiza 0-1 FC Cartagena: I. Ribeiro (38' pen.)\nAlgeciras 2-1 Antequera: P. Martinez (59'), A. Gomez (74'); Luismi Gutierrez (90')\nReal Murcia 1-2 Alcorcón: D. Bosilj (43'); J. Lancho (55'), X. Irurita (68') 🔥",
   "hashtags": [
     "#PrimeraFederacion",
     "#PrimeraRFEF",
@@ -34,7 +34,7 @@
       "arbitro": null,
       "jornada": "Group 2 - 12",
       "liga_id": 436,
-      "local": "Atlético Madrid II",
+      "local": "Atlético Madrid B",
       "visitante": "Teruel",
       "escudo_local": "https://media.api-sports.io/football/teams/9570.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/5278.png",
@@ -43,7 +43,7 @@
       "goleadores": [
         {
           "min": 81,
-          "equipo": "Atlético Madrid II",
+          "equipo": "Atlético Madrid B",
           "jugador": "D. Garcia",
           "tipo": "Normal Goal"
         }
@@ -153,7 +153,7 @@
     },
     {
       "pos": 2,
-      "equipo": "Villarreal II",
+      "equipo": "Villarreal B",
       "pts": 23,
       "pj": 12,
       "dg": 11
@@ -237,7 +237,7 @@
     },
     {
       "pos": 14,
-      "equipo": "Atlético Madrid II",
+      "equipo": "Atlético Madrid B",
       "pts": 14,
       "pj": 12,
       "dg": 2

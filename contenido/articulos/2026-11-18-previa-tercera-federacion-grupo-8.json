@@ -8,7 +8,7 @@
   "prioridad": 2,
   "titular": "Atlético Mansillés y Guijuelo se miden con 16 puntos cada uno y la misma distancia de la zona alta",
   "entradilla": "Un único partido de la quinta jornada del Grupo 8 de Tercera Federación: los dos equipos empatan a 16 puntos, en la octava y novena plaza, a cuatro de la zona de playoff.",
-  "cuerpo_markdown": "La jornada se juega con la tabla apretada en el centro. Santa Marta lidera con 26 puntos y la zona de playoff empieza en el Cristo Atlético (24) y el Burgos Promesas (21). Entre el puesto cuatro y el once hay cinco puntos. Colegios Diocesanos, Salamanca II y Mirandés II ocupan la zona de descenso.\n\n## Claves de la jornada\n\n- Atlético Mansillés y Guijuelo tienen 16 puntos, a cuatro del quinto clasificado, La Virgen del Camino\n- Santa Marta lidera con 26 puntos y 19 goles a favor\n- Colegios Diocesanos, Salamanca II y Mirandés II están en descenso\n\n## Atlético Mansillés - Guijuelo\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 5</p><p class=\"forma\"><span class=\"eq\">Atlético Mansillés</span><span class=\"fP\" title=\"1-2 vs Unionistas II\">P</span><span class=\"fE\" title=\"2-2 vs Arandina\">E</span><span class=\"fE\" title=\"1-1 vs Villaralbo\">E</span><span class=\"fE\" title=\"2-2 vs Colegios Diocesanos\">E</span><span class=\"fG\" title=\"2-0 vs Palencia CF\">G</span><br><span class=\"eq\">Guijuelo</span><span class=\"fG\" title=\"1-0 vs Unionistas II\">G</span><span class=\"fP\" title=\"1-3 vs Sporting de Gijón\">P</span><span class=\"fE\" title=\"2-2 vs Arandina\">E</span><span class=\"fP\" title=\"0-2 vs Villaralbo\">P</span><span class=\"fG\" title=\"4-1 vs Colegios Diocesanos\">G</span></p>\n\nLos dos equipos están empatados a 16 puntos en la zona media de la tabla, a cuatro del quinto puesto. Quien gane se acerca a la pelea por el playoff.\n\n[Leer la previa completa →](../previas/2026-11-18-atletico-mansilles-guijuelo.html)",
+  "cuerpo_markdown": "La jornada se juega con la tabla apretada en el centro. Santa Marta lidera con 26 puntos y la zona de playoff empieza en el Cristo Atlético (24) y el Burgos Promesas (21). Entre el puesto cuatro y el once hay cinco puntos. Colegios Diocesanos, Salamanca B y Mirandés B ocupan la zona de descenso.\n\n## Claves de la jornada\n\n- Atlético Mansillés y Guijuelo tienen 16 puntos, a cuatro del quinto clasificado, La Virgen del Camino\n- Santa Marta lidera con 26 puntos y 19 goles a favor\n- Colegios Diocesanos, Salamanca B y Mirandés B están en descenso\n\n## Atlético Mansillés - Guijuelo\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 5</p><p class=\"forma\"><span class=\"eq\">Atlético Mansillés</span><span class=\"fP\" title=\"1-2 vs Unionistas B\">P</span><span class=\"fE\" title=\"2-2 vs Arandina\">E</span><span class=\"fE\" title=\"1-1 vs Villaralbo\">E</span><span class=\"fE\" title=\"2-2 vs Colegios Diocesanos\">E</span><span class=\"fG\" title=\"2-0 vs Palencia CF\">G</span><br><span class=\"eq\">Guijuelo</span><span class=\"fG\" title=\"1-0 vs Unionistas B\">G</span><span class=\"fP\" title=\"1-3 vs Sporting de Gijón\">P</span><span class=\"fE\" title=\"2-2 vs Arandina\">E</span><span class=\"fP\" title=\"0-2 vs Villaralbo\">P</span><span class=\"fG\" title=\"4-1 vs Colegios Diocesanos\">G</span></p>\n\nLos dos equipos están empatados a 16 puntos en la zona media de la tabla, a cuatro del quinto puesto. Quien gane se acerca a la pelea por el playoff.\n\n[Leer la previa completa →](../previas/2026-11-18-atletico-mansilles-guijuelo.html)",
   "texto_instagram": "Un solo partido hoy en Tercera Federación, Grupo 8. Atlético Mansillés y Guijuelo empatan a 16 puntos y se juegan no quedarse descolgados del playoff. El Guijuelo es el equipo con más goles, 18 en 10 partidos. ⚽\n\nJornada 5\nAtlético Mansillés - Guijuelo · 18:00",
   "hashtags": [
     "#TerceraFederación",
@@ -89,7 +89,7 @@
             },
             {
               "fecha": "2026-10-17",
-              "rival": "Unionistas II",
+              "rival": "Unionistas B",
               "campo": "casa",
               "marcador": "1-2",
               "resultado": "P",
@@ -151,7 +151,7 @@
             },
             {
               "fecha": "2026-10-25",
-              "rival": "Unionistas II",
+              "rival": "Unionistas B",
               "campo": "fuera",
               "marcador": "1-0",
               "resultado": "G",
@@ -210,7 +210,7 @@
       },
       {
         "fecha": "2026-10-25",
-        "rival": "Unionistas II",
+        "rival": "Unionistas B",
         "campo": "fuera",
         "marcador": "1-0",
         "resultado": "G",
@@ -252,7 +252,7 @@
       },
       {
         "fecha": "2026-10-17",
-        "rival": "Unionistas II",
+        "rival": "Unionistas B",
         "campo": "casa",
         "marcador": "1-2",
         "resultado": "P",

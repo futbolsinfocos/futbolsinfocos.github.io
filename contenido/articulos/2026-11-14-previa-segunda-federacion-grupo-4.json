@@ -6,10 +6,10 @@
   "competicion": "Segunda Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "El Sanluqueño recibe al Real Betis II en la jornada 11 del Grupo 4",
-  "entradilla": "La jornada de hoy en el Grupo 4 de Segunda Federación tiene un único partido: Sanluqueño y Real Betis II se miden a las 18.00 en el Estadio El Palmar.",
-  "cuerpo_markdown": "## Sanluqueño - Real Betis II\n\n<p class=\"ficha\"><b>18:00</b> · Estadio El Palmar · Jornada 11</p>\n\nEl Sanluqueño recibe este sábado al Real Betis II en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-sanluqueno-real-betis-ii.html)",
-  "texto_instagram": "Sanluqueño y Real Betis II juegan hoy en el Estadio El Palmar, en la jornada 11 del Grupo 4 de Segunda Federación. Es el único partido de la jornada en el grupo hoy. ⚽\n\nSanluqueño - Real Betis II · 18.00",
+  "titular": "El Sanluqueño recibe al Real Betis B en la jornada 11 del Grupo 4",
+  "entradilla": "La jornada de hoy en el Grupo 4 de Segunda Federación tiene un único partido: Sanluqueño y Real Betis B se miden a las 18.00 en el Estadio El Palmar.",
+  "cuerpo_markdown": "## Sanluqueño - Real Betis B\n\n<p class=\"ficha\"><b>18:00</b> · Estadio El Palmar · Jornada 11</p>\n\nEl Sanluqueño recibe este sábado al Real Betis B en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-sanluqueno-real-betis-ii.html)",
+  "texto_instagram": "Sanluqueño y Real Betis B juegan hoy en el Estadio El Palmar, en la jornada 11 del Grupo 4 de Segunda Federación. Es el único partido de la jornada en el grupo hoy. ⚽\n\nSanluqueño - Real Betis B · 18.00",
   "hashtags": [
     "#SegundaFederación",
     "#Sanluqueño",
@@ -31,7 +31,7 @@
       "jornada": "Group 4 - 11",
       "arbitro": null,
       "local": "Sanluqueño",
-      "visitante": "Real Betis II",
+      "visitante": "Real Betis B",
       "escudo_local": "https://media.api-sports.io/football/teams/9601.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9765.png"
     }
@@ -41,10 +41,10 @@
     {
       "id": 1573042,
       "slug": "2026-11-14-sanluqueno-real-betis-ii",
-      "titular": "Sanluqueño y Real Betis II se enfrentan en El Palmar en la jornada 11",
-      "entradilla": "El Sanluqueño recibe este sábado al Real Betis II en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación.",
+      "titular": "Sanluqueño y Real Betis B se enfrentan en El Palmar en la jornada 11",
+      "entradilla": "El Sanluqueño recibe este sábado al Real Betis B en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación.",
       "parrafos": [
-        "El Sanluqueño y el Real Betis II juegan este sábado 14 de noviembre, a las 18.00, en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación."
+        "El Sanluqueño y el Real Betis B juegan este sábado 14 de noviembre, a las 18.00, en el Estadio El Palmar. El partido corresponde a la jornada 11 del Grupo 4 de Segunda Federación."
       ],
       "precedente": "",
       "claves": []

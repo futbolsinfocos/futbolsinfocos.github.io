@@ -7,8 +7,8 @@
   "prioridad": 1,
   "titular": "El Zaragoza golea en Jaén y el Hércules rescata un punto en el 90",
   "entradilla": "El Zaragoza firmó un 0-4 en el Nuevo Estadio de La Victoria en la Jornada 12 del Grupo 2 de Primera Federación. Águilas, Sant Andreu y Juventud Torremolinos también sumaron de tres.",
-  "cuerpo_markdown": "La Jornada 12 del Grupo 2 de Primera Federación dejó un sábado de triunfos visitantes. Águilas, Sant Andreu y Zaragoza ganaron fuera de casa. El Juventud Torremolinos fue el único local que venció. El Hércules y el Villarreal II firmaron el único empate, con penalti en el último minuto.\n\n## Real Jaén 0-4 Zaragoza\n\nGoleada del Zaragoza en el Nuevo Estadio de La Victoria. J. Jardi abrió el marcador de penalti en el 45. Tras el descanso, M. A. Cuenca hizo el segundo en el 54. P. Sans, también desde los once metros, marcó el tercero en el 78. O. Urena cerró la cuenta dos minutos después, en el 80.\n\n## Hércules 2-2 Villarreal II\n\nPartido de ida y vuelta en Alicante. N. El Jmili adelantó al Villarreal II en el 45. V. Narro empató de penalti en el 66, pero N. Barattucci respondió solo dos minutos después, en el 68. Cuando el filial acariciaba la victoria, A. Toril igualó de nuevo desde el punto de penalti en el 90.\n\n## Europa Fc 0-2 Sant Andreu\n\nA. G. Garcia fue el protagonista en el RCDE Stadium. Firmó los dos goles del Sant Andreu, en los minutos 65 y 84.\n\n## Juventud Torremolinos 1-0 Huesca\n\nEn El Pozuelo, un gol de I. Matiti en el 84 dio la victoria al Juventud Torremolinos ante el Huesca.\n\n## Rayo Majadahonda 0-1 Águilas\n\nEl Águilas ganó en el Cerro del Espino con un tanto de J. Raigal en el 69.",
-  "texto_instagram": "⚽ Jornada 12 del Grupo 2 de Primera Federación: el Zaragoza golea 0-4 en Jaén y el Hércules salva un punto de penalti en el 90 🔥 Doblete de A. G. Garcia para el Sant Andreu 🎯\n\nRayo Majadahonda 0-1 Águilas: J. Raigal (69')\nEuropa Fc 0-2 Sant Andreu: A. G. Garcia (65', 84')\nHércules 2-2 Villarreal II: N. El Jmili (45'), V. Narro (66' p.), N. Barattucci (68'), A. Toril (90' p.)\nJuventud Torremolinos 1-0 Huesca: I. Matiti (84')\nReal Jaén 0-4 Zaragoza: J. Jardi (45' p.), M. A. Cuenca (54'), P. Sans (78' p.), O. Urena (80')",
+  "cuerpo_markdown": "La Jornada 12 del Grupo 2 de Primera Federación dejó un sábado de triunfos visitantes. Águilas, Sant Andreu y Zaragoza ganaron fuera de casa. El Juventud Torremolinos fue el único local que venció. El Hércules y el Villarreal B firmaron el único empate, con penalti en el último minuto.\n\n## Real Jaén 0-4 Zaragoza\n\nGoleada del Zaragoza en el Nuevo Estadio de La Victoria. J. Jardi abrió el marcador de penalti en el 45. Tras el descanso, M. A. Cuenca hizo el segundo en el 54. P. Sans, también desde los once metros, marcó el tercero en el 78. O. Urena cerró la cuenta dos minutos después, en el 80.\n\n## Hércules 2-2 Villarreal B\n\nPartido de ida y vuelta en Alicante. N. El Jmili adelantó al Villarreal B en el 45. V. Narro empató de penalti en el 66, pero N. Barattucci respondió solo dos minutos después, en el 68. Cuando el filial acariciaba la victoria, A. Toril igualó de nuevo desde el punto de penalti en el 90.\n\n## Europa Fc 0-2 Sant Andreu\n\nA. G. Garcia fue el protagonista en el RCDE Stadium. Firmó los dos goles del Sant Andreu, en los minutos 65 y 84.\n\n## Juventud Torremolinos 1-0 Huesca\n\nEn El Pozuelo, un gol de I. Matiti en el 84 dio la victoria al Juventud Torremolinos ante el Huesca.\n\n## Rayo Majadahonda 0-1 Águilas\n\nEl Águilas ganó en el Cerro del Espino con un tanto de J. Raigal en el 69.",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 2 de Primera Federación: el Zaragoza golea 0-4 en Jaén y el Hércules salva un punto de penalti en el 90 🔥 Doblete de A. G. Garcia para el Sant Andreu 🎯\n\nRayo Majadahonda 0-1 Águilas: J. Raigal (69')\nEuropa Fc 0-2 Sant Andreu: A. G. Garcia (65', 84')\nHércules 2-2 Villarreal B: N. El Jmili (45'), V. Narro (66' p.), N. Barattucci (68'), A. Toril (90' p.)\nJuventud Torremolinos 1-0 Huesca: I. Matiti (84')\nReal Jaén 0-4 Zaragoza: J. Jardi (45' p.), M. A. Cuenca (54'), P. Sans (78' p.), O. Urena (80')",
   "hashtags": [
     "#PrimeraFederacion",
     "#PrimeraRFEF",
@@ -86,7 +86,7 @@
       "jornada": "Group 2 - 12",
       "liga_id": 436,
       "local": "Hércules",
-      "visitante": "Villarreal II",
+      "visitante": "Villarreal B",
       "escudo_local": "https://media.api-sports.io/football/teams/4666.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9595.png",
       "goles_local": 2,
@@ -94,7 +94,7 @@
       "goleadores": [
         {
           "min": 45,
-          "equipo": "Villarreal II",
+          "equipo": "Villarreal B",
           "jugador": "N. El Jmili",
           "tipo": "Normal Goal"
         },
@@ -106,7 +106,7 @@
         },
         {
           "min": 68,
-          "equipo": "Villarreal II",
+          "equipo": "Villarreal B",
           "jugador": "N. Barattucci",
           "tipo": "Normal Goal"
         },

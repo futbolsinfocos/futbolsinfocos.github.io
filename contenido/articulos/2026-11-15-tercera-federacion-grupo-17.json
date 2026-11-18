@@ -6,9 +6,9 @@
   "grupo": "espana",
   "prioridad": 2,
   "titular": "El Atlético Monzón y el Ejea firman un empate a tres goles en la jornada 11 de Tercera Federación",
-  "entradilla": "La undécima jornada del Grupo 17 deja un 3-3 entre Atlético Monzón y Ejea y dos empates sin goles. El Real Zaragoza II sigue líder con 24 puntos.",
-  "cuerpo_markdown": "La jornada 11 del Grupo 17 de Tercera Federación reparte puntos en nueve partidos. Destaca el empate a tres entre el Atlético Monzón y el Ejea, con seis goles en total. Fraga, Caspe y Almudévar también ganaron.\n\n**Atlético Monzón 3-3 Ejea**\n\nEl encuentro más goleador de la jornada terminó con reparto de puntos. El Ejea se mantiene segundo con 21 puntos, mientras que el Atlético Monzón es octavo con 16.\n\n**Otros resultados**\n\n- Huesca II 3-0 Brea.\n- Robres 3-2 Illueca.\n- La Almunia 2-1 Andorra CF.\n- Almudévar 2-0 CDJ Tamarite.\n- Caspe 2-0 CD Sietamo.\n- Fraga 2-1 Belchite 97.\n- Binéfar 0-0 Épila.\n- Real Zaragoza II 0-0 Cuarte.\n\n**Clasificación**\n\nEl Real Zaragoza II lidera con 24 puntos, por delante del Ejea (21) y del Cuarte (19). En la zona baja, el Belchite 97 es colista con 4 puntos.",
-  "texto_instagram": "Empate a tres en Monzón y Caspe, Fraga y Huesca II sumando de tres. El Real Zaragoza II sigue líder con 24 puntos ⚽\n\nAtlético Monzón 3-3 Ejea\nHuesca II 3-0 Brea\nRobres 3-2 Illueca\nLa Almunia 2-1 Andorra CF\nAlmudévar 2-0 CDJ Tamarite\nCaspe 2-0 CD Sietamo\nFraga 2-1 Belchite 97\nBinéfar 0-0 Épila\nReal Zaragoza II 0-0 Cuarte",
+  "entradilla": "La undécima jornada del Grupo 17 deja un 3-3 entre Atlético Monzón y Ejea y dos empates sin goles. El Real Zaragoza B sigue líder con 24 puntos.",
+  "cuerpo_markdown": "La jornada 11 del Grupo 17 de Tercera Federación reparte puntos en nueve partidos. Destaca el empate a tres entre el Atlético Monzón y el Ejea, con seis goles en total. Fraga, Caspe y Almudévar también ganaron.\n\n**Atlético Monzón 3-3 Ejea**\n\nEl encuentro más goleador de la jornada terminó con reparto de puntos. El Ejea se mantiene segundo con 21 puntos, mientras que el Atlético Monzón es octavo con 16.\n\n**Otros resultados**\n\n- Huesca B 3-0 Brea.\n- Robres 3-2 Illueca.\n- La Almunia 2-1 Andorra CF.\n- Almudévar 2-0 CDJ Tamarite.\n- Caspe 2-0 CD Sietamo.\n- Fraga 2-1 Belchite 97.\n- Binéfar 0-0 Épila.\n- Real Zaragoza B 0-0 Cuarte.\n\n**Clasificación**\n\nEl Real Zaragoza B lidera con 24 puntos, por delante del Ejea (21) y del Cuarte (19). En la zona baja, el Belchite 97 es colista con 4 puntos.",
+  "texto_instagram": "Empate a tres en Monzón y Caspe, Fraga y Huesca B sumando de tres. El Real Zaragoza B sigue líder con 24 puntos ⚽\n\nAtlético Monzón 3-3 Ejea\nHuesca B 3-0 Brea\nRobres 3-2 Illueca\nLa Almunia 2-1 Andorra CF\nAlmudévar 2-0 CDJ Tamarite\nCaspe 2-0 CD Sietamo\nFraga 2-1 Belchite 97\nBinéfar 0-0 Épila\nReal Zaragoza B 0-0 Cuarte",
   "hashtags": [
     "#TerceraFederación",
     "#Grupo17",
@@ -49,7 +49,7 @@
       "arbitro": null,
       "jornada": "Group 17 - 11",
       "liga_id": 455,
-      "local": "Huesca II",
+      "local": "Huesca B",
       "visitante": "Brea",
       "escudo_local": "https://media.api-sports.io/football/teams/15327.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9883.png",
@@ -65,7 +65,7 @@
       "arbitro": null,
       "jornada": "Group 17 - 11",
       "liga_id": 455,
-      "local": "Real Zaragoza II",
+      "local": "Real Zaragoza B",
       "visitante": "Cuarte",
       "escudo_local": "https://media.api-sports.io/football/teams/9887.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9886.png",
@@ -173,7 +173,7 @@
   "clasificacion": [
     {
       "pos": 1,
-      "equipo": "Real Zaragoza II",
+      "equipo": "Real Zaragoza B",
       "pts": 24,
       "pj": 11,
       "dg": 14
@@ -215,7 +215,7 @@
     },
     {
       "pos": 7,
-      "equipo": "Huesca II",
+      "equipo": "Huesca B",
       "pts": 17,
       "pj": 11,
       "dg": 5

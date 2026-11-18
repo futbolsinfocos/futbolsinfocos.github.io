@@ -7,8 +7,8 @@
   "prioridad": 2,
   "titular": "El Dos Hermanas cae ante el San Roque Lepe y el Egabrense golea al Tomares en la Jornada 11",
   "entradilla": "El líder Dos Hermanas perdió 1-2 en casa frente al San Roque Lepe, que iguala su cifra de puntos en lo más alto. El Egabrense ganó 3-1 al Tomares y el Chiclana sumó tres puntos en Huelva.",
-  "cuerpo_markdown": "La Jornada 11 del Grupo 10 de Tercera Federación deja la derrota del Dos Hermanas como noticia principal. Cayó 1-2 en casa ante el San Roque Lepe, que queda empatado con el líder a 23 puntos. Otros resultados destacados fueron las victorias del Utrera, del Egabrense y del Chiclana.\n\n### Dos Hermanas 1-2 San Roque Lepe\n\nEl San Roque Lepe se impuso como visitante por 1-2 y el Dos Hermanas pierde el liderato compartido.\n\n### Tomares 1-3 Egabrense\n\nEl Egabrense ganó 3-1 en la visita al Tomares.\n\n### Utrera 3-1 Bollullos\n\nEl Utrera venció 3-1 al Bollullos.\n\n### Atlético Onubense 0-2 Chiclana\n\nEl Chiclana ganó 2-0 en su visita al Atlético Onubense.\n\n### Córdoba II 2-0 Ceuta II\n\nEl Córdoba II derrotó 2-0 al Ceuta II.\n\n### Pozoblanco 1-2 Betis C\n\nEl Betis C ganó 2-1 en la visita al Pozoblanco.\n\n### Conil 0-0 Xerez Deportivo y Linense 0-0 Portuense\n\nLos dos partidos de las 17:00 terminaron sin goles.\n\n## Clasificación\n\nEn la parte alta, el Dos Hermanas lidera con 23 puntos y mejor diferencia de goles (+13). Le siguen el San Roque Lepe, también con 23 puntos (+7), y el Portuense, con 21.\n\nEn la parte baja, el Bollullos cierra la tabla con 7 puntos. Le preceden el Atlético Onubense, con 8, y el Sevilla III, con 9.",
-  "texto_instagram": "⚽ El San Roque Lepe gana 2-1 al Dos Hermanas y el líder pierde su pleno. El Egabrense golea 3-1 al Tomares en la Jornada 11 del Grupo 10.\n\nDos Hermanas 1-2 San Roque Lepe\nTomares 1-3 Egabrense\nUtrera 3-1 Bollullos\nAtlético Onubense 0-2 Chiclana\nCórdoba II 2-0 Ceuta II\nPozoblanco 1-2 Betis C\nConil 0-0 Xerez Deportivo\nLinense 0-0 Portuense 🏆",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 10 de Tercera Federación deja la derrota del Dos Hermanas como noticia principal. Cayó 1-2 en casa ante el San Roque Lepe, que queda empatado con el líder a 23 puntos. Otros resultados destacados fueron las victorias del Utrera, del Egabrense y del Chiclana.\n\n### Dos Hermanas 1-2 San Roque Lepe\n\nEl San Roque Lepe se impuso como visitante por 1-2 y el Dos Hermanas pierde el liderato compartido.\n\n### Tomares 1-3 Egabrense\n\nEl Egabrense ganó 3-1 en la visita al Tomares.\n\n### Utrera 3-1 Bollullos\n\nEl Utrera venció 3-1 al Bollullos.\n\n### Atlético Onubense 0-2 Chiclana\n\nEl Chiclana ganó 2-0 en su visita al Atlético Onubense.\n\n### Córdoba B 2-0 Ceuta B\n\nEl Córdoba B derrotó 2-0 al Ceuta B.\n\n### Pozoblanco 1-2 Betis C\n\nEl Betis C ganó 2-1 en la visita al Pozoblanco.\n\n### Conil 0-0 Xerez Deportivo y Linense 0-0 Portuense\n\nLos dos partidos de las 17:00 terminaron sin goles.\n\n## Clasificación\n\nEn la parte alta, el Dos Hermanas lidera con 23 puntos y mejor diferencia de goles (+13). Le siguen el San Roque Lepe, también con 23 puntos (+7), y el Portuense, con 21.\n\nEn la parte baja, el Bollullos cierra la tabla con 7 puntos. Le preceden el Atlético Onubense, con 8, y el Sevilla C, con 9.",
+  "texto_instagram": "⚽ El San Roque Lepe gana 2-1 al Dos Hermanas y el líder pierde su pleno. El Egabrense golea 3-1 al Tomares en la Jornada 11 del Grupo 10.\n\nDos Hermanas 1-2 San Roque Lepe\nTomares 1-3 Egabrense\nUtrera 3-1 Bollullos\nAtlético Onubense 0-2 Chiclana\nCórdoba B 2-0 Ceuta B\nPozoblanco 1-2 Betis C\nConil 0-0 Xerez Deportivo\nLinense 0-0 Portuense 🏆",
   "hashtags": [
     "#TerceraFederacion",
     "#TerceraRFEF",
@@ -64,8 +64,8 @@
       "arbitro": null,
       "jornada": "Group 10 - 11",
       "liga_id": 448,
-      "local": "Córdoba II",
-      "visitante": "Ceuta II",
+      "local": "Córdoba B",
+      "visitante": "Ceuta B",
       "escudo_local": "https://media.api-sports.io/football/teams/9759.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/17596.png",
       "goles_local": 2,
@@ -226,7 +226,7 @@
     },
     {
       "pos": 11,
-      "equipo": "Ceuta II",
+      "equipo": "Ceuta B",
       "pts": 12,
       "pj": 11,
       "dg": -4
@@ -247,21 +247,21 @@
     },
     {
       "pos": 14,
-      "equipo": "Cádiz II",
+      "equipo": "Cádiz B",
       "pts": 10,
       "pj": 11,
       "dg": -1
     },
     {
       "pos": 15,
-      "equipo": "Córdoba II",
+      "equipo": "Córdoba B",
       "pts": 10,
       "pj": 10,
       "dg": -2
     },
     {
       "pos": 16,
-      "equipo": "Sevilla III",
+      "equipo": "Sevilla C",
       "pts": 9,
       "pj": 11,
       "dg": -7

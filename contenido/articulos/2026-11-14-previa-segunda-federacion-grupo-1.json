@@ -7,9 +7,9 @@
   "grupo": "espana",
   "prioridad": 2,
   "titular": "Cuatro partidos de la jornada 11 en el Grupo 1 de Segunda Federación",
-  "entradilla": "La jornada 11 del Grupo 1 de Segunda Federación ofrece hoy, sábado 14 de noviembre, cuatro partidos. Abre el Racing Santander II-Gimnástica Torrelavega a las 15:30, un enfrentamiento entre dos equipos cántabros.",
-  "cuerpo_markdown": "## Claves de la jornada\n\n- Se disputan cuatro partidos de la jornada 11, entre las 15:30 y las 18:00.\n- El Amorebieta-Eibar II se juega en el Campo Municipal de Urritxe, en Amorebieta-Etxano.\n\n## Racing Santander II - Gimnástica Torrelavega\n\n<p class=\"ficha\"><b>15:30</b> · Jornada 11</p>\n\nEl Racing Santander II y la Gimnástica Torrelavega se miden en la jornada 11 del Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-racing-santander-ii-gimnastica-torrelavega.html)\n\n## Amorebieta - Eibar II\n\n<p class=\"ficha\"><b>16:00</b> · Campo Municipal de Urritxe (Amorebieta-Etxano) · Jornada 11</p>\n\nEl Amorebieta y el Eibar II se enfrentan en el Campo Municipal de Urritxe en la jornada 11.\n\n[Leer la previa completa →](../previas/2026-11-14-amorebieta-eibar-ii.html)\n\n## Atlético Astorga - Arosa\n\n<p class=\"ficha\"><b>16:30</b> · Ourense · Jornada 11</p>\n\nEl Atlético Astorga recibe al Arosa en partido de la jornada 11 del Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-atletico-astorga-arosa.html)\n\n## Portugalete - Marino de Luanco\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 11</p>\n\nEl Portugalete y el Marino de Luanco cierran la jornada del sábado en el Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-portugalete-marino-de-luanco.html)",
-  "texto_instagram": "⚽ Jornada 11 del Grupo 1 de Segunda Federación. Cuatro partidos este sábado, de las 15:30 a las 18:00. Abren el Racing Santander II y la Gimnástica Torrelavega, en un enfrentamiento entre equipos cántabros.\n\n15:30 Racing Santander II - Gimnástica Torrelavega\n16:00 Amorebieta - Eibar II\n16:30 Atlético Astorga - Arosa\n18:00 Portugalete - Marino de Luanco",
+  "entradilla": "La jornada 11 del Grupo 1 de Segunda Federación ofrece hoy, sábado 14 de noviembre, cuatro partidos. Abre el Racing Santander B-Gimnástica Torrelavega a las 15:30, un enfrentamiento entre dos equipos cántabros.",
+  "cuerpo_markdown": "## Claves de la jornada\n\n- Se disputan cuatro partidos de la jornada 11, entre las 15:30 y las 18:00.\n- El Amorebieta-Eibar B se juega en el Campo Municipal de Urritxe, en Amorebieta-Etxano.\n\n## Racing Santander B - Gimnástica Torrelavega\n\n<p class=\"ficha\"><b>15:30</b> · Jornada 11</p>\n\nEl Racing Santander B y la Gimnástica Torrelavega se miden en la jornada 11 del Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-racing-santander-ii-gimnastica-torrelavega.html)\n\n## Amorebieta - Eibar B\n\n<p class=\"ficha\"><b>16:00</b> · Campo Municipal de Urritxe (Amorebieta-Etxano) · Jornada 11</p>\n\nEl Amorebieta y el Eibar B se enfrentan en el Campo Municipal de Urritxe en la jornada 11.\n\n[Leer la previa completa →](../previas/2026-11-14-amorebieta-eibar-ii.html)\n\n## Atlético Astorga - Arosa\n\n<p class=\"ficha\"><b>16:30</b> · Ourense · Jornada 11</p>\n\nEl Atlético Astorga recibe al Arosa en partido de la jornada 11 del Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-atletico-astorga-arosa.html)\n\n## Portugalete - Marino de Luanco\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 11</p>\n\nEl Portugalete y el Marino de Luanco cierran la jornada del sábado en el Grupo 1 de Segunda Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-portugalete-marino-de-luanco.html)",
+  "texto_instagram": "⚽ Jornada 11 del Grupo 1 de Segunda Federación. Cuatro partidos este sábado, de las 15:30 a las 18:00. Abren el Racing Santander B y la Gimnástica Torrelavega, en un enfrentamiento entre equipos cántabros.\n\n15:30 Racing Santander B - Gimnástica Torrelavega\n16:00 Amorebieta - Eibar B\n16:30 Atlético Astorga - Arosa\n18:00 Portugalete - Marino de Luanco",
   "hashtags": [
     "#SegundaFederacion",
     "#2RFEF",
@@ -33,7 +33,7 @@
       "ciudad": null,
       "jornada": "Group 1 - 11",
       "arbitro": null,
-      "local": "Racing Santander II",
+      "local": "Racing Santander B",
       "visitante": "Gimnástica Torrelavega",
       "escudo_local": "https://media.api-sports.io/football/teams/9643.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/5264.png"
@@ -46,7 +46,7 @@
       "jornada": "Group 1 - 11",
       "arbitro": null,
       "local": "Amorebieta",
-      "visitante": "Eibar II",
+      "visitante": "Eibar B",
       "escudo_local": "https://media.api-sports.io/football/teams/9380.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/24572.png"
     },
@@ -80,10 +80,10 @@
     {
       "id": 1572128,
       "slug": "2026-11-14-racing-santander-ii-gimnastica-torrelavega",
-      "titular": "El Racing Santander II recibe a la Gimnástica Torrelavega",
-      "entradilla": "El Racing Santander II y la Gimnástica Torrelavega se miden en la jornada 11 del Grupo 1 de Segunda Federación.",
+      "titular": "El Racing Santander B recibe a la Gimnástica Torrelavega",
+      "entradilla": "El Racing Santander B y la Gimnástica Torrelavega se miden en la jornada 11 del Grupo 1 de Segunda Federación.",
       "parrafos": [
-        "El Racing Santander II y la Gimnástica Torrelavega juegan este sábado 14 de noviembre, a las 15:30, en partido de la jornada 11 del Grupo 1 de Segunda Federación."
+        "El Racing Santander B y la Gimnástica Torrelavega juegan este sábado 14 de noviembre, a las 15:30, en partido de la jornada 11 del Grupo 1 de Segunda Federación."
       ],
       "precedente": "",
       "claves": []
@@ -91,10 +91,10 @@
     {
       "id": 1572120,
       "slug": "2026-11-14-amorebieta-eibar-ii",
-      "titular": "El Amorebieta recibe al Eibar II en Urritxe",
-      "entradilla": "El Amorebieta y el Eibar II se enfrentan en el Campo Municipal de Urritxe en la jornada 11.",
+      "titular": "El Amorebieta recibe al Eibar B en Urritxe",
+      "entradilla": "El Amorebieta y el Eibar B se enfrentan en el Campo Municipal de Urritxe en la jornada 11.",
       "parrafos": [
-        "El Amorebieta recibe al Eibar II este sábado 14 de noviembre, a las 16:00, en el Campo Municipal de Urritxe, en Amorebieta-Etxano. El partido corresponde a la jornada 11 del Grupo 1 de Segunda Federación."
+        "El Amorebieta recibe al Eibar B este sábado 14 de noviembre, a las 16:00, en el Campo Municipal de Urritxe, en Amorebieta-Etxano. El partido corresponde a la jornada 11 del Grupo 1 de Segunda Federación."
       ],
       "precedente": "",
       "claves": []

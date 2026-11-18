@@ -30,7 +30,7 @@
           "estadio": null,
           "jornada": "Group 5 - 11",
           "local": "Salamanca UDS",
-          "visitante": "Albacete II",
+          "visitante": "Albacete B",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -75,7 +75,7 @@
           "fecha": "2026-11-18T18:00:00+01:00",
           "estadio": null,
           "jornada": "Group 13 - 7",
-          "local": "Cartagena LU II",
+          "local": "Cartagena LU B",
           "visitante": "Santomera",
           "goles_local": null,
           "goles_visitante": null
@@ -125,8 +125,8 @@
           "fecha": "2026-11-18T20:30:00+01:00",
           "estadio": null,
           "jornada": "Group 13 - 7",
-          "local": "Águilas II",
-          "visitante": "UCAM Murcia II",
+          "local": "Águilas B",
+          "visitante": "UCAM Murcia B",
           "goles_local": null,
           "goles_visitante": null
         },
@@ -214,7 +214,7 @@
           "estadio": null,
           "jornada": "Group 6 - 7",
           "local": "Buñol",
-          "visitante": "Hércules II",
+          "visitante": "Hércules B",
           "goles_local": null,
           "goles_visitante": null
         }

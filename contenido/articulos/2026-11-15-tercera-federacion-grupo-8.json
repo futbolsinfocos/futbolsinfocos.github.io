@@ -7,7 +7,7 @@
   "prioridad": 2,
   "titular": "Almazán gana 0-1 en el campo del Calasanz de Soria",
   "entradilla": "El conjunto visitante se impone al Calasanz de Soria con el único gol del encuentro, correspondiente a la undécima jornada del Grupo 8 de Tercera Federación.",
-  "cuerpo_markdown": "La undécima jornada del Grupo 8 de Tercera Federación deja una victoria visitante en Soria. El Almazán se impone 0-1 al Calasanz de Soria con el único gol del partido.\n\n### Calasanz de Soria 0-1 Almazán\n\nEl Almazán se lleva los tres puntos tras imponerse por 0-1 al Calasanz de Soria. Los datos disponibles no incluyen el autor del gol ni el minuto en que llegó.\n\n### Clasificación\n\nEn la cabeza, la UD Santa Marta suma 26 puntos, por delante del Cristo Atlético (24) y del Burgos Promesas (21). En la parte baja, el Mirandés II es colista con 4 puntos, seguido del Salamanca II (5) y del Colegios Diocesanos (6). El Calasanz de Soria, con 7 puntos, sale de los puestos de descenso en la tabla de esta jornada y ocupa la posición 15.",
+  "cuerpo_markdown": "La undécima jornada del Grupo 8 de Tercera Federación deja una victoria visitante en Soria. El Almazán se impone 0-1 al Calasanz de Soria con el único gol del partido.\n\n### Calasanz de Soria 0-1 Almazán\n\nEl Almazán se lleva los tres puntos tras imponerse por 0-1 al Calasanz de Soria. Los datos disponibles no incluyen el autor del gol ni el minuto en que llegó.\n\n### Clasificación\n\nEn la cabeza, la UD Santa Marta suma 26 puntos, por delante del Cristo Atlético (24) y del Burgos Promesas (21). En la parte baja, el Mirandés B es colista con 4 puntos, seguido del Salamanca B (5) y del Colegios Diocesanos (6). El Calasanz de Soria, con 7 puntos, sale de los puestos de descenso en la tabla de esta jornada y ocupa la posición 15.",
   "texto_instagram": "Almazán se impone 0-1 al Calasanz de Soria en la jornada 11 del Grupo 8 de Tercera Federación ⚽\nCalasanz de Soria 0-1 Almazán",
   "hashtags": [
     "#TerceraFederación",
@@ -63,7 +63,7 @@
     },
     {
       "pos": 4,
-      "equipo": "Cultural Leonesa II",
+      "equipo": "Cultural Leonesa B",
       "pts": 21,
       "pj": 10,
       "dg": 8
@@ -133,7 +133,7 @@
     },
     {
       "pos": 14,
-      "equipo": "Unionistas II",
+      "equipo": "Unionistas B",
       "pts": 11,
       "pj": 11,
       "dg": -5
@@ -154,14 +154,14 @@
     },
     {
       "pos": 17,
-      "equipo": "Salamanca II",
+      "equipo": "Salamanca B",
       "pts": 5,
       "pj": 11,
       "dg": -18
     },
     {
       "pos": 18,
-      "equipo": "Mirandés II",
+      "equipo": "Mirandés B",
       "pts": 4,
       "pj": 11,
       "dg": -10
