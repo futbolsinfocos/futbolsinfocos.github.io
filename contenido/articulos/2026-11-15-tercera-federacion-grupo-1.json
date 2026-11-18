@@ -7,8 +7,8 @@
   "prioridad": 2,
   "titular": "Somozas y Antela golean al Estradense y al Sarriana en una jornada de remontadas en Tercera",
   "entradilla": "El Grupo 1 de Tercera RFEF suma siete partidos con dos victorias por dos goles de diferencia y una del Antela ante el Sarriana. Boiro, líder, gana en Barco.",
-  "cuerpo_markdown": "La jornada 11 del Grupo 1 de Tercera Federación deja siete partidos, todos con goles menos el empate sin tantos entre Arenteiro y Villalbés. Somozas se impone 3-1 al Estradense y Antela vence 3-2 al Sarriana en un duelo de equipos de la zona media-alta.\n\n**Somozas 3-1 Estradense**\n\nEl Somozas se impone con claridad a un Estradense que queda en la parte media de la tabla tras la derrota.\n\n**Antela 3-2 Sarriana**\n\nEl Antela gana por la mínima diferencia de un gol en un partido con dos goles visitantes y el resultado final de 3-2.\n\n**Barco 2-1 Boiro**\n\nEl Boiro, líder con 23 puntos, cae en Barco ante un rival que sube al tercer puesto con 19 puntos.\n\n**Clasificación**\n\nEn la cabeza, Boiro (23 puntos), Silva (20) y Barco (19). En la cola, Celta de Vigo III y Arenteiro (11 puntos cada uno), Coruña (9) y Viveiro (8), que cierra la tabla.",
-  "texto_instagram": "Jornada 11 en el Grupo 1 de Tercera Federación: Somozas y Antela golean, y el Boiro, líder, cae en Barco. ⚽🔥\n\nArenteiro 0-0 Villalbés\nCelta de Vigo III 2-1 Viveiro\nSilva 2-1 Alondras\nPontevedra II 2-0 Atlético Arteixo\nAntela 3-2 Sarriana\nSomozas 3-1 Estradense\nBarco 2-1 Boiro",
+  "cuerpo_markdown": "La jornada 11 del Grupo 1 de Tercera Federación deja siete partidos, todos con goles menos el empate sin tantos entre Arenteiro y Villalbés. Somozas se impone 3-1 al Estradense y Antela vence 3-2 al Sarriana en un duelo de equipos de la zona media-alta.\n\n**Somozas 3-1 Estradense**\n\nEl Somozas se impone con claridad a un Estradense que queda en la parte media de la tabla tras la derrota.\n\n**Antela 3-2 Sarriana**\n\nEl Antela gana por la mínima diferencia de un gol en un partido con dos goles visitantes y el resultado final de 3-2.\n\n**Barco 2-1 Boiro**\n\nEl Boiro, líder con 23 puntos, cae en Barco ante un rival que sube al tercer puesto con 19 puntos.\n\n**Clasificación**\n\nEn la cabeza, Boiro (23 puntos), Silva (20) y Barco (19). En la cola, Celta de Vigo C y Arenteiro (11 puntos cada uno), Coruña (9) y Viveiro (8), que cierra la tabla.",
+  "texto_instagram": "Jornada 11 en el Grupo 1 de Tercera Federación: Somozas y Antela golean, y el Boiro, líder, cae en Barco. ⚽🔥\n\nArenteiro 0-0 Villalbés\nCelta de Vigo C 2-1 Viveiro\nSilva 2-1 Alondras\nPontevedra B 2-0 Atlético Arteixo\nAntela 3-2 Sarriana\nSomozas 3-1 Estradense\nBarco 2-1 Boiro",
   "hashtags": [
     "#TerceraFederacion",
     "#Grupo1",
@@ -47,7 +47,7 @@
       "arbitro": null,
       "jornada": "Group 1 - 11",
       "liga_id": 439,
-      "local": "Celta de Vigo III",
+      "local": "Celta de Vigo C",
       "visitante": "Viveiro",
       "escudo_local": "https://media.api-sports.io/football/teams/20255.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/15307.png",
@@ -79,7 +79,7 @@
       "arbitro": null,
       "jornada": "Group 1 - 11",
       "liga_id": 439,
-      "local": "Pontevedra II",
+      "local": "Pontevedra B",
       "visitante": "Atlético Arteixo",
       "escudo_local": "https://media.api-sports.io/football/teams/22129.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/19650.png",
@@ -174,7 +174,7 @@
     },
     {
       "pos": 6,
-      "equipo": "Pontevedra II",
+      "equipo": "Pontevedra B",
       "pts": 16,
       "pj": 11,
       "dg": 4
@@ -237,7 +237,7 @@
     },
     {
       "pos": 15,
-      "equipo": "Celta de Vigo III",
+      "equipo": "Celta de Vigo C",
       "pts": 11,
       "pj": 11,
       "dg": -4

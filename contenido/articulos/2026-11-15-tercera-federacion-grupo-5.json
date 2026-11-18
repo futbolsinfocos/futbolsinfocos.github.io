@@ -8,7 +8,7 @@
   "titular": "Grama golea al Mollerussa y Cornellà vence a L'Escala en la Jornada 11 del Grupo 5",
   "entradilla": "La undécima jornada del Grupo 5 de Tercera Federación deja goleadas y victorias de los equipos de la zona alta. El Montañesa y el Grama sumaron a domicilio y el Cornellà se impuso con claridad.",
   "cuerpo_markdown": "La Jornada 11 del Grupo 5 de Tercera Federación deja resultados claros en varios encuentros. El Grama se impuso por 3-0 al Mollerussa, el Montañesa ganó 2-0 en Vilanova y el Cornellà venció 3-1 a L'Escala en el Nou Municipal de Cornella de Llobregat.\n\n### Mollerussa 0-3 Grama\n\nEl Grama viajó a Mollerussa y se llevó los tres puntos con un marcador de 0-3. Los datos disponibles no recogen los goleadores ni sus minutos.\n\n### Vilanova 0-2 Montañesa\n\nEl Montañesa es líder con 20 puntos y ganó en Vilanova por 2-0. No hay datos de goleadores ni de minutos para este encuentro.\n\n### Cornellà 3-1 L'Escala\n\nEl Cornellà goleó a L'Escala por 3-1 en el Nou Municipal de Cornella de Llobregat. No constan los goleadores ni los minutos de los goles.\n\n### Clasificación\n\nEn la cabeza, el Montañesa lidera con 20 puntos, seguido del Cerdanyola del Vallès con 19 y el Vilanova con 19. En la parte baja, el San Cristóbal ocupa la última posición con 8 puntos y 18 goles en contra de diferencia, por delante del L'Escala con 9 puntos y el Mollerussa con 11.",
-  "texto_instagram": "Jornada 11 del Grupo 5 de Tercera Federación 🟢. El Grama goleó 3-0 al Mollerussa y el Montañesa ganó 2-0 en Vilanova 🏆.\n\nTona 2-0 Vilassar Mar\nCerdanyola del Vallès 2-1 San Cristóbal\nVilanova 0-2 Montañesa\nL'Hospitalet 1-0 Europa II\nMollerussa 0-3 Grama\nPobla Mafumet 2-0 San Juan Atletico de Montcada\nCornellà 3-1 L'Escala\nPeralada 1-0 Badalona",
+  "texto_instagram": "Jornada 11 del Grupo 5 de Tercera Federación 🟢. El Grama goleó 3-0 al Mollerussa y el Montañesa ganó 2-0 en Vilanova 🏆.\n\nTona 2-0 Vilassar Mar\nCerdanyola del Vallès 2-1 San Cristóbal\nVilanova 0-2 Montañesa\nL'Hospitalet 1-0 Europa B\nMollerussa 0-3 Grama\nPobla Mafumet 2-0 San Juan Atletico de Montcada\nCornellà 3-1 L'Escala\nPeralada 1-0 Badalona",
   "hashtags": [
     "#TerceraFederacion",
     "#Grupo5",
@@ -81,7 +81,7 @@
       "jornada": "Group 5 - 11",
       "liga_id": 443,
       "local": "L'Hospitalet",
-      "visitante": "Europa II",
+      "visitante": "Europa B",
       "escudo_local": "https://media.api-sports.io/football/teams/9392.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/24575.png",
       "goles_local": 1,
@@ -191,7 +191,7 @@
     },
     {
       "pos": 6,
-      "equipo": "Europa II",
+      "equipo": "Europa B",
       "pts": 17,
       "pj": 11,
       "dg": 7

@@ -7,8 +7,8 @@
   "prioridad": 1,
   "titular": "Badajoz gana el derbi a Don Benito y se pega al Recreativo en la Jornada 11",
   "entradilla": "Siete partidos y 25 goles en la Jornada 11 del Grupo 4 de Segunda Federación. Badajoz vence 2-1 a Don Benito y ambos quedan a un punto del líder, el Recreativo Huelva, que tiene un partido menos.",
-  "cuerpo_markdown": "Jornada de goles en el Grupo 4. Se marcaron 25 tantos en siete partidos, con dos encuentros de siete goles: el 4-3 de Las Palmas II ante Ciudad de Lucena y el 3-4 del Estepona en el campo del Mijas Las Lagunas. Ganaron también Puente Genil, Linares Deportivo, Marbella y Xerez.\n\n## Badajoz 2-1 Don Benito\n\nEl duelo de la jornada lo resolvió el Badajoz. Su victoria por 2-1 le iguala a 20 puntos con Don Benito, que conserva la segunda plaza por delante de su rival. Los dos quedan a un punto del Recreativo Huelva, que suma 21 con un partido menos.\n\n## Las Palmas II 4-3 Ciudad de Lucena\n\nTriunfo de mucho valor para el filial amarillo, que ganaba a un rival de la zona alta en un choque de siete goles. Las Palmas II sube a 8 puntos, aunque sigue en zona baja, en la decimosexta posición. Ciudad de Lucena se queda cuarto con 19.\n\n## Mijas Las Lagunas 3-4 Estepona\n\nOtro partido de siete goles. El Estepona se llevó los tres puntos y alcanza los 18, séptimo. Mijas Las Lagunas se queda noveno con 15.\n\n## El resto de la jornada\n\nEl Xerez se impuso 2-0 al Antoniano y es quinto con 18 puntos. Puente Genil ganó por el mismo resultado al Atlético Central. El Linares Deportivo asaltó el campo del Tenerife II (1-2) y el Marbella ganó 0-1 en casa del Tamaraceite.\n\n## Clasificación\n\n1. Recreativo Huelva: 21 puntos (10 PJ)\n2. Don Benito: 20 puntos (11 PJ)\n3. Badajoz: 20 puntos (11 PJ)\n\nEl Tamaraceite es colista con 6 puntos, empatado con el Antoniano, y presenta la peor diferencia de goles del grupo (-16).",
-  "texto_instagram": "⚽ El Badajoz gana a Don Benito y ambos se quedan a un punto del líder, el Recreativo Huelva. Jornada con 25 goles en el Grupo 4 de Segunda Federación 🔥\n\nPuente Genil 2-0 Atlético Central\nTenerife II 1-2 Linares Deportivo\nLas Palmas II 4-3 Ciudad de Lucena\nTamaraceite 0-1 Marbella\nBadajoz 2-1 Don Benito\nMijas Las Lagunas 3-4 Estepona\nXerez 2-0 Antoniano\n\n📊 Líder: Recreativo Huelva (21 pts)",
+  "cuerpo_markdown": "Jornada de goles en el Grupo 4. Se marcaron 25 tantos en siete partidos, con dos encuentros de siete goles: el 4-3 de Las Palmas B ante Ciudad de Lucena y el 3-4 del Estepona en el campo del Mijas Las Lagunas. Ganaron también Puente Genil, Linares Deportivo, Marbella y Xerez.\n\n## Badajoz 2-1 Don Benito\n\nEl duelo de la jornada lo resolvió el Badajoz. Su victoria por 2-1 le iguala a 20 puntos con Don Benito, que conserva la segunda plaza por delante de su rival. Los dos quedan a un punto del Recreativo Huelva, que suma 21 con un partido menos.\n\n## Las Palmas B 4-3 Ciudad de Lucena\n\nTriunfo de mucho valor para el filial amarillo, que ganaba a un rival de la zona alta en un choque de siete goles. Las Palmas B sube a 8 puntos, aunque sigue en zona baja, en la decimosexta posición. Ciudad de Lucena se queda cuarto con 19.\n\n## Mijas Las Lagunas 3-4 Estepona\n\nOtro partido de siete goles. El Estepona se llevó los tres puntos y alcanza los 18, séptimo. Mijas Las Lagunas se queda noveno con 15.\n\n## El resto de la jornada\n\nEl Xerez se impuso 2-0 al Antoniano y es quinto con 18 puntos. Puente Genil ganó por el mismo resultado al Atlético Central. El Linares Deportivo asaltó el campo del Tenerife B (1-2) y el Marbella ganó 0-1 en casa del Tamaraceite.\n\n## Clasificación\n\n1. Recreativo Huelva: 21 puntos (10 PJ)\n2. Don Benito: 20 puntos (11 PJ)\n3. Badajoz: 20 puntos (11 PJ)\n\nEl Tamaraceite es colista con 6 puntos, empatado con el Antoniano, y presenta la peor diferencia de goles del grupo (-16).",
+  "texto_instagram": "⚽ El Badajoz gana a Don Benito y ambos se quedan a un punto del líder, el Recreativo Huelva. Jornada con 25 goles en el Grupo 4 de Segunda Federación 🔥\n\nPuente Genil 2-0 Atlético Central\nTenerife B 1-2 Linares Deportivo\nLas Palmas B 4-3 Ciudad de Lucena\nTamaraceite 0-1 Marbella\nBadajoz 2-1 Don Benito\nMijas Las Lagunas 3-4 Estepona\nXerez 2-0 Antoniano\n\n📊 Líder: Recreativo Huelva (21 pts)",
   "hashtags": [
     "#SegundaFederacion",
     "#2RFEF",
@@ -51,7 +51,7 @@
       "arbitro": null,
       "jornada": "Group 4 - 11",
       "liga_id": 878,
-      "local": "Tenerife II",
+      "local": "Tenerife B",
       "visitante": "Linares Deportivo",
       "escudo_local": "https://media.api-sports.io/football/teams/9802.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9398.png",
@@ -67,7 +67,7 @@
       "arbitro": null,
       "jornada": "Group 4 - 11",
       "liga_id": 878,
-      "local": "Las Palmas II",
+      "local": "Las Palmas B",
       "visitante": "Ciudad de Lucena",
       "escudo_local": "https://media.api-sports.io/football/teams/9574.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9756.png",
@@ -178,7 +178,7 @@
     },
     {
       "pos": 6,
-      "equipo": "Real Betis II",
+      "equipo": "Real Betis B",
       "pts": 18,
       "pj": 10,
       "dg": 6
@@ -241,14 +241,14 @@
     },
     {
       "pos": 15,
-      "equipo": "Tenerife II",
+      "equipo": "Tenerife B",
       "pts": 10,
       "pj": 10,
       "dg": -4
     },
     {
       "pos": 16,
-      "equipo": "Las Palmas II",
+      "equipo": "Las Palmas B",
       "pts": 8,
       "pj": 11,
       "dg": -12

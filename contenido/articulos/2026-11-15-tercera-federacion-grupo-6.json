@@ -5,10 +5,10 @@
   "competicion": "Tercera Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "Levante II golea al Eldense B y se mete segundo; Ontinyent y Atzeneta firman un duelo de goles",
-  "entradilla": "El Levante II se impuso 2-0 al Eldense B en la Jornada 11 del Grupo 6 de Tercera Federación. En Ontinyent, el Atzeneta ganó 3-2, mientras que Utiel y SC Torrevieja empataron sin goles.",
-  "cuerpo_markdown": "La Jornada 11 del Grupo 6 de Tercera Federación dejó victorias para Levante II y Atzeneta, y un empate sin goles entre Utiel y SC Torrevieja.\n\n### Levante II 2-0 Eldense B\n\nEl Levante II venció al Eldense B por 2-0. El partido no tiene goleadores registrados en los datos disponibles.\n\n### Ontinyent 1931 2-3 Atzeneta\n\nEl Atzeneta se llevó el triunfo por 3-2 en su visita al Ontinyent 1931. Los goleadores y sus minutos no constan en los datos disponibles.\n\n### Utiel 0-0 SC Torrevieja\n\nUtiel y SC Torrevieja empataron sin goles en un partido sin goles registrados.\n\n### Clasificación\n\nEn la parte alta, el Villarreal III lidera con 24 puntos, seguido del Levante II, con 22, y el Hércules II, con 19.\n\nEn la parte baja, el SC Torrevieja ocupa la posición 17 con 9 puntos, y el Soneja es colista con 8 puntos.",
-  "texto_instagram": "Levante II golea al Eldense B y el Atzeneta gana 3-2 en Ontinyent en la Jornada 11 de Tercera Federación ⚽\n\nLevante II 2-0 Eldense B\nOntinyent 1931 2-3 Atzeneta\nUtiel 0-0 SC Torrevieja",
+  "titular": "Levante B golea al Eldense B y se mete segundo; Ontinyent y Atzeneta firman un duelo de goles",
+  "entradilla": "El Levante B se impuso 2-0 al Eldense B en la Jornada 11 del Grupo 6 de Tercera Federación. En Ontinyent, el Atzeneta ganó 3-2, mientras que Utiel y SC Torrevieja empataron sin goles.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 6 de Tercera Federación dejó victorias para Levante B y Atzeneta, y un empate sin goles entre Utiel y SC Torrevieja.\n\n### Levante B 2-0 Eldense B\n\nEl Levante B venció al Eldense B por 2-0. El partido no tiene goleadores registrados en los datos disponibles.\n\n### Ontinyent 1931 2-3 Atzeneta\n\nEl Atzeneta se llevó el triunfo por 3-2 en su visita al Ontinyent 1931. Los goleadores y sus minutos no constan en los datos disponibles.\n\n### Utiel 0-0 SC Torrevieja\n\nUtiel y SC Torrevieja empataron sin goles en un partido sin goles registrados.\n\n### Clasificación\n\nEn la parte alta, el Villarreal C lidera con 24 puntos, seguido del Levante B, con 22, y el Hércules B, con 19.\n\nEn la parte baja, el SC Torrevieja ocupa la posición 17 con 9 puntos, y el Soneja es colista con 8 puntos.",
+  "texto_instagram": "Levante B golea al Eldense B y el Atzeneta gana 3-2 en Ontinyent en la Jornada 11 de Tercera Federación ⚽\n\nLevante B 2-0 Eldense B\nOntinyent 1931 2-3 Atzeneta\nUtiel 0-0 SC Torrevieja",
   "hashtags": [
     "#TerceraFederación",
     "#Grupo6",
@@ -33,7 +33,7 @@
       "arbitro": null,
       "jornada": "Group 6 - 11",
       "liga_id": 444,
-      "local": "Levante II",
+      "local": "Levante B",
       "visitante": "Eldense B",
       "escudo_local": "https://media.api-sports.io/football/teams/9591.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/28103.png",
@@ -77,21 +77,21 @@
   "clasificacion": [
     {
       "pos": 1,
-      "equipo": "Villarreal III",
+      "equipo": "Villarreal C",
       "pts": 24,
       "pj": 11,
       "dg": 7
     },
     {
       "pos": 2,
-      "equipo": "Levante II",
+      "equipo": "Levante B",
       "pts": 22,
       "pj": 11,
       "dg": 13
     },
     {
       "pos": 3,
-      "equipo": "Hércules II",
+      "equipo": "Hércules B",
       "pts": 19,
       "pj": 10,
       "dg": 6

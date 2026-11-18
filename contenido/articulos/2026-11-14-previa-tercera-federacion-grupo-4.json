@@ -7,9 +7,9 @@
   "grupo": "espana",
   "prioridad": 3,
   "titular": "Cinco partidos de la jornada 11 de Tercera Federación, Grupo 4, este sábado",
-  "entradilla": "La jornada 11 del Grupo 4 de Tercera Federación reúne hoy cinco partidos entre las 16:00 y las 17:00. El Eibar III recibe al Derio en Ipurua.",
-  "cuerpo_markdown": "## Deportivo Alavés III - Aretxabaleta\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nDeportivo Alavés III y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-alaves-iii-aretxabaleta.html)\n\n## Eibar III - Derio\n\n<p class=\"ficha\"><b>16:00</b> · Estadio Municipal de Ipurua (Eibar) · Jornada 11</p>\n\nEibar III y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.\n\n[Leer la previa completa →](../previas/2026-11-14-eibar-iii-derio.html)\n\n## Touring - Pasaia KE\n\n<p class=\"ficha\"><b>16:30</b> · Jornada 11</p>\n\nTouring y Pasaia KE se miden este sábado a las 16:30 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-touring-pasaia-ke.html)\n\n## Erandio - San Ignacio\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nErandio y San Ignacio juegan este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-erandio-san-ignacio.html)\n\n## Sodupe - Santurtzi\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nSodupe y Santurtzi se miden este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-sodupe-santurtzi.html)",
-  "texto_instagram": "⚽ Jornada 11 de Tercera Federación, Grupo 4. Cinco partidos este sábado, entre las 16:00 y las 17:00. El Eibar III recibe al Derio en Ipurua.\n\n16:00 Deportivo Alavés III - Aretxabaleta\n16:00 Eibar III - Derio\n16:30 Touring - Pasaia KE\n17:00 Erandio - San Ignacio\n17:00 Sodupe - Santurtzi",
+  "entradilla": "La jornada 11 del Grupo 4 de Tercera Federación reúne hoy cinco partidos entre las 16:00 y las 17:00. El Eibar C recibe al Derio en Ipurua.",
+  "cuerpo_markdown": "## Deportivo Alavés C - Aretxabaleta\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 11</p>\n\nDeportivo Alavés C y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-deportivo-alaves-iii-aretxabaleta.html)\n\n## Eibar C - Derio\n\n<p class=\"ficha\"><b>16:00</b> · Estadio Municipal de Ipurua (Eibar) · Jornada 11</p>\n\nEibar C y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.\n\n[Leer la previa completa →](../previas/2026-11-14-eibar-iii-derio.html)\n\n## Touring - Pasaia KE\n\n<p class=\"ficha\"><b>16:30</b> · Jornada 11</p>\n\nTouring y Pasaia KE se miden este sábado a las 16:30 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-touring-pasaia-ke.html)\n\n## Erandio - San Ignacio\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nErandio y San Ignacio juegan este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-erandio-san-ignacio.html)\n\n## Sodupe - Santurtzi\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 11</p>\n\nSodupe y Santurtzi se miden este sábado a las 17:00 en el Grupo 4 de Tercera Federación.\n\n[Leer la previa completa →](../previas/2026-11-14-sodupe-santurtzi.html)",
+  "texto_instagram": "⚽ Jornada 11 de Tercera Federación, Grupo 4. Cinco partidos este sábado, entre las 16:00 y las 17:00. El Eibar C recibe al Derio en Ipurua.\n\n16:00 Deportivo Alavés C - Aretxabaleta\n16:00 Eibar C - Derio\n16:30 Touring - Pasaia KE\n17:00 Erandio - San Ignacio\n17:00 Sodupe - Santurtzi",
   "hashtags": [
     "#TerceraFederacion",
     "#Grupo4",
@@ -30,7 +30,7 @@
       "ciudad": null,
       "jornada": "Group 4 - 11",
       "arbitro": null,
-      "local": "Deportivo Alavés III",
+      "local": "Deportivo Alavés C",
       "visitante": "Aretxabaleta",
       "escudo_local": "https://media.api-sports.io/football/teams/22134.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/24571.png"
@@ -42,7 +42,7 @@
       "ciudad": "Eibar",
       "jornada": "Group 4 - 11",
       "arbitro": null,
-      "local": "Eibar III",
+      "local": "Eibar C",
       "visitante": "Derio",
       "escudo_local": "https://media.api-sports.io/football/teams/25023.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/22135.png"
@@ -89,10 +89,10 @@
     {
       "id": 1613711,
       "slug": "2026-11-14-deportivo-alaves-iii-aretxabaleta",
-      "titular": "El Deportivo Alavés III recibe al Aretxabaleta en la jornada 11",
-      "entradilla": "Deportivo Alavés III y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.",
+      "titular": "El Deportivo Alavés C recibe al Aretxabaleta en la jornada 11",
+      "entradilla": "Deportivo Alavés C y Aretxabaleta se miden este sábado a las 16:00 en la jornada 11 del Grupo 4 de Tercera Federación.",
       "parrafos": [
-        "El Deportivo Alavés III y el Aretxabaleta juegan este sábado 14 de noviembre, a las 16:00, el partido correspondiente a la jornada 11 del Grupo 4 de Tercera Federación."
+        "El Deportivo Alavés C y el Aretxabaleta juegan este sábado 14 de noviembre, a las 16:00, el partido correspondiente a la jornada 11 del Grupo 4 de Tercera Federación."
       ],
       "precedente": "",
       "claves": []
@@ -100,10 +100,10 @@
     {
       "id": 1613714,
       "slug": "2026-11-14-eibar-iii-derio",
-      "titular": "El Eibar III y el Derio se enfrentan en Ipurua",
-      "entradilla": "Eibar III y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.",
+      "titular": "El Eibar C y el Derio se enfrentan en Ipurua",
+      "entradilla": "Eibar C y Derio juegan este sábado a las 16:00 en el Estadio Municipal de Ipurua, en la jornada 11 del Grupo 4.",
       "parrafos": [
-        "El Eibar III recibe al Derio este sábado 14 de noviembre, a las 16:00, en el Estadio Municipal de Ipurua, en Eibar. El partido corresponde a la jornada 11 del Grupo 4 de Tercera Federación."
+        "El Eibar C recibe al Derio este sábado 14 de noviembre, a las 16:00, en el Estadio Municipal de Ipurua, en Eibar. El partido corresponde a la jornada 11 del Grupo 4 de Tercera Federación."
       ],
       "precedente": "",
       "claves": []

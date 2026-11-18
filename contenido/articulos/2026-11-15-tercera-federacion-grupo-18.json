@@ -5,10 +5,10 @@
   "competicion": "Tercera Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "Huracán Balazote golea al Guadalajara II y San Clemente remonta al Illescas en la Tercera Federación",
+  "titular": "Huracán Balazote golea al Guadalajara B y San Clemente remonta al Illescas en la Tercera Federación",
   "entradilla": "La Jornada 11 del Grupo 18 deja una goleada en Balazote y una remontada en San Clemente. Manchego sigue líder con 27 puntos.",
-  "cuerpo_markdown": "La Jornada 11 del Grupo 18 de Tercera Federación deja una goleada del Huracán Balazote al Guadalajara II y una victoria de San Clemente por 2-1 ante el Illescas. Almansa venció 1-0 al Torrijos y Villacañas 1-0 al Tarancón. Toledo y Villarrobledo empataron 1-1.\n\n## Partido destacado\n\n**Huracán Balazote 3-0 Guadalajara II.** El conjunto local impuso su superioridad y cerró el partido con tres goles. La clasificación sitúa al Huracán Balazote en el puesto 16, con 10 puntos, y al Guadalajara II en el último lugar, con 3 puntos.\n\n## Resto de partidos\n\n**San Clemente 2-1 Illescas.** San Clemente se impuso por 2-1 a Illescas.\n\n**Almansa 1-0 Torrijos.** Almansa ganó por 1-0 al Torrijos.\n\n**Toledo 1-1 Villarrobledo.** Reparto de puntos en el Toledo-Villarrobledo.\n\n**Villacañas 1-0 Tarancón.** Villacañas se impuso por 1-0 al Tarancón.\n\n## Clasificación\n\nEn lo alto, Manchego lidera con 27 puntos, seguido de Toledo con 23 y Villacañas con 21. En la parte baja, Guadalajara II ocupa la última posición con 3 puntos, por detrás de Quintanar del Rey, con 7.",
-  "texto_instagram": "Huracán Balazote golea 3-0 al Guadalajara II y San Clemente remonta al Illescas en la Jornada 11 del Grupo 18 ⚽🏆\n\nHuracán Balazote 3-0 Guadalajara II\nSan Clemente 2-1 Illescas\nAlmansa 1-0 Torrijos\nToledo 1-1 Villarrobledo\nVillacañas 1-0 Tarancón",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 18 de Tercera Federación deja una goleada del Huracán Balazote al Guadalajara B y una victoria de San Clemente por 2-1 ante el Illescas. Almansa venció 1-0 al Torrijos y Villacañas 1-0 al Tarancón. Toledo y Villarrobledo empataron 1-1.\n\n## Partido destacado\n\n**Huracán Balazote 3-0 Guadalajara B.** El conjunto local impuso su superioridad y cerró el partido con tres goles. La clasificación sitúa al Huracán Balazote en el puesto 16, con 10 puntos, y al Guadalajara B en el último lugar, con 3 puntos.\n\n## Resto de partidos\n\n**San Clemente 2-1 Illescas.** San Clemente se impuso por 2-1 a Illescas.\n\n**Almansa 1-0 Torrijos.** Almansa ganó por 1-0 al Torrijos.\n\n**Toledo 1-1 Villarrobledo.** Reparto de puntos en el Toledo-Villarrobledo.\n\n**Villacañas 1-0 Tarancón.** Villacañas se impuso por 1-0 al Tarancón.\n\n## Clasificación\n\nEn lo alto, Manchego lidera con 27 puntos, seguido de Toledo con 23 y Villacañas con 21. En la parte baja, Guadalajara B ocupa la última posición con 3 puntos, por detrás de Quintanar del Rey, con 7.",
+  "texto_instagram": "Huracán Balazote golea 3-0 al Guadalajara B y San Clemente remonta al Illescas en la Jornada 11 del Grupo 18 ⚽🏆\n\nHuracán Balazote 3-0 Guadalajara B\nSan Clemente 2-1 Illescas\nAlmansa 1-0 Torrijos\nToledo 1-1 Villarrobledo\nVillacañas 1-0 Tarancón",
   "hashtags": [
     "#TerceraFederación",
     "#Grupo18",
@@ -103,7 +103,7 @@
       "jornada": "Group 18 - 11",
       "liga_id": 456,
       "local": "Huracán Balazote",
-      "visitante": "Guadalajara II",
+      "visitante": "Guadalajara B",
       "escudo_local": "https://media.api-sports.io/football/teams/15330.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/26555.png",
       "goles_local": 3,
@@ -233,7 +233,7 @@
     },
     {
       "pos": 18,
-      "equipo": "Guadalajara II",
+      "equipo": "Guadalajara B",
       "pts": 3,
       "pj": 11,
       "dg": -18

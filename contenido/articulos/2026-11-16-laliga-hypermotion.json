@@ -5,10 +5,10 @@
   "competicion": "LaLiga Hypermotion",
   "grupo": "espana",
   "prioridad": 3,
-  "titular": "El Albacete golea... no: el Albacete vence 1-0 al Celta de Vigo II en el Carlos Belmonte",
-  "entradilla": "El Albacete suma tres puntos ante el Celta de Vigo II con un 1-0 en el Carlos Belmonte. El partido se decidió sin goles de visitante.",
-  "cuerpo_markdown": "El Albacete se impone 1-0 al Celta de Vigo II en la jornada 14 de LaLiga Hypermotion, en un partido disputado en el Carlos Belmonte.\n\n## Albacete 1-0 Celta de Vigo II\n\nEl conjunto local se llevó el partido por 1-0 ante el Celta de Vigo II. El encuentro, que arbitró Eder Mallo Fernandez, se jugó el 16 de noviembre a las 20:30 horas.\n\n## Clasificación\n\nEn la cabeza, el Almería lidera con 32 puntos, seguido del Castellón (30) y el Granada CF (26).\n\nEn la zona baja, el Ceuta cierra la tabla con 5 puntos y una diferencia de goles de -22. El Albacete, con 13 puntos, ocupa la posición 19, y el Celta de Vigo II la 17.",
-  "texto_instagram": "Jornada 14 de LaLiga Hypermotion. 🔵⚽\n\nAlbacete 1-0 Celta de Vigo II, en el Carlos Belmonte. Sin goleadores registrados en los datos recibidos.\n\n🏆 Almería lidera con 32 puntos. 📍 Ceuta cierra con 5.",
+  "titular": "El Albacete golea... no: el Albacete vence 1-0 al Celta de Vigo B en el Carlos Belmonte",
+  "entradilla": "El Albacete suma tres puntos ante el Celta de Vigo B con un 1-0 en el Carlos Belmonte. El partido se decidió sin goles de visitante.",
+  "cuerpo_markdown": "El Albacete se impone 1-0 al Celta de Vigo B en la jornada 14 de LaLiga Hypermotion, en un partido disputado en el Carlos Belmonte.\n\n## Albacete 1-0 Celta de Vigo B\n\nEl conjunto local se llevó el partido por 1-0 ante el Celta de Vigo B. El encuentro, que arbitró Eder Mallo Fernandez, se jugó el 16 de noviembre a las 20:30 horas.\n\n## Clasificación\n\nEn la cabeza, el Almería lidera con 32 puntos, seguido del Castellón (30) y el Granada CF (26).\n\nEn la zona baja, el Ceuta cierra la tabla con 5 puntos y una diferencia de goles de -22. El Albacete, con 13 puntos, ocupa la posición 19, y el Celta de Vigo B la 17.",
+  "texto_instagram": "Jornada 14 de LaLiga Hypermotion. 🔵⚽\n\nAlbacete 1-0 Celta de Vigo B, en el Carlos Belmonte. Sin goleadores registrados en los datos recibidos.\n\n🏆 Almería lidera con 32 puntos. 📍 Ceuta cierra con 5.",
   "hashtags": [
     "#LaLigaHypermotion",
     "#Albacete",
@@ -30,7 +30,7 @@
       "jornada": "Regular Season - 14",
       "liga_id": 141,
       "local": "Albacete",
-      "visitante": "Celta de Vigo II",
+      "visitante": "Celta de Vigo B",
       "escudo_local": "https://media.api-sports.io/football/teams/722.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9571.png",
       "goles_local": 1,
@@ -153,14 +153,14 @@
     },
     {
       "pos": 17,
-      "equipo": "Celta de Vigo II",
+      "equipo": "Celta de Vigo B",
       "pts": 13,
       "pj": 14,
       "dg": -7
     },
     {
       "pos": 18,
-      "equipo": "Real Sociedad II",
+      "equipo": "Real Sociedad B",
       "pts": 13,
       "pj": 14,
       "dg": -7

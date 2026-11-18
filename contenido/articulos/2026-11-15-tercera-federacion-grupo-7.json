@@ -7,8 +7,8 @@
   "prioridad": 2,
   "titular": "Móstoles se impone al Trival Valderas y encabeza el Grupo 7 con cinco puntos de ventaja",
   "entradilla": "El líder golea sin problemas en una jornada 11 con empates y victorias a domicilio. Móstoles suma tres puntos más en la cima.",
-  "cuerpo_markdown": "La jornada 11 del Grupo 7 de Tercera Federación deja un empate a dos en Reyes, un empate a uno en Parla y varias victorias como visitante. El líder Móstoles se impuso 2-0 al Trival Valderas y mantiene cinco puntos de ventaja sobre el segundo.\n\n### Móstoles 2-0 Trival Valderas\n\nEl Móstoles venció al Trival Valderas por 2-0 y se mantiene como líder con 26 puntos.\n\n### Otros resultados\n\n- Torrejón 0-1 Rayo Vallecano II\n- Parla Escuela 1-1 Pozuelo Alarcón\n- Villanueva Pardillo 0-1 Real Aranjuez\n- Colonia Moscardó 1-0 Galapagar\n- Unión Adarve 0-1 Las Rozas\n- SS Reyes II 2-2 RC Alcobendas\n\n### Clasificación\n\nEn lo alto, el Móstoles lidera con 26 puntos, seguido de Colonia Moscardó y Las Rozas, ambos con 21. En la parte baja, Villanueva Pardillo cierra la tabla con 7 puntos y una diferencia de goles de -20.",
-  "texto_instagram": "El líder Móstoles se impone 2-0 al Trival Valderas y sigue en la cima del Grupo 7 🔝\n\nTorrejón 0-1 Rayo Vallecano II ⚽\nParla Escuela 1-1 Pozuelo Alarcón\nVillanueva Pardillo 0-1 Real Aranjuez\nMóstoles 2-0 Trival Valderas\nColonia Moscardó 1-0 Galapagar\nUnión Adarve 0-1 Las Rozas\nSS Reyes II 2-2 RC Alcobendas 🤝",
+  "cuerpo_markdown": "La jornada 11 del Grupo 7 de Tercera Federación deja un empate a dos en Reyes, un empate a uno en Parla y varias victorias como visitante. El líder Móstoles se impuso 2-0 al Trival Valderas y mantiene cinco puntos de ventaja sobre el segundo.\n\n### Móstoles 2-0 Trival Valderas\n\nEl Móstoles venció al Trival Valderas por 2-0 y se mantiene como líder con 26 puntos.\n\n### Otros resultados\n\n- Torrejón 0-1 Rayo Vallecano B\n- Parla Escuela 1-1 Pozuelo Alarcón\n- Villanueva Pardillo 0-1 Real Aranjuez\n- Colonia Moscardó 1-0 Galapagar\n- Unión Adarve 0-1 Las Rozas\n- SS Reyes B 2-2 RC Alcobendas\n\n### Clasificación\n\nEn lo alto, el Móstoles lidera con 26 puntos, seguido de Colonia Moscardó y Las Rozas, ambos con 21. En la parte baja, Villanueva Pardillo cierra la tabla con 7 puntos y una diferencia de goles de -20.",
+  "texto_instagram": "El líder Móstoles se impone 2-0 al Trival Valderas y sigue en la cima del Grupo 7 🔝\n\nTorrejón 0-1 Rayo Vallecano B ⚽\nParla Escuela 1-1 Pozuelo Alarcón\nVillanueva Pardillo 0-1 Real Aranjuez\nMóstoles 2-0 Trival Valderas\nColonia Moscardó 1-0 Galapagar\nUnión Adarve 0-1 Las Rozas\nSS Reyes B 2-2 RC Alcobendas 🤝",
   "hashtags": [
     "#TerceraFederación",
     "#Grupo7",
@@ -33,7 +33,7 @@
       "jornada": "Group 7 - 11",
       "liga_id": 445,
       "local": "Torrejón",
-      "visitante": "Rayo Vallecano II",
+      "visitante": "Rayo Vallecano B",
       "escudo_local": "https://media.api-sports.io/football/teams/9717.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/9715.png",
       "goles_local": 0,
@@ -128,7 +128,7 @@
       "arbitro": null,
       "jornada": "Group 7 - 11",
       "liga_id": 445,
-      "local": "SS Reyes II",
+      "local": "SS Reyes B",
       "visitante": "RC Alcobendas",
       "escudo_local": "https://media.api-sports.io/football/teams/26545.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/28105.png",
@@ -161,7 +161,7 @@
     },
     {
       "pos": 4,
-      "equipo": "Leganés II",
+      "equipo": "Leganés B",
       "pts": 18,
       "pj": 11,
       "dg": 10
@@ -224,7 +224,7 @@
     },
     {
       "pos": 13,
-      "equipo": "Rayo Vallecano II",
+      "equipo": "Rayo Vallecano B",
       "pts": 12,
       "pj": 11,
       "dg": -4
@@ -245,7 +245,7 @@
     },
     {
       "pos": 16,
-      "equipo": "SS Reyes II",
+      "equipo": "SS Reyes B",
       "pts": 8,
       "pj": 11,
       "dg": -13

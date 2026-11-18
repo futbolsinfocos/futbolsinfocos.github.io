@@ -5,10 +5,10 @@
   "competicion": "Tercera Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "El Algar gana 1-0 en Cotillas y el Olímpico Totana empata a cero con el Cartagena LU II",
-  "entradilla": "El Algar se impone 0-1 en su visita a Cotillas CD en la Jornada 11 del Grupo 13 de Tercera Federación. En el Olímpico Totana, empate sin goles ante el Cartagena LU II.",
-  "cuerpo_markdown": "La Jornada 11 del Grupo 13 de Tercera Federación deja un triunfo visitante y un empate sin goles en los dos partidos disponibles.\n\n## Cotillas CD 0-1 Algar\n\nEl Algar gana por 0-1 en Cotillas. Los datos disponibles no recogen goleadores del encuentro.\n\n## Olímpico Totana 0-0 Cartagena LU II\n\nEmpate sin goles en el Olímpico Totana.\n\n## Clasificación\n\nEn la cabeza, el Santomera lidera con 25 puntos, por delante del Santa Cruz (21) y del Águilas II (20).\n\nEn la parte baja, el Bullas Deportivo es colista con 5 puntos y una diferencia de goles de -14. El Algar, con 9 puntos, ocupa la posición 16.",
-  "texto_instagram": "Jornada 11 del Grupo 13: el Algar gana 1-0 en Cotillas. ⚽\n\nCotillas CD 0-1 Algar (sin datos de goleadores)\nOlímpico Totana 0-0 Cartagena LU II 🤝",
+  "titular": "El Algar gana 1-0 en Cotillas y el Olímpico Totana empata a cero con el Cartagena LU B",
+  "entradilla": "El Algar se impone 0-1 en su visita a Cotillas CD en la Jornada 11 del Grupo 13 de Tercera Federación. En el Olímpico Totana, empate sin goles ante el Cartagena LU B.",
+  "cuerpo_markdown": "La Jornada 11 del Grupo 13 de Tercera Federación deja un triunfo visitante y un empate sin goles en los dos partidos disponibles.\n\n## Cotillas CD 0-1 Algar\n\nEl Algar gana por 0-1 en Cotillas. Los datos disponibles no recogen goleadores del encuentro.\n\n## Olímpico Totana 0-0 Cartagena LU B\n\nEmpate sin goles en el Olímpico Totana.\n\n## Clasificación\n\nEn la cabeza, el Santomera lidera con 25 puntos, por delante del Santa Cruz (21) y del Águilas B (20).\n\nEn la parte baja, el Bullas Deportivo es colista con 5 puntos y una diferencia de goles de -14. El Algar, con 9 puntos, ocupa la posición 16.",
+  "texto_instagram": "Jornada 11 del Grupo 13: el Algar gana 1-0 en Cotillas. ⚽\n\nCotillas CD 0-1 Algar (sin datos de goleadores)\nOlímpico Totana 0-0 Cartagena LU B 🤝",
   "hashtags": [
     "#TerceraFederación",
     "#Grupo13",
@@ -32,7 +32,7 @@
       "jornada": "Group 13 - 11",
       "liga_id": 451,
       "local": "Olímpico Totana",
-      "visitante": "Cartagena LU II",
+      "visitante": "Cartagena LU B",
       "escudo_local": "https://media.api-sports.io/football/teams/9818.png",
       "escudo_visitante": "https://media.api-sports.io/football/teams/17715.png",
       "goles_local": 0,
@@ -73,7 +73,7 @@
     },
     {
       "pos": 3,
-      "equipo": "Águilas II",
+      "equipo": "Águilas B",
       "pts": 20,
       "pj": 10,
       "dg": 11
@@ -87,7 +87,7 @@
     },
     {
       "pos": 5,
-      "equipo": "UCAM Murcia II",
+      "equipo": "UCAM Murcia B",
       "pts": 15,
       "pj": 10,
       "dg": 7
@@ -150,7 +150,7 @@
     },
     {
       "pos": 14,
-      "equipo": "Cartagena LU II",
+      "equipo": "Cartagena LU B",
       "pts": 10,
       "pj": 10,
       "dg": -3
