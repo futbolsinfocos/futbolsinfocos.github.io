@@ -1,0 +1,876 @@
+{
+  "slug": "2026-11-18-tercera-federacion-grupo-6",
+  "fecha": "2026-11-18",
+  "etiqueta": "Tercera Federación · Grupo 6",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Vall de Uxó golea 4-0 al Torrent y entra en la zona de playoff",
+  "entradilla": "La jornada 7 del Grupo 6 de Tercera Federación deja una goleada del Vall de Uxó, que sube al cuarto puesto, y una caída del Jove Español a la zona de descenso. El Hércules B mantiene el tercer puesto tras empatar 2-2 con el Buñol.",
+  "cuerpo_markdown": "La séptima jornada del Grupo 6 de Tercera Federación deja la goleada del Vall de Uxó al Torrent (4-0), que lo sitúa cuarto con 17 puntos y en zona de playoff. El Jove Español cae al puesto 16, en zona de descenso, tras perder 2-1 con el Saguntino. Villarreal C sigue líder con 24 puntos.\n\n## Vall de Uxó 4-0 Torrent\n\nEl Vall de Uxó marcó cuatro goles: J. Martinez (28), Chuso (43), S. Ano (74) y B. Blasco (85). Con este resultado, el equipo local sube cuatro puestos, del 8 al 4, con 17 puntos. El Torrent baja dos puestos, del 5 al 7, con 16 puntos.\n\n## Jove Español 1-2 Saguntino\n\nEl Saguntino se adelantó con gol de S. Esbri Vilar (16) y amplió la ventaja con D. Climent (51). El Jove Español había empatado con un gol de Press (44). El Saguntino sube tres puestos, del 9 al 6, con 17 puntos. El Jove Español baja un puesto, del 15 al 16, y queda en zona de descenso con 10 puntos.\n\n## Roda 2-1 Torrellano\n\nEl Torrellano se adelantó con gol de H. Moubarak (35). El Roda empató con M. Chiva Nebot (45) y ganó con M. Pitarch (76). El Roda sube dos puestos, del 12 al 10, con 15 puntos. El Torrellano se mantiene en el puesto 14 con 11 puntos.\n\n## Soneja 2-1 Atzeneta\n\nI. Saez Porta marcó para el Soneja en el minuto 10 y D. Triguero Girones igualó para el Atzeneta en el 47. F. Iturralde Torcianti dio la victoria al Soneja en el 81. El Soneja sube tres puestos, del 18 al 15, con 11 puntos. El Atzeneta baja un puesto, del 11 al 12, con 12 puntos.\n\n## Buñol 2-2 Hércules B\n\nM. Djoulde Bah marcó para el Hércules B en el 36 y A. Bayarri igualó para el Buñol en el 41. D. Marcos adelantó de nuevo al Hércules B en el 53, pero A. Valero firmó el empate del Buñol en el 55. El Hércules B se mantiene tercero con 20 puntos. El Buñol baja un puesto, del 7 al 8, con 16 puntos.\n\n## Así queda la clasificación\n\nEl Villarreal C lidera con 24 puntos, por delante del Levante B (22) y del Hércules B (20). La zona de playoff abarca del segundo al quinto puesto, con el Vall de Uxó y el Crevillente igualados a 17 puntos. El Saguntino, sexto con 17 puntos, queda fuera de la zona de playoff. En la parte baja, el Jove Español ocupa el puesto 16 con 10 puntos, a una posición de la salida, y el Utiel y el SC Torrevieja están en el descenso con 9 puntos cada uno.",
+  "texto_instagram": "⚽ Jornada 7 en el Grupo 6: el Vall de Uxó golea 4-0 al Torrent y sube al cuarto puesto. El Jove Español cae al 16 tras perder con el Saguntino.\n\nVall de Uxó 4-0 Torrent (J. Martinez 28', Chuso 43', S. Ano 74', B. Blasco 85')\nJove Español 1-2 Saguntino (Press 44' / S. Esbri Vilar 16', D. Climent 51')\nRoda 2-1 Torrellano (M. Chiva Nebot 45', M. Pitarch 76' / H. Moubarak 35')\nSoneja 2-1 Atzeneta (I. Saez Porta 10', F. Iturralde Torcianti 81' / D. Triguero Girones 47')\nBuñol 2-2 Hércules B (A. Bayarri 41', A. Valero 55' / M. Djoulde Bah 36', D. Marcos 53')",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo6",
+    "#VallDeUxo",
+    "#Torrent",
+    "#JoveEspanol",
+    "#Saguntino",
+    "#Roda",
+    "#Torrellano",
+    "#Soneja",
+    "#Atzeneta",
+    "#Bunol",
+    "#HerculesB"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-6-1.jpg",
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-6-2.jpg",
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-6-3.jpg",
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-6-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614291,
+      "fecha": "2026-11-18T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 7",
+      "liga_id": 444,
+      "id_local": 9684,
+      "id_visitante": 17559,
+      "local": "Roda",
+      "visitante": "Torrellano",
+      "escudo_local": "https://media.api-sports.io/football/teams/9684.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17559.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 35,
+          "equipo": "Torrellano",
+          "jugador": "H. Moubarak",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Roda",
+          "jugador": "M. Chiva Nebot",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 76,
+          "equipo": "Roda",
+          "jugador": "M. Pitarch",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614294,
+      "fecha": "2026-11-18T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 7",
+      "liga_id": 444,
+      "id_local": 24779,
+      "id_visitante": 15348,
+      "local": "Vall de Uxó",
+      "visitante": "Torrent",
+      "escudo_local": "https://media.api-sports.io/football/teams/24779.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15348.png",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 28,
+          "equipo": "Vall de Uxó",
+          "jugador": "J. Martinez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 43,
+          "equipo": "Vall de Uxó",
+          "jugador": "Chuso",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Vall de Uxó",
+          "jugador": "S. Ano",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 85,
+          "equipo": "Vall de Uxó",
+          "jugador": "B. Blasco",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614292,
+      "fecha": "2026-11-18T19:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 7",
+      "liga_id": 444,
+      "id_local": 9699,
+      "id_visitante": 9694,
+      "local": "Saguntino",
+      "visitante": "Jove Español",
+      "escudo_local": "https://media.api-sports.io/football/teams/9699.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9694.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 16,
+          "equipo": "Saguntino",
+          "jugador": "S. Esbri Vilar",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 44,
+          "equipo": "Jove Español",
+          "jugador": "Press",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 51,
+          "equipo": "Saguntino",
+          "jugador": "D. Climent",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614293,
+      "fecha": "2026-11-18T19:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 7",
+      "liga_id": 444,
+      "id_local": 22140,
+      "id_visitante": 9688,
+      "local": "Soneja",
+      "visitante": "Atzeneta",
+      "escudo_local": "https://media.api-sports.io/football/teams/22140.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9688.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 10,
+          "equipo": "Soneja",
+          "jugador": "I. Saez Porta",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 47,
+          "equipo": "Atzeneta",
+          "jugador": "D. Triguero Girones",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 81,
+          "equipo": "Soneja",
+          "jugador": "F. Iturralde Torcianti",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614288,
+      "fecha": "2026-11-18T20:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 7",
+      "liga_id": 444,
+      "id_local": 15524,
+      "id_visitante": 9693,
+      "local": "Buñol",
+      "visitante": "Hércules B",
+      "escudo_local": "https://media.api-sports.io/football/teams/15524.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9693.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 36,
+          "equipo": "Hércules B",
+          "jugador": "M. Djoulde Bah",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 41,
+          "equipo": "Buñol",
+          "jugador": "A. Bayarri",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 53,
+          "equipo": "Hércules B",
+          "jugador": "D. Marcos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 55,
+          "equipo": "Buñol",
+          "jugador": "A. Valero",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Villarreal C",
+      "pts": 24,
+      "pj": 11,
+      "dg": 7,
+      "pg": 8,
+      "pe": 0,
+      "pp": 3,
+      "gf": 15,
+      "gc": 8,
+      "forma": "LLWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9702.png",
+      "equipo_id": 9702,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Levante B",
+      "pts": 22,
+      "pj": 11,
+      "dg": 13,
+      "pg": 6,
+      "pe": 4,
+      "pp": 1,
+      "gf": 17,
+      "gc": 4,
+      "forma": "WDDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9591.png",
+      "equipo_id": 9591,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Hércules B",
+      "pts": 20,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 17,
+      "gc": 11,
+      "forma": "DWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9693.png",
+      "equipo_id": 9693,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Vall de Uxó",
+      "pts": 17,
+      "pj": 11,
+      "dg": 7,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 15,
+      "gc": 8,
+      "forma": "WDLLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24779.png",
+      "equipo_id": 24779,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Crevillente",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 15,
+      "gc": 13,
+      "forma": "WWDLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9690.png",
+      "equipo_id": 9690,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Saguntino",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 17,
+      "gc": 17,
+      "forma": "WWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9699.png",
+      "equipo_id": 9699,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Torrent",
+      "pts": 16,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15348.png",
+      "equipo_id": 15348,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Buñol",
+      "pts": 16,
+      "pj": 11,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15524.png",
+      "equipo_id": 15524,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Acero",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2,
+      "pg": 3,
+      "pe": 6,
+      "pp": 2,
+      "gf": 11,
+      "gc": 9,
+      "forma": "LWDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9685.png",
+      "equipo_id": 9685,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Roda",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 16,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9684.png",
+      "equipo_id": 9684,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Eldense B",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 10,
+      "forma": "LWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28103.png",
+      "equipo_id": 28103,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Atzeneta",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 12,
+      "gc": 14,
+      "forma": "LWDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9688.png",
+      "equipo_id": 9688,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Ontinyent 1931",
+      "pts": 11,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 16,
+      "forma": "LLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22139.png",
+      "equipo_id": 22139,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Torrellano",
+      "pts": 11,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 11,
+      "gc": 17,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17559.png",
+      "equipo_id": 17559,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Soneja",
+      "pts": 11,
+      "pj": 11,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 11,
+      "gc": 18,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22140.png",
+      "equipo_id": 22140,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Jove Español",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 12,
+      "gc": 19,
+      "forma": "LLWDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9694.png",
+      "equipo_id": 9694,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Utiel",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 9,
+      "gc": 15,
+      "forma": "DWDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22141.png",
+      "equipo_id": 22141,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "SC Torrevieja",
+      "pts": 9,
+      "pj": 11,
+      "dg": -8,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 10,
+      "gc": 18,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28104.png",
+      "equipo_id": 28104,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Hércules B": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Vall de Uxó": {
+      "antes": 8,
+      "ahora": 4,
+      "cambio": "sube 4 puestos"
+    },
+    "Saguntino": {
+      "antes": 9,
+      "ahora": 6,
+      "cambio": "sube 3 puestos"
+    },
+    "Torrent": {
+      "antes": 5,
+      "ahora": 7,
+      "cambio": "baja 2 puestos"
+    },
+    "Buñol": {
+      "antes": 7,
+      "ahora": 8,
+      "cambio": "baja 1 puesto"
+    },
+    "Roda": {
+      "antes": 12,
+      "ahora": 10,
+      "cambio": "sube 2 puestos"
+    },
+    "Atzeneta": {
+      "antes": 11,
+      "ahora": 12,
+      "cambio": "baja 1 puesto"
+    },
+    "Torrellano": {
+      "antes": 14,
+      "ahora": 14,
+      "cambio": "se mantiene"
+    },
+    "Soneja": {
+      "antes": 18,
+      "ahora": 15,
+      "cambio": "sube 3 puestos"
+    },
+    "Jove Español": {
+      "antes": 15,
+      "ahora": 16,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "etiqueta": "Copa del Rey",
+  "competicion": "Copa del Rey",
+  "goleadores": [
+    {
+      "jugador": "M. Díaz",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 2,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Rodrigo Riquelme",
+      "equipo": "Real Betis",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "goles": 2,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Alemão",
+      "equipo": "Rayo Vallecano",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "goles": 2,
+      "penaltis": 1,
+      "pj": 1
+    },
+    {
+      "jugador": "T. Vizcay",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Carles Aleñá",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Jonny",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Álvaro Leis",
+      "equipo": "Navalcarnero",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 0
+    },
+    {
+      "jugador": "S. Sanchez",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Aitor Mañas",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "C. Mitogo",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Rodrigo Marina",
+      "equipo": "Real Betis",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Gabriel Moscardo",
+      "equipo": "Espanyol",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Adri Carrión",
+      "equipo": "Sestao River",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "K. Vazquez",
+      "equipo": "Navalcarnero",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Maroan Sannadi",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Ale Marín",
+      "equipo": "Recreativo Huelva",
+      "escudo": "https://media.api-sports.io/football/teams/9410.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Jorge de Frutos",
+      "equipo": "Rayo Vallecano",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Robert Navarro",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Miguel Rodríguez",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    },
+    {
+      "jugador": "Nico Serrano",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 1,
+      "penaltis": 0,
+      "pj": 1
+    }
+  ],
+  "tarjetas": [],
+  "fecha": "2026-11-18"
+}

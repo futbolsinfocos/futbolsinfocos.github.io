@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Gimnástica Torrelavega",
+      "escudo": "https://media.api-sports.io/football/teams/5264.png",
+      "amarillas": 2,
+      "rojas": 5
+    },
+    {
+      "equipo": "Atlético Astorga",
+      "escudo": "https://media.api-sports.io/football/teams/9723.png",
+      "amarillas": 2,
+      "rojas": 4
+    },
+    {
+      "equipo": "Coruxo",
+      "escudo": "https://media.api-sports.io/football/teams/9385.png",
+      "amarillas": 1,
+      "rojas": 4
+    },
+    {
+      "equipo": "Basconia",
+      "escudo": "https://media.api-sports.io/football/teams/9656.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Eibar B",
+      "escudo": "https://media.api-sports.io/football/teams/24572.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Llanera",
+      "escudo": "https://media.api-sports.io/football/teams/9627.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Deportivo Alavés B",
+      "escudo": "https://media.api-sports.io/football/teams/9582.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Gernika",
+      "escudo": "https://media.api-sports.io/football/teams/5263.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Portugalete",
+      "escudo": "https://media.api-sports.io/football/teams/9408.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Arosa",
+      "escudo": "https://media.api-sports.io/football/teams/9605.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ourense CF",
+      "escudo": "https://media.api-sports.io/football/teams/9612.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sestao River",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Amorebieta",
+      "escudo": "https://media.api-sports.io/football/teams/9380.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Bergantiños",
+      "escudo": "https://media.api-sports.io/football/teams/9383.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Compostela",
+      "escudo": "https://media.api-sports.io/football/teams/5256.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Marino de Luanco",
+      "escudo": "https://media.api-sports.io/football/teams/9401.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Racing Santander B",
+      "escudo": "https://media.api-sports.io/football/teams/9643.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Real Oviedo B",
+      "escudo": "https://media.api-sports.io/football/teams/9576.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

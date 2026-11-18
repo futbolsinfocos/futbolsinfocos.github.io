@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 8",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Bembibre",
+      "escudo": "https://media.api-sports.io/football/teams/9725.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Calasanz de Soria",
+      "escudo": "https://media.api-sports.io/football/teams/28106.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Turégano",
+      "escudo": "https://media.api-sports.io/football/teams/20449.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Burgos Promesas",
+      "escudo": "https://media.api-sports.io/football/teams/9727.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cristo Atlético",
+      "escudo": "https://media.api-sports.io/football/teams/9728.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "La Virgen del Camino",
+      "escudo": "https://media.api-sports.io/football/teams/9732.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Salamanca B",
+      "escudo": "https://media.api-sports.io/football/teams/9737.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Almazán",
+      "escudo": "https://media.api-sports.io/football/teams/9721.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Arandina",
+      "escudo": "https://media.api-sports.io/football/teams/9722.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Atlético Mansillés",
+      "escudo": "https://media.api-sports.io/football/teams/17502.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Colegios Diocesanos",
+      "escudo": "https://media.api-sports.io/football/teams/15354.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cultural Leonesa B",
+      "escudo": "https://media.api-sports.io/football/teams/9729.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Guijuelo",
+      "escudo": "https://media.api-sports.io/football/teams/9388.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mirandés B",
+      "escudo": "https://media.api-sports.io/football/teams/9733.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Palencia CF",
+      "escudo": "https://media.api-sports.io/football/teams/17538.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "UD Santa Marta",
+      "escudo": "https://media.api-sports.io/football/teams/9738.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Unionistas B",
+      "escudo": "https://media.api-sports.io/football/teams/26546.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villaralbo",
+      "escudo": "https://media.api-sports.io/football/teams/22144.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

@@ -1,0 +1,671 @@
+{
+  "slug": "2026-11-18-segunda-federacion-grupo-1",
+  "fecha": "2026-11-18",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Sestao River, con diez, rescata un empate en el campo del Bergantiños",
+  "entradilla": "El líder igualó en el 62 el gol de Koke pese a jugar con uno menos desde el 56. El Bergantiños sube a la cuarta plaza.",
+  "cuerpo_markdown": "El Sestao River sigue líder del Grupo 1 de Segunda Federación tras empatar 1-1 en el campo del Bergantiños en el único partido de la fecha, correspondiente a la Jornada 11. Koke adelantó a los gallegos en el minuto 11 y A. B. Laka igualó en el 62, cuando el equipo vizcaíno ya jugaba con diez por la expulsión de A. Iruarrizaga en el 56. El líder suma 26 puntos y el Bergantiños, con 19, sube del quinto al cuarto puesto.\n\n## Bergantiños 1-1 Sestao River\n\nKoke abrió el marcador en el minuto 11 para el Bergantiños. El Sestao River se quedó con uno menos en el 56 por la roja a A. Iruarrizaga, pero seis minutos después, en el 62, A. B. Laka firmó el 1-1 definitivo.\n\nEl Sestao River se mantiene primero con 26 puntos y corta una racha de cuatro victorias seguidas. Es su tercer empate en una temporada con solo una derrota y 4 goles encajados en 11 jornadas. El Bergantiños, con 19 puntos, sube del quinto al cuarto puesto en zona de play-off, igualado con el Portugalete, y sigue invicto en casa: cuatro victorias y dos empates.\n\n## Así queda la clasificación\n\nEl Sestao River (26 puntos) lidera con tres de ventaja sobre el Deportivo Alavés B (23) y cinco sobre el Eibar B (21). Bergantiños y Portugalete, ambos con 19, completan los puestos de play-off; el Real Oviedo B, sexto con 18, está a un punto. Abajo, el Llanera (10) marca el descenso, con Arosa (9), Atlético Astorga (8), Marino de Luanco (8) y Gimnástica Torrelavega (6), colista, por detrás. El Coruxo, con 12, está a dos puntos de la zona roja.",
+  "texto_instagram": "El líder no falla ni con diez ⚽ El Sestao River empata en el campo del Bergantiños y sigue primero con 26 puntos; los gallegos suben al cuarto puesto 📈\n\nBergantiños 1-1 Sestao River: Koke (11); A. B. Laka (62). 🟥 A. Iruarrizaga (56, Sestao River)",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo1",
+    "#Bergantiños",
+    "#SestaoRiver",
+    "#FútbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-segunda-federacion-grupo-1-1.jpg",
+    "img/2026-11-18/2026-11-18-segunda-federacion-grupo-1-2.jpg",
+    "img/2026-11-18/2026-11-18-segunda-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572123,
+      "fecha": "2026-11-18T20:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 11",
+      "liga_id": 875,
+      "id_local": 9383,
+      "id_visitante": 9413,
+      "local": "Bergantiños",
+      "visitante": "Sestao River",
+      "escudo_local": "https://media.api-sports.io/football/teams/9383.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9413.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 11,
+          "equipo": "Bergantiños",
+          "jugador": "Koke",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 62,
+          "equipo": "Sestao River",
+          "jugador": "A. B. Laka",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 56,
+          "equipo": "Sestao River",
+          "jugador": "A. Iruarrizaga"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Sestao River",
+      "pts": 26,
+      "pj": 11,
+      "dg": 10,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 14,
+      "gc": 4,
+      "forma": "DWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "equipo_id": 9413,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Deportivo Alavés B",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9582.png",
+      "equipo_id": 9582,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Eibar B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24572.png",
+      "equipo_id": 24572,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Bergantiños",
+      "pts": 19,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 24,
+      "gc": 16,
+      "forma": "DLDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9383.png",
+      "equipo_id": 9383,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Portugalete",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 19,
+      "gc": 13,
+      "forma": "WWDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9408.png",
+      "equipo_id": 9408,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Oviedo B",
+      "pts": 18,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9576.png",
+      "equipo_id": 9576,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Compostela",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 10,
+      "forma": "LWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5256.png",
+      "equipo_id": 5256,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Amorebieta",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9380.png",
+      "equipo_id": 9380,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ourense CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 10,
+      "gc": 12,
+      "forma": "WLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9612.png",
+      "equipo_id": 9612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Basconia",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 16,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9656.png",
+      "equipo_id": 9656,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Racing Santander B",
+      "pts": 14,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 15,
+      "gc": 18,
+      "forma": "WWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9643.png",
+      "equipo_id": 9643,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Gernika",
+      "pts": 12,
+      "pj": 11,
+      "dg": 5,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "forma": "LDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5263.png",
+      "equipo_id": 5263,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Coruxo",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 12,
+      "gc": 14,
+      "forma": "WDLLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9385.png",
+      "equipo_id": 9385,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Llanera",
+      "pts": 10,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 17,
+      "gc": 27,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9627.png",
+      "equipo_id": 9627,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Arosa",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 17,
+      "gc": 23,
+      "forma": "DLDLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9605.png",
+      "equipo_id": 9605,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Atlético Astorga",
+      "pts": 8,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 13,
+      "gc": 19,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9723.png",
+      "equipo_id": 9723,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Marino de Luanco",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 18,
+      "forma": "LLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9401.png",
+      "equipo_id": 9401,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 1,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Gimnástica Torrelavega",
+      "pts": 6,
+      "pj": 11,
+      "dg": -13,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 21,
+      "forma": "LDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5264.png",
+      "equipo_id": 5264,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 10
+      }
+    }
+  ],
+  "movimientos": {
+    "Sestao River": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Bergantiños": {
+      "antes": 5,
+      "ahora": 4,
+      "cambio": "sube 1 puesto"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572123,
+    "titular": "El Sestao River empata con diez en el campo del Bergantiños y sigue líder",
+    "entradilla": "A. B. Laka igualó en el 62 el gol de Koke, cuando el líder ya jugaba con uno menos por la expulsión de A. Iruarrizaga. El Bergantiños sube a la cuarta plaza.",
+    "parrafos": [
+      "El Sestao River sacó un punto del campo del Bergantiños (1-1) en la Jornada 11 de Segunda Federación y conserva el liderato del Grupo 1 con 26 puntos. El Bergantiños, con 19, sube del quinto al cuarto puesto.",
+      "Koke adelantó a los locales en el minuto 11. El 1-0 se mantuvo hasta pasada la hora de juego.",
+      "En el minuto 56, A. Iruarrizaga vio la roja y dejó al Sestao River con diez. Seis minutos después, en el 62, A. B. Laka estableció el 1-1 definitivo.",
+      "El empate corta la racha de cuatro victorias seguidas del líder, que suma ocho triunfos, dos empates y una derrota, con solo 4 goles encajados. Mantiene tres puntos de ventaja sobre el Deportivo Alavés B y cinco sobre el Eibar B.",
+      "El Bergantiños sigue invicto en casa, con cuatro victorias y dos empates, y comparte 19 puntos con el Portugalete en la zona de play-off, a siete del liderato."
+    ],
+    "el_dato": "El Sestao River, con diez jugadores, solo ha encajado 4 goles en 11 jornadas.",
+    "slug": "2026-11-18-bergantinos-sestao-river"
+  }
+}

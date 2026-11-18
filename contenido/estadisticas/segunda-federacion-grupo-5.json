@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Atlético Tordesillas",
+      "escudo": "https://media.api-sports.io/football/teams/9724.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Real Valladolid B",
+      "escudo": "https://media.api-sports.io/football/teams/9587.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Salamanca UDS",
+      "escudo": "https://media.api-sports.io/football/teams/9588.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "A Madrid C",
+      "escudo": "https://media.api-sports.io/football/teams/26543.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Guadalajara",
+      "escudo": "https://media.api-sports.io/football/teams/9900.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Conquense",
+      "escudo": "https://media.api-sports.io/football/teams/5257.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Gimnástica Segoviana",
+      "escudo": "https://media.api-sports.io/football/teams/9387.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Getafe B",
+      "escudo": "https://media.api-sports.io/football/teams/9572.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Numancia",
+      "escudo": "https://media.api-sports.io/football/teams/717.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "RSD Alcalá",
+      "escudo": "https://media.api-sports.io/football/teams/9714.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Real Ávila",
+      "escudo": "https://media.api-sports.io/football/teams/9736.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Albacete B",
+      "escudo": "https://media.api-sports.io/football/teams/9895.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Atlético Paso",
+      "escudo": "https://media.api-sports.io/football/teams/9791.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "CF Talavera",
+      "escudo": "https://media.api-sports.io/football/teams/5253.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Calvo Sotelo",
+      "escudo": "https://media.api-sports.io/football/teams/9899.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Navalcarnero",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Real Madrid C",
+      "escudo": "https://media.api-sports.io/football/teams/22142.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "SS Reyes",
+      "escudo": "https://media.api-sports.io/football/teams/9412.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

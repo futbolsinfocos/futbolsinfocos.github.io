@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 6",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Soneja",
+      "escudo": "https://media.api-sports.io/football/teams/22140.png",
+      "amarillas": 1,
+      "rojas": 4
+    },
+    {
+      "equipo": "Crevillente",
+      "escudo": "https://media.api-sports.io/football/teams/9690.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "SC Torrevieja",
+      "escudo": "https://media.api-sports.io/football/teams/28104.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Saguntino",
+      "escudo": "https://media.api-sports.io/football/teams/9699.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Roda",
+      "escudo": "https://media.api-sports.io/football/teams/9684.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
+      "equipo": "Buñol",
+      "escudo": "https://media.api-sports.io/football/teams/15524.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Jove Español",
+      "escudo": "https://media.api-sports.io/football/teams/9694.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Levante B",
+      "escudo": "https://media.api-sports.io/football/teams/9591.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Torrent",
+      "escudo": "https://media.api-sports.io/football/teams/15348.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Acero",
+      "escudo": "https://media.api-sports.io/football/teams/9685.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atzeneta",
+      "escudo": "https://media.api-sports.io/football/teams/9688.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Eldense B",
+      "escudo": "https://media.api-sports.io/football/teams/28103.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ontinyent 1931",
+      "escudo": "https://media.api-sports.io/football/teams/22139.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Vall de Uxó",
+      "escudo": "https://media.api-sports.io/football/teams/24779.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Hércules B",
+      "escudo": "https://media.api-sports.io/football/teams/9693.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Torrellano",
+      "escudo": "https://media.api-sports.io/football/teams/17559.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Utiel",
+      "escudo": "https://media.api-sports.io/football/teams/22141.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villarreal C",
+      "escudo": "https://media.api-sports.io/football/teams/9702.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

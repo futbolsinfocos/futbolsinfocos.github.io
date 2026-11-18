@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 11",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Migjorn",
+      "escudo": "https://media.api-sports.io/football/teams/24579.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Andratx",
+      "escudo": "https://media.api-sports.io/football/teams/8151.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Inter Ibiza",
+      "escudo": "https://media.api-sports.io/football/teams/17598.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "PE Sant Jordi",
+      "escudo": "https://media.api-sports.io/football/teams/15313.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cardassar",
+      "escudo": "https://media.api-sports.io/football/teams/15311.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Constància",
+      "escudo": "https://media.api-sports.io/football/teams/9776.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Porreres",
+      "escudo": "https://media.api-sports.io/football/teams/24580.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Alcúdia",
+      "escudo": "https://media.api-sports.io/football/teams/9773.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Arenal",
+      "escudo": "https://media.api-sports.io/football/teams/22147.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Binissalem",
+      "escudo": "https://media.api-sports.io/football/teams/9774.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Formentera",
+      "escudo": "https://media.api-sports.io/football/teams/9780.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Ibiza Islas Pitiusas",
+      "escudo": "https://media.api-sports.io/football/teams/9781.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Llosetense",
+      "escudo": "https://media.api-sports.io/football/teams/9782.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Manacor",
+      "escudo": "https://media.api-sports.io/football/teams/9784.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mercadal",
+      "escudo": "https://media.api-sports.io/football/teams/17599.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Platges Calvià",
+      "escudo": "https://media.api-sports.io/football/teams/9785.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Santanyí",
+      "escudo": "https://media.api-sports.io/football/teams/9789.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Sineu",
+      "escudo": "https://media.api-sports.io/football/teams/28112.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

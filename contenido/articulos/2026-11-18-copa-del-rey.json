@@ -1,0 +1,482 @@
+{
+  "slug": "2026-11-18-copa-del-rey",
+  "fecha": "2026-11-18",
+  "etiqueta": "Copa del Rey",
+  "competicion": "Copa del Rey",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Tenerife golea 5-2 al Badajoz y el Reddis elimina al Barakaldo por penaltis",
+  "entradilla": "La Copa del Rey arranca con seis eliminatorias de la Ronda de 128. Cuatro llegan a la prórroga y dos se resuelven antes del descanso de la prórroga o en el tiempo reglamentario.",
+  "cuerpo_markdown": "La Ronda de 128 de la Copa del Rey deja seis eliminados y cuatro partidos que llegan a la prórroga. El Tenerife golea 5-2 al Badajoz, el Sabadell se impone 3-0 al Utebo y el Reddis elimina al Barakaldo tras empatar 1-1 y ganar la tanda de penaltis 4-3.\n\n## Badajoz 2-5 Tenerife\n\nEl Tenerife se adelanta con dos goles de G. Ranos en los minutos 6 y 38, y marca también Juanjo Sanchez en el 7. El Badajoz recorta con los goles de C. Beitia en el 49 y de J. Barba en el 74. I. Chapela marca en el 69 y V. Moreno cierra el marcador en el 90. R. Jureskin del Tenerife fue expulsado en el 58. Es la mayor goleada de la jornada y el Tenerife pasa a la siguiente ronda.\n\n## Alcoyano 1-3 Mallorca\n\nA. Prats adelanta al Mallorca en el 18 y L. G. Andres empata para el Alcoyano en el 45. El partido se decide en la prórroga: A. Buksa marca en el 108 y A. Fuentes en el 116. El Mallorca gana 3-1 tras el tiempo extra.\n\n## Barakaldo 1-1 Reddis (4-3 en penaltis)\n\nA. Camara adelanta al Reddis en el 65 y U. Collado empata para el Barakaldo en el 73. En la prórroga el resultado no cambia. En la tanda de penaltis el Reddis marca cuatro veces y el Barakaldo tres. Fallan A. Troncho y A. Zoilo por el Barakaldo, y F. Rey por el Reddis.\n\n## Deportiva Minera 1-2 FC Cartagena\n\nRibeiro pone en ventaja al FC Cartagena en el 57 y B. Kouassi empata para la Deportiva Minera en el 64. B. Kouassi fue expulsado en el 86. R. Dacosta marca en el 116 y da la victoria al FC Cartagena en la prórroga.\n\n## Portugalete 0-0 Real Unión (4-1 en penaltis)\n\nEl partido termina sin goles en los 120 minutos. En la tanda, el Portugalete marca cuatro penaltis con J. Garcia, A. Amilibia, I. Llamazares y A. Barrera. Por el Real Unión, A. Martin marca y fallan A. Galarza y M. Mancisidor. El Portugalete se impone 4-1 en los penaltis.\n\n## Utebo 0-3 Sabadell\n\nEl Sabadell marca en tres ocasiones: N. Obolskiy en el 10, A. Ribeiro en el 25 e Y. Rahmani en el 38. G. Valles del Sabadell falla un penalti en el 60. D. Royo del Utebo fue expulsado en el 90. El Sabadell gana 3-0 y se queda con la eliminatoria.",
+  "texto_instagram": "⚽ Copa del Rey, Ronda de 128: el Tenerife golea 5-2 al Badajoz y el Reddis elimina al Barakaldo por penaltis 🏆\n\nBadajoz 2-5 Tenerife: G. Ranos (6', 38'), Juanjo Sanchez (7'), C. Beitia (49'), I. Chapela (69'), J. Barba (74'), V. Moreno (90')\nAlcoyano 1-3 Mallorca: A. Prats (18'), L. G. Andres (45'), A. Buksa (108'), A. Fuentes (116')\nBarakaldo 1-1 Reddis (4-3 en penaltis): U. Collado (73') y A. Camara (65')\nDeportiva Minera 1-2 FC Cartagena: Ribeiro (57'), B. Kouassi (64'), R. Dacosta (116')\nPortugalete 0-0 Real Unión (4-1 en penaltis)\nUtebo 0-3 Sabadell: N. Obolskiy (10'), A. Ribeiro (25'), Y. Rahmani (38')",
+  "hashtags": [
+    "#CopaDelRey",
+    "#Tenerife",
+    "#Badajoz",
+    "#Sabadell",
+    "#Reddis",
+    "#Barakaldo"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-copa-del-rey-1.jpg",
+    "img/2026-11-18/2026-11-18-copa-del-rey-2.jpg",
+    "img/2026-11-18/2026-11-18-copa-del-rey-3.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1644369,
+      "fecha": "2026-11-18T19:00:00+01:00",
+      "estadio": "Estadio La Florida",
+      "ciudad": "Portugalete",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 9408,
+      "id_visitante": 9586,
+      "local": "Portugalete",
+      "visitante": "Real Unión",
+      "escudo_local": "https://media.api-sports.io/football/teams/9408.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9586.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 120,
+          "equipo": "Portugalete",
+          "jugador": "J. Garcia",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Portugalete",
+          "jugador": "A. Amilibia",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Real Unión",
+          "jugador": "A. Martin",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Portugalete",
+          "jugador": "I. Llamazares",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Portugalete",
+          "jugador": "A. Barrera",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 120,
+          "equipo": "Real Unión",
+          "jugador": "A. Galarza"
+        },
+        {
+          "min": 120,
+          "equipo": "Real Unión",
+          "jugador": "M. Mancisidor"
+        }
+      ],
+      "estadisticas": {
+        "local": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 4,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1644384,
+      "fecha": "2026-11-18T19:00:00+01:00",
+      "estadio": "Campo Santa Ana",
+      "ciudad": "Utebo",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 9891,
+      "id_visitante": 9593,
+      "local": "Utebo",
+      "visitante": "Sabadell",
+      "escudo_local": "https://media.api-sports.io/football/teams/9891.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9593.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 10,
+          "equipo": "Sabadell",
+          "jugador": "N. Obolskiy",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 25,
+          "equipo": "Sabadell",
+          "jugador": "A. Ribeiro",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 38,
+          "equipo": "Sabadell",
+          "jugador": "Y. Rahmani",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 90,
+          "equipo": "Utebo",
+          "jugador": "D. Royo"
+        }
+      ],
+      "penaltis_fallados": [
+        {
+          "min": 60,
+          "equipo": "Sabadell",
+          "jugador": "G. Valles"
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1644334,
+      "fecha": "2026-11-18T20:00:00+01:00",
+      "estadio": "Estadio El Collao",
+      "ciudad": "Alcoy",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 9686,
+      "id_visitante": 798,
+      "local": "Alcoyano",
+      "visitante": "Mallorca",
+      "escudo_local": "https://media.api-sports.io/football/teams/9686.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/798.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 18,
+          "equipo": "Mallorca",
+          "jugador": "A. Prats",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Alcoyano",
+          "jugador": "L. G. Andres",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 108,
+          "equipo": "Mallorca",
+          "jugador": "A. Buksa",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 116,
+          "equipo": "Mallorca",
+          "jugador": "A. Fuentes",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1644346,
+      "fecha": "2026-11-18T20:00:00+01:00",
+      "estadio": "Estadio Nuevo Vivero",
+      "ciudad": "Badajoz",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 9382,
+      "id_visitante": 719,
+      "local": "Badajoz",
+      "visitante": "Tenerife",
+      "escudo_local": "https://media.api-sports.io/football/teams/9382.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/719.png",
+      "goles_local": 2,
+      "goles_visitante": 5,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "Tenerife",
+          "jugador": "G. Ranos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 7,
+          "equipo": "Tenerife",
+          "jugador": "Juanjo Sanchez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 38,
+          "equipo": "Tenerife",
+          "jugador": "G. Ranos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 49,
+          "equipo": "Badajoz",
+          "jugador": "C. Beitia",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 69,
+          "equipo": "Tenerife",
+          "jugador": "I. Chapela",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Badajoz",
+          "jugador": "J. Barba",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Tenerife",
+          "jugador": "V. Moreno",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 58,
+          "equipo": "Tenerife",
+          "jugador": "R. Jureskin"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 1,
+          "rojas": 1
+        }
+      }
+    },
+    {
+      "id": 1644353,
+      "fecha": "2026-11-18T20:30:00+01:00",
+      "estadio": "Estadio Municipal Angel Celdran",
+      "ciudad": "Cartagena",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 9811,
+      "id_visitante": 5262,
+      "local": "Deportiva Minera",
+      "visitante": "FC Cartagena",
+      "escudo_local": "https://media.api-sports.io/football/teams/9811.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5262.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 57,
+          "equipo": "FC Cartagena",
+          "jugador": "Ribeiro",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 64,
+          "equipo": "Deportiva Minera",
+          "jugador": "B. Kouassi",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 116,
+          "equipo": "FC Cartagena",
+          "jugador": "R. Dacosta",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 86,
+          "equipo": "Deportiva Minera",
+          "jugador": "B. Kouassi"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 5,
+          "rojas": 1
+        },
+        "visitante": {
+          "posesion": null,
+          "tiros": null,
+          "a_puerta": null,
+          "corners": null,
+          "faltas": null,
+          "fueras_juego": null,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1644373,
+      "fecha": "2026-11-18T20:30:00+01:00",
+      "estadio": "Estadi Municipal de Reus",
+      "ciudad": "Reus",
+      "arbitro": null,
+      "jornada": "Round of 128",
+      "liga_id": 143,
+      "id_local": 22136,
+      "id_visitante": 5251,
+      "local": "Reddis",
+      "visitante": "Barakaldo",
+      "escudo_local": "https://media.api-sports.io/football/teams/22136.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5251.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 65,
+          "equipo": "Reddis",
+          "jugador": "A. Camara",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 73,
+          "equipo": "Barakaldo",
+          "jugador": "U. Collado",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 120,
+          "equipo": "Barakaldo",
+          "jugador": "C. Mattheus",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Reddis",
+          "jugador": "O. Jimenez",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Barakaldo",
+          "jugador": "J. Huidobro",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Reddis",
+          "jugador": "A. Serrano",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Barakaldo",
+          "jugador": "U. Collado",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Reddis",
+          "jugador": "A. Benito",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 120,
+          "equipo": "Reddis",
+          "jugador": "A. Gutierrez",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 120,
+          "equipo": "Barakaldo",
+          "jugador": "A. Troncho"
+        },
+        {
+          "min": 120,
+          "equipo": "Reddis",
+          "jugador": "F. Rey"
+        },
+        {
+          "min": 120,
+          "equipo": "Barakaldo",
+          "jugador": "A. Zoilo"
+        }
+      ],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [],
+  "movimientos": {}
+}

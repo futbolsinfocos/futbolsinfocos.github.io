@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 13",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Mazarrón FC",
+      "escudo": "https://media.api-sports.io/football/teams/9816.png",
+      "amarillas": 1,
+      "rojas": 5
+    },
+    {
+      "equipo": "SFC Minerva",
+      "escudo": "https://media.api-sports.io/football/teams/9821.png",
+      "amarillas": 0,
+      "rojas": 5
+    },
+    {
+      "equipo": "Bala Azul",
+      "escudo": "https://media.api-sports.io/football/teams/17607.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "San Javier",
+      "escudo": "https://media.api-sports.io/football/teams/28116.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atlético Pulpileño",
+      "escudo": "https://media.api-sports.io/football/teams/9808.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Olímpico Totana",
+      "escudo": "https://media.api-sports.io/football/teams/9818.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Santomera",
+      "escudo": "https://media.api-sports.io/football/teams/24655.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Águilas B",
+      "escudo": "https://media.api-sports.io/football/teams/24656.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Cartagena LU B",
+      "escudo": "https://media.api-sports.io/football/teams/17715.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Los Garres",
+      "escudo": "https://media.api-sports.io/football/teams/9814.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Alcantarilla",
+      "escudo": "https://media.api-sports.io/football/teams/20276.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cotillas CD",
+      "escudo": "https://media.api-sports.io/football/teams/28418.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "UCAM Murcia B",
+      "escudo": "https://media.api-sports.io/football/teams/9822.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Unión Molinense",
+      "escudo": "https://media.api-sports.io/football/teams/20278.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Algar",
+      "escudo": "https://media.api-sports.io/football/teams/20438.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Balsicas Atlético",
+      "escudo": "https://media.api-sports.io/football/teams/22180.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Bullas Deportivo",
+      "escudo": "https://media.api-sports.io/football/teams/28115.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Santa Cruz",
+      "escudo": "https://media.api-sports.io/football/teams/26850.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-18"
+}

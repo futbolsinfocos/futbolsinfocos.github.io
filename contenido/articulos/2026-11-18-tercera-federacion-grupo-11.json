@@ -1,0 +1,700 @@
+{
+  "slug": "2026-11-18-tercera-federacion-grupo-11",
+  "fecha": "2026-11-18",
+  "etiqueta": "Tercera Federación · Grupo 11",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El PE Sant Jordi gana 3-2 al Santanyí y sube al quinto puesto de Tercera Federación",
+  "entradilla": "Dos goles de M. Walid en los minutos 15 y 19 lanzan al PE Sant Jordi, que remonta el empate del Santanyí y se impone 3-2. Binissalem y Formentera empatan 1-1.",
+  "cuerpo_markdown": "La séptima jornada del Grupo 11 de Tercera Federación deja un triunfo del PE Sant Jordi por 3-2 ante el Santanyí, que sube al quinto puesto, y un empate 1-1 entre Binissalem y Formentera.\n\n## PE Sant Jordi 3-2 Santanyí\n\nM. Walid marca en el 15 y en el 19 y da al PE Sant Jordi una ventaja de dos goles. Santanyí responde con los tantos de J. Nebot en el 53 y de T. Torregrosa en el 68. A. Pantoja Calle, en el 81, pone el 3-2 definitivo. Con este resultado, el PE Sant Jordi sube del sexto al quinto puesto, con 20 puntos y en zona de playoff. El Santanyí baja del séptimo al octavo, con 17 puntos.\n\n## Binissalem 1-1 Formentera\n\nEl empate deja al Binissalem en el undécimo puesto, con 15 puntos, tras subir desde el duodécimo. El Formentera sube del décimo al noveno, con 16 puntos. Ninguno de los dos equipos está en zona de playoff ni de descenso.\n\n## Así queda la clasificación\n\nEl Ibiza Islas Pitiusas lidera con 25 puntos, uno más que el Platges Calvià, segundo con 24 y en zona de playoff. Manacor (21) ocupa el tercer puesto, Constància (20) el cuarto y el PE Sant Jordi (20) el quinto, todos en playoff. El Porreres, sexto con 19 puntos, queda a un punto de la zona de playoff. En la parte baja, el Migjorn (6 puntos) está en descenso, en el puesto 16, y el Arenal (5) y el Inter Ibiza (5) ocupan las posiciones 17 y 18.",
+  "texto_instagram": "Jornada 7 en Tercera Federación Grupo 11: el PE Sant Jordi gana 3-2 al Santanyí y sube al quinto puesto. ⚽\nPE Sant Jordi 3-2 Santanyí: M. Walid (15, 19) y A. Pantoja Calle (81) para el PE Sant Jordi; J. Nebot (53) y T. Torregrosa (68) para el Santanyí.\nBinissalem 1-1 Formentera.\nLíderes: Ibiza Islas Pitiusas, con 25 puntos. 🏆",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Baleares",
+    "#PESantJordi",
+    "#Santanyi",
+    "#Binissalem",
+    "#Formentera"
+  ],
+  "imagenes": [
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-11-1.jpg",
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-11-2.jpg",
+    "img/2026-11-18/2026-11-18-tercera-federacion-grupo-11-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615817,
+      "fecha": "2026-11-18T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 7",
+      "liga_id": 449,
+      "id_local": 9774,
+      "id_visitante": 9780,
+      "local": "Binissalem",
+      "visitante": "Formentera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9774.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9780.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615822,
+      "fecha": "2026-11-18T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 7",
+      "liga_id": 449,
+      "id_local": 15313,
+      "id_visitante": 9789,
+      "local": "PE Sant Jordi",
+      "visitante": "Santanyí",
+      "escudo_local": "https://media.api-sports.io/football/teams/15313.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9789.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 15,
+          "equipo": "PE Sant Jordi",
+          "jugador": "M. Walid",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 19,
+          "equipo": "PE Sant Jordi",
+          "jugador": "M. Walid",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 53,
+          "equipo": "Santanyí",
+          "jugador": "J. Nebot",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 68,
+          "equipo": "Santanyí",
+          "jugador": "T. Torregrosa",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 81,
+          "equipo": "PE Sant Jordi",
+          "jugador": "A. Pantoja Calle",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Ibiza Islas Pitiusas",
+      "pts": 25,
+      "pj": 11,
+      "dg": 14,
+      "pg": 7,
+      "pe": 4,
+      "pp": 0,
+      "gf": 17,
+      "gc": 3,
+      "forma": "DWWDD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9781.png",
+      "equipo_id": 9781,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 1
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Platges Calvià",
+      "pts": 24,
+      "pj": 11,
+      "dg": 12,
+      "pg": 8,
+      "pe": 0,
+      "pp": 3,
+      "gf": 22,
+      "gc": 10,
+      "forma": "LWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9785.png",
+      "equipo_id": 9785,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Manacor",
+      "pts": 21,
+      "pj": 11,
+      "dg": 11,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 22,
+      "gc": 11,
+      "forma": "LWDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9784.png",
+      "equipo_id": 9784,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Constància",
+      "pts": 20,
+      "pj": 11,
+      "dg": 10,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 18,
+      "gc": 8,
+      "forma": "DDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9776.png",
+      "equipo_id": 9776,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "PE Sant Jordi",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 20,
+      "gc": 13,
+      "forma": "WDDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15313.png",
+      "equipo_id": 15313,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Porreres",
+      "pts": 19,
+      "pj": 11,
+      "dg": 5,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24580.png",
+      "equipo_id": 24580,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Cardassar",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 19,
+      "gc": 14,
+      "forma": "WLLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15311.png",
+      "equipo_id": 15311,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Santanyí",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 14,
+      "gc": 9,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9789.png",
+      "equipo_id": 9789,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Formentera",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 14,
+      "gc": 10,
+      "forma": "DDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9780.png",
+      "equipo_id": 9780,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 4,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Llosetense",
+      "pts": 16,
+      "pj": 11,
+      "dg": -1,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9782.png",
+      "equipo_id": 9782,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Binissalem",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "DDWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9774.png",
+      "equipo_id": 9774,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Alcúdia",
+      "pts": 15,
+      "pj": 11,
+      "dg": -4,
+      "pg": 5,
+      "pe": 0,
+      "pp": 6,
+      "gf": 14,
+      "gc": 18,
+      "forma": "WLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9773.png",
+      "equipo_id": 9773,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Sineu",
+      "pts": 11,
+      "pj": 11,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 12,
+      "gc": 19,
+      "forma": "WWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28112.png",
+      "equipo_id": 28112,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 11,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 1,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Andratx",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 15,
+      "gc": 20,
+      "forma": "DWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8151.png",
+      "equipo_id": 8151,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Mercadal",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17599.png",
+      "equipo_id": 17599,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Migjorn",
+      "pts": 6,
+      "pj": 11,
+      "dg": -13,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 11,
+      "gc": 24,
+      "forma": "DLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/24579.png",
+      "equipo_id": 24579,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Arenal",
+      "pts": 5,
+      "pj": 11,
+      "dg": -16,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 7,
+      "gc": 23,
+      "forma": "DLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22147.png",
+      "equipo_id": 22147,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Inter Ibiza",
+      "pts": 5,
+      "pj": 11,
+      "dg": -21,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 6,
+      "gc": 27,
+      "forma": "LLWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/17598.png",
+      "equipo_id": 17598,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 18
+      }
+    }
+  ],
+  "movimientos": {
+    "PE Sant Jordi": {
+      "antes": 6,
+      "ahora": 5,
+      "cambio": "sube 1 puesto"
+    },
+    "Santanyí": {
+      "antes": 7,
+      "ahora": 8,
+      "cambio": "baja 1 puesto"
+    },
+    "Formentera": {
+      "antes": 10,
+      "ahora": 9,
+      "cambio": "sube 1 puesto"
+    },
+    "Binissalem": {
+      "antes": 12,
+      "ahora": 11,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}
