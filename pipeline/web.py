@@ -369,8 +369,10 @@ def _script_analitica() -> str:
 
 
 def _aviso_cookies(prof: str = "") -> str:
-    """Función «Configurar cookies» y, si no hay AdSense pero sí Analytics, un aviso propio Aceptar/Rechazar."""
-    propio = bool((ANALITICA.get("id") or "").strip()) and not PUBLI.get("cliente")
+    """Función «Configurar cookies» y, si no está activo el aviso de Google (CMP) pero sí Analytics, un aviso propio Aceptar/Rechazar."""
+    # Mientras el aviso de Google (CMP) no esté publicado en AdSense, seguimos con el aviso propio.
+    cmp_google = bool(PUBLI.get("cliente")) and bool(PUBLI.get("cmp_activo"))
+    propio = bool((ANALITICA.get("id") or "").strip()) and not cmp_google
     js = ("<script>function sfCookies(){if(window.googlefc&&googlefc.callbackQueue){"
           "googlefc.callbackQueue.push(googlefc.showRevocationMessage)}else{var a=document.getElementById('sfck');"
           "if(a)a.style.display='flex'}return false}")

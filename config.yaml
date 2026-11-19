@@ -28,7 +28,8 @@ analitica:
   id: "G-W2M6QPP0P7"
 
 publicidad:
-  cliente: ""
+  cliente: "ca-pub-1840459669644667"   # ID de editor de AdSense (sinfocosfutbol@gmail.com)
+  cmp_activo: false    # true cuando el aviso de cookies de Google ("Privacidad y mensajes") esté publicado en AdSense
   muestra: false
   huecos:
     superior: ""         # banner bajo el menú, en todas las páginas
