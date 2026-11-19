@@ -1,0 +1,11 @@
+name: Prueba imagenes
+on: {push: {branches: [prueba-imagenes]}}
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in https://sinfocos.es/img/2026-11-19/instagram/2026-11-19-destacado-1.jpg https://sinfocos.es/img/2026-11-18/instagram/2026-11-18-destacado-1.jpg https://futbolsinfocos.github.io/img/2026-11-19/instagram/2026-11-19-destacado-1.jpg; do
+            echo "== $u"; curl -sS -o /tmp/x -w "%{http_code} %{content_type} %{size_download} %{url_effective}\n" -L "$u" || echo FALLO; file /tmp/x
+          done
+          echo | openssl s_client -connect sinfocos.es:443 -servername sinfocos.es 2>/dev/null | openssl x509 -noout -subject -issuer -dates || echo SIN_CERT
