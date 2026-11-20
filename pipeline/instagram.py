@@ -16,6 +16,10 @@ import requests
 from .web import CONTENIDO
 
 VERSION = os.environ.get("GRAPH_API_VERSION", "v23.0")
+# Segundos entre post y post: si se mandan de golpe, Instagram no termina de procesar las fotos
+# ("Media ID is not available") y Make apaga el escenario.
+ESPERA_ENTRE_POSTS = 60
+
 HOST = os.environ.get("GRAPH_API_HOST", "graph.instagram.com")  # o graph.facebook.com si usas login de Facebook
 
 
@@ -144,6 +148,8 @@ def publicar_plan(cfg: dict, hoy: str, simular: bool = False) -> list[str]:
         if simular:
             print(f"[simulación] Publicaría {post['slug']} con {len(urls)} imagen(es)")
             continue
+        if hechos:
+            time.sleep(ESPERA_ENTRE_POSTS)
         post["ig_media_id"], post["ig_publicado_en"] = ig.publicar(urls, post["texto_instagram"][:2200]), hoy
         ruta.write_text(json.dumps(post, ensure_ascii=False, indent=2))
         hechos.append(post["slug"])
@@ -180,6 +186,8 @@ def publicar_pendientes(cfg: dict, simular: bool = False) -> list[str]:
         if simular:
             print(f"[simulación] Publicaría {' + '.join(slugs)} con {len(urls)} imagen(es)")
             continue
+        if hechos:
+            time.sleep(ESPERA_ENTRE_POSTS)
         media = ig.publicar(urls, texto)
         for ruta, a in lote:
             a["ig_media_id"], a["ig_publicado_en"] = media, hoy
