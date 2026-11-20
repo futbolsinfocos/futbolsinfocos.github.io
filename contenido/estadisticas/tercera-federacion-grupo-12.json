@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Villa Santa Brígida",
+      "escudo": "https://media.api-sports.io/football/teams/9807.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Anaza",
+      "escudo": "https://media.api-sports.io/football/teams/28113.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Laguna de Duero",
+      "escudo": "https://media.api-sports.io/football/teams/22143.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Marino",
+      "escudo": "https://media.api-sports.io/football/teams/9799.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Panadería Pulido",
+      "escudo": "https://media.api-sports.io/football/teams/9800.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Real Unión de Tenerife",
+      "escudo": "https://media.api-sports.io/football/teams/20375.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "San Bartolomé",
+      "escudo": "https://media.api-sports.io/football/teams/22148.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Tenerife C",
+      "escudo": "https://media.api-sports.io/football/teams/26851.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Unión Sur Yaiza",
+      "escudo": "https://media.api-sports.io/football/teams/17605.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Villaverde Norte",
+      "escudo": "https://media.api-sports.io/football/teams/28114.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Estrella",
+      "escudo": "https://media.api-sports.io/football/teams/20275.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lanzarote",
+      "escudo": "https://media.api-sports.io/football/teams/9797.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Las Palmas C",
+      "escudo": "https://media.api-sports.io/football/teams/9798.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Los Llanos",
+      "escudo": "https://media.api-sports.io/football/teams/24611.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mensajero",
+      "escudo": "https://media.api-sports.io/football/teams/5269.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Playas Sotavento",
+      "escudo": "https://media.api-sports.io/football/teams/25036.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "San Miguel",
+      "escudo": "https://media.api-sports.io/football/teams/27623.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "UD San Fernando",
+      "escudo": "https://media.api-sports.io/football/teams/9804.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-20"
+}

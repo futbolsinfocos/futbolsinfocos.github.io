@@ -1,0 +1,277 @@
+{
+  "etiqueta": "Ligue 1",
+  "competicion": "Ligue 1",
+  "goleadores": [
+    {
+      "jugador": "L. Sinayoko",
+      "equipo": "Paris FC",
+      "escudo": "https://media.api-sports.io/football/teams/114.png",
+      "goles": 9,
+      "penaltis": 3,
+      "pj": 10
+    },
+    {
+      "jugador": "A. Gouiri",
+      "equipo": "Olympique de Marsella",
+      "escudo": "https://media.api-sports.io/football/teams/81.png",
+      "goles": 7,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "E. Lepaul",
+      "equipo": "Rennes",
+      "escudo": "https://media.api-sports.io/football/teams/94.png",
+      "goles": 7,
+      "penaltis": 4,
+      "pj": 7
+    },
+    {
+      "jugador": "C. Archer",
+      "equipo": "Auxerre",
+      "escudo": "https://media.api-sports.io/football/teams/108.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "E. Wahi",
+      "equipo": "Nice",
+      "escudo": "https://media.api-sports.io/football/teams/84.png",
+      "goles": 6,
+      "penaltis": 2,
+      "pj": 9
+    },
+    {
+      "jugador": "L. Ajorque",
+      "equipo": "Stade Brestois 29",
+      "escudo": "https://media.api-sports.io/football/teams/106.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "B. Dia",
+      "equipo": "Rennes",
+      "escudo": "https://media.api-sports.io/football/teams/94.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 8
+    },
+    {
+      "jugador": "C. Tengstedt",
+      "equipo": "Toulouse",
+      "escudo": "https://media.api-sports.io/football/teams/96.png",
+      "goles": 5,
+      "penaltis": 2,
+      "pj": 8
+    },
+    {
+      "jugador": "F. Thauvin",
+      "equipo": "Lens",
+      "escudo": "https://media.api-sports.io/football/teams/116.png",
+      "goles": 5,
+      "penaltis": 3,
+      "pj": 10
+    },
+    {
+      "jugador": "Gessime Yassine",
+      "equipo": "Strasbourg",
+      "escudo": "https://media.api-sports.io/football/teams/95.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "Ferran Torres",
+      "equipo": "PSG",
+      "escudo": "https://media.api-sports.io/football/teams/85.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "S. Szymański",
+      "equipo": "Rennes",
+      "escudo": "https://media.api-sports.io/football/teams/94.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "E. Nuamah",
+      "equipo": "Olympique de Lyon",
+      "escudo": "https://media.api-sports.io/football/teams/80.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "Paris Josua  Brunner",
+      "equipo": "Monaco",
+      "escudo": "https://media.api-sports.io/football/teams/91.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "K. Doumbia",
+      "equipo": "Stade Brestois 29",
+      "escudo": "https://media.api-sports.io/football/teams/106.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "L. Mafouta",
+      "equipo": "Le Mans",
+      "escudo": "https://media.api-sports.io/football/teams/1298.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "J. Maja",
+      "equipo": "Le Havre",
+      "escudo": "https://media.api-sports.io/football/teams/111.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "A. Hakimi",
+      "equipo": "PSG",
+      "escudo": "https://media.api-sports.io/football/teams/85.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "A. Bourabaa",
+      "equipo": "Le Mans",
+      "escudo": "https://media.api-sports.io/football/teams/1298.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 5
+    },
+    {
+      "jugador": "A. Harit",
+      "equipo": "Olympique de Marsella",
+      "escudo": "https://media.api-sports.io/football/teams/81.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 10
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Auxerre",
+      "escudo": "https://media.api-sports.io/football/teams/108.png",
+      "amarillas": 21,
+      "rojas": 2
+    },
+    {
+      "equipo": "Lens",
+      "escudo": "https://media.api-sports.io/football/teams/116.png",
+      "amarillas": 20,
+      "rojas": 2
+    },
+    {
+      "equipo": "Le Mans",
+      "escudo": "https://media.api-sports.io/football/teams/1298.png",
+      "amarillas": 22,
+      "rojas": 1
+    },
+    {
+      "equipo": "Nice",
+      "escudo": "https://media.api-sports.io/football/teams/84.png",
+      "amarillas": 24,
+      "rojas": 0
+    },
+    {
+      "equipo": "Toulouse",
+      "escudo": "https://media.api-sports.io/football/teams/96.png",
+      "amarillas": 23,
+      "rojas": 0
+    },
+    {
+      "equipo": "Paris FC",
+      "escudo": "https://media.api-sports.io/football/teams/114.png",
+      "amarillas": 22,
+      "rojas": 0
+    },
+    {
+      "equipo": "Le Havre",
+      "escudo": "https://media.api-sports.io/football/teams/111.png",
+      "amarillas": 15,
+      "rojas": 2
+    },
+    {
+      "equipo": "Strasbourg",
+      "escudo": "https://media.api-sports.io/football/teams/95.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Angers",
+      "escudo": "https://media.api-sports.io/football/teams/77.png",
+      "amarillas": 17,
+      "rojas": 1
+    },
+    {
+      "equipo": "Lille",
+      "escudo": "https://media.api-sports.io/football/teams/79.png",
+      "amarillas": 17,
+      "rojas": 1
+    },
+    {
+      "equipo": "Monaco",
+      "escudo": "https://media.api-sports.io/football/teams/91.png",
+      "amarillas": 20,
+      "rojas": 0
+    },
+    {
+      "equipo": "Rennes",
+      "escudo": "https://media.api-sports.io/football/teams/94.png",
+      "amarillas": 20,
+      "rojas": 0
+    },
+    {
+      "equipo": "Olympique de Marsella",
+      "escudo": "https://media.api-sports.io/football/teams/81.png",
+      "amarillas": 16,
+      "rojas": 1
+    },
+    {
+      "equipo": "Estac Troyes",
+      "escudo": "https://media.api-sports.io/football/teams/110.png",
+      "amarillas": 18,
+      "rojas": 0
+    },
+    {
+      "equipo": "Olympique de Lyon",
+      "escudo": "https://media.api-sports.io/football/teams/80.png",
+      "amarillas": 13,
+      "rojas": 1
+    },
+    {
+      "equipo": "Stade Brestois 29",
+      "escudo": "https://media.api-sports.io/football/teams/106.png",
+      "amarillas": 14,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lorient",
+      "escudo": "https://media.api-sports.io/football/teams/97.png",
+      "amarillas": 13,
+      "rojas": 0
+    },
+    {
+      "equipo": "PSG",
+      "escudo": "https://media.api-sports.io/football/teams/85.png",
+      "amarillas": 10,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-20"
+}

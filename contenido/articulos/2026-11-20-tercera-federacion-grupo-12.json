@@ -1,0 +1,673 @@
+{
+  "slug": "2026-11-20-tercera-federacion-grupo-12",
+  "fecha": "2026-11-20",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Anaza remonta al Marino (3-2) y sube dos puestos con diez jugadores desde el 68",
+  "entradilla": "Anaza dio la vuelta al marcador en la segunda parte y ganó 3-2 al Marino. Jugó con diez desde el minuto 68 y sube hasta el 15.º puesto.",
+  "cuerpo_markdown": "Anaza ganó 3-2 al Marino en la jornada 12 del Grupo 12 de Tercera Federación. El Marino se adelantó en el 29 y el Anaza le dio la vuelta con tres goles entre el 44 y el 59. Con una expulsión en el 68, el equipo local jugó con diez hasta el final. Con este resultado, el Anaza sube dos puestos hasta el 15.º con 9 puntos.\n\n## Anaza 3-2 Marino\n\nEl Marino marcó en el 29 y el Anaza empató en el 44. Los locales se adelantaron con goles en el 52 y el 59, y el Marino recortó distancias en el 81. Hubo una expulsión en el equipo local en el 68. Con la victoria, el Anaza sube del 17.º al 15.º puesto y suma 9 puntos. El Marino se mantiene en el 7.º puesto con 16 puntos.\n\n## Así queda la clasificación\n\nLa Panadería Pulido lidera con 26 puntos, igual que la UD San Fernando, que queda segunda por diferencia de goles (18 frente a 19). San Miguel es tercero con 23 puntos, igual que el Real Unión de Tenerife. En la parte baja, el Anaza tiene 9 puntos y está a dos puntos del Playas Sotavento (7), que ocupa el 16.º puesto. El Villaverde Norte cierra la tabla con 5 puntos.",
+  "texto_instagram": "Anaza remonta al Marino y gana 3-2 en Tercera Federación (Grupo 12) ⚽. Jugó con diez desde el 68 y sube al 15.º puesto.\n\nAnaza 3-2 Marino: goles de Marino (29, 81) y de Anaza (44, 52, 59). Expulsión en el Anaza en el 68. 🏆",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo12",
+    "#Anaza",
+    "#Marino"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-tercera-federacion-grupo-12-1.jpg",
+    "img/2026-11-20/2026-11-20-tercera-federacion-grupo-12-2.jpg",
+    "img/2026-11-20/2026-11-20-tercera-federacion-grupo-12-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616168,
+      "fecha": "2026-11-20T22:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 12 - 12",
+      "liga_id": 450,
+      "id_local": 28113,
+      "id_visitante": 9799,
+      "local": "Anaza",
+      "visitante": "Marino",
+      "escudo_local": "https://media.api-sports.io/football/teams/28113.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9799.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 29,
+          "equipo": "Marino",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 44,
+          "equipo": "Anaza",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 52,
+          "equipo": "Anaza",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 59,
+          "equipo": "Anaza",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 81,
+          "equipo": "Marino",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 68,
+          "equipo": "Anaza",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Panadería Pulido",
+      "pts": 26,
+      "pj": 11,
+      "dg": 19,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 34,
+      "gc": 15,
+      "forma": "WWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9800.png",
+      "equipo_id": 9800,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 25,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD San Fernando",
+      "pts": 26,
+      "pj": 11,
+      "dg": 18,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 25,
+      "gc": 7,
+      "forma": "DWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9804.png",
+      "equipo_id": 9804,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "San Miguel",
+      "pts": 23,
+      "pj": 11,
+      "dg": 12,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 21,
+      "gc": 9,
+      "forma": "DWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/27623.png",
+      "equipo_id": 27623,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 16,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Unión de Tenerife",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 17,
+      "gc": 10,
+      "forma": "WWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20375.png",
+      "equipo_id": 20375,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Las Palmas C",
+      "pts": 19,
+      "pj": 11,
+      "dg": 9,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 22,
+      "gc": 13,
+      "forma": "WLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9798.png",
+      "equipo_id": 9798,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Unión Sur Yaiza",
+      "pts": 19,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 19,
+      "gc": 12,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17605.png",
+      "equipo_id": 17605,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Marino",
+      "pts": 16,
+      "pj": 11,
+      "dg": 6,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 18,
+      "gc": 12,
+      "forma": "DDDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9799.png",
+      "equipo_id": 9799,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Los Llanos",
+      "pts": 16,
+      "pj": 10,
+      "dg": 6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 4,
+      "gf": 15,
+      "gc": 9,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24611.png",
+      "equipo_id": 24611,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 13,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Tenerife C",
+      "pts": 15,
+      "pj": 10,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DLDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26851.png",
+      "equipo_id": 26851,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Mensajero",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 19,
+      "forma": "LDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5269.png",
+      "equipo_id": 5269,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Estrella",
+      "pts": 13,
+      "pj": 11,
+      "dg": -7,
+      "pg": 4,
+      "pe": 1,
+      "pp": 6,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20275.png",
+      "equipo_id": 20275,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Lanzarote",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 11,
+      "gc": 14,
+      "forma": "LDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9797.png",
+      "equipo_id": 9797,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "San Bartolomé",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 14,
+      "gc": 19,
+      "forma": "LLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22148.png",
+      "equipo_id": 22148,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Villa Santa Brígida",
+      "pts": 10,
+      "pj": 11,
+      "dg": -8,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 9,
+      "gc": 17,
+      "forma": "LLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9807.png",
+      "equipo_id": 9807,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Anaza",
+      "pts": 9,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 10,
+      "gc": 21,
+      "forma": "LLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28113.png",
+      "equipo_id": 28113,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Playas Sotavento",
+      "pts": 7,
+      "pj": 11,
+      "dg": -17,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 9,
+      "gc": 26,
+      "forma": "WLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25036.png",
+      "equipo_id": 25036,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Laguna de Duero",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 24,
+      "forma": "WDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22143.png",
+      "equipo_id": 22143,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Villaverde Norte",
+      "pts": 5,
+      "pj": 11,
+      "dg": -18,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 8,
+      "gc": 26,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28114.png",
+      "equipo_id": 28114,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 21
+      }
+    }
+  ],
+  "movimientos": {
+    "Marino": {
+      "antes": 7,
+      "ahora": 7,
+      "cambio": "se mantiene"
+    },
+    "Anaza": {
+      "antes": 17,
+      "ahora": 15,
+      "cambio": "sube 2 puestos"
+    }
+  }
+}

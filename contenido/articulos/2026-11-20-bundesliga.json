@@ -1,0 +1,670 @@
+{
+  "slug": "2026-11-20-bundesliga",
+  "fecha": "2026-11-20",
+  "etiqueta": "Bundesliga",
+  "competicion": "Bundesliga",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Bayern empata 1-1 con el Köln y mantiene el liderato",
+  "entradilla": "El Bayern de Múnich no pasó del empate ante el 1. FC Köln en el Allianz Arena. Sigue líder con 22 puntos, y el Köln sube al puesto 14.",
+  "cuerpo_markdown": "El Bayern de Múnich no fue más allá del 1-1 ante el 1. FC Köln en la décima jornada de la Bundesliga. El líder suma 22 puntos y sigue en primera posición. El Köln, con 10 puntos, sube un puesto y se sitúa 14.\n\n## Bayern de Múnich 1-1 1. FC Köln\n\nEl marcador se abrió en el 12 con gol de Mikey Moore para el Köln. Nathaniel Brown empató para el Bayern en el 37. El Bayern tuvo 71% de posesión y 17 tiros, pero solo uno fue a puerta. El Köln, con 29% de posesión, remató siete veces y cuatro fueron a puerta. Con el empate, el Bayern se mantiene primero con 22 puntos, por delante del Borussia Dortmund, que tiene 21. El Köln suma 10 puntos en 10 partidos y sube del puesto 15 al 14.\n\n## Así queda la clasificación\n\nEl Bayern de Múnich encabeza la tabla con 22 puntos, uno más que el Borussia Dortmund. La zona de ascenso la completan el SC Freiburg, tercero con 19, y el RB Leipzig, cuarto con 18. En la parte baja, el Union Berlin ocupa el puesto 16 con 7 puntos y está en zona de descenso, igual que el FC Schalke 04, 17.º con 6, y el Borussia Mönchengladbach, último con 4. El 1. FC Köln queda a tres puntos del Union Berlin.",
+  "texto_instagram": "El Bayern empata 1-1 con el Köln y sigue líder con 22 puntos 🔴⚪. El Köln sube al puesto 14 con 10 puntos.\n\nBayern de Múnich 1-1 1. FC Köln\nGoles: Mikey Moore (Köln, 12'); Nathaniel Brown (Bayern, 37') ⚽",
+  "hashtags": [
+    "#Bundesliga",
+    "#FCBayern",
+    "#Koeln",
+    "#Jornada10"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-bundesliga-1.jpg",
+    "img/2026-11-20/2026-11-20-bundesliga-2.jpg",
+    "img/2026-11-20/2026-11-20-bundesliga-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1575221,
+      "fecha": "2026-11-20T20:30:00+01:00",
+      "estadio": "Allianz Arena",
+      "ciudad": "Munich",
+      "arbitro": "Robin Braun",
+      "jornada": "Regular Season - 10",
+      "liga_id": 78,
+      "id_local": 157,
+      "id_visitante": 192,
+      "local": "Bayern de Múnich",
+      "visitante": "1. FC Köln",
+      "escudo_local": "https://media.api-sports.io/football/teams/157.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/192.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 12,
+          "equipo": "1. FC Köln",
+          "jugador": "Mikey Moore",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 37,
+          "equipo": "Bayern de Múnich",
+          "jugador": "Nathaniel Brown",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "71%",
+          "tiros": 17,
+          "a_puerta": 1,
+          "corners": 5,
+          "faltas": 6,
+          "fueras_juego": 5,
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "29%",
+          "tiros": 7,
+          "a_puerta": 4,
+          "corners": 0,
+          "faltas": 3,
+          "fueras_juego": 2,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Bayern de Múnich",
+      "pts": 22,
+      "pj": 10,
+      "dg": 20,
+      "pg": 6,
+      "pe": 4,
+      "pp": 0,
+      "gf": 30,
+      "gc": 10,
+      "forma": "DWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/157.png",
+      "equipo_id": 157,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 21,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Borussia Dortmund",
+      "pts": 21,
+      "pj": 9,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 0,
+      "gf": 16,
+      "gc": 7,
+      "forma": "WDWDD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/165.png",
+      "equipo_id": 165,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 2,
+        "pp": 0,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "SC Freiburg",
+      "pts": 19,
+      "pj": 9,
+      "dg": 10,
+      "pg": 6,
+      "pe": 1,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "WWLLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/160.png",
+      "equipo_id": 160,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "RB Leipzig",
+      "pts": 18,
+      "pj": 9,
+      "dg": 14,
+      "pg": 6,
+      "pe": 0,
+      "pp": 3,
+      "gf": 27,
+      "gc": 13,
+      "forma": "WWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/173.png",
+      "equipo_id": 173,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 23,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 0,
+        "pp": 3,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Bayer Leverkusen",
+      "pts": 16,
+      "pj": 9,
+      "dg": 3,
+      "pg": 5,
+      "pe": 1,
+      "pp": 3,
+      "gf": 20,
+      "gc": 17,
+      "forma": "WLLWW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/168.png",
+      "equipo_id": 168,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Werder Bremen",
+      "pts": 15,
+      "pj": 9,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 2,
+      "gf": 17,
+      "gc": 15,
+      "forma": "LWWDD",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/162.png",
+      "equipo_id": 162,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "SV Elversberg",
+      "pts": 13,
+      "pj": 9,
+      "dg": -1,
+      "pg": 4,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
+      "gc": 18,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1660.png",
+      "equipo_id": 1660,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "VfB Stuttgart",
+      "pts": 12,
+      "pj": 9,
+      "dg": 0,
+      "pg": 4,
+      "pe": 0,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/172.png",
+      "equipo_id": 172,
+      "casa": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "1899 Hoffenheim",
+      "pts": 12,
+      "pj": 9,
+      "dg": -1,
+      "pg": 4,
+      "pe": 0,
+      "pp": 5,
+      "gf": 16,
+      "gc": 17,
+      "forma": "WLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/167.png",
+      "equipo_id": 167,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Eintracht Frankfurt",
+      "pts": 12,
+      "pj": 9,
+      "dg": -5,
+      "pg": 3,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 20,
+      "forma": "DWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/169.png",
+      "equipo_id": 169,
+      "casa": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Hamburger SV",
+      "pts": 12,
+      "pj": 9,
+      "dg": -10,
+      "pg": 4,
+      "pe": 0,
+      "pp": 5,
+      "gf": 10,
+      "gc": 20,
+      "forma": "WLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/175.png",
+      "equipo_id": 175,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "FSV Mainz 05",
+      "pts": 10,
+      "pj": 9,
+      "dg": -1,
+      "pg": 3,
+      "pe": 1,
+      "pp": 5,
+      "gf": 18,
+      "gc": 19,
+      "forma": "LLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/164.png",
+      "equipo_id": 164,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "SC Paderborn 07",
+      "pts": 10,
+      "pj": 9,
+      "dg": -3,
+      "pg": 2,
+      "pe": 4,
+      "pp": 3,
+      "gf": 8,
+      "gc": 11,
+      "forma": "DDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/185.png",
+      "equipo_id": 185,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 3,
+        "pp": 1,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "1. FC Köln",
+      "pts": 10,
+      "pj": 10,
+      "dg": -4,
+      "pg": 2,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 15,
+      "forma": "DLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/192.png",
+      "equipo_id": 192,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "FC Augsburg",
+      "pts": 9,
+      "pj": 9,
+      "dg": 0,
+      "pg": 2,
+      "pe": 3,
+      "pp": 4,
+      "gf": 20,
+      "gc": 20,
+      "forma": "LLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/170.png",
+      "equipo_id": 170,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 0,
+        "pp": 3,
+        "gf": 11,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Union Berlin",
+      "pts": 7,
+      "pj": 9,
+      "dg": -14,
+      "pg": 1,
+      "pe": 4,
+      "pp": 4,
+      "gf": 7,
+      "gc": 21,
+      "forma": "LDDDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/182.png",
+      "equipo_id": 182,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 1,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "FC Schalke 04",
+      "pts": 6,
+      "pj": 9,
+      "dg": -6,
+      "pg": 1,
+      "pe": 3,
+      "pp": 5,
+      "gf": 5,
+      "gc": 11,
+      "forma": "LLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/174.png",
+      "equipo_id": 174,
+      "casa": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 2,
+        "pp": 2,
+        "gf": 0,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Borussia Mönchengladbach",
+      "pts": 4,
+      "pj": 9,
+      "dg": -13,
+      "pg": 1,
+      "pe": 1,
+      "pp": 7,
+      "gf": 12,
+      "gc": 25,
+      "forma": "LDWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/163.png",
+      "equipo_id": 163,
+      "casa": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 15
+      }
+    }
+  ],
+  "movimientos": {
+    "Bayern de Múnich": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "1. FC Köln": {
+      "antes": 15,
+      "ahora": 14,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

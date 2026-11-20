@@ -1,0 +1,289 @@
+{
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "goleadores": [
+    {
+      "jugador": "Raphinha",
+      "equipo": "Barcelona",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "goles": 15,
+      "penaltis": 3,
+      "pj": 11
+    },
+    {
+      "jugador": "Kylian Mbappé",
+      "equipo": "Real Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "goles": 13,
+      "penaltis": 2,
+      "pj": 12
+    },
+    {
+      "jugador": "Lamine Yamal",
+      "equipo": "Barcelona",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "goles": 10,
+      "penaltis": 1,
+      "pj": 12
+    },
+    {
+      "jugador": "M. Zabiri",
+      "equipo": "Racing de Santander",
+      "escudo": "https://media.api-sports.io/football/teams/4665.png",
+      "goles": 9,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "A. Budimir",
+      "equipo": "Osasuna",
+      "escudo": "https://media.api-sports.io/football/teams/727.png",
+      "goles": 8,
+      "penaltis": 4,
+      "pj": 12
+    },
+    {
+      "jugador": "Fermín",
+      "equipo": "Barcelona",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Sergio Camello",
+      "equipo": "Rayo Vallecano",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "Roberto Fernández",
+      "equipo": "Espanyol",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "Fer Niño",
+      "equipo": "Elche",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "goles": 6,
+      "penaltis": 1,
+      "pj": 12
+    },
+    {
+      "jugador": "Álex Baena",
+      "equipo": "Atlético de Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "P. Aubameyang",
+      "equipo": "Deportivo de La Coruña",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 9
+    },
+    {
+      "jugador": "Brugui",
+      "equipo": "Levante",
+      "escudo": "https://media.api-sports.io/football/teams/539.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Adrián Niño Heredia",
+      "equipo": "Málaga",
+      "escudo": "https://media.api-sports.io/football/teams/535.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "L. Boyé",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "M. Díaz",
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "J. Bellingham",
+      "equipo": "Real Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "G. Simeone",
+      "equipo": "Atlético de Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "L. Sučić",
+      "equipo": "Real Sociedad",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "O. Óskarsson",
+      "equipo": "Real Sociedad",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "Álex Berenguer",
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "goles": 4,
+      "penaltis": 2,
+      "pj": 12
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Getafe",
+      "escudo": "https://media.api-sports.io/football/teams/546.png",
+      "amarillas": 41,
+      "rojas": 5
+    },
+    {
+      "equipo": "Sevilla",
+      "escudo": "https://media.api-sports.io/football/teams/536.png",
+      "amarillas": 32,
+      "rojas": 4
+    },
+    {
+      "equipo": "Espanyol",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "amarillas": 38,
+      "rojas": 1
+    },
+    {
+      "equipo": "Valencia",
+      "escudo": "https://media.api-sports.io/football/teams/532.png",
+      "amarillas": 32,
+      "rojas": 2
+    },
+    {
+      "equipo": "Elche",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "amarillas": 33,
+      "rojas": 1
+    },
+    {
+      "equipo": "Real Sociedad",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "amarillas": 26,
+      "rojas": 3
+    },
+    {
+      "equipo": "Deportivo de La Coruña",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "amarillas": 25,
+      "rojas": 3
+    },
+    {
+      "equipo": "Málaga",
+      "escudo": "https://media.api-sports.io/football/teams/535.png",
+      "amarillas": 31,
+      "rojas": 1
+    },
+    {
+      "equipo": "Racing de Santander",
+      "escudo": "https://media.api-sports.io/football/teams/4665.png",
+      "amarillas": 31,
+      "rojas": 1
+    },
+    {
+      "equipo": "Osasuna",
+      "escudo": "https://media.api-sports.io/football/teams/727.png",
+      "amarillas": 33,
+      "rojas": 0
+    },
+    {
+      "equipo": "Rayo Vallecano",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "amarillas": 27,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atlético de Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "amarillas": 28,
+      "rojas": 1
+    },
+    {
+      "equipo": "Real Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "amarillas": 25,
+      "rojas": 2
+    },
+    {
+      "equipo": "Athletic Club",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "amarillas": 24,
+      "rojas": 2
+    },
+    {
+      "equipo": "Villarreal",
+      "escudo": "https://media.api-sports.io/football/teams/533.png",
+      "amarillas": 24,
+      "rojas": 1
+    },
+    {
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "amarillas": 23,
+      "rojas": 1
+    },
+    {
+      "equipo": "Celta de Vigo",
+      "escudo": "https://media.api-sports.io/football/teams/538.png",
+      "amarillas": 19,
+      "rojas": 1
+    },
+    {
+      "equipo": "Real Betis",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Levante",
+      "escudo": "https://media.api-sports.io/football/teams/539.png",
+      "amarillas": 19,
+      "rojas": 0
+    },
+    {
+      "equipo": "Barcelona",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "amarillas": 18,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-20"
+}

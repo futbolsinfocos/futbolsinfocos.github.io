@@ -1,0 +1,729 @@
+{
+  "slug": "2026-11-20-laliga-ea-sports",
+  "fecha": "2026-11-20",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "El Espanyol gana en San Mamés con un gol de Roberto Fernández Jaén y sube al 13.º puesto",
+  "entradilla": "Un tanto de Roberto Fernández Jaén en el 66 decide el Athletic Club-Espanyol. El conjunto perico sube cinco puestos, del 18 al 13, mientras el Athletic se mantiene séptimo.",
+  "cuerpo_markdown": "El Espanyol se llevó los tres puntos de San Mamés con un único gol, marcado por Roberto Fernández Jaén en el minuto 66. La victoria permite a los pericos subir cinco puestos, del 18 al 13, con 12 puntos.\n\n## Athletic Club 0-1 Espanyol\n\nEl Athletic tuvo más la pelota, con un 58% de posesión, y remató 17 veces, 6 de ellas a puerta. El Espanyol disparó 6 veces y 3 fueron a puerta. El gol llegó en el 66, obra de Roberto Fernández Jaén. El Athletic se mantiene en la séptima posición con 16 puntos, mientras el Espanyol escala hasta el 13.º puesto con 12 puntos.\n\n## Así queda la clasificación\n\nEl Barcelona encabeza la tabla con 33 puntos, seguido del Real Madrid con 30 y el Atlético de Madrid con 28. Por detrás están el Real Betis (26), la Real Sociedad (22) y el Sevilla (18), que cierran la franja que la tabla marca como zona de ascenso. La tabla no señala ningún equipo en zona de play-off. En la parte baja, el Elche (10 puntos), el Valencia (9) y el Málaga (5) ocupan la zona de descenso.",
+  "texto_instagram": "⚽ El Espanyol gana en San Mamés con un gol de Roberto Fernández Jaén y sube al 13.º puesto.\n\nAthletic Club 0-1 Espanyol: Roberto Fernández Jaén (66') ⚽\n\n📊 Barcelona lidera con 33 puntos, por delante del Real Madrid (30) y el Atlético de Madrid (28).",
+  "hashtags": [
+    "#LaLiga",
+    "#AthleticEspanyol",
+    "#Espanyol",
+    "#AthleticClub",
+    "#Jornada13"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-laliga-ea-sports-1.jpg",
+    "img/2026-11-20/2026-11-20-laliga-ea-sports-2.jpg",
+    "img/2026-11-20/2026-11-20-laliga-ea-sports-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570454,
+      "fecha": "2026-11-20T21:00:00+01:00",
+      "estadio": "San Mamés Stadium",
+      "ciudad": "Bilbao",
+      "arbitro": "Mateo Busquets Ferrer",
+      "jornada": "Regular Season - 13",
+      "liga_id": 140,
+      "id_local": 531,
+      "id_visitante": 540,
+      "local": "Athletic Club",
+      "visitante": "Espanyol",
+      "escudo_local": "https://media.api-sports.io/football/teams/531.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/540.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 66,
+          "equipo": "Espanyol",
+          "jugador": "Roberto Fernández Jaén",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "58%",
+          "tiros": 17,
+          "a_puerta": 6,
+          "corners": 9,
+          "faltas": 16,
+          "fueras_juego": 2,
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "42%",
+          "tiros": 6,
+          "a_puerta": 3,
+          "corners": 2,
+          "faltas": 13,
+          "fueras_juego": 3,
+          "amarillas": 1,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona",
+      "pts": 33,
+      "pj": 12,
+      "dg": 35,
+      "pg": 11,
+      "pe": 0,
+      "pp": 1,
+      "gf": 48,
+      "gc": 13,
+      "forma": "WWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "equipo_id": 529,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 24,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 24,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Real Madrid",
+      "pts": 30,
+      "pj": 12,
+      "dg": 21,
+      "pg": 10,
+      "pe": 0,
+      "pp": 2,
+      "gf": 31,
+      "gc": 10,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "equipo_id": 541,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 17,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 14,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Atlético de Madrid",
+      "pts": 28,
+      "pj": 12,
+      "dg": 13,
+      "pg": 9,
+      "pe": 1,
+      "pp": 2,
+      "gf": 23,
+      "gc": 10,
+      "forma": "LWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "equipo_id": 530,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Betis",
+      "pts": 26,
+      "pj": 12,
+      "dg": 5,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 15,
+      "forma": "WWDLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "equipo_id": 543,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Real Sociedad",
+      "pts": 22,
+      "pj": 12,
+      "dg": 1,
+      "pg": 7,
+      "pe": 1,
+      "pp": 4,
+      "gf": 21,
+      "gc": 20,
+      "forma": "WLWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "equipo_id": 548,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Sevilla",
+      "pts": 18,
+      "pj": 12,
+      "dg": -2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 19,
+      "forma": "DLWLD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/536.png",
+      "equipo_id": 536,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Athletic Club",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "forma": "DWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "equipo_id": 531,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Villarreal",
+      "pts": 15,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 17,
+      "gc": 15,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/533.png",
+      "equipo_id": 533,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Deportivo de La Coruña",
+      "pts": 15,
+      "pj": 12,
+      "dg": 1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 15,
+      "gc": 14,
+      "forma": "DWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "equipo_id": 544,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Racing de Santander",
+      "pts": 14,
+      "pj": 12,
+      "dg": -13,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 17,
+      "gc": 30,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4665.png",
+      "equipo_id": 4665,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Celta de Vigo",
+      "pts": 13,
+      "pj": 12,
+      "dg": 0,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "DLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/538.png",
+      "equipo_id": 538,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 1,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Alavés",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 15,
+      "gc": 17,
+      "forma": "DLDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "equipo_id": 542,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Espanyol",
+      "pts": 12,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "equipo_id": 540,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Rayo Vallecano",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 21,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "equipo_id": 728,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Getafe",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 8,
+      "gc": 18,
+      "forma": "LWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/546.png",
+      "equipo_id": 546,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 0,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Osasuna",
+      "pts": 12,
+      "pj": 12,
+      "dg": -11,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
+      "gc": 23,
+      "forma": "DLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/727.png",
+      "equipo_id": 727,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Levante",
+      "pts": 11,
+      "pj": 12,
+      "dg": -5,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 16,
+      "gc": 21,
+      "forma": "DLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/539.png",
+      "equipo_id": 539,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Elche",
+      "pts": 10,
+      "pj": 12,
+      "dg": -6,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 14,
+      "gc": 20,
+      "forma": "LLWDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "equipo_id": 797,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Valencia",
+      "pts": 9,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 20,
+      "forma": "LWLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/532.png",
+      "equipo_id": 532,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 3,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Málaga",
+      "pts": 5,
+      "pj": 12,
+      "dg": -14,
+      "pg": 0,
+      "pe": 5,
+      "pp": 7,
+      "gf": 9,
+      "gc": 23,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/535.png",
+      "equipo_id": 535,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Athletic Club": {
+      "antes": 7,
+      "ahora": 7,
+      "cambio": "se mantiene"
+    },
+    "Espanyol": {
+      "antes": 18,
+      "ahora": 13,
+      "cambio": "sube 5 puestos"
+    }
+  }
+}

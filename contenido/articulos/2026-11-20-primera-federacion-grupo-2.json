@@ -1,0 +1,825 @@
+{
+  "slug": "2026-11-20-primera-federacion-grupo-2",
+  "fecha": "2026-11-20",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Bosilj mete al Murcia en play-off y el Hércules también entra en la zona noble",
+  "entradilla": "El doblete de D. Bosilj en Madrid hunde al Castilla, que cae del cuarto al séptimo puesto, y el Hércules gana en Teruel para escalar cuatro plazas. El Villarreal B salva un punto en el minuto 90 ante el Nàstic.",
+  "cuerpo_markdown": "La jornada 13 del Grupo 2 de Primera Federación reordenó la zona de play-off en una sola noche. El Real Murcia ganó 0-2 al Real Madrid Castilla con dos goles de D. Bosilj y pasó del noveno al quinto puesto, con 20 puntos. El Hércules venció 0-1 en Teruel y subió del octavo al cuarto, con 21. El gran perjudicado fue el Castilla, que cayó del cuarto al séptimo. En Villarreal, el filial empató 2-2 con el Nàstic gracias a un gol de D. Fofana en el minuto 90 y conserva la segunda plaza.\n\n## Real Madrid Castilla 0-2 Real Murcia\n\nD. Bosilj resolvió el partido antes del descanso. Marcó en el minuto 26 y repitió en el 37 para firmar un doblete que dio al Real Murcia su triunfo en Madrid.\n\nLa victoria vale una subida de cuatro puestos: el Murcia pasa del noveno al quinto lugar y entra en zona de play-off con 20 puntos. El Real Madrid Castilla baja tres plazas, del cuarto al séptimo, y se queda fuera del play-off con 19 puntos, a uno de su rival de esta noche.\n\n## Teruel 0-1 Hércules\n\nUn gol de H. Abdelilah en el minuto 31 dio el triunfo al Hércules en Pinilla. El conjunto alicantino sube cuatro puestos, del octavo al cuarto, y se instala en el play-off con 21 puntos, empatado con el Alcorcón, tercero.\n\nEl Teruel sigue colista con 7 puntos. Suma una sola victoria en 13 jornadas y es el equipo más goleado del grupo, con 20 tantos en contra y solo 5 a favor.\n\n## Villarreal B 2-2 Nàstic de Tarragona\n\nF. Viveros adelantó al Villarreal B de penalti en el minuto 22. El Nàstic de Tarragona le dio la vuelta con goles de A. Almansa, en el 27, y P. Marco, en el 37. D. Fofana igualó en el minuto 90. El Villarreal B se mantiene segundo con 23 puntos, a cuatro del líder, el Zaragoza. El Nàstic sube dos puestos, del 15º al 13º, con 15 puntos.\n\n## Así queda la clasificación\n\nEl Zaragoza lidera con 27 puntos y es el único en zona de ascenso directo. Le sigue el Villarreal B con 23. El play-off lo completan el Alcorcón (21), el Hércules (21) y el Real Murcia (20). El FC Cartagena, sexto con 19, está a un punto del play-off, igualado con el Real Madrid Castilla y el Real Jaén. Abajo, el Antequera, 15º con 14 puntos, marca la salvación, dos por encima del Águilas (12), primero en descenso. Cierran la tabla Juventud Torremolinos (11), Europa Fc (10), Rayo Majadahonda (7) y Teruel (7), colista a siete puntos de la permanencia.",
+  "texto_instagram": "⚽ Noche de vuelco en el play-off: el Real Murcia (9º→5º) y el Hércules (8º→4º) entran en la zona noble y el Castilla cae al séptimo. El Villarreal B salva un punto en el 90 📈\n\nReal Madrid Castilla 0-2 Real Murcia: D. Bosilj (26', 37')\nTeruel 0-1 Hércules: H. Abdelilah (31')\nVillarreal B 2-2 Nàstic de Tarragona: F. Viveros (22', pen.), D. Fofana (90') / A. Almansa (27'), P. Marco (37') 🔥",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#PrimeraRFEF",
+    "#RealMurcia",
+    "#Hércules",
+    "#Castilla",
+    "#VillarrealB",
+    "#Nàstic",
+    "#Teruel"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-primera-federacion-grupo-2-1.jpg",
+    "img/2026-11-20/2026-11-20-primera-federacion-grupo-2-2.jpg",
+    "img/2026-11-20/2026-11-20-primera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1571223,
+      "fecha": "2026-11-20T19:00:00+01:00",
+      "estadio": "Pinilla",
+      "ciudad": "Teruel",
+      "arbitro": null,
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 5278,
+      "id_visitante": 4666,
+      "local": "Teruel",
+      "visitante": "Hércules",
+      "escudo_local": "https://media.api-sports.io/football/teams/5278.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/4666.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 31,
+          "equipo": "Hércules",
+          "jugador": "H. Abdelilah",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571224,
+      "fecha": "2026-11-20T21:00:00+01:00",
+      "estadio": "Estadio de la Ceramica",
+      "ciudad": "Villarreal",
+      "arbitro": null,
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 9595,
+      "id_visitante": 714,
+      "local": "Villarreal B",
+      "visitante": "Nàstic de Tarragona",
+      "escudo_local": "https://media.api-sports.io/football/teams/9595.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/714.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 22,
+          "equipo": "Villarreal B",
+          "jugador": "F. Viveros",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 27,
+          "equipo": "Nàstic de Tarragona",
+          "jugador": "A. Almansa",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 37,
+          "equipo": "Nàstic de Tarragona",
+          "jugador": "P. Marco",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Villarreal B",
+          "jugador": "D. Fofana",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571221,
+      "fecha": "2026-11-20T21:15:00+01:00",
+      "estadio": null,
+      "ciudad": "Madrid",
+      "arbitro": null,
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 9575,
+      "id_visitante": 5275,
+      "local": "Real Madrid Castilla",
+      "visitante": "Real Murcia",
+      "escudo_local": "https://media.api-sports.io/football/teams/9575.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5275.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 26,
+          "equipo": "Real Murcia",
+          "jugador": "D. Bosilj",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 37,
+          "equipo": "Real Murcia",
+          "jugador": "D. Bosilj",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Zaragoza",
+      "pts": 27,
+      "pj": 12,
+      "dg": 13,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 25,
+      "gc": 12,
+      "forma": "WWDWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/732.png",
+      "equipo_id": 732,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Villarreal B",
+      "pts": 23,
+      "pj": 12,
+      "dg": 11,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 26,
+      "gc": 15,
+      "forma": "DDDWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9595.png",
+      "equipo_id": 9595,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Alcorcón",
+      "pts": 21,
+      "pj": 12,
+      "dg": 10,
+      "pg": 5,
+      "pe": 6,
+      "pp": 1,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WWDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/711.png",
+      "equipo_id": 711,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 16,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Hércules",
+      "pts": 21,
+      "pj": 13,
+      "dg": 0,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WDDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/4666.png",
+      "equipo_id": 4666,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Real Murcia",
+      "pts": 20,
+      "pj": 12,
+      "dg": 3,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 14,
+      "gc": 11,
+      "forma": "LDWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5275.png",
+      "equipo_id": 5275,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "FC Cartagena",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 17,
+      "gc": 13,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5262.png",
+      "equipo_id": 5262,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Real Madrid Castilla",
+      "pts": 19,
+      "pj": 12,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WDWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9575.png",
+      "equipo_id": 9575,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Real Jaén",
+      "pts": 19,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5274.png",
+      "equipo_id": 5274,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ibiza",
+      "pts": 18,
+      "pj": 12,
+      "dg": 3,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 15,
+      "forma": "LDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9390.png",
+      "equipo_id": 9390,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Algeciras",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 18,
+      "forma": "WDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9597.png",
+      "equipo_id": 9597,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Sant Andreu",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 14,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5277.png",
+      "equipo_id": 5277,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Huesca",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "LLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/726.png",
+      "equipo_id": 726,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Nàstic de Tarragona",
+      "pts": 15,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 16,
+      "gc": 18,
+      "forma": "LDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/714.png",
+      "equipo_id": 714,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Atlético Madrid B",
+      "pts": 14,
+      "pj": 12,
+      "dg": 2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 21,
+      "gc": 19,
+      "forma": "WLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9570.png",
+      "equipo_id": 9570,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 4,
+        "pp": 1,
+        "gf": 14,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Antequera",
+      "pts": 14,
+      "pj": 12,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 18,
+      "gc": 17,
+      "forma": "LWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9742.png",
+      "equipo_id": 9742,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Águilas",
+      "pts": 12,
+      "pj": 12,
+      "dg": -5,
+      "pg": 2,
+      "pe": 6,
+      "pp": 4,
+      "gf": 11,
+      "gc": 16,
+      "forma": "WDDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9823.png",
+      "equipo_id": 9823,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Juventud Torremolinos",
+      "pts": 11,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 13,
+      "gc": 21,
+      "forma": "WDDWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15359.png",
+      "equipo_id": 15359,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Europa Fc",
+      "pts": 10,
+      "pj": 12,
+      "dg": -13,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 9,
+      "gc": 22,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/593.png",
+      "equipo_id": 593,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 2,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Rayo Majadahonda",
+      "pts": 7,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 1,
+      "pp": 9,
+      "gf": 8,
+      "gc": 16,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/861.png",
+      "equipo_id": 861,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 2,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Teruel",
+      "pts": 7,
+      "pj": 13,
+      "dg": -15,
+      "pg": 1,
+      "pe": 4,
+      "pp": 8,
+      "gf": 5,
+      "gc": 20,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5278.png",
+      "equipo_id": 5278,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 4,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 1,
+        "gc": 15
+      }
+    }
+  ],
+  "movimientos": {
+    "Villarreal B": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Hércules": {
+      "antes": 8,
+      "ahora": 4,
+      "cambio": "sube 4 puestos"
+    },
+    "Real Murcia": {
+      "antes": 9,
+      "ahora": 5,
+      "cambio": "sube 4 puestos"
+    },
+    "Real Madrid Castilla": {
+      "antes": 4,
+      "ahora": 7,
+      "cambio": "baja 3 puestos"
+    },
+    "Nàstic de Tarragona": {
+      "antes": 15,
+      "ahora": 13,
+      "cambio": "sube 2 puestos"
+    },
+    "Teruel": {
+      "antes": 20,
+      "ahora": 20,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1571221,
+    "titular": "Doblete de Bosilj: el Murcia gana al Castilla y entra en play-off",
+    "entradilla": "El Real Murcia venció 0-2 en Madrid con dos goles de D. Bosilj antes del descanso. Sube del noveno al quinto puesto y deja al Castilla fuera de la zona de play-off.",
+    "parrafos": [
+      "El Real Murcia ganó 0-2 al Real Madrid Castilla en la jornada 13 del Grupo 2 de Primera Federación y dio un salto de cuatro puestos en la tabla: del noveno al quinto, ya en zona de play-off.",
+      "Todo se decidió en once minutos. D. Bosilj abrió el marcador en el minuto 26 y firmó el segundo en el 37. El resultado ya no se movió en la segunda parte.",
+      "El triunfo deja al Murcia con 20 puntos, a uno del Hércules y del Alcorcón, que ocupan la cuarta y la tercera plaza con 21.",
+      "El Castilla paga caro el tropiezo. Cae tres puestos, del cuarto al séptimo, y se queda con 19 puntos, empatado con el FC Cartagena y el Real Jaén y a uno del play-off.",
+      "La derrota llega en un campo donde el filial blanco había sido fuerte: antes de este partido sumaba cuatro victorias en seis encuentros como local."
+    ],
+    "el_dato": "D. Bosilj marcó los dos goles del Murcia en solo once minutos, entre el 26 y el 37.",
+    "slug": "2026-11-20-real-madrid-castilla-real-murcia"
+  }
+}
