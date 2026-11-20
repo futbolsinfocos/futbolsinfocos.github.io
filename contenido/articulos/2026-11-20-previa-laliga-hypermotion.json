@@ -1,0 +1,311 @@
+{
+  "slug": "2026-11-20-previa-laliga-hypermotion",
+  "tipo": "previa",
+  "fecha": "2026-11-20",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Jornada 15 de Segunda: el Andorra, en descenso, recibe a un Leganés con 15 puntos",
+  "entradilla": "El FC Andorra, 21º con 11 puntos, recibe hoy al Leganés, 16º con 15, en el Estadi de la FAF. Es el único partido de la jornada en la zona baja con dos equipos que apenas se separan en la tabla.",
+  "cuerpo_markdown": "La jornada 15 de Segunda tiene un solo partido de hoy. En la cabeza, el Almería lidera con 32 puntos y el Castellón le sigue con 30, mientras que la zona de descenso la ocupan Albacete, Cádiz, FC Andorra y AD Ceuta FC, que cierra con 5 puntos. El Andorra ha jugado 13 partidos y el Leganés 14, así que el equipo local tiene un encuentro menos disputado.\n\n## Claves de la jornada\n\n- El Andorra ocupa el 21º puesto con 11 puntos, a cuatro del Leganés.\n- El Andorra ha ganado solo 2 de sus 6 partidos en casa.\n- El Almería lidera con 32 puntos y el AD Ceuta FC cierra con 5.\n\n## FC Andorra - Leganés\n\n<p class=\"ficha\"><b>20:30</b> · Estadi de la FAF (Andorra) · Jornada 15 · Árbitro: Jose Guzman</p><p class=\"forma\"><span class=\"eq\">FC Andorra</span><span class=\"fP\" title=\"0-2 vs Girona\">P</span><span class=\"fP\" title=\"2-3 vs Burgos\">P</span><span class=\"fG\" title=\"3-0 vs Varea\">G</span><span class=\"fE\" title=\"2-2 vs Tenerife\">E</span><span class=\"fP\" title=\"1-2 vs Almería\">P</span><br><span class=\"eq\">Leganés</span><span class=\"fE\" title=\"1-1 vs Mallorca\">E</span><span class=\"fP\" title=\"3-4 vs Valladolid\">P</span><span class=\"fP\" title=\"1-3 vs Albacete\">P</span><span class=\"fG\" title=\"1-0 vs Trival Valderas\">G</span><span class=\"fG\" title=\"3-1 vs Burgos\">G</span></p>\n\nUn triunfo acercaría al Andorra a la salvación y pondría a prueba la racha del Leganés, que ha sumado 4 de sus últimos 5 puntos fuera de casa en la liga...\n\n[Leer la previa completa →](../previas/2026-11-20-fc-andorra-leganes.html)",
+  "texto_instagram": "Jornada 15 de LaLiga Hypermotion. El FC Andorra, 21º y en descenso con 11 puntos, recibe al Leganés, 16º con 15. El local solo ha ganado 2 de sus 6 partidos en casa. 🔴 Hoy: FC Andorra - Leganés, 20:30 h, Estadi de la FAF.",
+  "hashtags": [
+    "#LaLigaHypermotion",
+    "#FCAndorra",
+    "#Leganés",
+    "#Segunda"
+  ],
+  "imagenes_web": [
+    "img/2026-11-20/2026-11-20-previa-laliga-hypermotion.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-previa-laliga-hypermotion.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570025,
+      "fecha": "2026-11-20T20:30:00+01:00",
+      "estadio": "Estadi de la FAF",
+      "ciudad": "Andorra",
+      "jornada": "Regular Season - 15",
+      "arbitro": "Jose Guzman",
+      "local": "FC Andorra",
+      "visitante": "Leganés",
+      "escudo_local": "https://media.api-sports.io/football/teams/8157.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/537.png",
+      "contexto": {
+        "local": {
+          "pos": 21,
+          "pts": 11,
+          "pj": 13,
+          "pg": 3,
+          "pe": 2,
+          "pp": 8,
+          "gf": 18,
+          "gc": 24,
+          "dg": -6,
+          "zona": "descenso",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 0,
+            "pp": 4,
+            "gf": 10,
+            "gc": 11
+          },
+          "goleador": {
+            "jugador": "Jordi Cano",
+            "goles": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Almería",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Tenerife",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Varea",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-26",
+              "rival": "Burgos",
+              "campo": "casa",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Girona",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 16,
+          "pts": 15,
+          "pj": 14,
+          "pg": 4,
+          "pe": 3,
+          "pp": 7,
+          "gf": 14,
+          "gc": 24,
+          "dg": -10,
+          "zona": "",
+          "fuera": {
+            "pj": 7,
+            "pg": 1,
+            "pe": 2,
+            "pp": 4,
+            "gf": 5,
+            "gc": 14
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-13",
+              "rival": "Burgos",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-10",
+              "rival": "Trival Valderas",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Albacete",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Valladolid",
+              "campo": "fuera",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Mallorca",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda División"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-04-26",
+          "competicion": "Segunda División",
+          "resultado": "Leganés 0-4 FC Andorra"
+        },
+        {
+          "fecha": "2025-10-04",
+          "competicion": "Segunda División",
+          "resultado": "FC Andorra 1-2 Leganés"
+        },
+        {
+          "fecha": "2024-01-14",
+          "competicion": "Segunda División",
+          "resultado": "FC Andorra 2-3 Leganés"
+        },
+        {
+          "fecha": "2023-08-13",
+          "competicion": "Segunda División",
+          "resultado": "Leganés 0-1 FC Andorra"
+        },
+        {
+          "fecha": "2023-05-21",
+          "competicion": "Segunda División",
+          "resultado": "Leganés 1-1 FC Andorra"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "FC Andorra": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Almería",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Tenerife",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Varea",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-26",
+        "rival": "Burgos",
+        "campo": "casa",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Girona",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      }
+    ],
+    "Leganés": [
+      {
+        "fecha": "2026-11-13",
+        "rival": "Burgos",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-10",
+        "rival": "Trival Valderas",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Albacete",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Valladolid",
+        "campo": "fuera",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Mallorca",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda División"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570025,
+      "slug": "2026-11-20-fc-andorra-leganes",
+      "titular": "El Andorra, con 11 puntos y en descenso, recibe a un Leganés con 15",
+      "entradilla": "Un triunfo acercaría al Andorra a la salvación y pondría a prueba la racha del Leganés, que ha sumado 4 de sus últimos 5 puntos fuera de casa en la liga...",
+      "parrafos": [
+        "Se juega a las 20:30 horas en el Estadi de la FAF, en Andorra, con arbitraje de Jose Guzman. El Andorra es 21º con 11 puntos, en zona de descenso, y solo ha ganado 3 de sus 13 partidos de liga.",
+        "El Andorra llega con una racha irregular: perdió en Almería (1-2), empató en Tenerife (2-2), ganó en Varea en Copa (3-0) y cayó en casa ante el Burgos (2-3) y en Girona (0-2). En casa tiene 2 victorias y 4 derrotas en 6 partidos, con 10 goles a favor y 11 en contra. Jordi Cano, con 5 goles, es su máximo goleador.",
+        "El Leganés es 16º con 15 puntos y 4 victorias en 14 partidos. Fuera ha ganado una vez en 7 salidas, con 5 goles a favor y 14 en contra. Llega de ganar en casa al Burgos (3-1) y de perder ante el Albacete (1-3) y el Valladolid (3-4) fuera."
+      ],
+      "precedente": "El último enfrentamiento fue en abril de 2026, con victoria del Andorra por 4-0 en Leganés. Antes, el Leganés ganó 2-1 en Andorra en octubre de 2025.",
+      "el_dato": "El Andorra solo ha ganado 2 de sus 6 partidos como local en liga.",
+      "claves": [
+        {
+          "titulo": "Un partido menos",
+          "texto": "El Andorra ha jugado 13 partidos y el Leganés 14."
+        },
+        {
+          "titulo": "Goleador en forma",
+          "texto": "Jordi Cano suma 5 goles y es el máximo goleador del Andorra."
+        },
+        {
+          "titulo": "Mala racha local",
+          "texto": "El Andorra perdió en casa ante el Burgos (2-3) en su último partido en el Estadi de la FAF."
+        }
+      ]
+    }
+  ]
+}

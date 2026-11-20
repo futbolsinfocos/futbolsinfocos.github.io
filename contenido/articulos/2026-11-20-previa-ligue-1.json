@@ -1,0 +1,312 @@
+{
+  "slug": "2026-11-20-previa-ligue-1",
+  "tipo": "previa",
+  "fecha": "2026-11-20",
+  "etiqueta": "Ligue 1",
+  "competicion": "Ligue 1",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Troyes y Le Havre, dos equipos del descenso, se miden en el Stade de l'Aube",
+  "entradilla": "Solo hay un partido en la jornada 11 de la Ligue 1: el Estac Troyes recibe a Le Havre, colista con dos puntos. Los dos equipos están en zona de descenso y el local necesita sumar para salir de ella.",
+  "cuerpo_markdown": "La jornada 11 de la Ligue 1 se reduce a un único partido. Troyes es 17º con 8 puntos, igualado con Angers (16º) y a seis puntos del puesto 15º. Le Havre es 18º, con 2 puntos y sin victorias en diez partidos. El PSG, líder con 23 puntos, no juega hoy.\n\n## Claves de la jornada\n\n- Troyes y Angers, con 8 puntos, están en zona de descenso.\n- Le Havre suma dos puntos y no ha ganado en diez partidos.\n- J. Maja, con cuatro goles, es el máximo goleador visitante.\n\n## Estac Troyes - Le Havre\n\n<p class=\"ficha\"><b>20:45</b> · Stade de l&#x27;Aube (Troyes) · Jornada 11 · Árbitro: Jeremie Pignard</p><p class=\"forma\"><span class=\"eq\">Estac Troyes</span><span class=\"fP\" title=\"0-2 vs Olympique de Marsella\">P</span><span class=\"fP\" title=\"1-3 vs Lens\">P</span><span class=\"fE\" title=\"0-0 vs Toulouse\">E</span><span class=\"fG\" title=\"2-0 vs Le Mans\">G</span><span class=\"fP\" title=\"0-1 vs PSG\">P</span><br><span class=\"eq\">Le Havre</span><span class=\"fP\" title=\"0-1 vs Lille\">P</span><span class=\"fP\" title=\"1-3 vs Auxerre\">P</span><span class=\"fP\" title=\"3-4 vs Olympique de Marsella\">P</span><span class=\"fP\" title=\"1-5 vs PSG\">P</span><span class=\"fP\" title=\"0-2 vs Lorient\">P</span></p>\n\nEstac Troyes recibe a Le Havre, colista con dos puntos, en un duelo entre dos equipos de la zona de descenso. Una victoria local le dejaría con 11 puntos y a nueve del rival.\n\n[Leer la previa completa →](../previas/2026-11-20-estac-troyes-le-havre.html)",
+  "texto_instagram": "Solo un partido en la jornada 11 de la Ligue 1, y es de descenso. Estac Troyes (17º, 8 pts) recibe a Le Havre (18º, 2 pts), que llega con cinco derrotas seguidas. Los locales buscan su tercera victoria. ⚽ Estac Troyes - Le Havre, 20:45 h, Stade de l'Aube.",
+  "hashtags": [
+    "#Ligue1",
+    "#EstacTroyes",
+    "#LeHavre",
+    "#Ligue1Previa"
+  ],
+  "imagenes_web": [
+    "img/2026-11-20/2026-11-20-previa-ligue-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-previa-ligue-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1552827,
+      "fecha": "2026-11-20T20:45:00+01:00",
+      "estadio": "Stade de l'Aube",
+      "ciudad": "Troyes",
+      "jornada": "Regular Season - 11",
+      "arbitro": "Jeremie Pignard",
+      "local": "Estac Troyes",
+      "visitante": "Le Havre",
+      "escudo_local": "https://media.api-sports.io/football/teams/110.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/111.png",
+      "contexto": {
+        "local": {
+          "pos": 17,
+          "pts": 8,
+          "pj": 10,
+          "pg": 2,
+          "pe": 2,
+          "pp": 6,
+          "gf": 7,
+          "gc": 17,
+          "dg": -10,
+          "zona": "descenso",
+          "casa": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 1,
+            "pp": 3,
+            "gf": 5,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-07",
+              "rival": "PSG",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Le Mans",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Toulouse",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Lens",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Olympique de Marsella",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 18,
+          "pts": 2,
+          "pj": 10,
+          "pg": 0,
+          "pe": 2,
+          "pp": 8,
+          "gf": 9,
+          "gc": 22,
+          "dg": -13,
+          "zona": "descenso",
+          "fuera": {
+            "pj": 4,
+            "pg": 0,
+            "pe": 1,
+            "pp": 3,
+            "gf": 6,
+            "gc": 9
+          },
+          "goleador": {
+            "jugador": "J. Maja",
+            "goles": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Lorient",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-30",
+              "rival": "PSG",
+              "campo": "casa",
+              "marcador": "1-5",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Olympique de Marsella",
+              "campo": "fuera",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Auxerre",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-10",
+              "rival": "Lille",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2021-05-15",
+          "competicion": "Ligue 2",
+          "resultado": "Le Havre 3-2 Estac Troyes"
+        },
+        {
+          "fecha": "2020-08-24",
+          "competicion": "Ligue 2",
+          "resultado": "Estac Troyes 2-0 Le Havre"
+        },
+        {
+          "fecha": "2020-01-27",
+          "competicion": "Ligue 2",
+          "resultado": "Le Havre 1-0 Estac Troyes"
+        },
+        {
+          "fecha": "2019-08-09",
+          "competicion": "Ligue 2",
+          "resultado": "Estac Troyes 1-2 Le Havre"
+        },
+        {
+          "fecha": "2019-02-22",
+          "competicion": "Ligue 2",
+          "resultado": "Estac Troyes 2-1 Le Havre"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Estac Troyes": [
+      {
+        "fecha": "2026-11-07",
+        "rival": "PSG",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Le Mans",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Toulouse",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Lens",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Olympique de Marsella",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      }
+    ],
+    "Le Havre": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Lorient",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-30",
+        "rival": "PSG",
+        "campo": "casa",
+        "marcador": "1-5",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Olympique de Marsella",
+        "campo": "fuera",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Auxerre",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-10",
+        "rival": "Lille",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1552827,
+      "slug": "2026-11-20-estac-troyes-le-havre",
+      "titular": "Troyes y Le Havre, dos equipos del descenso, se miden en el Stade de l'Aube",
+      "entradilla": "Estac Troyes recibe a Le Havre, colista con dos puntos, en un duelo entre dos equipos de la zona de descenso. Una victoria local le dejaría con 11 puntos y a nueve del rival.",
+      "parrafos": [
+        "El partido corresponde a la jornada 11 de la Ligue 1 y se juega a las 20:45 en el Stade de l'Aube, de Troyes. El árbitro es Jeremie Pignard.",
+        "El Troyes es 17º, con 8 puntos y dos victorias en diez partidos. En casa suma una victoria, un empate y tres derrotas, con 5 goles a favor y 11 en contra. Llega de perder 0-1 en el PSG, pero antes ganó 2-0 al Le Mans en casa y empató 0-0 en Toulouse.",
+        "Le Havre es 18º y colista, con 2 puntos y sin victorias. Lleva cinco derrotas seguidas: 0-2 ante Lorient en casa, 1-5 ante el PSG, 3-4 en Marsella, 1-3 ante el Auxerre y 0-1 en Lille. Fuera ha sumado un empate y tres derrotas, con 6 goles a favor y 9 en contra. Maja, con cuatro goles, es su principal referencia.",
+        "Con una victoria, el Troyes llegaría a 11 puntos y se separaría nueve del Le Havre. Para los visitantes, cualquier punto sería el primero en la jornada tras diez partidos sin ganar."
+      ],
+      "precedente": "En el último enfrentamiento, en la Ligue 2 de mayo de 2021, Le Havre ganó 3-2 al Troyes.",
+      "el_dato": "Le Havre ha perdido sus cinco últimos partidos y solo ha marcado nueve goles en diez jornadas.",
+      "claves": [
+        {
+          "titulo": "Descenso compartido",
+          "texto": "Troyes y Angers suman 8 puntos y ocupan la zona baja de la tabla."
+        },
+        {
+          "titulo": "Colista sin victorias",
+          "texto": "Le Havre suma dos puntos y no gana desde que comenzó la liga."
+        },
+        {
+          "titulo": "Maja, referencia visitante",
+          "texto": "El delantero J. Maja acumula cuatro goles en la temporada."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "2026-11-20-previa-tercera-federacion-grupo-12",
+  "tipo": "previa",
+  "fecha": "2026-11-20",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Anaza busca salir de la zona baja ante un Marino que no pierde en tres partidos",
+  "entradilla": "Anaza recibe a Marino en la jornada 12 del Grupo 12. El local es decimoquinto con 9 puntos y el visitante séptimo con 16, así que el partido separa a dos equipos con objetivos distintos en la tabla.",
+  "cuerpo_markdown": "La cabecera de la clasificación ya se ha separado: Panadería Pulido y UD San Fernando lideran con 26 puntos. Marino ocupa la séptima plaza con 16, a siete puntos del local. Anaza es decimoquinto, con 9 puntos, a uno de Villa Santa Brígida y a cuatro del colista Villaverde Norte.\n\n## Claves de la jornada\n\n- Anaza suma 9 puntos en 11 jornadas y ha perdido sus dos últimos partidos en casa y fuera.\n- Marino no pierde desde hace tres jornadas, aunque las tres han terminado en empate.\n- Anaza ha marcado 10 goles y ha encajado 21, la peor diferencia de goles de la parte baja de la tabla tras Villaverde Norte y Playas Sotavento.\n\n## Anaza - Marino\n\n<p class=\"ficha\"><b>22:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Anaza</span><span class=\"fE\" title=\"1-1 vs Lanzarote\">E</span><span class=\"fG\" title=\"2-1 vs San Bartolomé\">G</span><span class=\"fP\" title=\"0-3 vs Las Palmas C\">P</span><span class=\"fP\" title=\"1-2 vs UD San Fernando\">P</span><span class=\"fP\" title=\"0-3 vs Los Llanos\">P</span><br><span class=\"eq\">Marino</span><span class=\"fG\" title=\"2-1 vs Los Llanos\">G</span><span class=\"fP\" title=\"0-1 vs Lanzarote\">P</span><span class=\"fE\" title=\"1-1 vs Villa Santa Brígida\">E</span><span class=\"fE\" title=\"1-1 vs Mensajero\">E</span><span class=\"fE\" title=\"0-0 vs Tenerife C\">E</span></p>\n\nAnaza, decimoquinto con 9 puntos, recibe a Marino, séptimo con 16. El local necesita sumar tras cinco jornadas sin ganar en su conjunto reciente, y el visitante quiere estirar su racha sin derrota.\n\n[Leer la previa completa →](../previas/2026-11-20-anaza-marino.html)",
+  "texto_instagram": "Jornada 12 del Grupo 12 de Tercera Federación con un solo partido. Anaza, decimoquinto con 9 puntos, recibe a Marino, séptimo con 16 y sin perder en sus tres últimos partidos. Los dos llegan con necesidades distintas en la tabla. 🏟️\n\nPartido:\nAnaza - Marino, viernes 20 de noviembre a las 22:00 (hora de Madrid)",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Anaza",
+    "#Marino",
+    "#Jornada12",
+    "#Grupo12"
+  ],
+  "imagenes_web": [
+    "img/2026-11-20/2026-11-20-previa-tercera-federacion-grupo-12.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-previa-tercera-federacion-grupo-12.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1616168,
+      "fecha": "2026-11-20T22:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 12 - 12",
+      "arbitro": null,
+      "local": "Anaza",
+      "visitante": "Marino",
+      "escudo_local": "https://media.api-sports.io/football/teams/28113.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9799.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 9,
+          "pj": 11,
+          "pg": 2,
+          "pe": 3,
+          "pp": 6,
+          "gf": 10,
+          "gc": 21,
+          "dg": -11,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 5,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Los Llanos",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "UD San Fernando",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Las Palmas C",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "San Bartolomé",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-21",
+              "rival": "Lanzarote",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 12"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 7,
+          "pts": 16,
+          "pj": 11,
+          "pg": 4,
+          "pe": 4,
+          "pp": 3,
+          "gf": 18,
+          "gc": 12,
+          "dg": 6,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 2,
+            "pp": 2,
+            "gf": 6,
+            "gc": 7
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Tenerife C",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Mensajero",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Villa Santa Brígida",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Lanzarote",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-21",
+              "rival": "Los Llanos",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Marino": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Tenerife C",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Mensajero",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Villa Santa Brígida",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Lanzarote",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-21",
+        "rival": "Los Llanos",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      }
+    ],
+    "Anaza": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Los Llanos",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "UD San Fernando",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Las Palmas C",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "San Bartolomé",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-21",
+        "rival": "Lanzarote",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 12"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1616168,
+      "slug": "2026-11-20-anaza-marino",
+      "titular": "Anaza y Marino se miden en la parte baja y media de la tabla con necesidades distintas",
+      "entradilla": "Anaza, decimoquinto con 9 puntos, recibe a Marino, séptimo con 16. El local necesita sumar tras cinco jornadas sin ganar en su conjunto reciente, y el visitante quiere estirar su racha sin derrota.",
+      "parrafos": [
+        "El partido se juega el viernes 20 de noviembre a las 22:00 (hora de Madrid), correspondiente a la jornada 12 del Grupo 12 de Tercera Federación. Anaza llega con 2 victorias, 3 empates y 6 derrotas en 11 partidos, con 10 goles a favor y 21 en contra.",
+        "Anaza llega con tres derrotas en sus últimas cuatro jornadas. Su única victoria reciente fue por 2-1 ante San Bartolomé en casa, precedida por el empate 1-1 ante Lanzarote. En casa ha ganado dos de cinco, con 5 goles a favor y 6 en contra.",
+        "Marino llega con 4 victorias, 4 empates y 3 derrotas, con 18 goles a favor y 12 en contra. Fuera ha ganado una vez en cinco partidos, con 6 goles marcados y 7 recibidos. Sus tres últimos partidos han acabado en empate, dos de ellos fuera de casa y uno en casa ante Villa Santa Brígida."
+      ],
+      "precedente": "",
+      "el_dato": "Anaza ha perdido sus dos últimos partidos y ha encajado 21 goles en 11 jornadas, el dato más negativo de su temporada.",
+      "claves": [
+        {
+          "titulo": "Diferencia de siete puntos",
+          "texto": "Marino tiene 16 puntos y Anaza 9, a siete de distancia en la tabla."
+        },
+        {
+          "titulo": "Racha de empates",
+          "texto": "Marino ha empatado sus últimos tres partidos, con dos empates fuera de casa."
+        },
+        {
+          "titulo": "Defensa local en apuros",
+          "texto": "Anaza ha encajado 15 goles en sus cinco partidos fuera de casa, aunque en casa tiene 6 en contra."
+        }
+      ]
+    }
+  ]
+}

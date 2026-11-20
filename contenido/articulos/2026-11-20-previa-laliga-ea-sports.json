@@ -1,0 +1,316 @@
+{
+  "slug": "2026-11-20-previa-laliga-ea-sports",
+  "tipo": "previa",
+  "fecha": "2026-11-20",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "El Athletic recibe al Espanyol, que ganó los dos últimos duelos ante el equipo vasco",
+  "entradilla": "El Athletic, séptimo con 16 puntos, recibe en San Mamés al Espanyol, 13º con 12. Los locales han ganado tres de sus seis partidos en casa; el visitante, dos de seis fuera.",
+  "cuerpo_markdown": "La cabeza de la tabla la ocupan Barcelona (33 puntos), Real Madrid (30) y Atlético de Madrid (28), todos en zona de ascenso. El Athletic está a dos puntos del sexto puesto, que ocupa el Sevilla con 18. En la parte baja, Elche (18º, 10 puntos), Valencia (19º, 9) y Málaga (20º, 5) están en zona de descenso, a dos puntos por debajo del Espanyol.\n\n## Claves de la jornada\n\n- El Athletic es séptimo con 16 puntos, a dos del sexto puesto, que ocupa el Sevilla con 18.\n- El Espanyol suma 12 puntos, a dos por encima del Elche, que cierra la zona de descenso con 10.\n\n## Athletic Club - Espanyol\n\n<p class=\"ficha\"><b>21:00</b> · San Mamés Stadium (Bilbao) · Jornada 13 · Árbitro: Mateo Busquets Ferrer</p><p class=\"forma\"><span class=\"eq\">Athletic Club</span><span class=\"fP\" title=\"1-3 vs Levante\">P</span><span class=\"fG\" title=\"4-0 vs Getafe\">G</span><span class=\"fG\" title=\"6-1 vs Prat\">G</span><span class=\"fG\" title=\"2-1 vs Real Sociedad\">G</span><span class=\"fE\" title=\"1-1 vs Osasuna\">E</span><br><span class=\"eq\">Espanyol</span><span class=\"fP\" title=\"0-1 vs Atlético de Madrid\">P</span><span class=\"fP\" title=\"1-2 vs Racing de Santander\">P</span><span class=\"fP\" title=\"3-4 vs Sestao River\">P</span><span class=\"fG\" title=\"1-0 vs Villarreal\">G</span><span class=\"fE\" title=\"0-0 vs Deportivo de La Coruña\">E</span></p>\n\nUn triunfo acercaría al Athletic a los seis primeros, a dos puntos. El Espanyol, 13º, busca no alejarse de la mitad de la tabla.\n\n[Leer la previa completa →](../previas/2026-11-20-athletic-club-espanyol.html)",
+  "texto_instagram": "Jornada 13 de LaLiga EA Sports. El Athletic, 7º con 16 puntos, recibe al Espanyol, 13º con 12. Los locales han ganado tres de sus seis partidos en casa; el visitante, dos de seis fuera. El Espanyol ganó sus dos últimos duelos ante el Athletic. ⚽ Athletic Club – Espanyol, jueves 20 de noviembre a las 21:00, San Mamés (Bilbao).",
+  "hashtags": [
+    "#AthleticEspanyol",
+    "#LaLiga",
+    "#Jornada13",
+    "#AthleticClub",
+    "#Espanyol"
+  ],
+  "imagenes_web": [
+    "img/2026-11-20/2026-11-20-previa-laliga-ea-sports.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-previa-laliga-ea-sports.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570454,
+      "fecha": "2026-11-20T21:00:00+01:00",
+      "estadio": "San Mamés Stadium",
+      "ciudad": "Bilbao",
+      "jornada": "Regular Season - 13",
+      "arbitro": "Mateo Busquets Ferrer",
+      "local": "Athletic Club",
+      "visitante": "Espanyol",
+      "escudo_local": "https://media.api-sports.io/football/teams/531.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/540.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 16,
+          "pj": 11,
+          "pg": 4,
+          "pe": 4,
+          "pp": 3,
+          "gf": 15,
+          "gc": 11,
+          "dg": 4,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 3,
+            "pe": 2,
+            "pp": 1,
+            "gf": 11,
+            "gc": 5
+          },
+          "goleador": {
+            "jugador": "Álex Berenguer",
+            "goles": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-07",
+              "rival": "Osasuna",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Real Sociedad",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Prat",
+              "campo": "fuera",
+              "marcador": "6-1",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Getafe",
+              "campo": "casa",
+              "marcador": "4-0",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-21",
+              "rival": "Levante",
+              "campo": "fuera",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "La Liga"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 13,
+          "pts": 12,
+          "pj": 12,
+          "pg": 3,
+          "pe": 3,
+          "pp": 6,
+          "gf": 13,
+          "gc": 14,
+          "dg": -1,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 1,
+            "pp": 3,
+            "gf": 7,
+            "gc": 7
+          },
+          "goleador": {
+            "jugador": "Roberto Fernández",
+            "goles": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-07",
+              "rival": "Deportivo de La Coruña",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-30",
+              "rival": "Villarreal",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Sestao River",
+              "campo": "fuera",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Racing de Santander",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Atlético de Madrid",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "La Liga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-05-13",
+          "competicion": "La Liga",
+          "resultado": "Espanyol 2-0 Athletic Club"
+        },
+        {
+          "fecha": "2025-12-22",
+          "competicion": "La Liga",
+          "resultado": "Athletic Club 1-2 Espanyol"
+        },
+        {
+          "fecha": "2025-02-16",
+          "competicion": "La Liga",
+          "resultado": "Espanyol 1-1 Athletic Club"
+        },
+        {
+          "fecha": "2024-10-19",
+          "competicion": "La Liga",
+          "resultado": "Athletic Club 4-1 Espanyol"
+        },
+        {
+          "fecha": "2023-04-08",
+          "competicion": "La Liga",
+          "resultado": "Espanyol 1-2 Athletic Club"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Athletic Club": [
+      {
+        "fecha": "2026-11-07",
+        "rival": "Osasuna",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Real Sociedad",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Prat",
+        "campo": "fuera",
+        "marcador": "6-1",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Getafe",
+        "campo": "casa",
+        "marcador": "4-0",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-21",
+        "rival": "Levante",
+        "campo": "fuera",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "La Liga"
+      }
+    ],
+    "Espanyol": [
+      {
+        "fecha": "2026-11-07",
+        "rival": "Deportivo de La Coruña",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-30",
+        "rival": "Villarreal",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Sestao River",
+        "campo": "fuera",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Racing de Santander",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Atlético de Madrid",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "La Liga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570454,
+      "slug": "2026-11-20-athletic-club-espanyol",
+      "titular": "El Athletic busca cerrar el hueco con la zona de ascenso frente a un Espanyol que aprieta",
+      "entradilla": "Un triunfo acercaría al Athletic a los seis primeros, a dos puntos. El Espanyol, 13º, busca no alejarse de la mitad de la tabla.",
+      "parrafos": [
+        "El Athletic recibe al Espanyol este jueves a las 21:00 en San Mamés, en la Jornada 13. El árbitro será Mateo Busquets Ferrer. Los locales son séptimos con 16 puntos y están a dos del sexto puesto, que ocupa el Sevilla con 18. El Espanyol es 13º con 12 puntos, a cuatro del Athletic y a dos por encima del Elche, que es 18º.",
+        "El local llega con tres victorias, un empate y una derrota en sus últimos cinco partidos. Su mejor dato es la racha en casa: ha ganado tres de seis, con 11 goles a favor y 5 en contra. Su máximo goleador es Álex Berenguer, con cuatro tantos.",
+        "El Espanyol llega con una victoria, un empate y tres derrotas en sus últimos cinco partidos, entre Liga y Copa. Fuera ha ganado dos, empatado uno y perdido tres, con 7 goles a favor y 7 en contra. Su referencia es Roberto Fernández, con seis goles, la mejor cifra del equipo."
+      ],
+      "precedente": "El último enfrentamiento fue el 13 de mayo de 2026, con victoria del Espanyol por 2-0 en su campo. Antes, el Espanyol ya había ganado 2-1 en San Mamés en diciembre de 2025.",
+      "el_dato": "El Espanyol ha ganado sus dos últimos duelos ante el Athletic, incluido el de San Mamés.",
+      "claves": [
+        {
+          "titulo": "Hueco con el sexto",
+          "texto": "El Athletic está a dos puntos del sexto puesto, que ocupa el Sevilla con 18."
+        },
+        {
+          "titulo": "Fuerte en casa",
+          "texto": "El Athletic ha marcado 11 goles en sus seis partidos en San Mamés y ha recibido 5."
+        },
+        {
+          "titulo": "Roberto Fernández, referencia",
+          "texto": "El delantero visitante suma seis goles, la mejor cifra de su equipo."
+        }
+      ]
+    }
+  ]
+}
