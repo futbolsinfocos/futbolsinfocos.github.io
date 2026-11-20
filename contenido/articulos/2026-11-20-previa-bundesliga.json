@@ -1,0 +1,311 @@
+{
+  "slug": "2026-11-20-previa-bundesliga",
+  "tipo": "previa",
+  "fecha": "2026-11-20",
+  "etiqueta": "Bundesliga",
+  "competicion": "Bundesliga",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Bayern recibe al Köln, 15º y sin ganar ninguno de sus cuatro partidos fuera",
+  "entradilla": "El Bayern de Múnich recibe al 1. FC Köln en la jornada 10 con el liderato compartido con el Dortmund, ambos con 21 puntos. El Köln, 15º, ha perdido tres de sus cuatro partidos a domicilio y solo ha marcado tres goles fuera.",
+  "cuerpo_markdown": "La Bundesliga llega a la jornada 10 con el Bayern y el Borussia Dortmund empatados en cabeza con 21 puntos. El Bayern aventaja al Dortmund en diferencia de goles (20 frente a 9) y es el equipo con más goles a favor, 29. En el otro extremo, el Union Berlin ocupa la última posición de la zona de descenso con 7 puntos, dos menos que el Köln, que está 15º con 9.\n\n## Claves de la jornada\n\n- Bayern y Dortmund empatan en cabeza con 21 puntos.\n- El Köln no ha ganado ninguno de sus cuatro partidos fuera de casa.\n- El Union Berlin, 16º, es el primer equipo de la zona de descenso.\n\n## Bayern de Múnich - 1. FC Köln\n\n<p class=\"ficha\"><b>20:30</b> · Allianz Arena (Munich) · Jornada 10 · Árbitro: Robin Braun</p><p class=\"forma\"><span class=\"eq\">Bayern de Múnich</span><span class=\"fG\" title=\"3-1 vs SC Freiburg\">G</span><span class=\"fG\" title=\"6-1 vs 1. FC Magdeburg\">G</span><span class=\"fE\" title=\"2-2 vs Borussia Dortmund\">E</span><span class=\"fG\" title=\"2-0 vs Atlético de Madrid\">G</span><span class=\"fG\" title=\"2-1 vs FSV Mainz 05\">G</span><br><span class=\"eq\">1. FC Köln</span><span class=\"fP\" title=\"0-1 vs Eintracht Frankfurt\">P</span><span class=\"fE\" title=\"0-0 vs FC Schalke 04\">E</span><span class=\"fG\" title=\"5-0 vs Union Berlin\">G</span><span class=\"fE\" title=\"1-1 vs Union Berlin\">E</span><span class=\"fP\" title=\"1-2 vs Bayer Leverkusen\">P</span></p>\n\nEl Bayern, primero con 21 puntos y empatado con el Dortmund, recibe al Köln, 15º con 9 puntos. Un triunfo consolida al líder y deja al Köln más cerca del Union en la zona baja.\n\n[Leer la previa completa →](../previas/2026-11-20-bayern-de-munich-1-fc-koln.html)",
+  "texto_instagram": "El Bayern, líder empatado con el Dortmund, recibe al Köln, 15º y sin ganar fuera en la liga. Los bávaros llegan sin perder en sus últimos cinco partidos y Olise suma 6 goles. ⚽ Jornada 10: 20:30 Bayern de Múnich - 1. FC Köln, Allianz Arena.",
+  "hashtags": [
+    "#Bundesliga",
+    "#FCBayern",
+    "#1FCKöln"
+  ],
+  "imagenes_web": [
+    "img/2026-11-20/2026-11-20-previa-bundesliga.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-20/2026-11-20-previa-bundesliga.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1575221,
+      "fecha": "2026-11-20T20:30:00+01:00",
+      "estadio": "Allianz Arena",
+      "ciudad": "Munich",
+      "jornada": "Regular Season - 10",
+      "arbitro": "Robin Braun",
+      "local": "Bayern de Múnich",
+      "visitante": "1. FC Köln",
+      "escudo_local": "https://media.api-sports.io/football/teams/157.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/192.png",
+      "contexto": {
+        "local": {
+          "pos": 1,
+          "pts": 21,
+          "pj": 9,
+          "pg": 6,
+          "pe": 3,
+          "pp": 0,
+          "gf": 29,
+          "gc": 9,
+          "dg": 20,
+          "zona": "ascenso",
+          "casa": {
+            "pj": 4,
+            "pg": 3,
+            "pe": 1,
+            "pp": 0,
+            "gf": 20,
+            "gc": 4
+          },
+          "goleador": {
+            "jugador": "M. Olise",
+            "goles": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-07",
+              "rival": "FSV Mainz 05",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-11-03",
+              "rival": "Atlético de Madrid",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "UEFA Champions League"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Borussia Dortmund",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "1. FC Magdeburg",
+              "campo": "casa",
+              "marcador": "6-1",
+              "resultado": "G",
+              "competicion": "DFB Pokal"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "SC Freiburg",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 15,
+          "pts": 9,
+          "pj": 9,
+          "pg": 2,
+          "pe": 3,
+          "pp": 4,
+          "gf": 10,
+          "gc": 14,
+          "dg": -4,
+          "zona": "",
+          "fuera": {
+            "pj": 4,
+            "pg": 0,
+            "pe": 1,
+            "pp": 3,
+            "gf": 3,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Bayer Leverkusen",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Union Berlin",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Union Berlin",
+              "campo": "casa",
+              "marcador": "5-0",
+              "resultado": "G",
+              "competicion": "DFB Pokal"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "FC Schalke 04",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-16",
+              "rival": "Eintracht Frankfurt",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Bundesliga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-05-16",
+          "competicion": "Bundesliga",
+          "resultado": "Bayern de Múnich 5-1 1. FC Köln"
+        },
+        {
+          "fecha": "2026-01-14",
+          "competicion": "Bundesliga",
+          "resultado": "1. FC Köln 1-3 Bayern de Múnich"
+        },
+        {
+          "fecha": "2025-10-29",
+          "competicion": "DFB Pokal",
+          "resultado": "1. FC Köln 1-4 Bayern de Múnich"
+        },
+        {
+          "fecha": "2024-04-13",
+          "competicion": "Bundesliga",
+          "resultado": "Bayern de Múnich 2-0 1. FC Köln"
+        },
+        {
+          "fecha": "2023-11-24",
+          "competicion": "Bundesliga",
+          "resultado": "1. FC Köln 0-1 Bayern de Múnich"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Bayern de Múnich": [
+      {
+        "fecha": "2026-11-07",
+        "rival": "FSV Mainz 05",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-11-03",
+        "rival": "Atlético de Madrid",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "UEFA Champions League"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Borussia Dortmund",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "1. FC Magdeburg",
+        "campo": "casa",
+        "marcador": "6-1",
+        "resultado": "G",
+        "competicion": "DFB Pokal"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "SC Freiburg",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      }
+    ],
+    "1. FC Köln": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Bayer Leverkusen",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Union Berlin",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Union Berlin",
+        "campo": "casa",
+        "marcador": "5-0",
+        "resultado": "G",
+        "competicion": "DFB Pokal"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "FC Schalke 04",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-16",
+        "rival": "Eintracht Frankfurt",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Bundesliga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1575221,
+      "slug": "2026-11-20-bayern-de-munich-1-fc-koln",
+      "titular": "El Bayern busca seguir arriba ante un Köln que no gana fuera desde el inicio de la liga",
+      "entradilla": "El Bayern, primero con 21 puntos y empatado con el Dortmund, recibe al Köln, 15º con 9 puntos. Un triunfo consolida al líder y deja al Köln más cerca del Union en la zona baja.",
+      "parrafos": [
+        "Se juega la jornada 10 en el Allianz Arena de Múnich, a las 20:30, con Robin Braun como árbitro. El Bayern es primero empatado con el Dortmund, con 21 puntos y 20 goles de diferencia.",
+        "El Bayern llega con seis victorias y tres empates en nueve partidos, y sin perder en sus últimos cinco encuentros. En casa ha ganado tres de cuatro, con 20 goles a favor y 4 en contra. Olise, con 6 goles, es su referencia en ataque.",
+        "El Köln llega con un punto de los últimos seis en la liga y sin victorias a domicilio: fuera tiene un empate y tres derrotas, con 3 goles a favor y 8 en contra. Su racha reciente incluye una derrota ante el Leverkusen en casa y un empate ante el Union en la liga. Su única victoria en la racha es el 5-0 al Union en la Copa.",
+        "En la tabla, el Köln está dos puntos por encima del Union Berlin, primer equipo de la zona de descenso."
+      ],
+      "precedente": "El último enfrentamiento fue el 16 de mayo de 2026, con victoria del Bayern por 5-1 en la Bundesliga. El Bayern ha ganado los cinco últimos partidos de la lista del historial.",
+      "el_dato": "El Köln ha marcado tres goles en sus cuatro partidos fuera de casa en la liga.",
+      "claves": [
+        {
+          "titulo": "Liderato compartido",
+          "texto": "Bayern y Dortmund suman 21 puntos cada uno tras nueve jornadas."
+        },
+        {
+          "titulo": "Olise, en racha",
+          "texto": "El francés lleva 6 goles esta temporada, su máximo goleador."
+        },
+        {
+          "titulo": "Köln fuera",
+          "texto": "Sin victorias a domicilio, con 3 goles a favor y 8 en contra."
+        }
+      ]
+    }
+  ]
+}
