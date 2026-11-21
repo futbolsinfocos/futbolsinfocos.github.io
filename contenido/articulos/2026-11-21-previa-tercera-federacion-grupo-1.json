@@ -1,0 +1,546 @@
+{
+  "slug": "2026-11-21-previa-tercera-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Sarriana y Silva, separados por dos puntos, se juegan el playoff y la segunda plaza",
+  "entradilla": "Sarriana, cuarto con 18 puntos, recibe a Silva, segundo con 20. El líder Boiro tiene 23 y el que gane se acerca a esa cabeza.",
+  "cuerpo_markdown": "Boiro lidera con 23 puntos y es el único equipo en zona de ascenso. Silva (20) y Barco (19) siguen por detrás, y Sarriana y Lalin tienen 18. Atlético Arteixo y Antela, séptimo y octavo, tienen 16 puntos cada uno y están a dos de la quinta plaza. En zona de descenso están Celta de Vigo C y Arenteiro, con 11, Coruña con 9 y Viveiro con 8.\n\n## Claves de la jornada\n\n- Boiro lidera con 23 puntos y es el único equipo en zona de ascenso.\n- Silva (20) y Barco (19) son los dos primeros tras el líder.\n- Cuatro equipos ocupan la zona de descenso, con Viveiro último con 8 puntos.\n\n## Sarriana - Silva\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Sarriana</span><span class=\"fE\" title=\"1-1 vs Barco\">E</span><span class=\"fG\" title=\"2-1 vs Portonovo SD\">G</span><span class=\"fE\" title=\"0-0 vs Lalin\">E</span><span class=\"fG\" title=\"3-1 vs Pontevedra B\">G</span><span class=\"fP\" title=\"2-3 vs Antela\">P</span><br><span class=\"eq\">Silva</span><span class=\"fG\" title=\"2-1 vs Estradense\">G</span><span class=\"fP\" title=\"1-3 vs Pontevedra B\">P</span><span class=\"fG\" title=\"2-0 vs Viveiro\">G</span><span class=\"fG\" title=\"1-0 vs Antela\">G</span><span class=\"fG\" title=\"2-1 vs Alondras\">G</span></p>\n\nSarriana, cuarto con 18 puntos, recibe a Silva, segundo con 20. El que gane se acerca a Boiro, que lidera con 23.\n\n[Leer la previa completa →](../previas/2026-11-21-sarriana-silva.html)\n\n## Atlético Arteixo - Antela\n\n<p class=\"ficha\"><b>17:30</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Atlético Arteixo</span><span class=\"fG\" title=\"3-1 vs Arenteiro\">G</span><span class=\"fG\" title=\"2-1 vs Barco\">G</span><span class=\"fE\" title=\"2-2 vs Portonovo SD\">E</span><span class=\"fG\" title=\"2-0 vs Lalin\">G</span><span class=\"fP\" title=\"0-2 vs Pontevedra B\">P</span><br><span class=\"eq\">Antela</span><span class=\"fE\" title=\"0-0 vs Portonovo SD\">E</span><span class=\"fE\" title=\"2-2 vs Lalin\">E</span><span class=\"fP\" title=\"0-1 vs Pontevedra B\">P</span><span class=\"fP\" title=\"0-1 vs Silva\">P</span><span class=\"fG\" title=\"3-2 vs Sarriana\">G</span></p>\n\nAtlético Arteixo, séptimo, recibe a Antela, octavo. Ambos tienen 16 puntos y ninguno está en zona de playoff ni de descenso.\n\n[Leer la previa completa →](../previas/2026-11-21-atletico-arteixo-antela.html)",
+  "texto_instagram": "Sarriana y Silva se juegan la segunda plaza: son cuarto y segundo, con dos puntos de diferencia. Arteixo y Antela, séptimo y octavo, llegan con 16 puntos cada uno. 🔎\n\nJornada 12\n17:00 Sarriana - Silva\n17:30 Atlético Arteixo - Antela",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Sarriana",
+    "#Silva",
+    "#AtléticoArteixo",
+    "#Antela",
+    "#TerceraRFEF"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1612809,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Sarriana",
+      "visitante": "Silva",
+      "escudo_local": "https://media.api-sports.io/football/teams/22130.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9615.png",
+      "contexto": {
+        "local": {
+          "pos": 4,
+          "pts": 18,
+          "pj": 11,
+          "pg": 5,
+          "pe": 3,
+          "pp": 3,
+          "gf": 20,
+          "gc": 16,
+          "dg": 4,
+          "zona": "playoff",
+          "casa": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 1,
+            "pp": 0,
+            "gf": 13,
+            "gc": 7
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Antela",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Pontevedra B",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Lalin",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Portonovo SD",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Barco",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 2,
+          "pts": 20,
+          "pj": 11,
+          "pg": 6,
+          "pe": 2,
+          "pp": 3,
+          "gf": 16,
+          "gc": 14,
+          "dg": 2,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 0,
+            "pp": 2,
+            "gf": 9,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Alondras",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Antela",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Viveiro",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Pontevedra B",
+              "campo": "fuera",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Estradense",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-03-08",
+          "competicion": "Tercera Federación · Grupo 1",
+          "resultado": "Silva 1-1 Sarriana"
+        },
+        {
+          "fecha": "2024-10-27",
+          "competicion": "Tercera Federación · Grupo 1",
+          "resultado": "Sarriana 4-2 Silva"
+        },
+        {
+          "fecha": "2024-03-02",
+          "competicion": "Tercera Federación · Grupo 1",
+          "resultado": "Silva 1-0 Sarriana"
+        },
+        {
+          "fecha": "2023-10-14",
+          "competicion": "Tercera Federación · Grupo 1",
+          "resultado": "Sarriana 0-1 Silva"
+        }
+      ]
+    },
+    {
+      "id": 1612803,
+      "fecha": "2026-11-21T17:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Atlético Arteixo",
+      "visitante": "Antela",
+      "escudo_local": "https://media.api-sports.io/football/teams/19650.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28094.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 16,
+          "pj": 11,
+          "pg": 4,
+          "pe": 4,
+          "pp": 3,
+          "gf": 17,
+          "gc": 16,
+          "dg": 1,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 2,
+            "pp": 1,
+            "gf": 9,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Pontevedra B",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Lalin",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Portonovo SD",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Barco",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Arenteiro",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 8,
+          "pts": 16,
+          "pj": 11,
+          "pg": 4,
+          "pe": 4,
+          "pp": 3,
+          "gf": 11,
+          "gc": 11,
+          "dg": 0,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 2,
+            "pp": 1,
+            "gf": 4,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Sarriana",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Silva",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Pontevedra B",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Lalin",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Portonovo SD",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 1"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Antela": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Sarriana",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Silva",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Pontevedra B",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Lalin",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Portonovo SD",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 1"
+      }
+    ],
+    "Sarriana": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Antela",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Pontevedra B",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Lalin",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Portonovo SD",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Barco",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 1"
+      }
+    ],
+    "Silva": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Alondras",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Antela",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Viveiro",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Pontevedra B",
+        "campo": "fuera",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Estradense",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      }
+    ],
+    "Atlético Arteixo": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Pontevedra B",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Lalin",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Portonovo SD",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Barco",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Arenteiro",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 1"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1612809,
+      "slug": "2026-11-21-sarriana-silva",
+      "titular": "Sarriana y Silva, dos equipos de playoff separados por dos puntos",
+      "entradilla": "Sarriana, cuarto con 18 puntos, recibe a Silva, segundo con 20. El que gane se acerca a Boiro, que lidera con 23.",
+      "parrafos": [
+        "Se juega hoy a las 17:00 en Sarriana, en la duodécima jornada del Grupo 1 de Tercera Federación. Lo que está en juego es la segunda plaza y el sitio dentro de la zona de playoff, donde ambos ya están.",
+        "Sarriana llega con 18 puntos y su mejor dato está en casa: cuatro victorias, un empate y ninguna derrota en cinco partidos, con 13 goles marcados. Fuera ha ganado solo una vez en seis, y el último partido fue una derrota 2-3 en Antela.",
+        "Silva llega con 20 puntos y tres victorias seguidas, la última 2-1 ante Alondras en casa. Fuera ha ganado tres de sus cinco partidos, con nueve goles a favor y nueve en contra. Su única derrota reciente fue 1-3 en Pontevedra B."
+      ],
+      "precedente": "El último enfrentamiento fue en marzo de 2025, con empate 1-1 en Silva. En octubre de 2024, Sarriana ganó 4-2 en casa.",
+      "el_dato": "Sarriana, con 20 goles a favor, es el equipo que más ha marcado de la tabla.",
+      "claves": [
+        {
+          "titulo": "Casa frente a fuera",
+          "texto": "Sarriana gana en casa cuatro de cinco partidos y fuera solo una de seis."
+        },
+        {
+          "titulo": "Tres victorias seguidas",
+          "texto": "Silva encadena tres triunfos, el último 2-1 ante Alondras."
+        }
+      ]
+    },
+    {
+      "id": 1612803,
+      "slug": "2026-11-21-atletico-arteixo-antela",
+      "titular": "Arteixo y Antela, empatados a 16 puntos, se disputan el centro de la tabla",
+      "entradilla": "Atlético Arteixo, séptimo, recibe a Antela, octavo. Ambos tienen 16 puntos y ninguno está en zona de playoff ni de descenso.",
+      "parrafos": [
+        "Se juega hoy a las 17:30 en Arteixo, en la duodécima jornada. Ninguno de los dos está lejos de la zona de playoff: el Lalin, quinto, tiene 18 puntos, dos más que ellos.",
+        "El local llega con 16 puntos y su mejor dato está en casa: dos victorias, dos empates y una derrota en cinco partidos, con 9 goles marcados. Su último resultado fue una derrota 0-2 en Pontevedra B, precedida de tres partidos sin perder.",
+        "El visitante, Antela, ha ganado uno de sus últimos cinco, el 3-2 ante Sarriana en casa. Antes perdió ante Silva en casa y en Pontevedra B fuera. Fuera tiene dos victorias, dos empates y una derrota, con 4 goles marcados y 3 encajados."
+      ],
+      "precedente": "",
+      "el_dato": "Atlético Arteixo ha marcado 17 goles y encajado 16; Antela, 11 y 11.",
+      "claves": [
+        {
+          "titulo": "Casa del Arteixo",
+          "texto": "Gana dos de sus cinco partidos en casa y ha marcado 9 goles como local."
+        },
+        {
+          "titulo": "Antela, fuera",
+          "texto": "Ha ganado dos de sus cinco encuentros fuera, con 4 goles a favor y 3 en contra."
+        }
+      ]
+    }
+  ]
+}

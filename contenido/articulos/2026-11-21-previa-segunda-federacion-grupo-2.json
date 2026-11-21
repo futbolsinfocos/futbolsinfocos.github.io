@@ -1,0 +1,560 @@
+{
+  "slug": "2026-11-21-previa-segunda-federacion-grupo-2",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 2",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Espanyol B y Barcelona B, derbi filial en la zona alta del Grupo 2",
+  "entradilla": "El Espanyol B, cuarto con un partido menos, recibe al líder Barcelona B a cuatro puntos. Antes, Osasuna B defiende su casa invicta ante un Barbastro que aún no ha ganado fuera.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 2 de Segunda Federación ofrece dos partidos este sábado. El Barcelona B lidera con 25 puntos, uno más que el Terrassa, y visita al Espanyol B, cuarto con 21 y un partido menos. En Tajonar, Osasuna B, sexto con 20 puntos, los mismos que el Ebro, quinto, busca entrar en play-off ante un Barbastro duodécimo con 10, solo uno por encima del descenso.\n\n## Claves de la jornada\n\n- El Espanyol B no pierde en casa: 3 victorias y 1 empate, con 13 goles a favor y 2 en contra.\n- Osasuna B solo ha encajado un gol en seis partidos como local (5 victorias y 1 empate).\n- El Barbastro suma siete empates en once jornadas y no ha ganado ningún partido fuera.\n\n## Osasuna B - Barbastro\n\n<p class=\"ficha\"><b>17:00</b> · Tajonar Facilities Stadium (Pamplona) · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Osasuna B</span><span class=\"fE\" title=\"0-0 vs Olot\">E</span><span class=\"fP\" title=\"0-1 vs Espanyol B\">P</span><span class=\"fG\" title=\"2-0 vs Tudelano\">G</span><span class=\"fP\" title=\"0-2 vs Utebo\">P</span><span class=\"fG\" title=\"2-0 vs SD Logroñés\">G</span><br><span class=\"eq\">Barbastro</span><span class=\"fE\" title=\"0-0 vs Manresa\">E</span><span class=\"fE\" title=\"1-1 vs Tudelano\">E</span><span class=\"fP\" title=\"1-2 vs Peña Sport\">P</span><span class=\"fE\" title=\"2-2 vs Espanyol B\">E</span><span class=\"fE\" title=\"2-2 vs Arnedo\">E</span></p>\n\nEl filial rojillo, sexto con 20 puntos, los mismos que el quinto, recibe a un Barbastro que acumula siete empates y no ha ganado fuera.\n\n[Leer la previa completa →](../previas/2026-11-21-osasuna-b-barbastro.html)\n\n## Espanyol B - Barcelona B\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Espanyol B</span><span class=\"fE\" title=\"1-1 vs Reddis\">E</span><span class=\"fG\" title=\"1-0 vs Osasuna B\">G</span><span class=\"fG\" title=\"3-1 vs UD Logroñés B\">G</span><span class=\"fE\" title=\"2-2 vs Barbastro\">E</span><span class=\"fE\" title=\"0-0 vs Olot\">E</span><br><span class=\"eq\">Barcelona B</span><span class=\"fG\" title=\"2-1 vs Utebo\">G</span><span class=\"fP\" title=\"0-2 vs Olot\">P</span><span class=\"fG\" title=\"2-1 vs Arnedo\">G</span><span class=\"fG\" title=\"3-0 vs Manresa\">G</span><span class=\"fP\" title=\"0-1 vs Girona B\">P</span></p>\n\nEl filial perico, cuarto con 21 puntos y un partido menos, recibe al Barcelona B, líder con 25. Una victoria lo dejaría a un punto.\n\n[Leer la previa completa →](../previas/2026-11-21-espanyol-b-barcelona-b.html)",
+  "texto_instagram": "⚽ Derbi de filiales en la zona alta del Grupo 2. El Espanyol B, cuarto con 21 puntos y un partido menos, recibe al líder Barcelona B (25), que viene de perder ante el Girona B. Los pericos siguen invictos en casa. Antes, Osasuna B, que solo ha encajado un gol en Tajonar, busca el play-off ante un Barbastro sin victorias fuera.\n\nSegunda Federación · Grupo 2 · Jornada 12\n17:00 Osasuna B - Barbastro\n18:00 Espanyol B - Barcelona B",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#EspanyolB",
+    "#BarcaAtletic",
+    "#OsasunaB",
+    "#Barbastro"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-2.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-2.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572438,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": "Tajonar Facilities Stadium",
+      "ciudad": "Pamplona",
+      "jornada": "Group 2 - 12",
+      "arbitro": null,
+      "local": "Osasuna B",
+      "visitante": "Barbastro",
+      "escudo_local": "https://media.api-sports.io/football/teams/9584.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9879.png",
+      "contexto": {
+        "local": {
+          "pos": 6,
+          "pts": 20,
+          "pj": 11,
+          "pg": 6,
+          "pe": 2,
+          "pp": 3,
+          "gf": 14,
+          "gc": 7,
+          "dg": 7,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 5,
+            "pe": 1,
+            "pp": 0,
+            "gf": 11,
+            "gc": 1
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "SD Logroñés",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Utebo",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Tudelano",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Espanyol B",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Olot",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 12,
+          "pts": 10,
+          "pj": 11,
+          "pg": 1,
+          "pe": 7,
+          "pp": 3,
+          "gf": 12,
+          "gc": 14,
+          "dg": -2,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 4,
+            "pp": 1,
+            "gf": 4,
+            "gc": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Arnedo",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Espanyol B",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Peña Sport",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Tudelano",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Manresa",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            }
+          ]
+        }
+      },
+      "historial": null
+    },
+    {
+      "id": 1572435,
+      "fecha": "2026-11-21T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 2 - 12",
+      "arbitro": null,
+      "local": "Espanyol B",
+      "visitante": "Barcelona B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9590.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/712.png",
+      "contexto": {
+        "local": {
+          "pos": 4,
+          "pts": 21,
+          "pj": 10,
+          "pg": 6,
+          "pe": 3,
+          "pp": 1,
+          "gf": 22,
+          "gc": 8,
+          "dg": 14,
+          "zona": "playoff",
+          "casa": {
+            "pj": 4,
+            "pg": 3,
+            "pe": 1,
+            "pp": 0,
+            "gf": 13,
+            "gc": 2
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Olot",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Barbastro",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "UD Logroñés B",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Osasuna B",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Reddis",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 2"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 1,
+          "pts": 25,
+          "pj": 11,
+          "pg": 8,
+          "pe": 1,
+          "pp": 2,
+          "gf": 20,
+          "gc": 6,
+          "dg": 14,
+          "zona": "ascenso",
+          "fuera": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 1,
+            "pp": 1,
+            "gf": 6,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Girona B",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Manresa",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Arnedo",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Olot",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Utebo",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 2"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-04-12",
+          "competicion": "Segunda Federación · Grupo 3",
+          "resultado": "Barcelona B 3-1 Espanyol B"
+        },
+        {
+          "fecha": "2025-11-16",
+          "competicion": "Segunda Federación · Grupo 3",
+          "resultado": "Espanyol B 1-0 Barcelona B"
+        },
+        {
+          "fecha": "2021-03-14",
+          "competicion": "Primera Federación · Grupo 3",
+          "resultado": "Espanyol B 0-1 Barcelona B"
+        },
+        {
+          "fecha": "2020-12-13",
+          "competicion": "Primera Federación · Grupo 3",
+          "resultado": "Barcelona B 2-1 Espanyol B"
+        },
+        {
+          "fecha": "2020-01-04",
+          "competicion": "Primera Federación · Grupo 3",
+          "resultado": "Barcelona B 2-0 Espanyol B"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Barcelona B": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Girona B",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Manresa",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Arnedo",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Olot",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Utebo",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      }
+    ],
+    "Barbastro": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Arnedo",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Espanyol B",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Peña Sport",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Tudelano",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Manresa",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      }
+    ],
+    "Osasuna B": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "SD Logroñés",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Utebo",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Tudelano",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Espanyol B",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Olot",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      }
+    ],
+    "Espanyol B": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Olot",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Barbastro",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "UD Logroñés B",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Osasuna B",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Reddis",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 2"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1572438,
+      "slug": "2026-11-21-osasuna-b-barbastro",
+      "titular": "Osasuna B busca el play-off en Tajonar, donde solo ha encajado un gol",
+      "entradilla": "El filial rojillo, sexto con 20 puntos, los mismos que el quinto, recibe a un Barbastro que acumula siete empates y no ha ganado fuera.",
+      "parrafos": [
+        "Osasuna B recibe al Barbastro este sábado a las 17:00 en las instalaciones de Tajonar, en Pamplona, en la jornada 12. Los navarros, sextos con 20 puntos, empatan con el Ebro, quinto y último puesto de play-off.",
+        "En casa, Osasuna B es uno de los equipos más sólidos del grupo: cinco victorias y un empate en seis partidos, con 11 goles a favor y uno solo en contra. Fuera, en cambio, solo ha ganado uno de cinco. Su racha alterna resultados: ganó sus dos últimos partidos en casa, 2-0 al Tudelano y 2-0 al SD Logroñés, y perdió los dos últimos a domicilio.",
+        "El Barbastro, duodécimo con 10 puntos, solo tiene una victoria en once jornadas y suma siete empates. Lleva cuatro empates en sus últimos cinco partidos, el último un 2-2 ante el Arnedo. Fuera no ha ganado: cuatro empates y una derrota. Está a un punto del Tudelano, primer equipo en descenso."
+      ],
+      "precedente": "",
+      "el_dato": "Osasuna B ha encajado un solo gol en seis partidos en casa.",
+      "claves": [
+        {
+          "titulo": "Muro en Tajonar",
+          "texto": "Osasuna B suma 5 victorias y 1 empate como local, con 11-1 en goles."
+        },
+        {
+          "titulo": "Rey del empate",
+          "texto": "El Barbastro ha empatado 7 de sus 11 partidos."
+        },
+        {
+          "titulo": "Sin ganar fuera",
+          "texto": "El Barbastro lleva 4 empates y 1 derrota a domicilio."
+        }
+      ]
+    },
+    {
+      "id": 1572435,
+      "slug": "2026-11-21-espanyol-b-barcelona-b",
+      "titular": "El Espanyol B, invicto en casa, puede ponerse a un punto del líder",
+      "entradilla": "El filial perico, cuarto con 21 puntos y un partido menos, recibe al Barcelona B, líder con 25. Una victoria lo dejaría a un punto.",
+      "parrafos": [
+        "El Espanyol B y el Barcelona B disputan este sábado a las 18:00 el derbi de filiales de la jornada 12. Está en juego la cabeza del Grupo 2: el Barcelona B es líder con 25 puntos y el Espanyol B, cuarto, suma 21 con un partido menos.",
+        "El Espanyol B llega con cinco jornadas sin perder, aunque viene de dos empates seguidos: 2-2 ante el Barbastro y 0-0 en Olot. En casa no conoce la derrota, con tres victorias y un empate. Es, junto al Girona B, el equipo más goleador del grupo, con 22 tantos, y comparte con el Barcelona B la mejor diferencia de goles (+14).",
+        "El Barcelona B llega tras perder 0-1 en casa ante el Girona B, su segunda derrota en las últimas cinco jornadas. Lejos de casa ha ganado tres de cinco partidos, con un empate y una derrota, y solo ha encajado tres goles. Es la defensa menos goleada de la categoría junto al Terrassa en goles recibidos por partido: seis en once jornadas.",
+        "La presión también viene por detrás. El Terrassa, segundo, está a un punto del Barcelona B, y el Girona B, tercero, a tres."
+      ],
+      "precedente": "El último enfrentamiento, en abril de 2026, terminó Barcelona B 3-1 Espanyol B. En el anterior, en noviembre de 2025, ganó el Espanyol B 1-0 como local.",
+      "el_dato": "El Espanyol B ha marcado 13 goles y encajado solo 2 en sus cuatro partidos en casa.",
+      "claves": [
+        {
+          "titulo": "Fortaleza local",
+          "texto": "El Espanyol B suma 3 victorias y 1 empate en casa, sin derrotas."
+        },
+        {
+          "titulo": "Líder tocado",
+          "texto": "El Barcelona B perdió 0-1 ante el Girona B en la última jornada."
+        },
+        {
+          "titulo": "Partido pendiente",
+          "texto": "El Espanyol B ha jugado 10 partidos, uno menos que el Barcelona B."
+        }
+      ]
+    }
+  ]
+}

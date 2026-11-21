@@ -1,0 +1,572 @@
+{
+  "slug": "2026-11-21-previa-segunda-federacion-grupo-4",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Estepona busca la zona alta y el Tenerife B y el Tamaraceite, salir del fondo",
+  "entradilla": "La jornada 12 del Grupo 4 de Segunda Federación arranca con un duelo de necesitados en Tenerife entre el 15º y el colista. Por la tarde, el Estepona, séptimo con 18 puntos, recibe al Sevilla Atlético con la vista en la parte alta.",
+  "cuerpo_markdown": "El Recreativo Huelva lidera con 21 puntos, uno más que Don Benito y Badajoz. Entre el segundo y el octavo solo hay tres puntos de diferencia, una franja en la que está el Estepona, séptimo con 18. Abajo, el Tamaraceite cierra la tabla con 6 puntos, empatado con el Antoniano, y el Tenerife B, con 10, ocupa la 15ª plaza tras cuatro derrotas seguidas.\n\n## Claves de la jornada\n\n- El Tamaraceite ha perdido sus cinco partidos fuera de casa: 2 goles a favor y 14 en contra.\n- El Estepona es el máximo goleador del grupo con 22 tantos, 14 de ellos en casa.\n- El Sevilla Atlético suma tres empates en sus últimos cuatro partidos.\n\n## Tenerife B - Tamaraceite\n\n<p class=\"ficha\"><b>12:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Tenerife B</span><span class=\"fE\" title=\"1-1 vs Las Palmas B\">E</span><span class=\"fP\" title=\"1-3 vs Mijas Las Lagunas\">P</span><span class=\"fP\" title=\"0-2 vs Sevilla Atlético\">P</span><span class=\"fP\" title=\"0-1 vs Don Benito\">P</span><span class=\"fP\" title=\"1-2 vs Linares Deportivo\">P</span><br><span class=\"eq\">Tamaraceite</span><span class=\"fG\" title=\"3-2 vs Real Betis B\">G</span><span class=\"fP\" title=\"0-1 vs Atlético Central\">P</span><span class=\"fP\" title=\"1-3 vs Xerez\">P</span><span class=\"fP\" title=\"0-5 vs Estepona\">P</span><span class=\"fP\" title=\"0-1 vs Marbella\">P</span></p>\n\nEl Tenerife B, con cuatro derrotas seguidas, recibe al colista, que ha perdido sus cinco salidas. Hay cuatro puntos de diferencia entre ambos.\n\n[Leer la previa completa →](../previas/2026-11-21-tenerife-b-tamaraceite.html)\n\n## Estepona - Sevilla Atlético\n\n<p class=\"ficha\"><b>19:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Estepona</span><span class=\"fE\" title=\"0-0 vs Marbella\">E</span><span class=\"fE\" title=\"2-2 vs Ciudad de Lucena\">E</span><span class=\"fP\" title=\"1-4 vs Antoniano\">P</span><span class=\"fG\" title=\"5-0 vs Tamaraceite\">G</span><span class=\"fG\" title=\"4-3 vs Mijas Las Lagunas\">G</span><br><span class=\"eq\">Sevilla Atlético</span><span class=\"fP\" title=\"1-3 vs Mijas Las Lagunas\">P</span><span class=\"fE\" title=\"3-3 vs Antoniano\">E</span><span class=\"fG\" title=\"2-0 vs Tenerife B\">G</span><span class=\"fE\" title=\"1-1 vs Puente Genil\">E</span><span class=\"fE\" title=\"3-3 vs Linares Deportivo\">E</span></p>\n\nEl Estepona, séptimo con 18 puntos, quiere encadenar su tercera victoria para acercarse a la zona alta. El Sevilla Atlético, 12º con 14 y un partido menos, llega con tres empates en sus últimos cuatro partidos.\n\n[Leer la previa completa →](../previas/2026-11-21-estepona-sevilla-atletico.html)",
+  "texto_instagram": "⚽ Jornada 12 en el Grupo 4 de Segunda Federación. El Tenerife B, con cuatro derrotas seguidas, recibe al colista Tamaraceite, que ha perdido sus cinco salidas. Por la tarde, el Estepona, máximo goleador del grupo con 22 tantos, recibe al Sevilla Atlético y puede quedarse a tiro del líder.\n\n12:00 Tenerife B - Tamaraceite\n19:00 Estepona - Sevilla Atlético",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#TenerifeB",
+    "#Tamaraceite",
+    "#Estepona",
+    "#SevillaAtlético"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573055,
+      "fecha": "2026-11-21T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 12",
+      "arbitro": null,
+      "local": "Tenerife B",
+      "visitante": "Tamaraceite",
+      "escudo_local": "https://media.api-sports.io/football/teams/9802.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9415.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 10,
+          "pj": 10,
+          "pg": 3,
+          "pe": 1,
+          "pp": 6,
+          "gf": 12,
+          "gc": 16,
+          "dg": -4,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 0,
+            "pp": 3,
+            "gf": 7,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Linares Deportivo",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Don Benito",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Sevilla Atlético",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Mijas Las Lagunas",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Las Palmas B",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 18,
+          "pts": 6,
+          "pj": 11,
+          "pg": 2,
+          "pe": 0,
+          "pp": 9,
+          "gf": 8,
+          "gc": 24,
+          "dg": -16,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 0,
+            "pp": 5,
+            "gf": 2,
+            "gc": 14
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Marbella",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Estepona",
+              "campo": "fuera",
+              "marcador": "0-5",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Xerez",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Atlético Central",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Real Betis B",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2024-05-01",
+          "competicion": "Tercera Federación · Grupo 12",
+          "resultado": "Tenerife B 3-0 Tamaraceite"
+        },
+        {
+          "fecha": "2024-01-07",
+          "competicion": "Tercera Federación · Grupo 12",
+          "resultado": "Tamaraceite 1-4 Tenerife B"
+        },
+        {
+          "fecha": "2023-03-25",
+          "competicion": "Tercera Federación · Grupo 12",
+          "resultado": "Tamaraceite 2-1 Tenerife B"
+        },
+        {
+          "fecha": "2022-11-27",
+          "competicion": "Tercera Federación · Grupo 12",
+          "resultado": "Tenerife B 1-1 Tamaraceite"
+        },
+        {
+          "fecha": "2019-10-26",
+          "competicion": "Tercera Federación · Grupo 12",
+          "resultado": "Tamaraceite 2-2 Tenerife B"
+        }
+      ]
+    },
+    {
+      "id": 1573049,
+      "fecha": "2026-11-21T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 12",
+      "arbitro": null,
+      "local": "Estepona",
+      "visitante": "Sevilla Atlético",
+      "escudo_local": "https://media.api-sports.io/football/teams/15358.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/730.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 18,
+          "pj": 11,
+          "pg": 5,
+          "pe": 3,
+          "pp": 3,
+          "gf": 22,
+          "gc": 18,
+          "dg": 4,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 3,
+            "pe": 2,
+            "pp": 1,
+            "gf": 14,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Mijas Las Lagunas",
+              "campo": "fuera",
+              "marcador": "4-3",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Tamaraceite",
+              "campo": "casa",
+              "marcador": "5-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Antoniano",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Ciudad de Lucena",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Marbella",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 12,
+          "pts": 14,
+          "pj": 10,
+          "pg": 3,
+          "pe": 5,
+          "pp": 2,
+          "gf": 18,
+          "gc": 16,
+          "dg": 2,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 2,
+            "pp": 2,
+            "gf": 8,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Linares Deportivo",
+              "campo": "fuera",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Puente Genil",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Tenerife B",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Antoniano",
+              "campo": "fuera",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Mijas Las Lagunas",
+              "campo": "fuera",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2024-03-09",
+          "competicion": "Segunda Federación · Grupo 4",
+          "resultado": "Sevilla Atlético 1-0 Estepona"
+        },
+        {
+          "fecha": "2023-10-29",
+          "competicion": "Segunda Federación · Grupo 4",
+          "resultado": "Estepona 0-4 Sevilla Atlético"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Tamaraceite": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Marbella",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Estepona",
+        "campo": "fuera",
+        "marcador": "0-5",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Xerez",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Atlético Central",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Real Betis B",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Tenerife B": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Linares Deportivo",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Don Benito",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Sevilla Atlético",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Mijas Las Lagunas",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Las Palmas B",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Estepona": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Mijas Las Lagunas",
+        "campo": "fuera",
+        "marcador": "4-3",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Tamaraceite",
+        "campo": "casa",
+        "marcador": "5-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Antoniano",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Ciudad de Lucena",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Marbella",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Sevilla Atlético": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Linares Deportivo",
+        "campo": "fuera",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Puente Genil",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Tenerife B",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Antoniano",
+        "campo": "fuera",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Mijas Las Lagunas",
+        "campo": "fuera",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573055,
+      "slug": "2026-11-21-tenerife-b-tamaraceite",
+      "titular": "Tenerife B y Tamaraceite, dos equipos en caída, se miden en la zona baja",
+      "entradilla": "El Tenerife B, con cuatro derrotas seguidas, recibe al colista, que ha perdido sus cinco salidas. Hay cuatro puntos de diferencia entre ambos.",
+      "parrafos": [
+        "El Tenerife B y el Tamaraceite abren la jornada 12 del Grupo 4 de Segunda Federación este sábado a las 12:00. Es un partido de la zona baja: el filial es 15º con 10 puntos y el Tamaraceite es colista con 6.",
+        "El Tenerife B encadena cuatro derrotas consecutivas. La última fue en casa ante el Linares Deportivo (1-2), y antes cayó también como local ante el Don Benito (0-1) y el Mijas Las Lagunas (1-3). Su último punto llegó en el campo de Las Palmas B (1-1). En casa ha ganado dos de cinco partidos, con 7 goles a favor y 8 en contra.",
+        "El Tamaraceite llega aún peor. Ha perdido sus últimos cuatro partidos, con un 0-5 en Estepona incluido, y su única victoria reciente fue ante el Real Betis B (3-2). Fuera de casa no ha sumado ningún punto: cinco derrotas, 2 goles marcados y 14 encajados. Tiene la peor diferencia de goles del grupo (-16).",
+        "Para el filial blanquiazul, una victoria abriría siete puntos sobre el último. Para el Tamaraceite, ganar le permitiría recortar la distancia a uno, con un partido más jugado."
+      ],
+      "precedente": "El último enfrentamiento fue en Tercera Federación, en mayo de 2024: el Tenerife B ganó 3-0. En enero de ese año también se impuso por 1-4 en campo del Tamaraceite.",
+      "el_dato": "El Tamaraceite ha perdido sus cinco partidos a domicilio, con 14 goles en contra.",
+      "claves": [
+        {
+          "titulo": "Cuatro derrotas seguidas",
+          "texto": "El Tenerife B no puntúa desde el 1-1 en el campo de Las Palmas B del 11 de octubre."
+        },
+        {
+          "titulo": "Cero puntos fuera",
+          "texto": "El Tamaraceite suma cinco derrotas en cinco salidas, con solo 2 goles a favor."
+        },
+        {
+          "titulo": "Dominio reciente local",
+          "texto": "El Tenerife B ganó los dos últimos enfrentamientos, con un global de 7-1."
+        }
+      ]
+    },
+    {
+      "id": 1573049,
+      "slug": "2026-11-21-estepona-sevilla-atletico",
+      "titular": "El Estepona, el equipo más goleador, recibe a un Sevilla Atlético que empata",
+      "entradilla": "El Estepona, séptimo con 18 puntos, quiere encadenar su tercera victoria para acercarse a la zona alta. El Sevilla Atlético, 12º con 14 y un partido menos, llega con tres empates en sus últimos cuatro partidos.",
+      "parrafos": [
+        "El Estepona recibe al Sevilla Atlético este sábado a las 19:00, en la jornada 12 del Grupo 4. El local es séptimo con 18 puntos, a tres del líder, el Recreativo Huelva. El visitante es 12º con 14 y tiene un partido menos.",
+        "El Estepona llega con dos victorias seguidas y mucho gol: 5-0 al Tamaraceite y 4-3 en Mijas. Es el máximo goleador del grupo con 22 tantos, aunque también encaja: 18 en contra. En casa ha perdido solo uno de seis partidos (3 victorias y 2 empates), con 14 goles a favor y 9 en contra.",
+        "El Sevilla Atlético solo ha perdido dos partidos, pero empata mucho: cinco en diez jornadas. Viene de dos empates, un 3-3 en Linares y un 1-1 ante el Puente Genil. Fuera de casa es más vulnerable: una victoria, dos empates y dos derrotas, con 11 goles encajados en cinco partidos.",
+        "Una victoria local dejaría al Estepona con 21 puntos, empatado provisionalmente con el líder. El filial sevillista, si gana, se pondría a un punto de su rival."
+      ],
+      "precedente": "El último enfrentamiento terminó con victoria del Sevilla Atlético por 1-0 en marzo de 2024. En la primera vuelta de aquella temporada, el filial ganó 0-4 en Estepona.",
+      "el_dato": "El Estepona ha marcado 9 goles en sus dos últimos partidos.",
+      "claves": [
+        {
+          "titulo": "Pegada local",
+          "texto": "El Estepona ha marcado 22 goles, la mejor cifra del grupo."
+        },
+        {
+          "titulo": "Especialista en empates",
+          "texto": "El Sevilla Atlético ha empatado cinco de sus diez partidos, tres de ellos en los últimos cuatro."
+        },
+        {
+          "titulo": "Precedentes sevillistas",
+          "texto": "El Sevilla Atlético ganó los dos enfrentamientos anteriores, con un global de 5-0."
+        }
+      ]
+    }
+  ]
+}

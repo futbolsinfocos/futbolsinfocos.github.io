@@ -1,0 +1,535 @@
+{
+  "slug": "2026-11-21-previa-segunda-federacion-grupo-3",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "La Deportiva Minera defiende el liderato en Elche con un punto de margen",
+  "entradilla": "La Deportiva Minera, primera con 23 puntos, visita al Elche B solo un punto por delante del Ucam Murcia. Por la tarde, Intercity y Poblense, empatados a 13, cruzan dos rachas extrañas: uno no gana en casa y el otro no gana fuera.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 3 de Segunda Federación arranca con dos partidos. La cabeza está apretada: Deportiva Minera (23), Ucam Murcia (22) y Castellón B (21) caben en dos puntos. El líder juega en el campo del Elche B, decimoquinto con 11 puntos y tres por encima del trío que cierra la tabla con 8. Intercity y Poblense, duodécimo y decimotercero con 13 puntos, se miden en la zona templada, aunque con Mallorca B (12) y Elche B (11) muy cerca.\n\n## Claves de la jornada\n\n- La Deportiva Minera solo aventaja en un punto al Ucam Murcia y en dos al Castellón B.\n- El Elche B es el equipo más goleado del grupo: 23 goles en contra en 11 partidos.\n- El Poblense no ha ganado ninguno de sus seis partidos fuera; el Intercity no ha ganado ninguno de sus cuatro en casa.\n\n## Elche B - Deportiva Minera\n\n<p class=\"ficha\"><b>16:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Elche B</span><span class=\"fP\" title=\"0-4 vs Mallorca B\">P</span><span class=\"fP\" title=\"1-5 vs Castellón B\">P</span><span class=\"fE\" title=\"2-2 vs Intercity\">E</span><span class=\"fG\" title=\"2-1 vs Alcoyano\">G</span><span class=\"fP\" title=\"1-2 vs Atlético Baleares\">P</span><br><span class=\"eq\">Deportiva Minera</span><span class=\"fG\" title=\"1-0 vs Cieza\">G</span><span class=\"fG\" title=\"2-0 vs Real Murcia B\">G</span><span class=\"fP\" title=\"0-3 vs Castellón B\">P</span><span class=\"fG\" title=\"2-0 vs Poblense\">G</span><span class=\"fP\" title=\"1-2 vs FC Cartagena\">P</span></p>\n\nEl líder visita al Elche B con un punto de ventaja sobre el Ucam Murcia. El filial, decimoquinto, necesita puntos para no acercarse a la cola.\n\n[Leer la previa completa →](../previas/2026-11-21-elche-b-deportiva-minera.html)\n\n## Intercity - Poblense\n\n<p class=\"ficha\"><b>19:00</b> · Camp Municipal Antonio Solana · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Intercity</span><span class=\"fP\" title=\"1-3 vs Cieza\">P</span><span class=\"fP\" title=\"0-2 vs Castellonense\">P</span><span class=\"fG\" title=\"4-1 vs La Nucía\">G</span><span class=\"fE\" title=\"2-2 vs Elche B\">E</span><span class=\"fP\" title=\"1-4 vs Alcoyano\">P</span><br><span class=\"eq\">Poblense</span><span class=\"fG\" title=\"1-0 vs Peña Deportiva\">G</span><span class=\"fP\" title=\"1-2 vs AD Ceuta FC\">P</span><span class=\"fP\" title=\"0-2 vs Lorca Deportiva\">P</span><span class=\"fG\" title=\"1-0 vs Cieza\">G</span><span class=\"fP\" title=\"0-2 vs Deportiva Minera\">P</span></p>\n\nEl Intercity aún no ha ganado en casa y el Poblense no ha ganado fuera. Ambos suman 13 puntos y uno de los dos romperá su maleficio o lo prolongará.\n\n[Leer la previa completa →](../previas/2026-11-21-intercity-poblense.html)",
+  "texto_instagram": "⚽ Jornada 12 en el Grupo 3 de Segunda Federación. La Deportiva Minera, líder con 23 puntos y uno más que el Ucam Murcia, visita al Elche B, el equipo más goleado del grupo (23 en contra). Intercity y Poblense, ambos con 13, se miden con una curiosidad: el local no ha ganado en casa y el visitante no ha ganado fuera.\n\n🕓 16:00 Elche B - Deportiva Minera\n🕖 19:00 Intercity - Poblense",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#ElcheB",
+    "#DeportivaMinera",
+    "#Intercity",
+    "#Poblense"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-3.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-3.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572743,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 12",
+      "arbitro": null,
+      "local": "Elche B",
+      "visitante": "Deportiva Minera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9691.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9811.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 11,
+          "pj": 11,
+          "pg": 3,
+          "pe": 2,
+          "pp": 6,
+          "gf": 13,
+          "gc": 23,
+          "dg": -10,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 0,
+            "pp": 3,
+            "gf": 8,
+            "gc": 13
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Atlético Baleares",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-11",
+              "rival": "Alcoyano",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Intercity",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Castellón B",
+              "campo": "casa",
+              "marcador": "1-5",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Mallorca B",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 1,
+          "pts": 23,
+          "pj": 11,
+          "pg": 7,
+          "pe": 2,
+          "pp": 2,
+          "gf": 15,
+          "gc": 9,
+          "dg": 6,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 3,
+            "gc": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-18",
+              "rival": "FC Cartagena",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Poblense",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-11",
+              "rival": "Castellón B",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Real Murcia B",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Cieza",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        }
+      },
+      "historial": null
+    },
+    {
+      "id": 1572742,
+      "fecha": "2026-11-21T19:00:00+01:00",
+      "estadio": "Camp Municipal Antonio Solana",
+      "ciudad": null,
+      "jornada": "Group 3 - 12",
+      "arbitro": null,
+      "local": "Intercity",
+      "visitante": "Poblense",
+      "escudo_local": "https://media.api-sports.io/football/teams/8160.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5273.png",
+      "contexto": {
+        "local": {
+          "pos": 12,
+          "pts": 13,
+          "pj": 10,
+          "pg": 3,
+          "pe": 4,
+          "pp": 3,
+          "gf": 15,
+          "gc": 17,
+          "dg": -2,
+          "zona": "",
+          "casa": {
+            "pj": 4,
+            "pg": 0,
+            "pe": 3,
+            "pp": 1,
+            "gf": 5,
+            "gc": 7
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Alcoyano",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Elche B",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "La Nucía",
+              "campo": "fuera",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Castellonense",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Cieza",
+              "campo": "fuera",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 13,
+          "pts": 13,
+          "pj": 11,
+          "pg": 4,
+          "pe": 1,
+          "pp": 6,
+          "gf": 9,
+          "gc": 14,
+          "dg": -5,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 0,
+            "pe": 1,
+            "pp": 5,
+            "gf": 3,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Deportiva Minera",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Cieza",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Lorca Deportiva",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "AD Ceuta FC",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Peña Deportiva",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Intercity": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Alcoyano",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Elche B",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "La Nucía",
+        "campo": "fuera",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Castellonense",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Cieza",
+        "campo": "fuera",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ],
+    "Elche B": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Atlético Baleares",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-11",
+        "rival": "Alcoyano",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Intercity",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Castellón B",
+        "campo": "casa",
+        "marcador": "1-5",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Mallorca B",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ],
+    "Poblense": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Deportiva Minera",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Cieza",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Lorca Deportiva",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "AD Ceuta FC",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Peña Deportiva",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ],
+    "Deportiva Minera": [
+      {
+        "fecha": "2026-11-18",
+        "rival": "FC Cartagena",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Poblense",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-11",
+        "rival": "Castellón B",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Real Murcia B",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Cieza",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1572743,
+      "slug": "2026-11-21-elche-b-deportiva-minera",
+      "titular": "La Deportiva Minera pone su liderato a prueba ante el equipo más goleado",
+      "entradilla": "El líder visita al Elche B con un punto de ventaja sobre el Ucam Murcia. El filial, decimoquinto, necesita puntos para no acercarse a la cola.",
+      "parrafos": [
+        "El Elche B recibe este sábado a las 16:00 a la Deportiva Minera en la jornada 12. El líder, con 23 puntos, defiende un margen mínimo: el Ucam Murcia tiene 22 y el Castellón B, 21.",
+        "El Elche B llega decimoquinto, con 11 puntos y el peor registro defensivo del grupo: 23 goles encajados en 11 partidos. Solo ha ganado uno de sus últimos cinco, el 2-1 en el campo del Alcoyano. El último partido lo perdió en casa ante el Atlético Baleares (1-2). Como local suma dos victorias y tres derrotas, con 13 goles en contra en cinco partidos.",
+        "La Deportiva Minera es una apisonadora en casa, pero fuera rinde menos: dos victorias, un empate y dos derrotas, con solo tres goles marcados en cinco salidas. Ganó 1-0 en Cieza y 2-0 en el campo del Real Murcia B, pero cayó 3-0 ante el Castellón B. Llega además tras perder el miércoles en Copa del Rey ante el FC Cartagena (1-2).",
+        "El filial tiene a tres puntos a Peña Deportiva, Valencia B y Real Murcia B, los tres últimos con 8. Una derrota lo dejaría expuesto."
+      ],
+      "precedente": "",
+      "el_dato": "La Deportiva Minera solo ha marcado tres goles en sus cinco partidos fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Defensa en apuros",
+          "texto": "El Elche B ha encajado 23 goles, la cifra más alta del grupo."
+        },
+        {
+          "titulo": "Líder poco goleador fuera",
+          "texto": "La Deportiva Minera suma 3 goles a favor y 5 en contra lejos de su campo."
+        },
+        {
+          "titulo": "Margen mínimo arriba",
+          "texto": "Solo un punto separa al líder del Ucam Murcia, segundo."
+        }
+      ]
+    },
+    {
+      "id": 1572742,
+      "slug": "2026-11-21-intercity-poblense",
+      "titular": "Intercity y Poblense, empatados a 13, cruzan dos rachas sin victoria",
+      "entradilla": "El Intercity aún no ha ganado en casa y el Poblense no ha ganado fuera. Ambos suman 13 puntos y uno de los dos romperá su maleficio o lo prolongará.",
+      "parrafos": [
+        "El Intercity recibe al Poblense este sábado a las 19:00 en el Camp Municipal Antonio Solana, en la jornada 12. Duodécimo y decimotercero, ambos con 13 puntos; el Intercity tiene un partido menos.",
+        "El Intercity es mucho mejor fuera que en casa. Como local acumula tres empates y una derrota, sin ninguna victoria. Lejos de su campo ha sumado tres triunfos. Llega tras caer 1-4 ante el Alcoyano y ha ganado solo uno de sus últimos cinco partidos, el 4-1 en La Nucía.",
+        "El Poblense presenta el perfil opuesto: cuatro victorias en cinco partidos en casa y ninguna en seis salidas, con un empate, cinco derrotas, tres goles a favor y once en contra. Viene de perder 2-0 en el campo de la Deportiva Minera.",
+        "Por detrás están Mallorca B, con 12, y Elche B, con 11. El perdedor puede verse superado."
+      ],
+      "precedente": "",
+      "el_dato": "El Poblense ha perdido cinco de sus seis partidos fuera de casa y solo ha marcado tres goles como visitante.",
+      "claves": [
+        {
+          "titulo": "Sin ganar en casa",
+          "texto": "El Intercity suma tres empates y una derrota en sus cuatro partidos como local."
+        },
+        {
+          "titulo": "Visitante sin triunfos",
+          "texto": "El Poblense no ha ganado en seis salidas: un empate y cinco derrotas."
+        },
+        {
+          "titulo": "Partido pendiente",
+          "texto": "El Intercity ha jugado 10 partidos, uno menos que el Poblense."
+        }
+      ]
+    }
+  ]
+}

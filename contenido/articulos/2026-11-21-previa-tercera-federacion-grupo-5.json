@@ -1,0 +1,281 @@
+{
+  "slug": "2026-11-21-previa-tercera-federacion-grupo-5",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 5",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "San Juan busca salir de la mitad baja ante el segundo, que no pierde en cinco partidos",
+  "entradilla": "Solo hay un partido hoy en el Grupo 5 de Tercera Federación. El San Juan, 13º con 13 puntos, busca alejarse de la zona de descenso ante el Cerdanyola, segundo con 19.",
+  "cuerpo_markdown": "La jornada 12 llega con la tabla muy apretada arriba. Montañesa lidera con 20 puntos y el Cerdanyola, segundo, está a uno. Cuatro equipos ocupan la zona de playoff, y en la parte baja Mollerussa, L'Escala y San Cristóbal se sitúan en descenso.\n\n## Claves de la jornada\n\n- Solo hay un partido en la jornada, a las 18:30 horas.\n- El Cerdanyola suma cuatro victorias en sus últimos cinco partidos.\n- El San Juan está a dos puntos del primer equipo en descenso, el Mollerussa.\n\n## San Juan Atletico de Montcada - Cerdanyola del Vallès\n\n<p class=\"ficha\"><b>18:30</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">San Juan Atletico de Montcada</span><span class=\"fP\" title=\"0-2 vs Vilanova\">P</span><span class=\"fE\" title=\"2-2 vs L&#x27;Hospitalet\">E</span><span class=\"fP\" title=\"1-2 vs Mollerussa\">P</span><span class=\"fG\" title=\"3-1 vs Peralada\">G</span><span class=\"fP\" title=\"0-2 vs Pobla Mafumet\">P</span><br><span class=\"eq\">Cerdanyola del Vallès</span><span class=\"fG\" title=\"1-0 vs Montañesa\">G</span><span class=\"fG\" title=\"1-0 vs Peralada\">G</span><span class=\"fE\" title=\"1-1 vs Vilassar Mar\">E</span><span class=\"fG\" title=\"1-0 vs Pobla Mafumet\">G</span><span class=\"fG\" title=\"2-1 vs San Cristóbal\">G</span></p>\n\nEl San Juan, 13º con 13 puntos, quiere separarse de la zona de descenso. El Cerdanyola, segundo con 19, intenta seguir en la zona de playoff.\n\n[Leer la previa completa →](../previas/2026-11-21-san-juan-atletico-de-montcada-cerdanyola-del-valles.html)",
+  "texto_instagram": "Solo hay un partido hoy en Tercera Federación, Grupo 5. El Cerdanyola, segundo con 19 puntos, visita al San Juan, 13º con 13, que busca alejarse del descenso. El visitante no pierde en sus últimos cinco partidos. ⚽ Hoy 18:30 h: San Juan Atletico de Montcada - Cerdanyola del Vallès (J12)",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo5",
+    "#Cerdanyola",
+    "#SanJuanAtletico"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-5.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-5.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1614033,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 5 - 12",
+      "arbitro": null,
+      "local": "San Juan Atletico de Montcada",
+      "visitante": "Cerdanyola del Vallès",
+      "escudo_local": "https://media.api-sports.io/football/teams/28102.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9670.png",
+      "contexto": {
+        "local": {
+          "pos": 13,
+          "pts": 13,
+          "pj": 11,
+          "pg": 4,
+          "pe": 1,
+          "pp": 6,
+          "gf": 14,
+          "gc": 20,
+          "dg": -6,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 1,
+            "pp": 1,
+            "gf": 9,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Pobla Mafumet",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Peralada",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Mollerussa",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "L'Hospitalet",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-21",
+              "rival": "Vilanova",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 5"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 2,
+          "pts": 19,
+          "pj": 11,
+          "pg": 5,
+          "pe": 4,
+          "pp": 2,
+          "gf": 12,
+          "gc": 10,
+          "dg": 2,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 5,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "San Cristóbal",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Pobla Mafumet",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Vilassar Mar",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Peralada",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Montañesa",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 5"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Cerdanyola del Vallès": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "San Cristóbal",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Pobla Mafumet",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Vilassar Mar",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Peralada",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Montañesa",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 5"
+      }
+    ],
+    "San Juan Atletico de Montcada": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Pobla Mafumet",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Peralada",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Mollerussa",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "L'Hospitalet",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-21",
+        "rival": "Vilanova",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 5"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1614033,
+      "slug": "2026-11-21-san-juan-atletico-de-montcada-cerdanyola-del-valles",
+      "titular": "San Juan busca salir de la mitad baja ante el segundo, que no pierde en cinco partidos",
+      "entradilla": "El San Juan, 13º con 13 puntos, quiere separarse de la zona de descenso. El Cerdanyola, segundo con 19, intenta seguir en la zona de playoff.",
+      "parrafos": [
+        "El partido se juega hoy a las 18:30 horas, correspondiente a la jornada 12. El San Juan recibe al Cerdanyola en una jornada en la que solo hay un encuentro en el grupo.",
+        "El San Juan es decimotercero con 13 puntos, con 4 victorias, 1 empate y 6 derrotas. En casa tiene 3 victorias, 1 empate y 1 derrota, con 9 goles a favor y 8 en contra. Fuera ha ganado una vez en seis partidos, con 5 goles a favor y 12 en contra. En sus últimas cinco jornadas ha sumado solo una victoria, ante el Peralada, con tres derrotas.",
+        "El Cerdanyola es segundo con 19 puntos, con 5 victorias, 4 empates y 2 derrotas. Fuera tiene 2 victorias, 1 empate y 2 derrotas, con 5 goles a favor y 6 en contra. Sus dos derrotas de la temporada son a domicilio. Llega con cuatro victorias y un empate en sus últimos cinco partidos, tres de ellas por 1-0, y está a un punto del líder Montañesa."
+      ],
+      "precedente": "",
+      "el_dato": "El Cerdanyola no ha perdido en casa esta temporada y sus dos derrotas han sido a domicilio.",
+      "claves": [
+        {
+          "titulo": "Dos posiciones distintas",
+          "texto": "El San Juan, 13º, está a dos puntos del primer equipo en descenso, el Mollerussa."
+        },
+        {
+          "titulo": "Racha del Cerdanyola",
+          "texto": "Cuatro victorias en sus últimos cinco partidos, tres de ellas por 1-0."
+        },
+        {
+          "titulo": "Contraste de campos",
+          "texto": "El San Juan gana en casa y pierde fuera, mientras el Cerdanyola solo ha perdido lejos de casa."
+        }
+      ]
+    }
+  ]
+}
