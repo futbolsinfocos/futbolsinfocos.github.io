@@ -1,0 +1,283 @@
+{
+  "slug": "2026-11-21-previa-segunda-federacion-grupo-5",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Numancia, invicto a domicilio, visita al Real Madrid C para seguir arriba",
+  "entradilla": "El tercer clasificado, a un punto del liderato, se mide al filial blanco, que llega con tres jornadas sin encajar. Se juega a las 18:30 en la jornada 12.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 5 de Segunda Federación tiene hoy un único partido: Real Madrid C-Numancia. La parte alta está muy apretada. Conquense y A Madrid C suman 21 puntos, y el líder tiene un partido menos. Numancia, Salamanca UDS y SS Reyes les siguen con 20. El Real Madrid C es 13º con 12 puntos, ocho menos que su rival de hoy.\n\n## Claves de la jornada\n\n- Real Madrid C y Numancia son las dos defensas menos goleadas del grupo, con seis goles encajados cada uno.\n- El Numancia no ha perdido fuera de casa en seis salidas: dos victorias y cuatro empates.\n- El Real Madrid C es el equipo menos goleador del grupo, con cinco tantos en 11 jornadas.\n\n## Real Madrid C - Numancia\n\n<p class=\"ficha\"><b>18:30</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Real Madrid C</span><span class=\"fE\" title=\"0-0 vs RSD Alcalá\">E</span><span class=\"fP\" title=\"0-2 vs Conquense\">P</span><span class=\"fG\" title=\"1-0 vs Real Ávila\">G</span><span class=\"fG\" title=\"3-0 vs Real Valladolid B\">G</span><span class=\"fE\" title=\"0-0 vs SS Reyes\">E</span><br><span class=\"eq\">Numancia</span><span class=\"fP\" title=\"2-3 vs Navalcarnero\">P</span><span class=\"fE\" title=\"3-3 vs Oviedo\">E</span><span class=\"fG\" title=\"2-1 vs Atlético Tordesillas\">G</span><span class=\"fG\" title=\"6-0 vs Calvo Sotelo\">G</span><span class=\"fE\" title=\"1-1 vs Real Valladolid B\">E</span></p>\n\nEl Numancia, tercero con 20 puntos, busca seguir a un punto del liderato. Enfrente tiene al filial blanco, que encadena tres partidos sin recibir un gol.\n\n[Leer la previa completa →](../previas/2026-11-21-real-madrid-c-numancia.html)",
+  "texto_instagram": "⚽ El Numancia, tercero con 20 puntos y a uno del liderato, visita al Real Madrid C. Los sorianos son el único equipo del Grupo 5 que no ha perdido fuera (2G, 4E). El filial blanco llega con tres partidos sin encajar. Se enfrentan las dos defensas menos goleadas del grupo, con seis tantos en contra cada una.\n\nSegunda Federación · Grupo 5 · Jornada 12\n🕡 18:30 Real Madrid C - Numancia",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#RealMadridC",
+    "#Numancia",
+    "#Grupo5"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573354,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 5 - 12",
+      "arbitro": null,
+      "local": "Real Madrid C",
+      "visitante": "Numancia",
+      "escudo_local": "https://media.api-sports.io/football/teams/22142.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/717.png",
+      "contexto": {
+        "local": {
+          "pos": 13,
+          "pts": 12,
+          "pj": 11,
+          "pg": 2,
+          "pe": 6,
+          "pp": 3,
+          "gf": 5,
+          "gc": 6,
+          "dg": -1,
+          "zona": "playoff",
+          "casa": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 3,
+            "pp": 1,
+            "gf": 4,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "SS Reyes",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Real Valladolid B",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Real Ávila",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Conquense",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "RSD Alcalá",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 3,
+          "pts": 20,
+          "pj": 11,
+          "pg": 5,
+          "pe": 5,
+          "pp": 1,
+          "gf": 17,
+          "gc": 6,
+          "dg": 11,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 4,
+            "pp": 0,
+            "gf": 6,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Real Valladolid B",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Calvo Sotelo",
+              "campo": "casa",
+              "marcador": "6-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Atlético Tordesillas",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Oviedo",
+              "campo": "casa",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Navalcarnero",
+              "campo": "casa",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Real Madrid C": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "SS Reyes",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Real Valladolid B",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Real Ávila",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Conquense",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "RSD Alcalá",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ],
+    "Numancia": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Real Valladolid B",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Calvo Sotelo",
+        "campo": "casa",
+        "marcador": "6-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Atlético Tordesillas",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Oviedo",
+        "campo": "casa",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Navalcarnero",
+        "campo": "casa",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573354,
+      "slug": "2026-11-21-real-madrid-c-numancia",
+      "titular": "El Real Madrid C cierra la puerta y el Numancia llega sin perder fuera",
+      "entradilla": "El Numancia, tercero con 20 puntos, busca seguir a un punto del liderato. Enfrente tiene al filial blanco, que encadena tres partidos sin recibir un gol.",
+      "parrafos": [
+        "Real Madrid C y Numancia se enfrentan hoy a las 18:30 en la jornada 12 del Grupo 5 de Segunda Federación. Los sorianos se juegan seguir en la pelea por el primer puesto. Están a un punto de Conquense y A Madrid C, ambos con 21. Los madridistas, 13º con 12 puntos, quieren estirar su mejor tramo de la temporada.",
+        "El Real Madrid C lleva tres jornadas sin perder y sin encajar: 0-0 en el campo del SS Reyes, 3-0 al Real Valladolid B y victoria en Ávila. Antes había caído en casa ante el Conquense (0-2). Es un equipo de márgenes mínimos: seis empates, cinco goles a favor y seis en contra en 11 partidos. En casa suma una victoria, tres empates y una derrota.",
+        "El Numancia es el único equipo del grupo que no ha perdido fuera: dos victorias y cuatro empates, con seis goles a favor y tres en contra. Su única derrota liguera fue en casa ante el Navalcarnero (2-3). Desde entonces ha ganado en Tordesillas, ha goleado 6-0 al Calvo Sotelo y ha empatado 1-1 en el campo del Real Valladolid B. Con 17 goles a favor y seis en contra, presenta una diferencia de +11.",
+        "Se miden dos defensas que solo han encajado seis goles cada una, las mejores del grupo. La diferencia está arriba: el Numancia ha marcado más del triple que su rival. Entre ambos hay ocho puntos de distancia en la tabla."
+      ],
+      "precedente": "",
+      "el_dato": "El Real Madrid C solo ha marcado cinco goles en 11 jornadas, la cifra más baja del grupo, y uno de ellos fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Muro blanco",
+          "texto": "El Real Madrid C no ha encajado gol en sus tres últimos partidos de liga."
+        },
+        {
+          "titulo": "Invicto a domicilio",
+          "texto": "El Numancia suma dos victorias y cuatro empates en seis salidas."
+        },
+        {
+          "titulo": "Liderato a tiro",
+          "texto": "El Numancia está a un punto del Conquense y del A Madrid C, que suman 21."
+        }
+      ]
+    }
+  ]
+}

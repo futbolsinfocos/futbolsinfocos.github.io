@@ -1,0 +1,561 @@
+{
+  "slug": "2026-11-21-previa-segunda-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Marino y Gimnástica, en descenso, buscan aire en la jornada 12",
+  "entradilla": "Los dos últimos clasificados del Grupo 1 juegan en casa este sábado. El Marino de Luanco, 17º, recibe al Coruxo con cuatro puntos de diferencia; la Gimnástica Torrelavega, colista, se mide al Portugalete, quinto.",
+  "cuerpo_markdown": "La jornada 12 de Segunda Federación enfrenta a los dos equipos que cierran la tabla con rivales de la zona media y alta. El Marino de Luanco suma 8 puntos y la Gimnástica Torrelavega, 6. El Coruxo, 13º con 12, tiene solo dos de margen sobre el Llanera, primer equipo en puestos de descenso. El Portugalete, con 19, comparte puntos con el Bergantiños, cuarto.\n\n## Claves de la jornada\n\n- El Marino de Luanco no ha ganado ningún partido en casa: 0 victorias y 1 gol en cinco encuentros.\n- La Gimnástica Torrelavega es el equipo más goleado del grupo, con 21 tantos en contra.\n- El Portugalete ha ganado tres de sus cinco salidas y ha marcado 10 goles fuera.\n\n## Marino de Luanco - Coruxo\n\n<p class=\"ficha\"><b>17:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Marino de Luanco</span><span class=\"fP\" title=\"0-1 vs Sestao River\">P</span><span class=\"fE\" title=\"0-0 vs Real Oviedo B\">E</span><span class=\"fE\" title=\"0-0 vs Gernika\">E</span><span class=\"fP\" title=\"0-1 vs Racing Santander B\">P</span><span class=\"fP\" title=\"1-4 vs Portugalete\">P</span><br><span class=\"eq\">Coruxo</span><span class=\"fP\" title=\"1-2 vs Amorebieta\">P</span><span class=\"fP\" title=\"0-2 vs Zamora\">P</span><span class=\"fP\" title=\"0-2 vs Sestao River\">P</span><span class=\"fE\" title=\"1-1 vs Real Oviedo B\">E</span><span class=\"fG\" title=\"3-1 vs Llanera\">G</span></p>\n\nEl 17º recibe al 13º con cuatro puntos entre ambos. Una victoria local apretaría la parte baja; una del Coruxo le daría margen sobre el descenso.\n\n[Leer la previa completa →](../previas/2026-11-21-marino-de-luanco-coruxo.html)\n\n## Gimnástica Torrelavega - Portugalete\n\n<p class=\"ficha\"><b>18:00</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Gimnástica Torrelavega</span><span class=\"fP\" title=\"0-3 vs Ourense CF\">P</span><span class=\"fG\" title=\"3-1 vs UD Ourense\">G</span><span class=\"fP\" title=\"0-1 vs Amorebieta\">P</span><span class=\"fE\" title=\"0-0 vs Gernika\">E</span><span class=\"fP\" title=\"1-2 vs Racing Santander B\">P</span><br><span class=\"eq\">Portugalete</span><span class=\"fE\" title=\"2-2 vs Basconia\">E</span><span class=\"fE\" title=\"3-3 vs Arosa\">E</span><span class=\"fG\" title=\"3-0 vs Ourense CF\">G</span><span class=\"fG\" title=\"4-1 vs Marino de Luanco\">G</span><span class=\"fE\" title=\"0-0 vs Real Unión\">E</span></p>\n\nEl último clasificado recibe al quinto con 13 puntos de diferencia. La Gimnástica necesita sumar para no descolgarse; el Portugalete, mantenerse en la pelea por el play-off.\n\n[Leer la previa completa →](../previas/2026-11-21-gimnastica-torrelavega-portugalete.html)",
+  "texto_instagram": "⚽ Jornada 12 en el Grupo 1 de Segunda Federación con los dos últimos jugando en casa. El Marino de Luanco (17º, 8 pts) no ha ganado como local y recibe al Coruxo (13º, 12 pts). La Gimnástica Torrelavega, colista con 6 puntos, se mide a un Portugalete quinto que encadena cinco partidos sin perder.\n\n🕔 17:00 Marino de Luanco - Coruxo\n18:00 Gimnástica Torrelavega - Portugalete",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#MarinoDeLuanco",
+    "#Coruxo",
+    "#Gimnastica",
+    "#Portugalete"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-segunda-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572134,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Marino de Luanco",
+      "visitante": "Coruxo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9401.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9385.png",
+      "contexto": {
+        "local": {
+          "pos": 17,
+          "pts": 8,
+          "pj": 11,
+          "pg": 2,
+          "pe": 2,
+          "pp": 7,
+          "gf": 9,
+          "gc": 18,
+          "dg": -9,
+          "zona": "descenso",
+          "casa": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 1,
+            "pp": 4,
+            "gf": 1,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Portugalete",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Racing Santander B",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Gernika",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Real Oviedo B",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Sestao River",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 13,
+          "pts": 12,
+          "pj": 11,
+          "pg": 3,
+          "pe": 3,
+          "pp": 5,
+          "gf": 12,
+          "gc": 14,
+          "dg": -2,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 1,
+            "pp": 3,
+            "gf": 7,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Llanera",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Real Oviedo B",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Sestao River",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Zamora",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Amorebieta",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-04-05",
+          "competicion": "Segunda Federación · Grupo 1",
+          "resultado": "Coruxo 1-2 Marino de Luanco"
+        },
+        {
+          "fecha": "2025-12-14",
+          "competicion": "Segunda Federación · Grupo 1",
+          "resultado": "Marino de Luanco 1-2 Coruxo"
+        },
+        {
+          "fecha": "2025-04-13",
+          "competicion": "Segunda Federación · Grupo 1",
+          "resultado": "Coruxo 1-1 Marino de Luanco"
+        },
+        {
+          "fecha": "2024-12-01",
+          "competicion": "Segunda Federación · Grupo 1",
+          "resultado": "Marino de Luanco 1-0 Coruxo"
+        },
+        {
+          "fecha": "2024-03-17",
+          "competicion": "Segunda Federación · Grupo 1",
+          "resultado": "Marino de Luanco 0-1 Coruxo"
+        }
+      ]
+    },
+    {
+      "id": 1572137,
+      "fecha": "2026-11-21T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 1 - 12",
+      "arbitro": null,
+      "local": "Gimnástica Torrelavega",
+      "visitante": "Portugalete",
+      "escudo_local": "https://media.api-sports.io/football/teams/5264.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9408.png",
+      "contexto": {
+        "local": {
+          "pos": 18,
+          "pts": 6,
+          "pj": 11,
+          "pg": 1,
+          "pe": 3,
+          "pp": 7,
+          "gf": 8,
+          "gc": 21,
+          "dg": -13,
+          "zona": "descenso",
+          "casa": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 1,
+            "pp": 3,
+            "gf": 4,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-14",
+              "rival": "Racing Santander B",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Gernika",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Amorebieta",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "UD Ourense",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Ourense CF",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 5,
+          "pts": 19,
+          "pj": 11,
+          "pg": 5,
+          "pe": 4,
+          "pp": 2,
+          "gf": 19,
+          "gc": 13,
+          "dg": 6,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 1,
+            "pp": 1,
+            "gf": 10,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-18",
+              "rival": "Real Unión",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Marino de Luanco",
+              "campo": "casa",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Ourense CF",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Arosa",
+              "campo": "casa",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Basconia",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 1"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Coruxo": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Llanera",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Real Oviedo B",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Sestao River",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Zamora",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Amorebieta",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ],
+    "Gimnástica Torrelavega": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Racing Santander B",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Gernika",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Amorebieta",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "UD Ourense",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Ourense CF",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ],
+    "Portugalete": [
+      {
+        "fecha": "2026-11-18",
+        "rival": "Real Unión",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Marino de Luanco",
+        "campo": "casa",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Ourense CF",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Arosa",
+        "campo": "casa",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Basconia",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ],
+    "Marino de Luanco": [
+      {
+        "fecha": "2026-11-14",
+        "rival": "Portugalete",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Racing Santander B",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Gernika",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Real Oviedo B",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Sestao River",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 1"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1572134,
+      "slug": "2026-11-21-marino-de-luanco-coruxo",
+      "titular": "El Marino, sin ganar en casa, recibe a un Coruxo que mira hacia abajo",
+      "entradilla": "El 17º recibe al 13º con cuatro puntos entre ambos. Una victoria local apretaría la parte baja; una del Coruxo le daría margen sobre el descenso.",
+      "parrafos": [
+        "El Marino de Luanco y el Coruxo se miden este sábado a las 17:00 en la jornada 12 del Grupo 1 de Segunda Federación. Es un partido de la parte baja: el local es 17º con 8 puntos y el visitante, 13º con 12.",
+        "El Marino llega en mala dinámica. No gana en sus últimos cinco partidos: tres derrotas y dos empates sin goles, con un solo tanto marcado en ese tramo, el del 1-4 en Portugalete. En casa es donde peor le va: 0 victorias, 1 empate y 4 derrotas, con 1 gol a favor y 6 en contra. Sus 9 goles en 11 jornadas son la cifra más baja del grupo.",
+        "El Coruxo viene de ganar 3-1 al Llanera, un triunfo que cortó una serie de tres derrotas consecutivas, una de ellas en Copa ante el Zamora. Fuera de casa ha sumado dos victorias, un empate y tres derrotas, con 7 goles a favor y 8 en contra.",
+        "Con 12 puntos, el Coruxo solo aventaja en dos al Llanera, 14º y primer equipo en descenso. Si gana el Marino, ambos quedarían separados por un punto."
+      ],
+      "precedente": "El último enfrentamiento, en abril de 2026, terminó Coruxo 1-2 Marino de Luanco. En Luanco, en diciembre de 2025, ganó el Coruxo por 1-2.",
+      "el_dato": "El Marino de Luanco ha marcado un gol en cinco partidos en casa esta temporada.",
+      "claves": [
+        {
+          "titulo": "Sequía local",
+          "texto": "El Marino suma un solo gol en sus últimos cinco partidos."
+        },
+        {
+          "titulo": "Visitas alternas",
+          "texto": "El Coruxo ha ganado dos de sus seis partidos fuera."
+        },
+        {
+          "titulo": "Historial repartido",
+          "texto": "En los últimos cinco duelos, el Coruxo ganó tres, el Marino uno y hubo un empate."
+        }
+      ]
+    },
+    {
+      "id": 1572137,
+      "slug": "2026-11-21-gimnastica-torrelavega-portugalete",
+      "titular": "La Gimnástica, colista, ante un Portugalete que llega invicto",
+      "entradilla": "El último clasificado recibe al quinto con 13 puntos de diferencia. La Gimnástica necesita sumar para no descolgarse; el Portugalete, mantenerse en la pelea por el play-off.",
+      "parrafos": [
+        "La Gimnástica Torrelavega recibe al Portugalete este sábado a las 18:00 en la jornada 12 del Grupo 1 de Segunda Federación. El colista, con 6 puntos, se mide al quinto, con 19.",
+        "La Gimnástica solo ha ganado un partido de liga en 11 jornadas. En las cuatro últimas jornadas de liga sumó un punto, el 0-0 ante el Gernika, y su única victoria reciente fue en Copa, 3-1 al UD Ourense. Es el equipo más goleado del grupo, con 21 tantos en contra, y en casa ha encajado 11 en cinco partidos, con una victoria, un empate y tres derrotas.",
+        "El Portugalete no pierde en sus últimos cinco partidos: dos victorias y tres empates, el último 0-0 ante el Real Unión en Copa el miércoles. En liga viene de golear al Ourense CF (0-3) y al Marino de Luanco (4-1). Fuera es solvente: tres victorias, un empate y una derrota, con 10 goles a favor y 6 en contra.",
+        "El Portugalete está empatado a 19 puntos con el Bergantiños, cuarto, y a dos del Eibar B, tercero. La Gimnástica está a dos puntos del Marino de Luanco y el Atlético Astorga."
+      ],
+      "precedente": "",
+      "el_dato": "La Gimnástica ha encajado 21 goles en 11 jornadas, la peor defensa del grupo.",
+      "claves": [
+        {
+          "titulo": "Defensa frágil",
+          "texto": "La Gimnástica recibe 2,2 goles por partido en casa: 11 en cinco encuentros."
+        },
+        {
+          "titulo": "Visitante fiable",
+          "texto": "El Portugalete ha ganado tres de sus cinco salidas."
+        },
+        {
+          "titulo": "Racha invicta",
+          "texto": "El Portugalete encadena cinco partidos sin perder entre liga y Copa."
+        }
+      ]
+    }
+  ]
+}

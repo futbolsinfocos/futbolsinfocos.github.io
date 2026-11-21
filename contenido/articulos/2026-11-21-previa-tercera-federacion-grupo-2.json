@@ -1,0 +1,575 @@
+{
+  "slug": "2026-11-21-previa-tercera-federacion-grupo-2",
+  "tipo": "previa",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 2",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Lealtad visita al Gijón Industrial con el playoff en juego y dos equipos en rachas opuestas",
+  "entradilla": "Dos partidos en la jornada 12 del Grupo 2 de Tercera Federación. El más relevante enfrenta al Gijón Industrial con el Lealtad, tercero y con cuatro puntos más que el local, que llega de perder 0-5 ante el Sporting Gijón B.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 2 deja al Covadonga líder con 26 puntos, por delante del Sporting Gijón B (24) y del Lealtad (21), los tres en zona de playoff o ascenso. Caudal (18) y Siero (12) se miden en la mitad de la tabla, a seis puntos de distancia entre ellos. En la cola, L'Entregu, Astur y Andes ocupan las plazas de descenso.\n\n## Claves de la jornada\n\n- Lealtad es tercero con 21 puntos y tiene la mejor diferencia de goles de los equipos que se juegan hoy (+10 frente a 0 del Gijón Industrial)\n- Siero llega con cinco derrotas seguidas y encaja 18 goles en 11 jornadas\n- Caudal, quinto, visita a Siero con una racha de dos derrotas en casa\n\n## Gijón Industrial - Lealtad\n\n<p class=\"ficha\"><b>18:30</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Gijón Industrial</span><span class=\"fG\" title=\"1-0 vs Ceares\">G</span><span class=\"fP\" title=\"0-2 vs Covadonga\">P</span><span class=\"fG\" title=\"4-1 vs L&#x27;Entregu\">G</span><span class=\"fG\" title=\"1-0 vs Praviano\">G</span><span class=\"fP\" title=\"0-5 vs Sporting Gijón B\">P</span><br><span class=\"eq\">Lealtad</span><span class=\"fE\" title=\"0-0 vs Caudal\">E</span><span class=\"fG\" title=\"4-0 vs Colunga\">G</span><span class=\"fG\" title=\"3-0 vs Siero\">G</span><span class=\"fG\" title=\"1-0 vs San Martín\">G</span><span class=\"fE\" title=\"1-1 vs Mosconia\">E</span></p>\n\nEl Lealtad, tercero y en zona de playoff, visita al Gijón Industrial, octavo y fuera de los puestos de playoff. El Gijón Industrial ha ganado tres de sus cinco partidos en casa, pero acaba de perder 0-5 en su última salida.\n\n[Leer la previa completa →](../previas/2026-11-21-gijon-industrial-lealtad.html)\n\n## Siero - Caudal\n\n<p class=\"ficha\"><b>19:15</b> · Jornada 12</p><p class=\"forma\"><span class=\"eq\">Siero</span><span class=\"fP\" title=\"1-4 vs Praviano\">P</span><span class=\"fP\" title=\"1-2 vs Sporting Gijón B\">P</span><span class=\"fP\" title=\"0-3 vs Lealtad\">P</span><span class=\"fP\" title=\"0-2 vs Avilés Stadium\">P</span><span class=\"fP\" title=\"0-4 vs Langreo\">P</span><br><span class=\"eq\">Caudal</span><span class=\"fE\" title=\"0-0 vs Lealtad\">E</span><span class=\"fG\" title=\"2-1 vs Avilés Stadium\">G</span><span class=\"fG\" title=\"1-0 vs Langreo\">G</span><span class=\"fP\" title=\"1-2 vs Llanes\">P</span><span class=\"fP\" title=\"1-2 vs Colunga\">P</span></p>\n\nEl Siero, decimocuarto y con cinco derrotas seguidas, recibe al Caudal, quinto y en zona de playoff. Los visitantes han ganado dos de sus últimos cinco partidos fuera.\n\n[Leer la previa completa →](../previas/2026-11-21-siero-caudal.html)",
+  "texto_instagram": "Jornada 12 del Grupo 2. El Lealtad, tercero con 21 puntos, visita al Gijón Industrial, octavo. Los visitantes han encajado solo un gol fuera de casa. En Siero, el Caudal quinto intenta frenar la racha de cinco derrotas del local. ⚽\n\nSábado 21 de noviembre:\n18:30 Gijón Industrial - Lealtad\n19:15 Siero - Caudal\n\n#TerceraFederación",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo2",
+    "#Lealtad",
+    "#Caudal",
+    "#Siero",
+    "#GijónIndustrial"
+  ],
+  "imagenes_web": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-2.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-previa-tercera-federacion-grupo-2.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1613114,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 2 - 12",
+      "arbitro": null,
+      "local": "Gijón Industrial",
+      "visitante": "Lealtad",
+      "escudo_local": "https://media.api-sports.io/football/teams/9624.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9396.png",
+      "contexto": {
+        "local": {
+          "pos": 8,
+          "pts": 17,
+          "pj": 11,
+          "pg": 5,
+          "pe": 2,
+          "pp": 4,
+          "gf": 16,
+          "gc": 16,
+          "dg": 0,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 6,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Sporting Gijón B",
+              "campo": "fuera",
+              "marcador": "0-5",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Praviano",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "L'Entregu",
+              "campo": "fuera",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Covadonga",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Ceares",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 3,
+          "pts": 21,
+          "pj": 11,
+          "pg": 6,
+          "pe": 3,
+          "pp": 2,
+          "gf": 15,
+          "gc": 5,
+          "dg": 10,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 0,
+            "pp": 1,
+            "gf": 7,
+            "gc": 1
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Mosconia",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "San Martín",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Siero",
+              "campo": "casa",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Colunga",
+              "campo": "fuera",
+              "marcador": "4-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Caudal",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 2"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2024-04-14",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Lealtad 3-0 Gijón Industrial"
+        },
+        {
+          "fecha": "2023-11-25",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Gijón Industrial 2-2 Lealtad"
+        },
+        {
+          "fecha": "2022-01-26",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Lealtad 1-0 Gijón Industrial"
+        },
+        {
+          "fecha": "2021-09-04",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Gijón Industrial 2-0 Lealtad"
+        },
+        {
+          "fecha": "2019-11-16",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Gijón Industrial 0-0 Lealtad"
+        }
+      ]
+    },
+    {
+      "id": 1613112,
+      "fecha": "2026-11-21T19:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 2 - 12",
+      "arbitro": null,
+      "local": "Siero",
+      "visitante": "Caudal",
+      "escudo_local": "https://media.api-sports.io/football/teams/9634.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9619.png",
+      "contexto": {
+        "local": {
+          "pos": 14,
+          "pts": 12,
+          "pj": 11,
+          "pg": 4,
+          "pe": 0,
+          "pp": 7,
+          "gf": 11,
+          "gc": 18,
+          "dg": -7,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 0,
+            "pp": 2,
+            "gf": 8,
+            "gc": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Langreo",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Avilés Stadium",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Lealtad",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Sporting Gijón B",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Praviano",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 5,
+          "pts": 18,
+          "pj": 11,
+          "pg": 5,
+          "pe": 3,
+          "pp": 3,
+          "gf": 14,
+          "gc": 12,
+          "dg": 2,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 2,
+            "pp": 1,
+            "gf": 5,
+            "gc": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-15",
+              "rival": "Colunga",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Llanes",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Langreo",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Avilés Stadium",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Lealtad",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 2"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-05-03",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Caudal 0-1 Siero"
+        },
+        {
+          "fecha": "2026-01-04",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Siero 1-2 Caudal"
+        },
+        {
+          "fecha": "2020-01-04",
+          "competicion": "Tercera Federación · Grupo 2",
+          "resultado": "Caudal 1-0 Siero"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Siero": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Langreo",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Avilés Stadium",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Lealtad",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Sporting Gijón B",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Praviano",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      }
+    ],
+    "Caudal": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Colunga",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Llanes",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Langreo",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Avilés Stadium",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Lealtad",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 2"
+      }
+    ],
+    "Gijón Industrial": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Sporting Gijón B",
+        "campo": "fuera",
+        "marcador": "0-5",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Praviano",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "L'Entregu",
+        "campo": "fuera",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Covadonga",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Ceares",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      }
+    ],
+    "Lealtad": [
+      {
+        "fecha": "2026-11-15",
+        "rival": "Mosconia",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "San Martín",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Siero",
+        "campo": "casa",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Colunga",
+        "campo": "fuera",
+        "marcador": "4-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Caudal",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 2"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1613114,
+      "slug": "2026-11-21-gijon-industrial-lealtad",
+      "titular": "El Lealtad busca en Gijón el golpe que le acerque al liderato",
+      "entradilla": "El Lealtad, tercero y en zona de playoff, visita al Gijón Industrial, octavo y fuera de los puestos de playoff. El Gijón Industrial ha ganado tres de sus cinco partidos en casa, pero acaba de perder 0-5 en su última salida.",
+      "parrafos": [
+        "El partido se juega a las 18:30 de este sábado en la jornada 12 del Grupo 2 de Tercera Federación. El Gijón Industrial es octavo con 17 puntos y el Lealtad tercero con 21.",
+        "El Gijón Industrial llega con una racha mixta: cuatro partidos de los cinco últimos ganados o perdidos de forma alterna, y una derrota 0-5 ante el Sporting Gijón B. En casa tiene un balance de dos victorias, un empate y dos derrotas, con 6 goles a favor y 6 en contra.",
+        "El Lealtad llega con 21 puntos, seis victorias en 11 partidos y una racha de tres victorias seguidas antes del empate 1-1 ante el Mosconia. Fuera de casa ha ganado cuatro de sus cinco partidos, con solo un gol encajado en esos encuentros."
+      ],
+      "precedente": "El último enfrentamiento fue el 14 de abril de 2024, con victoria del Lealtad por 3-0 en campo del Gijón Industrial.",
+      "el_dato": "El Lealtad solo ha encajado un gol fuera de casa en cinco partidos.",
+      "claves": [
+        {
+          "titulo": "Visitante sólido",
+          "texto": "El Lealtad ha ganado cuatro de sus cinco partidos fuera y solo ha recibido un gol."
+        },
+        {
+          "titulo": "Local irregular",
+          "texto": "El Gijón Industrial acumula 16 goles a favor y 16 en contra en la temporada."
+        },
+        {
+          "titulo": "Historial reciente",
+          "texto": "Del último precedente, el Lealtad se impuso 3-0 en 2024."
+        }
+      ]
+    },
+    {
+      "id": 1613112,
+      "slug": "2026-11-21-siero-caudal",
+      "titular": "Siero y Caudal se juegan una salida de la mitad de tabla con dinámicas opuestas",
+      "entradilla": "El Siero, decimocuarto y con cinco derrotas seguidas, recibe al Caudal, quinto y en zona de playoff. Los visitantes han ganado dos de sus últimos cinco partidos fuera.",
+      "parrafos": [
+        "El partido se juega a las 19:15 de este sábado en la jornada 12 del Grupo 2. El Siero es decimocuarto con 12 puntos y el Caudal quinto con 18.",
+        "El Siero llega en la última posición de forma reciente: cinco derrotas consecutivas, con un balance de 3 goles a favor y 14 en contra fuera de casa. En casa tiene tres victorias en cinco partidos.",
+        "El Caudal llega con 18 puntos y cinco victorias en 11 partidos. Ha perdido dos de sus últimos tres partidos y fuera tiene un balance de dos victorias, dos empates y una derrota."
+      ],
+      "precedente": "El último enfrentamiento fue el 3 de mayo de 2026, con victoria del Siero por 1-0 en campo del Caudal.",
+      "el_dato": "El Siero ha perdido cinco partidos seguidos y ha encajado 14 goles fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Racha negativa",
+          "texto": "El Siero no gana desde el 31 de octubre, cuando venció al Lealtad."
+        },
+        {
+          "titulo": "Caudal en playoff",
+          "texto": "El Caudal ocupa la quinta posición con 18 puntos, a seis del líder."
+        },
+        {
+          "titulo": "Precedente",
+          "texto": "El Siero ganó 1-0 al Caudal en el último enfrentamiento de mayo de 2026."
+        }
+      ]
+    }
+  ]
+}
