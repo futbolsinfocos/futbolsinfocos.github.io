@@ -139,6 +139,14 @@
       "pj": 14
     },
     {
+      "jugador": "Álvaro Morata",
+      "equipo": "Leganés",
+      "escudo": "https://media.api-sports.io/football/teams/537.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
       "jugador": "A. Jakobsen",
       "equipo": "Castellón",
       "escudo": "https://media.api-sports.io/football/teams/5254.png",
@@ -153,17 +161,27 @@
       "goles": 4,
       "penaltis": 0,
       "pj": 8
-    },
-    {
-      "jugador": "Carlos Hernández",
-      "equipo": "AD Ceuta FC",
-      "escudo": "https://media.api-sports.io/football/teams/10139.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 14
     }
   ],
   "tarjetas": [
+    {
+      "equipo": "FC Andorra",
+      "escudo": "https://media.api-sports.io/football/teams/8157.png",
+      "amarillas": 47,
+      "rojas": 4
+    },
+    {
+      "equipo": "Real Sociedad B",
+      "escudo": "https://media.api-sports.io/football/teams/9585.png",
+      "amarillas": 47,
+      "rojas": 4
+    },
+    {
+      "equipo": "Leganés",
+      "escudo": "https://media.api-sports.io/football/teams/537.png",
+      "amarillas": 48,
+      "rojas": 3
+    },
     {
       "equipo": "Córdoba",
       "escudo": "https://media.api-sports.io/football/teams/713.png",
@@ -177,16 +195,10 @@
       "rojas": 4
     },
     {
-      "equipo": "Leganés",
-      "escudo": "https://media.api-sports.io/football/teams/537.png",
-      "amarillas": 45,
-      "rojas": 3
-    },
-    {
-      "equipo": "FC Andorra",
-      "escudo": "https://media.api-sports.io/football/teams/8157.png",
-      "amarillas": 43,
-      "rojas": 3
+      "equipo": "Sabadell",
+      "escudo": "https://media.api-sports.io/football/teams/9593.png",
+      "amarillas": 46,
+      "rojas": 2
     },
     {
       "equipo": "Sporting de Gijón",
@@ -213,28 +225,16 @@
       "rojas": 1
     },
     {
-      "equipo": "Sabadell",
-      "escudo": "https://media.api-sports.io/football/teams/9593.png",
-      "amarillas": 42,
-      "rojas": 2
-    },
-    {
-      "equipo": "Real Sociedad B",
-      "escudo": "https://media.api-sports.io/football/teams/9585.png",
-      "amarillas": 41,
-      "rojas": 2
+      "equipo": "Cádiz",
+      "escudo": "https://media.api-sports.io/football/teams/724.png",
+      "amarillas": 46,
+      "rojas": 0
     },
     {
       "equipo": "AD Ceuta FC",
       "escudo": "https://media.api-sports.io/football/teams/10139.png",
       "amarillas": 39,
       "rojas": 2
-    },
-    {
-      "equipo": "Cádiz",
-      "escudo": "https://media.api-sports.io/football/teams/724.png",
-      "amarillas": 44,
-      "rojas": 0
     },
     {
       "equipo": "Albacete",
@@ -249,6 +249,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Eldense",
+      "escudo": "https://media.api-sports.io/football/teams/9692.png",
+      "amarillas": 42,
+      "rojas": 0
+    },
+    {
       "equipo": "Mallorca",
       "escudo": "https://media.api-sports.io/football/teams/798.png",
       "amarillas": 37,
@@ -259,12 +265,6 @@
       "escudo": "https://media.api-sports.io/football/teams/719.png",
       "amarillas": 33,
       "rojas": 2
-    },
-    {
-      "equipo": "Eldense",
-      "escudo": "https://media.api-sports.io/football/teams/9692.png",
-      "amarillas": 38,
-      "rojas": 0
     },
     {
       "equipo": "Burgos",
@@ -293,9 +293,9 @@
     {
       "equipo": "Granada CF",
       "escudo": "https://media.api-sports.io/football/teams/715.png",
-      "amarillas": 25,
+      "amarillas": 30,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-20"
+  "fecha": "2026-11-21"
 }

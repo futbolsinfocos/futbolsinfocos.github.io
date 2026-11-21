@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Antela",
+      "escudo": "https://media.api-sports.io/football/teams/28094.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "Sarriana",
+      "escudo": "https://media.api-sports.io/football/teams/22130.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
+      "equipo": "Celta de Vigo C",
+      "escudo": "https://media.api-sports.io/football/teams/20255.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Viveiro",
+      "escudo": "https://media.api-sports.io/football/teams/15307.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Arenteiro",
+      "escudo": "https://media.api-sports.io/football/teams/9604.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Pontevedra B",
+      "escudo": "https://media.api-sports.io/football/teams/22129.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Villalbés",
+      "escudo": "https://media.api-sports.io/football/teams/9618.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Estradense",
+      "escudo": "https://media.api-sports.io/football/teams/9611.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Arteixo",
+      "escudo": "https://media.api-sports.io/football/teams/19650.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Boiro",
+      "escudo": "https://media.api-sports.io/football/teams/22566.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Lalin",
+      "escudo": "https://media.api-sports.io/football/teams/28095.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Somozas",
+      "escudo": "https://media.api-sports.io/football/teams/9616.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Alondras",
+      "escudo": "https://media.api-sports.io/football/teams/9603.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Barco",
+      "escudo": "https://media.api-sports.io/football/teams/9608.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Celtiga",
+      "escudo": "https://media.api-sports.io/football/teams/26533.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Coruña",
+      "escudo": "https://media.api-sports.io/football/teams/26534.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Portonovo SD",
+      "escudo": "https://media.api-sports.io/football/teams/28096.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Silva",
+      "escudo": "https://media.api-sports.io/football/teams/9615.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

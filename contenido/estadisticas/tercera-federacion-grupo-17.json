@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 17",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Real Zaragoza B",
+      "escudo": "https://media.api-sports.io/football/teams/9887.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Monzón",
+      "escudo": "https://media.api-sports.io/football/teams/9878.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Binéfar",
+      "escudo": "https://media.api-sports.io/football/teams/9881.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cuarte",
+      "escudo": "https://media.api-sports.io/football/teams/9886.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Almudévar",
+      "escudo": "https://media.api-sports.io/football/teams/9877.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Andorra CF",
+      "escudo": "https://media.api-sports.io/football/teams/17498.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Belchite 97",
+      "escudo": "https://media.api-sports.io/football/teams/9880.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Brea",
+      "escudo": "https://media.api-sports.io/football/teams/9883.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "CD Sietamo",
+      "escudo": "https://media.api-sports.io/football/teams/28122.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "CDJ Tamarite",
+      "escudo": "https://media.api-sports.io/football/teams/9884.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Caspe",
+      "escudo": "https://media.api-sports.io/football/teams/17615.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Ejea",
+      "escudo": "https://media.api-sports.io/football/teams/9589.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Fraga",
+      "escudo": "https://media.api-sports.io/football/teams/8158.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Huesca B",
+      "escudo": "https://media.api-sports.io/football/teams/15327.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Illueca",
+      "escudo": "https://media.api-sports.io/football/teams/9391.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "La Almunia",
+      "escudo": "https://media.api-sports.io/football/teams/20287.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Robres",
+      "escudo": "https://media.api-sports.io/football/teams/9888.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Épila",
+      "escudo": "https://media.api-sports.io/football/teams/15329.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

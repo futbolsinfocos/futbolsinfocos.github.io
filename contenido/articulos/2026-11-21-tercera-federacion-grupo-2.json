@@ -1,0 +1,695 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-2",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 2",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Gijón Industrial remonta a Lealtad y sube al quinto puesto; el Siero se queda con diez en el 74",
+  "entradilla": "El Gijón Industrial voltea un 0-1 al descanso y gana 2-1 a Lealtad, que sigue tercero. En el otro partido, Siero y Caudal empatan sin goles tras la expulsión de F. Tine en el 74.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 2 de Tercera Federación deja un triunfo local que mueve la zona de playoff. El Gijón Industrial remonta en tres minutos tras el gol de Moscardi y acaba imponiéndose 2-1 a Lealtad, mientras que Siero y Caudal se reparten un empate sin goles.\n\n## Gijón Industrial 2-1 Lealtad\n\nA. Moscardi adelantó al Lealtad en el 45. B. Prieto empató en el 48 y L. Manduci dio la victoria al Gijón Industrial en el 77. Con el triunfo, el Gijón Industrial sube tres puestos, del 8 al 5, con 20 puntos, y entra en la zona de playoff. El Lealtad se mantiene tercero con 21 puntos.\n\n## Siero 0-0 Caudal\n\nEl partido terminó sin goles. F. Tine fue expulsado en el 74 con el Siero. El Siero sube un puesto, del 14 al 13, con 13 puntos. El Caudal baja un puesto, del 5 al 6, con 19 puntos, y queda fuera de la zona de playoff.\n\n## Así queda la clasificación\n\nEl Covadonga lidera con 26 puntos y ocupa la zona de ascenso. Le siguen el Sporting Gijón B (24) en segunda posición y el Lealtad (21) en tercera, ambos en zona de playoff. El Gijón Industrial (20) cierra el playoff en quinto lugar y el Caudal (19) queda en sexto, a un punto de esa zona. En la parte baja, L'Entregu (8) ocupa el puesto 16 y está en descenso, con el Astur (6) en el 17 y el Andes (3) en el 18, a cinco puntos del L'Entregu.",
+  "texto_instagram": "⚽ El Gijón Industrial remonta al Lealtad y sube al quinto puesto. Moscardi marcó para el Lealtad en el 45, pero Prieto (48) y Manduci (77) dieron la victoria local 2-1.\n\nGijón Industrial 2-1 Lealtad\n⚽ 45' A. Moscardi (Lealtad)\n⚽ 48' B. Prieto (Gijón Industrial)\n⚽ 77' L. Manduci (Gijón Industrial)\n\nSiero 0-0 Caudal\n🟥 Expulsión de F. Tine (Siero) en el 74'",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo2",
+    "#GijónIndustrial",
+    "#Lealtad",
+    "#Siero",
+    "#Caudal",
+    "#Jornada12"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-2-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-2-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613114,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 440,
+      "id_local": 9624,
+      "id_visitante": 9396,
+      "local": "Gijón Industrial",
+      "visitante": "Lealtad",
+      "escudo_local": "https://media.api-sports.io/football/teams/9624.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9396.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "Lealtad",
+          "jugador": "A. Moscardi",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 48,
+          "equipo": "Gijón Industrial",
+          "jugador": "B. Prieto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Gijón Industrial",
+          "jugador": "L. Manduci",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1613112,
+      "fecha": "2026-11-21T19:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 440,
+      "id_local": 9634,
+      "id_visitante": 9619,
+      "local": "Siero",
+      "visitante": "Caudal",
+      "escudo_local": "https://media.api-sports.io/football/teams/9634.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9619.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [
+        {
+          "min": 74,
+          "equipo": "Siero",
+          "jugador": "F. Tine"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Covadonga",
+      "pts": 26,
+      "pj": 11,
+      "dg": 18,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 29,
+      "gc": 11,
+      "forma": "WWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9623.png",
+      "equipo_id": 9623,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 18,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Sporting Gijón B",
+      "pts": 24,
+      "pj": 11,
+      "dg": 13,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 22,
+      "gc": 9,
+      "forma": "WDLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9577.png",
+      "equipo_id": 9577,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 14,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Lealtad",
+      "pts": 21,
+      "pj": 12,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 7,
+      "forma": "LDWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9396.png",
+      "equipo_id": 9396,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Condal",
+      "pts": 20,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 15,
+      "gc": 7,
+      "forma": "LWDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9622.png",
+      "equipo_id": 9622,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 4,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Gijón Industrial",
+      "pts": 20,
+      "pj": 12,
+      "dg": 1,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 18,
+      "gc": 17,
+      "forma": "WLWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9624.png",
+      "equipo_id": 9624,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Caudal",
+      "pts": 19,
+      "pj": 12,
+      "dg": 2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 14,
+      "gc": 12,
+      "forma": "DLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9619.png",
+      "equipo_id": 9619,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Praviano",
+      "pts": 17,
+      "pj": 11,
+      "dg": 7,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 24,
+      "gc": 17,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9631.png",
+      "equipo_id": 9631,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 14,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Mosconia",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9629.png",
+      "equipo_id": 9629,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "San Martín",
+      "pts": 16,
+      "pj": 11,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 14,
+      "gc": 15,
+      "forma": "DLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9633.png",
+      "equipo_id": 9633,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Langreo",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 13,
+      "forma": "WWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5265.png",
+      "equipo_id": 5265,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Colunga",
+      "pts": 15,
+      "pj": 11,
+      "dg": -6,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 19,
+      "gc": 25,
+      "forma": "WLDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9621.png",
+      "equipo_id": 9621,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Llanes",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 14,
+      "gc": 17,
+      "forma": "WWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9628.png",
+      "equipo_id": 9628,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Siero",
+      "pts": 13,
+      "pj": 12,
+      "dg": -7,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9634.png",
+      "equipo_id": 9634,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 3,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Avilés Stadium",
+      "pts": 12,
+      "pj": 11,
+      "dg": -5,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 9,
+      "gc": 14,
+      "forma": "DWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15333.png",
+      "equipo_id": 15333,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Ceares",
+      "pts": 9,
+      "pj": 11,
+      "dg": -5,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
+      "gc": 17,
+      "forma": "LDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9620.png",
+      "equipo_id": 9620,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "L'Entregu",
+      "pts": 8,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 8,
+      "gc": 19,
+      "forma": "WLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9625.png",
+      "equipo_id": 9625,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 2,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Astur",
+      "pts": 6,
+      "pj": 11,
+      "dg": -9,
+      "pg": 0,
+      "pe": 6,
+      "pp": 5,
+      "gf": 9,
+      "gc": 18,
+      "forma": "LDLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/25030.png",
+      "equipo_id": 25030,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 1,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Andes",
+      "pts": 3,
+      "pj": 11,
+      "dg": -15,
+      "pg": 0,
+      "pe": 3,
+      "pp": 8,
+      "gf": 9,
+      "gc": 24,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28097.png",
+      "equipo_id": 28097,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Lealtad": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Gijón Industrial": {
+      "antes": 8,
+      "ahora": 5,
+      "cambio": "sube 3 puestos"
+    },
+    "Caudal": {
+      "antes": 5,
+      "ahora": 6,
+      "cambio": "baja 1 puesto"
+    },
+    "Siero": {
+      "antes": 14,
+      "ahora": 13,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

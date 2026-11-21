@@ -1,0 +1,698 @@
+{
+  "slug": "2026-11-21-segunda-federacion-grupo-1",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "La Gimnástica deja el farolillo rojo y el Coruxo sale de Luanco con tres puestos más",
+  "entradilla": "Dos victorias por la mínima abrieron la jornada 12 del Grupo 1 de Segunda Federación. M. Gandara dio a la Gimnástica Torrelavega el triunfo ante el Portugalete en el 84 y H. Matos hundió al Marino de Luanco al último puesto.",
+  "cuerpo_markdown": "El sábado adelantó dos partidos de la jornada 12 del Grupo 1 de Segunda Federación y los dos acabaron 1-0. Los dos resultados movieron la parte baja de la tabla. La Gimnástica Torrelavega ganó al Portugalete con un gol de M. Gandara en el minuto 84 y deja el último puesto: sube dos plazas, hasta la 16ª, con 9 puntos. El farolillo rojo pasa al Marino de Luanco, que cayó en casa ante el Coruxo (0-1) y se queda colista con 8 puntos. El conjunto vigués, gracias al tanto de H. Matos, escala tres posiciones y se coloca décimo con 15.\n\n## Gimnástica Torrelavega 1-0 Portugalete\n\nLa Gimnástica Torrelavega sumó tres puntos ante el Portugalete, uno de los equipos de play-off. El único gol llegó en el minuto 84, obra de M. Gandara. Con la victoria, el equipo cántabro alcanza los 9 puntos y pasa de la 18ª a la 16ª plaza. Sigue en descenso, pero empatado con el Arosa, 15º, y a un punto del Llanera, 14º.\n\nEl Portugalete, que ha disputado 12 partidos, se mantiene quinto con 19 puntos. Ocupa la última plaza de play-off, igualado con el Bergantiños, cuarto, y con un punto de margen sobre el Real Oviedo B, sexto. Ambos tienen un partido menos.\n\n## Marino de Luanco 0-1 Coruxo\n\nEl Coruxo ganó en Luanco con un gol de H. Matos en el minuto 61. El triunfo lo sube del 13º al 10º puesto, con 15 puntos, a dos de la franja que comparten Compostela, Amorebieta y Ourense CF. El Marino de Luanco baja un puesto y es colista con 8 puntos, los mismos que el Atlético Astorga, que tiene un partido menos. En casa, el equipo asturiano todavía no ha ganado: suma cinco derrotas y un empate en seis partidos, con un solo gol a favor.\n\n## Así queda la clasificación\n\nEl Sestao River lidera con 26 puntos, a falta de jugar su partido, y saca tres al Deportivo Alavés B (23). Completan la zona de play-off el Eibar B (21), el Bergantiños (19) y el Portugalete (19). El Real Oviedo B, sexto con 18, está a un punto del play-off. Abajo, el descenso lo forman el Llanera (10), el Arosa (9), la Gimnástica Torrelavega (9), el Atlético Astorga (8) y el Marino de Luanco (8). El Gernika, 13º con 12 puntos, es el primero por encima de la línea, con dos de ventaja sobre el Llanera.",
+  "texto_instagram": "Dos 1-0 en el adelanto de la jornada 12 del Grupo 1 de Segunda Federación ⚽ La Gimnástica deja el último puesto y el Marino de Luanco pasa a ser colista 🔻 El Coruxo sube hasta la décima plaza 📈\n\nGimnástica Torrelavega 1-0 Portugalete: M. Gandara (84')\nMarino de Luanco 0-1 Coruxo: H. Matos (61')",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Grupo1",
+    "#GimnasticaTorrelavega",
+    "#Portugalete",
+    "#MarinoDeLuanco",
+    "#Coruxo"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-1-1.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-1-2.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572134,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 875,
+      "id_local": 9401,
+      "id_visitante": 9385,
+      "local": "Marino de Luanco",
+      "visitante": "Coruxo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9401.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9385.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 61,
+          "equipo": "Coruxo",
+          "jugador": "H. Matos",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572137,
+      "fecha": "2026-11-21T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 875,
+      "id_local": 5264,
+      "id_visitante": 9408,
+      "local": "Gimnástica Torrelavega",
+      "visitante": "Portugalete",
+      "escudo_local": "https://media.api-sports.io/football/teams/5264.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9408.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 84,
+          "equipo": "Gimnástica Torrelavega",
+          "jugador": "M. Gandara",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Sestao River",
+      "pts": 26,
+      "pj": 11,
+      "dg": 10,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 14,
+      "gc": 4,
+      "forma": "DWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "equipo_id": 9413,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Deportivo Alavés B",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9582.png",
+      "equipo_id": 9582,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Eibar B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24572.png",
+      "equipo_id": 24572,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Bergantiños",
+      "pts": 19,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 24,
+      "gc": 16,
+      "forma": "DLDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9383.png",
+      "equipo_id": 9383,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Portugalete",
+      "pts": 19,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 14,
+      "forma": "LWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9408.png",
+      "equipo_id": 9408,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Oviedo B",
+      "pts": 18,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9576.png",
+      "equipo_id": 9576,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Compostela",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 10,
+      "forma": "LWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5256.png",
+      "equipo_id": 5256,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Amorebieta",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9380.png",
+      "equipo_id": 9380,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ourense CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 10,
+      "gc": 12,
+      "forma": "WLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9612.png",
+      "equipo_id": 9612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Coruxo",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 14,
+      "forma": "WWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9385.png",
+      "equipo_id": 9385,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Basconia",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 16,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9656.png",
+      "equipo_id": 9656,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Racing Santander B",
+      "pts": 14,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 15,
+      "gc": 18,
+      "forma": "WWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9643.png",
+      "equipo_id": 9643,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Gernika",
+      "pts": 12,
+      "pj": 11,
+      "dg": 5,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "forma": "LDDDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5263.png",
+      "equipo_id": 5263,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Llanera",
+      "pts": 10,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 17,
+      "gc": 27,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9627.png",
+      "equipo_id": 9627,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Arosa",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 17,
+      "gc": 23,
+      "forma": "DLDLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9605.png",
+      "equipo_id": 9605,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Gimnástica Torrelavega",
+      "pts": 9,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "WLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5264.png",
+      "equipo_id": 5264,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Astorga",
+      "pts": 8,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 13,
+      "gc": 19,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9723.png",
+      "equipo_id": 9723,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Marino de Luanco",
+      "pts": 8,
+      "pj": 12,
+      "dg": -10,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 19,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9401.png",
+      "equipo_id": 9401,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Portugalete": {
+      "antes": 5,
+      "ahora": 5,
+      "cambio": "se mantiene"
+    },
+    "Coruxo": {
+      "antes": 13,
+      "ahora": 10,
+      "cambio": "sube 3 puestos"
+    },
+    "Gimnástica Torrelavega": {
+      "antes": 18,
+      "ahora": 16,
+      "cambio": "sube 2 puestos"
+    },
+    "Marino de Luanco": {
+      "antes": 17,
+      "ahora": 18,
+      "cambio": "baja 1 puesto"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572137,
+    "titular": "Gandara da a la Gimnástica la victoria ante el Portugalete y la saca del último puesto",
+    "entradilla": "Un gol de M. Gandara en el minuto 84 permitió a la Gimnástica Torrelavega ganar 1-0 al Portugalete. El equipo cántabro sube dos puestos, aunque sigue en descenso.",
+    "parrafos": [
+      "La Gimnástica Torrelavega ganó 1-0 al Portugalete en la jornada 12 del Grupo 1 de Segunda Federación y deja el último puesto de la tabla. El triunfo la lleva de la 18ª a la 16ª plaza, con 9 puntos.",
+      "El marcador no se movió hasta el tramo final. En el minuto 84, M. Gandara firmó el único gol del partido.",
+      "El partido terminó sin expulsiones ni penaltis fallados.",
+      "La Gimnástica sigue en descenso, pero ya iguala al Arosa (9) y se queda a un punto del Llanera (10), 14º. El nuevo colista es el Marino de Luanco, con 8 puntos. Esta temporada, el equipo cántabro suma dos victorias, tres empates y siete derrotas; las dos victorias las ha logrado en casa.",
+      "El Portugalete se mantiene quinto con 19 puntos, en la última plaza de play-off. Está empatado con el Bergantiños y tiene uno de ventaja sobre el Real Oviedo B, que ha jugado un partido menos."
+    ],
+    "el_dato": "Las dos victorias de la Gimnástica Torrelavega esta temporada han llegado en casa: fuera suma dos empates y cuatro derrotas.",
+    "slug": "2026-11-21-gimnastica-torrelavega-portugalete"
+  }
+}

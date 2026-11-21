@@ -1,0 +1,650 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-17",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 17",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Belchite 97 empata 1-1 ante el Atlético Monzón con un gol en el descuento",
+  "entradilla": "El Belchite 97 igualó 1-1 ante el Atlético Monzón en el único partido de la jornada 12 del Grupo 17. El tanto local llegó en el minuto 90 y mantiene al equipo en la zona de descenso.",
+  "cuerpo_markdown": "El Belchite 97 y el Atlético Monzón se repartieron los puntos en el único partido de la jornada 12 del Grupo 17 de Tercera Federación. El empate deja a ambos equipos sin moverse en la tabla y al Belchite, último en la zona de descenso, con cinco puntos tras doce partidos.\n\n## Belchite 97 1-1 Atlético Monzón\n\nEl Atlético Monzón se adelantó en el minuto 69 y el Belchite 97 empató en el 90, ya en el descuento. Ninguno de los dos equipos cambió de posición: el Monzón sigue octavo con 17 puntos y el Belchite, dieciocho con 5. El Belchite suma su quinto empate en doce jornadas y continúa en la zona de descenso, a tres puntos del Robres, que ocupa el puesto 17.\n\n## Así queda la clasificación\n\nEl Real Zaragoza B lidera con 24 puntos tras 11 partidos, seguido por Ejea (21), Cuarte (19), La Almunia (19), Caspe (18) y Brea (18), que cierran la zona de playoff. El Atlético Monzón, con 17 puntos, está a un punto de la quinta plaza. En la parte baja, el CDJ Tamarite (9 puntos) ocupa el puesto 16 y el Robres (8) el 17, mientras que el Belchite 97 (5) cierra la clasificación a cuatro puntos del Tamarite.",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 17: el Belchite 97 empata 1-1 con el Atlético Monzón.\nEl único partido de la jornada se decidió en el descuento. Ambos equipos siguen en su puesto.\n\nBelchite 97 1-1 Atlético Monzón\nGoles: Atlético Monzón (69'), Belchite 97 (90')\n\n📊 Clasificación: el Belchite 97 sigue 18.º con 5 puntos, en descenso. El Atlético Monzón se mantiene 8.º con 17.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo17",
+    "#Belchite97",
+    "#AtléticoMonzón",
+    "#Jornada12"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-17-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-17-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-17-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617699,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 12",
+      "liga_id": 455,
+      "id_local": 9880,
+      "id_visitante": 9878,
+      "local": "Belchite 97",
+      "visitante": "Atlético Monzón",
+      "escudo_local": "https://media.api-sports.io/football/teams/9880.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9878.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 69,
+          "equipo": "Atlético Monzón",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Belchite 97",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Real Zaragoza B",
+      "pts": 24,
+      "pj": 11,
+      "dg": 14,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 22,
+      "gc": 8,
+      "forma": "DWDWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9887.png",
+      "equipo_id": 9887,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 16,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ejea",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "DWDDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9589.png",
+      "equipo_id": 9589,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Cuarte",
+      "pts": 19,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 20,
+      "gc": 12,
+      "forma": "DWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9886.png",
+      "equipo_id": 9886,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "La Almunia",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
+      "gc": 14,
+      "forma": "WLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/20287.png",
+      "equipo_id": 20287,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Caspe",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6,
+      "pg": 4,
+      "pe": 6,
+      "pp": 1,
+      "gf": 19,
+      "gc": 13,
+      "forma": "WDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17615.png",
+      "equipo_id": 17615,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Brea",
+      "pts": 18,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 13,
+      "gc": 8,
+      "forma": "LLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9883.png",
+      "equipo_id": 9883,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Huesca B",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 12,
+      "gc": 7,
+      "forma": "WLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15327.png",
+      "equipo_id": 15327,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Atlético Monzón",
+      "pts": 17,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 21,
+      "forma": "DDWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9878.png",
+      "equipo_id": 9878,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 14,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Almudévar",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 10,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9877.png",
+      "equipo_id": 9877,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Fraga",
+      "pts": 15,
+      "pj": 11,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 11,
+      "forma": "WLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8158.png",
+      "equipo_id": 8158,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Binéfar",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "forma": "DDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9881.png",
+      "equipo_id": 9881,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Épila",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15329.png",
+      "equipo_id": 15329,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "CD Sietamo",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 16,
+      "forma": "LWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28122.png",
+      "equipo_id": 28122,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Andorra CF",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 12,
+      "gc": 18,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17498.png",
+      "equipo_id": 17498,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Illueca",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "LDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9391.png",
+      "equipo_id": 9391,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "CDJ Tamarite",
+      "pts": 9,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 0,
+      "pp": 8,
+      "gf": 15,
+      "gc": 25,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9884.png",
+      "equipo_id": 9884,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Robres",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 13,
+      "gc": 22,
+      "forma": "WDDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9888.png",
+      "equipo_id": 9888,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Belchite 97",
+      "pts": 5,
+      "pj": 12,
+      "dg": -16,
+      "pg": 0,
+      "pe": 5,
+      "pp": 7,
+      "gf": 8,
+      "gc": 24,
+      "forma": "DLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9880.png",
+      "equipo_id": 9880,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 3,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Atlético Monzón": {
+      "antes": 8,
+      "ahora": 8,
+      "cambio": "se mantiene"
+    },
+    "Belchite 97": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

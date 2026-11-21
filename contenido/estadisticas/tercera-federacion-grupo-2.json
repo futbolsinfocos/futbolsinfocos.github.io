@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 2",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Siero",
+      "escudo": "https://media.api-sports.io/football/teams/9634.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
+      "equipo": "Avilés Stadium",
+      "escudo": "https://media.api-sports.io/football/teams/15333.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Gijón Industrial",
+      "escudo": "https://media.api-sports.io/football/teams/9624.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Caudal",
+      "escudo": "https://media.api-sports.io/football/teams/9619.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ceares",
+      "escudo": "https://media.api-sports.io/football/teams/9620.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Colunga",
+      "escudo": "https://media.api-sports.io/football/teams/9621.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Condal",
+      "escudo": "https://media.api-sports.io/football/teams/9622.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Covadonga",
+      "escudo": "https://media.api-sports.io/football/teams/9623.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "L'Entregu",
+      "escudo": "https://media.api-sports.io/football/teams/9625.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Langreo",
+      "escudo": "https://media.api-sports.io/football/teams/5265.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Llanes",
+      "escudo": "https://media.api-sports.io/football/teams/9628.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Praviano",
+      "escudo": "https://media.api-sports.io/football/teams/9631.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sporting Gijón B",
+      "escudo": "https://media.api-sports.io/football/teams/9577.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Andes",
+      "escudo": "https://media.api-sports.io/football/teams/28097.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Astur",
+      "escudo": "https://media.api-sports.io/football/teams/25030.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lealtad",
+      "escudo": "https://media.api-sports.io/football/teams/9396.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mosconia",
+      "escudo": "https://media.api-sports.io/football/teams/9629.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "San Martín",
+      "escudo": "https://media.api-sports.io/football/teams/9633.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

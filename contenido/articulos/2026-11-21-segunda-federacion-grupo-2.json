@@ -1,0 +1,698 @@
+{
+  "slug": "2026-11-21-segunda-federacion-grupo-2",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 2",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Barcelona B empata en el derbi y sigue líder; el Barbastro gana en Tajonar",
+  "entradilla": "El filial azulgrana suma un punto en casa del Espanyol B, que acabó con diez desde el 69, y conserva el liderato con 26. El Barbastro gana 0-1 al Osasuna B con un gol de Juande en el 85 y sube dos puestos.",
+  "cuerpo_markdown": "El Barcelona B sigue al frente de la Segunda Federación, Grupo 2, tras empatar sin goles en el campo del Espanyol B, que jugó con diez desde el minuto 69 por la expulsión de L. Alves. El líder suma 26 puntos, dos más que el Terrassa, que tiene un partido menos. El Espanyol B sube al tercer puesto con 22. En Pamplona, el Barbastro ganó 0-1 al Osasuna B con un gol de Juande en el 85 y escala del duodécimo al décimo puesto.\n\n## Espanyol B 0-0 Barcelona B\n\nEl derbi de filiales terminó sin goles. El Espanyol B se quedó con diez en el minuto 69 por la expulsión de L. Alves y aguantó el empate ante el líder durante el tramo final.\n\nEl Barcelona B mantiene el primer puesto con 26 puntos tras 12 partidos: ocho victorias, dos empates y dos derrotas, con 20 goles a favor y solo 6 en contra. El Espanyol B sube del cuarto al tercer puesto con 22 puntos, empatado con el Girona B, y sigue en zona de play-off a cuatro puntos del liderato.\n\n## Osasuna B 0-1 Barbastro\n\nUn gol de Juande en el minuto 85 dio la victoria al Barbastro en las instalaciones de Tajonar. Es apenas su segundo triunfo del curso, el primero lejos de casa, tras siete empates en 12 jornadas.\n\nEl Barbastro sube dos puestos, del duodécimo al décimo, con 13 puntos y se coloca a cuatro de la zona de descenso. El Osasuna B se mantiene sexto con 20 puntos, igualado con el Ebro, quinto y último puesto de play-off. Suma tres derrotas en sus últimos cinco partidos y solo una victoria en cinco salidas.\n\n## Así queda la clasificación\n\nEl Barcelona B lidera con 26 puntos y ocupa la plaza de ascenso directo. Le siguen el Terrassa (24), el Espanyol B (22), el Girona B (22) y el Ebro (20) en puestos de play-off. El Osasuna B, sexto con 20, está empatado a puntos con el quinto, y el Olot, séptimo, se queda a uno con 19. En la parte baja, el Tudelano (9), la SD Logroñés (8), el Arnedo (7), el Náxara (6) y el Calamocha (5) ocupan el descenso. El Utebo, duodécimo con 12, tiene tres puntos de margen sobre la zona roja.",
+  "texto_instagram": "⚽ El Barcelona B sigue líder tras empatar 0-0 en el derbi ante un Espanyol B que acabó con diez y sube a la tercera plaza. El Barbastro gana en Tajonar en el 85 y escala dos puestos 📈\n\nEspanyol B 0-0 Barcelona B (roja: L. Alves 69')\nOsasuna B 0-1 Barbastro: Juande 85'\n\n🔝 Barcelona B, 26 puntos; Terrassa, 24.",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo2",
+    "#EspanyolB",
+    "#BarçaAtlètic",
+    "#BarcelonaB",
+    "#OsasunaB",
+    "#Barbastro"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-2-1.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-2-2.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572438,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": "Tajonar Facilities Stadium",
+      "ciudad": "Pamplona",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 9584,
+      "id_visitante": 9879,
+      "local": "Osasuna B",
+      "visitante": "Barbastro",
+      "escudo_local": "https://media.api-sports.io/football/teams/9584.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9879.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 85,
+          "equipo": "Barbastro",
+          "jugador": "Juande",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572435,
+      "fecha": "2026-11-21T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 9590,
+      "id_visitante": 712,
+      "local": "Espanyol B",
+      "visitante": "Barcelona B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9590.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/712.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [
+        {
+          "min": 69,
+          "equipo": "Espanyol B",
+          "jugador": "L. Alves"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona B",
+      "pts": 26,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 6,
+      "forma": "DLWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/712.png",
+      "equipo_id": 712,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Terrassa",
+      "pts": 24,
+      "pj": 11,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 13,
+      "gc": 5,
+      "forma": "WWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9681.png",
+      "equipo_id": 9681,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Espanyol B",
+      "pts": 22,
+      "pj": 11,
+      "dg": 14,
+      "pg": 6,
+      "pe": 4,
+      "pp": 1,
+      "gf": 22,
+      "gc": 8,
+      "forma": "DDDWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9590.png",
+      "equipo_id": 9590,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 13,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Girona B",
+      "pts": 22,
+      "pj": 11,
+      "dg": 10,
+      "pg": 7,
+      "pe": 1,
+      "pp": 3,
+      "gf": 22,
+      "gc": 12,
+      "forma": "WWWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15343.png",
+      "equipo_id": 15343,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Ebro",
+      "pts": 20,
+      "pj": 11,
+      "dg": 8,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 21,
+      "gc": 13,
+      "forma": "WWDLL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5261.png",
+      "equipo_id": 5261,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Osasuna B",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 14,
+      "gc": 8,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9584.png",
+      "equipo_id": 9584,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Olot",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 15,
+      "gc": 12,
+      "forma": "DLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9403.png",
+      "equipo_id": 9403,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Manresa",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "WLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9675.png",
+      "equipo_id": 9675,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Reddis",
+      "pts": 17,
+      "pj": 11,
+      "dg": -1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 11,
+      "gc": 12,
+      "forma": "WWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22136.png",
+      "equipo_id": 22136,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Barbastro",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "WDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9879.png",
+      "equipo_id": 9879,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Peña Sport",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 17,
+      "forma": "DLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9406.png",
+      "equipo_id": 9406,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Utebo",
+      "pts": 12,
+      "pj": 11,
+      "dg": -1,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9891.png",
+      "equipo_id": 9891,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "UD Logroñés B",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DLLDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9872.png",
+      "equipo_id": 9872,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tudelano",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5279.png",
+      "equipo_id": 5279,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "SD Logroñés",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 8,
+      "gc": 17,
+      "forma": "LWDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9411.png",
+      "equipo_id": 9411,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Arnedo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -13,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 11,
+      "gc": 24,
+      "forma": "DWLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9862.png",
+      "equipo_id": 9862,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Náxara",
+      "pts": 6,
+      "pj": 10,
+      "dg": -12,
+      "pg": 1,
+      "pe": 3,
+      "pp": 6,
+      "gf": 5,
+      "gc": 17,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9868.png",
+      "equipo_id": 9868,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 2,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Calamocha",
+      "pts": 5,
+      "pj": 11,
+      "dg": -15,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 5,
+      "gc": 20,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9885.png",
+      "equipo_id": 9885,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 1,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Barcelona B": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Espanyol B": {
+      "antes": 4,
+      "ahora": 3,
+      "cambio": "sube 1 puesto"
+    },
+    "Osasuna B": {
+      "antes": 6,
+      "ahora": 6,
+      "cambio": "se mantiene"
+    },
+    "Barbastro": {
+      "antes": 12,
+      "ahora": 10,
+      "cambio": "sube 2 puestos"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572435,
+    "titular": "El Barcelona B salva el liderato con un 0-0 ante un Espanyol B con diez",
+    "entradilla": "El derbi de filiales acabó sin goles. El Barcelona B mantiene el primer puesto con 26 puntos y el Espanyol B sube al tercero pese a jugar con diez desde el minuto 69.",
+    "parrafos": [
+      "El Barcelona B sigue líder de la Segunda Federación, Grupo 2, tras empatar 0-0 en el campo del Espanyol B en la duodécima jornada. El punto le permite llegar a 26 y mantener dos de ventaja sobre el Terrassa, que tiene un partido menos.",
+      "El marcador no se movió en todo el encuentro. El partido cambió en el minuto 69, cuando L. Alves fue expulsado y dejó al Espanyol B con diez jugadores para el último tramo.",
+      "Con uno menos, el filial blanquiazul sostuvo el empate ante el líder y sumó un punto que le permite subir del cuarto al tercer puesto.",
+      "El Barcelona B suma ocho victorias, dos empates y dos derrotas, con 20 goles a favor y 6 en contra. En casa ha ganado cinco de sus seis partidos.",
+      "El Espanyol B se queda con 22 puntos, los mismos que el Girona B, y a cuatro del liderato. Con 22 goles a favor y 8 en contra, comparte con el Barcelona B la mejor diferencia de goles del grupo, +14."
+    ],
+    "el_dato": "El Barcelona B solo ha encajado 6 goles en 12 jornadas, la mejor cifra del grupo junto al Terrassa, que ha recibido 5 en 11.",
+    "slug": "2026-11-21-espanyol-b-barcelona-b"
+  }
+}

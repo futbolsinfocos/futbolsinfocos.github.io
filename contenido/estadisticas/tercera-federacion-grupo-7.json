@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 7",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Leganés B",
+      "escudo": "https://media.api-sports.io/football/teams/9710.png",
+      "amarillas": 1,
+      "rojas": 5
+    },
+    {
+      "equipo": "Torrejón",
+      "escudo": "https://media.api-sports.io/football/teams/9717.png",
+      "amarillas": 1,
+      "rojas": 4
+    },
+    {
+      "equipo": "Rayo Vallecano B",
+      "escudo": "https://media.api-sports.io/football/teams/9715.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "Trival Valderas",
+      "escudo": "https://media.api-sports.io/football/teams/9718.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "Alcobendas Sport",
+      "escudo": "https://media.api-sports.io/football/teams/9705.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Real Aranjuez",
+      "escudo": "https://media.api-sports.io/football/teams/15352.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Unión Adarve",
+      "escudo": "https://media.api-sports.io/football/teams/9719.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Villanueva Pardillo",
+      "escudo": "https://media.api-sports.io/football/teams/15353.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Fuenlabrada",
+      "escudo": "https://media.api-sports.io/football/teams/4906.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Móstoles",
+      "escudo": "https://media.api-sports.io/football/teams/9712.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Parla Escuela",
+      "escudo": "https://media.api-sports.io/football/teams/25035.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Pozuelo Alarcón",
+      "escudo": "https://media.api-sports.io/football/teams/9713.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "SS Reyes B",
+      "escudo": "https://media.api-sports.io/football/teams/26545.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cala Pozuelo",
+      "escudo": "https://media.api-sports.io/football/teams/24709.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Colonia Moscardó",
+      "escudo": "https://media.api-sports.io/football/teams/17589.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Galapagar",
+      "escudo": "https://media.api-sports.io/football/teams/17516.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Las Rozas",
+      "escudo": "https://media.api-sports.io/football/teams/9395.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "RC Alcobendas",
+      "escudo": "https://media.api-sports.io/football/teams/28105.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

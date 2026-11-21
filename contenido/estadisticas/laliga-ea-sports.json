@@ -15,7 +15,7 @@
       "equipo": "Real Madrid",
       "escudo": "https://media.api-sports.io/football/teams/541.png",
       "goles": 13,
-      "penaltis": 2,
+      "penaltis": 3,
       "pj": 12
     },
     {
@@ -62,9 +62,9 @@
       "jugador": "Roberto Fernández",
       "equipo": "Espanyol",
       "escudo": "https://media.api-sports.io/football/teams/540.png",
-      "goles": 6,
+      "goles": 7,
       "penaltis": 0,
-      "pj": 12
+      "pj": 13
     },
     {
       "jugador": "Fer Niño",
@@ -160,7 +160,7 @@
       "escudo": "https://media.api-sports.io/football/teams/531.png",
       "goles": 4,
       "penaltis": 2,
-      "pj": 12
+      "pj": 13
     }
   ],
   "tarjetas": [
@@ -179,14 +179,20 @@
     {
       "equipo": "Espanyol",
       "escudo": "https://media.api-sports.io/football/teams/540.png",
-      "amarillas": 38,
+      "amarillas": 39,
       "rojas": 1
     },
     {
       "equipo": "Valencia",
       "escudo": "https://media.api-sports.io/football/teams/532.png",
-      "amarillas": 32,
+      "amarillas": 33,
       "rojas": 2
+    },
+    {
+      "equipo": "Deportivo de La Coruña",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "amarillas": 29,
+      "rojas": 3
     },
     {
       "equipo": "Elche",
@@ -195,15 +201,15 @@
       "rojas": 1
     },
     {
+      "equipo": "Rayo Vallecano",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "amarillas": 29,
+      "rojas": 2
+    },
+    {
       "equipo": "Real Sociedad",
       "escudo": "https://media.api-sports.io/football/teams/548.png",
       "amarillas": 26,
-      "rojas": 3
-    },
-    {
-      "equipo": "Deportivo de La Coruña",
-      "escudo": "https://media.api-sports.io/football/teams/544.png",
-      "amarillas": 25,
       "rojas": 3
     },
     {
@@ -225,12 +231,6 @@
       "rojas": 0
     },
     {
-      "equipo": "Rayo Vallecano",
-      "escudo": "https://media.api-sports.io/football/teams/728.png",
-      "amarillas": 27,
-      "rojas": 2
-    },
-    {
       "equipo": "Atlético de Madrid",
       "escudo": "https://media.api-sports.io/football/teams/530.png",
       "amarillas": 28,
@@ -243,6 +243,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Alavés",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "amarillas": 27,
+      "rojas": 1
+    },
+    {
       "equipo": "Athletic Club",
       "escudo": "https://media.api-sports.io/football/teams/531.png",
       "amarillas": 24,
@@ -252,12 +258,6 @@
       "equipo": "Villarreal",
       "escudo": "https://media.api-sports.io/football/teams/533.png",
       "amarillas": 24,
-      "rojas": 1
-    },
-    {
-      "equipo": "Alavés",
-      "escudo": "https://media.api-sports.io/football/teams/542.png",
-      "amarillas": 23,
       "rojas": 1
     },
     {
@@ -285,5 +285,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-20"
+  "fecha": "2026-11-21"
 }

@@ -1,0 +1,654 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-7",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 7",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Real Aranjuez da la vuelta al Parla Escuela y sube dos puestos",
+  "entradilla": "Dos goles de J. Velasco y Cuchillo entre los minutos 12 y 21 dan al Real Aranjuez la victoria por 2-1 ante el Parla Escuela en la Jornada 12 del Grupo 7 de Tercera Federación. Los locales escalan hasta el puesto 10.",
+  "cuerpo_markdown": "La Jornada 12 del Grupo 7 de Tercera Federación deja una victoria del Real Aranjuez ante el Parla Escuela (2-1), que le permite subir dos puestos, hasta el 10, con 16 puntos. Los visitantes se adelantaron en el minuto 8 con gol de D. Serrano, pero los locales igualaron con J. Velasco en el 12 y Cuchillo marcó en el 21. Móstoles sigue líder con 26 puntos.\n\n## Real Aranjuez 2-1 Parla Escuela\n\nD. Serrano adelantó al Parla Escuela en el minuto 8. J. Velasco empató para el Real Aranjuez en el 12 y Cuchillo, en el 21, le dio la ventaja. Con este resultado, el Real Aranjuez, con 16 puntos, sube del 12 al 10 de la tabla. El Parla Escuela, con 11 puntos, se mantiene en el puesto 14.\n\n## Así queda la clasificación\n\nMóstoles encabeza la tabla con 26 puntos y ocupa la zona de ascenso. Colonia Moscardó (21) y Las Rozas (21) están en la zona de playoff, junto a Leganés B (18) y Galapagos (18). El Real Aranjuez, con 16 puntos, queda a dos puntos de esa zona. En la parte baja, SS Reyes B (8), Alcobendas Sport (7) y Villanueva Pardillo (7) ocupan las plazas de descenso.",
+  "texto_instagram": "Real Aranjuez 2-1 Parla Escuela en la Jornada 12 de Tercera Federación, Grupo 7. Los locales dieron la vuelta al marcador y suben al puesto 10.\nReal Aranjuez 2-1 Parla Escuela\n⚽ D. Serrano (Parla Escuela) 8'\n⚽ J. Velasco (Real Aranjuez) 12'\n⚽ Cuchillo (Real Aranjuez) 21'",
+  "hashtags": [
+    "#TerceraFederación",
+    "#RealAranjuez",
+    "#ParlaEscuela"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-7-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-7-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-7-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614645,
+      "fecha": "2026-11-21T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 7 - 12",
+      "liga_id": 445,
+      "id_local": 15352,
+      "id_visitante": 25035,
+      "local": "Real Aranjuez",
+      "visitante": "Parla Escuela",
+      "escudo_local": "https://media.api-sports.io/football/teams/15352.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/25035.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 8,
+          "equipo": "Parla Escuela",
+          "jugador": "D. Serrano",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 12,
+          "equipo": "Real Aranjuez",
+          "jugador": "J. Velasco",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 21,
+          "equipo": "Real Aranjuez",
+          "jugador": "Cuchillo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Móstoles",
+      "pts": 26,
+      "pj": 11,
+      "dg": 19,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 26,
+      "gc": 7,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9712.png",
+      "equipo_id": 9712,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Colonia Moscardó",
+      "pts": 21,
+      "pj": 11,
+      "dg": 11,
+      "pg": 5,
+      "pe": 6,
+      "pp": 0,
+      "gf": 21,
+      "gc": 10,
+      "forma": "WDWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17589.png",
+      "equipo_id": 17589,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 5,
+        "pp": 0,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Las Rozas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 23,
+      "gc": 17,
+      "forma": "WDLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9395.png",
+      "equipo_id": 9395,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 16,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Leganés B",
+      "pts": 18,
+      "pj": 11,
+      "dg": 10,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WDWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9710.png",
+      "equipo_id": 9710,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Galapagar",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 21,
+      "gc": 17,
+      "forma": "LWDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17516.png",
+      "equipo_id": 17516,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Cala Pozuelo",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 16,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24709.png",
+      "equipo_id": 24709,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Unión Adarve",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 17,
+      "gc": 14,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9719.png",
+      "equipo_id": 9719,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Fuenlabrada",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4906.png",
+      "equipo_id": 4906,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Pozuelo Alarcón",
+      "pts": 16,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 15,
+      "gc": 18,
+      "forma": "DLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9713.png",
+      "equipo_id": 9713,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Real Aranjuez",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 22,
+      "forma": "WWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15352.png",
+      "equipo_id": 15352,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Trival Valderas",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 2,
+      "gf": 15,
+      "gc": 14,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9718.png",
+      "equipo_id": 9718,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Torrejón",
+      "pts": 14,
+      "pj": 11,
+      "dg": 6,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 17,
+      "gc": 11,
+      "forma": "LDWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9717.png",
+      "equipo_id": 9717,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Rayo Vallecano B",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 19,
+      "forma": "WWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9715.png",
+      "equipo_id": 9715,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Parla Escuela",
+      "pts": 11,
+      "pj": 12,
+      "dg": -5,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 17,
+      "gc": 22,
+      "forma": "LDLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25035.png",
+      "equipo_id": 25035,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 10,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "RC Alcobendas",
+      "pts": 10,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 25,
+      "forma": "DDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28105.png",
+      "equipo_id": 28105,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "SS Reyes B",
+      "pts": 8,
+      "pj": 11,
+      "dg": -13,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 16,
+      "gc": 29,
+      "forma": "DLLDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/26545.png",
+      "equipo_id": 26545,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 19
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Alcobendas Sport",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9705.png",
+      "equipo_id": 9705,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Villanueva Pardillo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -20,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 9,
+      "gc": 29,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15353.png",
+      "equipo_id": 15353,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Real Aranjuez": {
+      "antes": 12,
+      "ahora": 10,
+      "cambio": "sube 2 puestos"
+    },
+    "Parla Escuela": {
+      "antes": 14,
+      "ahora": 14,
+      "cambio": "se mantiene"
+    }
+  }
+}

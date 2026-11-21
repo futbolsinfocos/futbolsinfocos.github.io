@@ -1,0 +1,716 @@
+{
+  "slug": "2026-11-21-segunda-federacion-grupo-3",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "La Deportiva Minera rescata un empate en Elche y el Poblense sube al décimo puesto",
+  "entradilla": "Un doblete de A. Pinan levantó el 2-0 del Elche B y mantiene líder a la Deportiva Minera con 24 puntos. El Poblense ganó 0-1 en casa del Intercity y escala tres posiciones.",
+  "cuerpo_markdown": "La Deportiva Minera sigue al frente de la Segunda Federación, Grupo 3, después de rescatar un 2-2 en el campo del Elche B, donde perdía 2-0 a la hora de juego. Dos goles de A. Pinan, en los minutos 74 y 84, le dan un punto que la deja con 24, dos más que el Ucam Murcia, que tiene un partido menos. En el otro duelo adelantado de la jornada 12, el Poblense ganó 0-1 en el campo del Intercity y sube del 13.º al 10.º puesto.\n\n## Elche B 2-2 Deportiva Minera\n\nEl Elche B golpeó dos veces en tres minutos tras el descanso: J. de Vicente marcó en el 53 y J. Piera en el 56. La Deportiva Minera respondió con un doblete de A. Pinan, que recortó en el 74 y empató en el 84.\n\nEl líder se mantiene primero con 24 puntos (7 victorias, 3 empates y 2 derrotas) y suma tres partidos sin perder. El Elche B sigue 15.º con 12 puntos y encadena tres jornadas sin ganar. Es el equipo más goleado del grupo, con 25 tantos en contra.\n\n## Intercity 0-1 Poblense\n\nUn gol de D. Lopez en el minuto 36 dio el triunfo al Poblense en el Camp Municipal Antonio Solana. Es solo su segunda victoria a domicilio del curso, tras cinco derrotas fuera. Sube tres puestos, del 13.º al 10.º, con 16 puntos. El Intercity baja del 12.º al 13.º, se queda con 13 puntos y sigue sin ganar en casa: tres empates y dos derrotas.\n\n## Así queda la clasificación\n\nLa Deportiva Minera lidera con 24 puntos, por delante del Ucam Murcia (22) y del Castellón B (21), ambos con un partido menos. Cieza y Castellonense, con 18, completan los cinco primeros, seguidos de La Nucía y Alcoyano, con 17. En la parte baja empatan a 8 puntos Peña Deportiva, Valencia B y Real Murcia B, a cuatro del Elche B y del Mallorca B, que suman 12.",
+  "texto_instagram": "⚽ La Deportiva Minera remonta un 2-0 en Elche con un doblete de A. Pinan y sigue líder con 24 puntos. El Poblense gana fuera y sube al 10.º puesto 📈\n\nElche B 2-2 Deportiva Minera: J. de Vicente (53), J. Piera (56); A. Pinan (74, 84)\nIntercity 0-1 Poblense: D. Lopez (36) 🔥",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo3",
+    "#DeportivaMinera",
+    "#ElcheB",
+    "#Poblense",
+    "#Intercity"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-3-1.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-3-2.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572743,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 9691,
+      "id_visitante": 9811,
+      "local": "Elche B",
+      "visitante": "Deportiva Minera",
+      "escudo_local": "https://media.api-sports.io/football/teams/9691.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9811.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 53,
+          "equipo": "Elche B",
+          "jugador": "J. de Vicente",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 56,
+          "equipo": "Elche B",
+          "jugador": "J. Piera",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Deportiva Minera",
+          "jugador": "A. Pinan",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 84,
+          "equipo": "Deportiva Minera",
+          "jugador": "A. Pinan",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572742,
+      "fecha": "2026-11-21T19:00:00+01:00",
+      "estadio": "Camp Municipal Antonio Solana",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 8160,
+      "id_visitante": 5273,
+      "local": "Intercity",
+      "visitante": "Poblense",
+      "escudo_local": "https://media.api-sports.io/football/teams/8160.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5273.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 36,
+          "equipo": "Poblense",
+          "jugador": "D. Lopez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Deportiva Minera",
+      "pts": 24,
+      "pj": 12,
+      "dg": 6,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 17,
+      "gc": 11,
+      "forma": "DWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9811.png",
+      "equipo_id": 9811,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ucam Murcia",
+      "pts": 22,
+      "pj": 11,
+      "dg": 12,
+      "pg": 7,
+      "pe": 1,
+      "pp": 3,
+      "gf": 23,
+      "gc": 11,
+      "forma": "WDWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/800.png",
+      "equipo_id": 800,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Castellón B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 11,
+      "pg": 7,
+      "pe": 0,
+      "pp": 4,
+      "gf": 23,
+      "gc": 12,
+      "forma": "LWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17588.png",
+      "equipo_id": 17588,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Cieza",
+      "pts": 18,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 9,
+      "forma": "DWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20277.png",
+      "equipo_id": 20277,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Castellonense",
+      "pts": 18,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 18,
+      "gc": 13,
+      "forma": "DDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22138.png",
+      "equipo_id": 22138,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "La Nucía",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "DDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9393.png",
+      "equipo_id": 9393,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Alcoyano",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9686.png",
+      "equipo_id": 9686,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Lorca Deportiva",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 15,
+      "gc": 12,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9400.png",
+      "equipo_id": 9400,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Baleares",
+      "pts": 16,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "forma": "WLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9381.png",
+      "equipo_id": 9381,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Poblense",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 10,
+      "gc": 14,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5273.png",
+      "equipo_id": 5273,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Yeclano",
+      "pts": 14,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5283.png",
+      "equipo_id": 5283,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Orihuela",
+      "pts": 14,
+      "pj": 11,
+      "dg": -5,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 10,
+      "gc": 15,
+      "forma": "DDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9404.png",
+      "equipo_id": 9404,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Intercity",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 18,
+      "forma": "LLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8160.png",
+      "equipo_id": 8160,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Mallorca B",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 12,
+      "gc": 16,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9783.png",
+      "equipo_id": 9783,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Elche B",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 15,
+      "gc": 25,
+      "forma": "DLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9691.png",
+      "equipo_id": 9691,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Peña Deportiva",
+      "pts": 8,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 15,
+      "forma": "DWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9405.png",
+      "equipo_id": 9405,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Valencia B",
+      "pts": 8,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 10,
+      "gc": 17,
+      "forma": "DLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9594.png",
+      "equipo_id": 9594,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Murcia B",
+      "pts": 8,
+      "pj": 10,
+      "dg": -9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 6,
+      "gf": 9,
+      "gc": 18,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9820.png",
+      "equipo_id": 9820,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 9
+      }
+    }
+  ],
+  "movimientos": {
+    "Deportiva Minera": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Poblense": {
+      "antes": 13,
+      "ahora": 10,
+      "cambio": "sube 3 puestos"
+    },
+    "Intercity": {
+      "antes": 12,
+      "ahora": 13,
+      "cambio": "baja 1 puesto"
+    },
+    "Elche B": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572743,
+    "titular": "Un doblete de A. Pinan salva al líder en Elche tras ir perdiendo 2-0",
+    "entradilla": "La Deportiva Minera empató 2-2 en el campo del Elche B con dos goles de A. Pinan en los últimos 16 minutos. Sigue primera con 24 puntos.",
+    "parrafos": [
+      "La Deportiva Minera mantuvo el liderato del Grupo 3 de Segunda Federación con un empate 2-2 en el campo del Elche B. Perdía 2-0 en el minuto 56 y un doblete de A. Pinan le dio un punto que la deja con 24.",
+      "El Elche B se adelantó tras el descanso. J. de Vicente abrió el marcador en el minuto 53 y J. Piera amplió la ventaja en el 56.",
+      "La reacción visitante llegó en el último cuarto de hora. A. Pinan recortó en el minuto 74 y firmó el empate en el 84.",
+      "El líder suma 7 victorias, 3 empates y 2 derrotas, y encadena tres partidos sin perder. Aventaja en dos puntos al Ucam Murcia y en tres al Castellón B, ambos con un partido menos.",
+      "El Elche B se mantiene 15.º con 12 puntos y suma tres jornadas sin ganar. Con 25 goles encajados, es el equipo más goleado del grupo."
+    ],
+    "el_dato": "Al Elche B le duró solo 18 minutos la ventaja de dos goles: del 56, cuando marcó J. Piera, al 74, cuando recortó A. Pinan.",
+    "slug": "2026-11-21-elche-b-deportiva-minera"
+  }
+}

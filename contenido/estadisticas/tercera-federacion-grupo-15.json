@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 15",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Izarra",
+      "escudo": "https://media.api-sports.io/football/teams/9583.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Beti Onak",
+      "escudo": "https://media.api-sports.io/football/teams/9845.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Cirbonero",
+      "escudo": "https://media.api-sports.io/football/teams/9847.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Pamplona",
+      "escudo": "https://media.api-sports.io/football/teams/9854.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "San Juan",
+      "escudo": "https://media.api-sports.io/football/teams/9855.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Aoiz",
+      "escudo": "https://media.api-sports.io/football/teams/26553.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Bidezarra",
+      "escudo": "https://media.api-sports.io/football/teams/15320.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Doneztebe FT",
+      "escudo": "https://media.api-sports.io/football/teams/28120.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Gazte Berriak",
+      "escudo": "https://media.api-sports.io/football/teams/28121.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Huarte",
+      "escudo": "https://media.api-sports.io/football/teams/9851.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Subiza",
+      "escudo": "https://media.api-sports.io/football/teams/9856.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Txantrea",
+      "escudo": "https://media.api-sports.io/football/teams/9857.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Avance Ezcabarte",
+      "escudo": "https://media.api-sports.io/football/teams/17609.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Beti Kozkor",
+      "escudo": "https://media.api-sports.io/football/teams/9844.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cantolagua",
+      "escudo": "https://media.api-sports.io/football/teams/15321.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cortes",
+      "escudo": "https://media.api-sports.io/football/teams/9849.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mutilvera",
+      "escudo": "https://media.api-sports.io/football/teams/5270.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Valle Egüés",
+      "escudo": "https://media.api-sports.io/football/teams/9858.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

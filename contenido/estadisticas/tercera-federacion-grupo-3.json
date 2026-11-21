@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Atlético Albericia",
+      "escudo": "https://media.api-sports.io/football/teams/9637.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "Castro",
+      "escudo": "https://media.api-sports.io/football/teams/15336.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Revilla",
+      "escudo": "https://media.api-sports.io/football/teams/15337.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Sámano",
+      "escudo": "https://media.api-sports.io/football/teams/9648.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Velarde",
+      "escudo": "https://media.api-sports.io/football/teams/20451.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Bezana",
+      "escudo": "https://media.api-sports.io/football/teams/9639.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Laredo",
+      "escudo": "https://media.api-sports.io/football/teams/9394.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Selaya",
+      "escudo": "https://media.api-sports.io/football/teams/9645.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Vimenor",
+      "escudo": "https://media.api-sports.io/football/teams/9652.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Mineros",
+      "escudo": "https://media.api-sports.io/football/teams/22132.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Barquereño",
+      "escudo": "https://media.api-sports.io/football/teams/8152.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cayón",
+      "escudo": "https://media.api-sports.io/football/teams/15339.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Escobedo",
+      "escudo": "https://media.api-sports.io/football/teams/9386.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Guarnizo",
+      "escudo": "https://media.api-sports.io/football/teams/9642.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Naval Reinosa",
+      "escudo": "https://media.api-sports.io/football/teams/28098.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Solares",
+      "escudo": "https://media.api-sports.io/football/teams/9647.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Torina",
+      "escudo": "https://media.api-sports.io/football/teams/9650.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Tropezón",
+      "escudo": "https://media.api-sports.io/football/teams/9651.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

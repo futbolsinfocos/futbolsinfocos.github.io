@@ -1,0 +1,864 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-8",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 8",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Cristo Atlético gana en Santa Marta y se afianza arriba; el Salamanca B sigue en descenso",
+  "entradilla": "El Cristo Atlético se impuso 1-2 al UD Santa Marta y se coloca primero, mientras Unionistas B goleó 2-5 al Villaralbo. Salamanca B y Calasanz de Soria empataron 4-4 en el partido más goleador de la jornada.",
+  "cuerpo_markdown": "La Tercera Federación del Grupo 8 cierra la jornada 12 con un 4-4 entre Salamanca B y Calasanz de Soria, el encuentro con más goles, y con el Cristo Atlético como nuevo líder tras ganar al Santa Marta. Unionistas B sube tres puestos tras golear.\n\n## UD Santa Marta 1-2 Cristo Atlético\n\nEl Cristo Atlético se impuso en Santa Marta con goles de M. Olmedilla (18') y A. Collado (31'). El UD Santa Marta acortó con un penalti de Chopi en el 49. Hubo expulsiones de S. Santos Rubio (44', UD Santa Marta) y F. Peredo (90', Cristo Atlético). Con este resultado, el Cristo Atlético sube un puesto hasta el primero con 27 puntos, mientras el UD Santa Marta baja al segundo puesto con 26.\n\n## Salamanca B 4-4 Calasanz de Soria\n\nEl partido más goleador de la jornada terminó en empate. Calasanz de Soria se adelantó con dobletes de D. Nieto (19' y 32') y marcó también S. Madrigal (70'). Salamanca B igualó con goles de I. Ojeda (59'), J. Nadal (63'), A. Pinto (77') y J. Nadal de nuevo en el 90. D. Nieto marcó otro gol en el 89 para Calasanz de Soria. Ambos equipos se mantienen en su posición: Salamanca B es 17.º con 6 puntos y Calasanz de Soria, 15.º con 8.\n\n## Unionistas B 5-2 Villaralbo\n\nUnionistas B goleó al Villaralbo por 5-2, con cinco goles de su lado de distinto autor: I. Exposito (14'), J. Gomez (20', 28', 55' y 78'). Por el Villaralbo marcaron M. Blanco (7') y Rubo Blanco (38'). Es una victoria por tres goles de diferencia que hace subir a Unionistas B tres puestos, hasta el 11.º con 14 puntos, mientras el Villaralbo baja un puesto hasta el 12.º con 13.\n\n## Cultural Leonesa B 0-1 Atlético Mansillés\n\nEl Atlético Mansillés ganó en el campo de la Cultural Leonesa B con un gol de su equipo en el 57. El Atlético Mansillés sube dos puestos, hasta el cuarto con 22 puntos, dentro de la zona de playoff. La Cultural Leonesa B baja un puesto hasta el sexto con 21 puntos.\n\n## Así queda la clasificación\n\nEl Cristo Atlético encabeza la tabla con 27 puntos, por delante del UD Santa Marta (26) y La Virgen del Camino (23). La zona de playoff la ocupan los puestos del segundo al quinto, con Burgos Promesas en el quinto con 21 puntos. En la parte baja, Colegios Diocesanos (16.º, 6 puntos) está en zona de descenso junto a Salamanca B (17.º, 6) y Mirandés B (18.º, 4), que aún tiene un partido menos.",
+  "texto_instagram": "⚽ Jornada 12 en Tercera Federación Grupo 8: el Cristo Atlético gana en Santa Marta y se pone primero. 🔥\n\nSanta Marta 1-2 Cristo Atlético: Chopi (penalti, 49') para el local; M. Olmedilla (18') y A. Collado (31') para el visitante.\nSalamanca B 4-4 Calasanz de Soria: D. Nieto (19', 32', 89'), S. Madrigal (70') para Calasanz; I. Ojeda (59'), J. Nadal (63', 90'), A. Pinto (77') para Salamanca B.\nUnionistas B 5-2 Villaralbo: J. Gomez (20', 28', 55', 78'), I. Exposito (14') para Unionistas; M. Blanco (7') y Rubo Blanco (38') para Villaralbo.\nCultural Leonesa B 0-1 Atlético Mansillés: gol de Atlético Mansillés (57').",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo8",
+    "#CristoAtletico",
+    "#UDSantaMarta",
+    "#SalamancaB",
+    "#CalasanzDeSoria",
+    "#UnionistasB",
+    "#Villaralbo",
+    "#AtleticoMansilles"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-8-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-8-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-8-3.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-8-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614948,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 9729,
+      "id_visitante": 17502,
+      "local": "Cultural Leonesa B",
+      "visitante": "Atlético Mansillés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9729.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17502.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 57,
+          "equipo": "Atlético Mansillés",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614952,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 22144,
+      "id_visitante": 26546,
+      "local": "Villaralbo",
+      "visitante": "Unionistas B",
+      "escudo_local": "https://media.api-sports.io/football/teams/22144.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26546.png",
+      "goles_local": 2,
+      "goles_visitante": 5,
+      "goleadores": [
+        {
+          "min": 7,
+          "equipo": "Villaralbo",
+          "jugador": "M. Blanco",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 14,
+          "equipo": "Unionistas B",
+          "jugador": "I. Exposito",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 20,
+          "equipo": "Unionistas B",
+          "jugador": "J. Gomez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 28,
+          "equipo": "Unionistas B",
+          "jugador": "J. Gomez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 38,
+          "equipo": "Villaralbo",
+          "jugador": "Rubo Blanco",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 55,
+          "equipo": "Unionistas B",
+          "jugador": "J. Gomez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 78,
+          "equipo": "Unionistas B",
+          "jugador": "J. Gomez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614950,
+      "fecha": "2026-11-21T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 9737,
+      "id_visitante": 28106,
+      "local": "Salamanca B",
+      "visitante": "Calasanz de Soria",
+      "escudo_local": "https://media.api-sports.io/football/teams/9737.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28106.png",
+      "goles_local": 4,
+      "goles_visitante": 4,
+      "goleadores": [
+        {
+          "min": 19,
+          "equipo": "Calasanz de Soria",
+          "jugador": "D. Nieto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 32,
+          "equipo": "Calasanz de Soria",
+          "jugador": "D. Nieto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 59,
+          "equipo": "Salamanca B",
+          "jugador": "I. Ojeda",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 63,
+          "equipo": "Salamanca B",
+          "jugador": "J. Nadal",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 70,
+          "equipo": "Calasanz de Soria",
+          "jugador": "S. Madrigal",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Salamanca B",
+          "jugador": "A. Pinto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Calasanz de Soria",
+          "jugador": "D. Nieto",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Salamanca B",
+          "jugador": "J. Nadal",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614951,
+      "fecha": "2026-11-21T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 9738,
+      "id_visitante": 9728,
+      "local": "UD Santa Marta",
+      "visitante": "Cristo Atlético",
+      "escudo_local": "https://media.api-sports.io/football/teams/9738.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9728.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 18,
+          "equipo": "Cristo Atlético",
+          "jugador": "M. Olmedilla",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 31,
+          "equipo": "Cristo Atlético",
+          "jugador": "A. Collado",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 49,
+          "equipo": "UD Santa Marta",
+          "jugador": "Chopi",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 44,
+          "equipo": "UD Santa Marta",
+          "jugador": "S. Santos Rubio"
+        },
+        {
+          "min": 90,
+          "equipo": "Cristo Atlético",
+          "jugador": "F. Peredo"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Cristo Atlético",
+      "pts": 27,
+      "pj": 12,
+      "dg": 11,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 17,
+      "gc": 6,
+      "forma": "WDDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9728.png",
+      "equipo_id": 9728,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD Santa Marta",
+      "pts": 26,
+      "pj": 12,
+      "dg": 12,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 8,
+      "forma": "LWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9738.png",
+      "equipo_id": 9738,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "La Virgen del Camino",
+      "pts": 23,
+      "pj": 12,
+      "dg": 3,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9732.png",
+      "equipo_id": 9732,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Atlético Mansillés",
+      "pts": 22,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 17,
+      "gc": 11,
+      "forma": "WWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17502.png",
+      "equipo_id": 17502,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Burgos Promesas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 16,
+      "gc": 6,
+      "forma": "DLWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9727.png",
+      "equipo_id": 9727,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Cultural Leonesa B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 14,
+      "gc": 7,
+      "forma": "LDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9729.png",
+      "equipo_id": 9729,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Almazán",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 18,
+      "gc": 15,
+      "forma": "WWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9721.png",
+      "equipo_id": 9721,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Palencia CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17538.png",
+      "equipo_id": 17538,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Guijuelo",
+      "pts": 16,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 19,
+      "gc": 13,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9388.png",
+      "equipo_id": 9388,
+      "casa": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Bembibre",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
+      "forma": "LDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9725.png",
+      "equipo_id": 9725,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Unionistas B",
+      "pts": 14,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26546.png",
+      "equipo_id": 26546,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 11,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Villaralbo",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22144.png",
+      "equipo_id": 22144,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Arandina",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 15,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9722.png",
+      "equipo_id": 9722,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Turégano",
+      "pts": 11,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 12,
+      "gc": 14,
+      "forma": "LWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20449.png",
+      "equipo_id": 20449,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 3,
+        "pp": 0,
+        "gf": 5,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Calasanz de Soria",
+      "pts": 8,
+      "pj": 12,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 12,
+      "gc": 26,
+      "forma": "DLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28106.png",
+      "equipo_id": 28106,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 18
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Colegios Diocesanos",
+      "pts": 6,
+      "pj": 12,
+      "dg": -14,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 11,
+      "gc": 25,
+      "forma": "LLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15354.png",
+      "equipo_id": 15354,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Salamanca B",
+      "pts": 6,
+      "pj": 12,
+      "dg": -18,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 13,
+      "gc": 31,
+      "forma": "DDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9737.png",
+      "equipo_id": 9737,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Mirandés B",
+      "pts": 4,
+      "pj": 11,
+      "dg": -10,
+      "pg": 0,
+      "pe": 4,
+      "pp": 7,
+      "gf": 3,
+      "gc": 13,
+      "forma": "DLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9733.png",
+      "equipo_id": 9733,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 2,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 2,
+        "pp": 2,
+        "gf": 1,
+        "gc": 3
+      }
+    }
+  ],
+  "movimientos": {
+    "Cristo Atlético": {
+      "antes": 2,
+      "ahora": 1,
+      "cambio": "sube 1 puesto"
+    },
+    "UD Santa Marta": {
+      "antes": 1,
+      "ahora": 2,
+      "cambio": "baja 1 puesto"
+    },
+    "Atlético Mansillés": {
+      "antes": 6,
+      "ahora": 4,
+      "cambio": "sube 2 puestos"
+    },
+    "Cultural Leonesa B": {
+      "antes": 5,
+      "ahora": 6,
+      "cambio": "baja 1 puesto"
+    },
+    "Unionistas B": {
+      "antes": 14,
+      "ahora": 11,
+      "cambio": "sube 3 puestos"
+    },
+    "Villaralbo": {
+      "antes": 11,
+      "ahora": 12,
+      "cambio": "baja 1 puesto"
+    },
+    "Calasanz de Soria": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    },
+    "Salamanca B": {
+      "antes": 17,
+      "ahora": 17,
+      "cambio": "se mantiene"
+    }
+  }
+}

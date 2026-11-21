@@ -1,0 +1,1003 @@
+{
+  "slug": "2026-11-21-laliga-hypermotion",
+  "fecha": "2026-11-21",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Castellón toma el liderato con un 2-0 al Eldense y el Cádiz golea en San Sebastián",
+  "entradilla": "El Castellón sube al primer puesto tras vencer al Eldense por 2-0. El Cádiz goleó 3-0 a la Real Sociedad B, que acabó con dos expulsados y baja al descenso.",
+  "cuerpo_markdown": "El Castellón se coloca primero de la Segunda División tras ganar 2-0 al Eldense, y el Cádiz golea 3-0 a la Real Sociedad B, que termina la jornada con dos expulsados y en zona de descenso. El Sabadell empata 1-1 con el Granada y el Tenerife no pasa del 0-0 con el Mallorca.\n\n## Castellón 2-0 Eldense\n\nEl Castellón sube del segundo al primer puesto gracias a los goles de Agustín Sienra, en el 39, y Alvaro Martin, en el 87. Con 33 puntos, el equipo queda por delante del Almería, segundo con 32, y acumula cinco victorias seguidas en la tabla (forma WWDWW en sus últimos cinco partidos). El Eldense se mantiene en el puesto 16 con 17 puntos.\n\n## Real Sociedad B 0-3 Cádiz\n\nEl Cádiz golea en Zubieta con goles de Antonio Cordero, en el 41, Urko Iruretagoiena Lertxundi, en el 83, y Borja Vazquez, en el 89. La Real Sociedad B se queda con dos expulsados: Alex Marchal García, en el 53, y Gorka Carrera Zarranz, en el 90. El Cádiz sube tres puestos hasta el 17 con 14 puntos, mientras el equipo local baja al 19 con 13 puntos, dentro de la zona de descenso.\n\n## Sabadell 1-1 Granada CF\n\nEl Granada se adelanta con el gol de Pedro Alemañ Serna en el 43 y el Sabadell empata con el tanto de Alain Ribeiro en el 78. El Granada se mantiene tercero con 27 puntos, dentro de la zona de playoff. El Sabadell sube al puesto 12 con 19 puntos.\n\n## Tenerife 0-0 Mallorca\n\nEl empate sin goles deja al Tenerife en el puesto 14 con 18 puntos y al Mallorca en el 7 con 23 puntos. Ambos equipos suben un puesto en la tabla tras la jornada.\n\n## Así queda la clasificación\n\nEl Castellón encabeza la tabla con 33 puntos, por delante del Almería, con 32, y del Granada CF, tercero con 27, que ocupan las plazas de ascenso y playoff. El Burgos cierra la zona de playoff en el sexto puesto con 24 puntos, a uno del Mallorca, que es séptimo con 23. En la parte baja, la Real Sociedad B (19º, 13 puntos) y el Albacete (20º, 13 puntos) quedan en zona de descenso, con el FC Andorra (21º, 11 puntos) y el AD Ceuta FC (22º, 5 puntos) por debajo.",
+  "texto_instagram": "Castellón pasa a liderar la Segunda División tras ganar 2-0 al Eldense, y el Cádiz golea 3-0 a la Real Sociedad B ⚽🔝\n\nReal Sociedad B 0-3 Cádiz: Antonio Cordero (41'), Urko Iruretagoiena Lertxundi (83') y Borja Vazquez (89')\nCastellón 2-0 Eldense: Agustín Sienra (39') y Alvaro Martin (87')\nSabadell 1-1 Granada CF: Pedro Alemañ Serna (43') para el Granada y Alain Ribeiro (78') para el Sabadell\nTenerife 0-0 Mallorca",
+  "hashtags": [
+    "#SegundaDivisión",
+    "#LaLigaHypermotion",
+    "#Castellón",
+    "#Cádiz",
+    "#Eldense",
+    "#Sabadell",
+    "#GranadaCF",
+    "#Tenerife",
+    "#Mallorca"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-laliga-hypermotion-1.jpg",
+    "img/2026-11-21/2026-11-21-laliga-hypermotion-2.jpg",
+    "img/2026-11-21/2026-11-21-laliga-hypermotion-3.jpg",
+    "img/2026-11-21/2026-11-21-laliga-hypermotion-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570034,
+      "fecha": "2026-11-21T14:00:00+01:00",
+      "estadio": "Nova Creu Alta",
+      "ciudad": "Sabadell",
+      "arbitro": "Rafael Sanchez Lopez",
+      "jornada": "Regular Season - 15",
+      "liga_id": 141,
+      "id_local": 9593,
+      "id_visitante": 715,
+      "local": "Sabadell",
+      "visitante": "Granada CF",
+      "escudo_local": "https://media.api-sports.io/football/teams/9593.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/715.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 43,
+          "equipo": "Granada CF",
+          "jugador": "Pedro Alemañ Serna",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 78,
+          "equipo": "Sabadell",
+          "jugador": "Alain Ribeiro",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "56%",
+          "tiros": 13,
+          "a_puerta": 6,
+          "corners": 10,
+          "faltas": 20,
+          "fueras_juego": 3,
+          "amarillas": 4,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "44%",
+          "tiros": 9,
+          "a_puerta": 3,
+          "corners": 2,
+          "faltas": 15,
+          "fueras_juego": 1,
+          "amarillas": 5,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570033,
+      "fecha": "2026-11-21T16:15:00+01:00",
+      "estadio": "Estadio Ciudad Deportiva Zubieta",
+      "ciudad": "San Sebastian",
+      "arbitro": "Saul Ais Reig",
+      "jornada": "Regular Season - 15",
+      "liga_id": 141,
+      "id_local": 9585,
+      "id_visitante": 724,
+      "local": "Real Sociedad B",
+      "visitante": "Cádiz",
+      "escudo_local": "https://media.api-sports.io/football/teams/9585.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/724.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 41,
+          "equipo": "Cádiz",
+          "jugador": "Antonio Cordero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Cádiz",
+          "jugador": "Urko Iruretagoiena Lertxundi",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Cádiz",
+          "jugador": "Borja Vazquez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 53,
+          "equipo": "Real Sociedad B",
+          "jugador": "Alex Marchal García"
+        },
+        {
+          "min": 90,
+          "equipo": "Real Sociedad B",
+          "jugador": "Gorka Carrera Zarranz"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "48%",
+          "tiros": 10,
+          "a_puerta": 1,
+          "corners": 7,
+          "faltas": 12,
+          "fueras_juego": 0,
+          "amarillas": 3,
+          "rojas": 2
+        },
+        "visitante": {
+          "posesion": "52%",
+          "tiros": 10,
+          "a_puerta": 5,
+          "corners": 1,
+          "faltas": 12,
+          "fueras_juego": 1,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570027,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": "Estadio Municipal Castalia",
+      "ciudad": "Castellon",
+      "arbitro": "Morales Moreno Pablo",
+      "jornada": "Regular Season - 15",
+      "liga_id": 141,
+      "id_local": 5254,
+      "id_visitante": 9692,
+      "local": "Castellón",
+      "visitante": "Eldense",
+      "escudo_local": "https://media.api-sports.io/football/teams/5254.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9692.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 39,
+          "equipo": "Castellón",
+          "jugador": "Agustín Sienra",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 87,
+          "equipo": "Castellón",
+          "jugador": "Alvaro Martin",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "52%",
+          "tiros": 11,
+          "a_puerta": 4,
+          "corners": 9,
+          "faltas": 16,
+          "fueras_juego": 1,
+          "amarillas": 4,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "48%",
+          "tiros": 4,
+          "a_puerta": 1,
+          "corners": 1,
+          "faltas": 17,
+          "fueras_juego": 2,
+          "amarillas": 4,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570035,
+      "fecha": "2026-11-21T21:00:00+01:00",
+      "estadio": "Heliodoro Rodríguez López",
+      "ciudad": "Santa Cruz de Tenerife",
+      "arbitro": "Gordillo, Juan",
+      "jornada": "Regular Season - 15",
+      "liga_id": 141,
+      "id_local": 719,
+      "id_visitante": 798,
+      "local": "Tenerife",
+      "visitante": "Mallorca",
+      "escudo_local": "https://media.api-sports.io/football/teams/719.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/798.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "45%",
+          "tiros": 10,
+          "a_puerta": 2,
+          "corners": 8,
+          "faltas": 16,
+          "fueras_juego": 3,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "55%",
+          "tiros": 10,
+          "a_puerta": 2,
+          "corners": 5,
+          "faltas": 10,
+          "fueras_juego": 0,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Castellón",
+      "pts": 33,
+      "pj": 14,
+      "dg": 21,
+      "pg": 10,
+      "pe": 3,
+      "pp": 1,
+      "gf": 26,
+      "gc": 5,
+      "forma": "WWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/5254.png",
+      "equipo_id": 5254,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 14,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 6,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Almería",
+      "pts": 32,
+      "pj": 14,
+      "dg": 15,
+      "pg": 10,
+      "pe": 2,
+      "pp": 2,
+      "gf": 26,
+      "gc": 11,
+      "forma": "WWDDW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/723.png",
+      "equipo_id": 723,
+      "casa": {
+        "pj": 7,
+        "pg": 6,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Granada CF",
+      "pts": 27,
+      "pj": 14,
+      "dg": 7,
+      "pg": 8,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 15,
+      "forma": "DWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/715.png",
+      "equipo_id": 715,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Girona",
+      "pts": 24,
+      "pj": 14,
+      "dg": 11,
+      "pg": 7,
+      "pe": 3,
+      "pp": 4,
+      "gf": 24,
+      "gc": 13,
+      "forma": "WLLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/547.png",
+      "equipo_id": 547,
+      "casa": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 2,
+        "pp": 2,
+        "gf": 16,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Eibar",
+      "pts": 24,
+      "pj": 13,
+      "dg": 7,
+      "pg": 7,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 15,
+      "forma": "DDLDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/545.png",
+      "equipo_id": 545,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Burgos",
+      "pts": 24,
+      "pj": 14,
+      "dg": 3,
+      "pg": 7,
+      "pe": 3,
+      "pp": 4,
+      "gf": 20,
+      "gc": 17,
+      "forma": "LWDWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9580.png",
+      "equipo_id": 9580,
+      "casa": {
+        "pj": 8,
+        "pg": 5,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Mallorca",
+      "pts": 23,
+      "pj": 13,
+      "dg": 8,
+      "pg": 6,
+      "pe": 5,
+      "pp": 2,
+      "gf": 18,
+      "gc": 10,
+      "forma": "DWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/798.png",
+      "equipo_id": 798,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 3,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Sporting de Gijón",
+      "pts": 23,
+      "pj": 14,
+      "dg": -1,
+      "pg": 7,
+      "pe": 2,
+      "pp": 5,
+      "gf": 16,
+      "gc": 17,
+      "forma": "DLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/731.png",
+      "equipo_id": 731,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Oviedo",
+      "pts": 21,
+      "pj": 14,
+      "dg": 2,
+      "pg": 6,
+      "pe": 3,
+      "pp": 5,
+      "gf": 20,
+      "gc": 18,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/718.png",
+      "equipo_id": 718,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Córdoba",
+      "pts": 20,
+      "pj": 14,
+      "dg": 0,
+      "pg": 6,
+      "pe": 2,
+      "pp": 6,
+      "gf": 25,
+      "gc": 25,
+      "forma": "DWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/713.png",
+      "equipo_id": 713,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 14,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Las Palmas",
+      "pts": 20,
+      "pj": 14,
+      "dg": -3,
+      "pg": 6,
+      "pe": 2,
+      "pp": 6,
+      "gf": 19,
+      "gc": 22,
+      "forma": "LWWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/534.png",
+      "equipo_id": 534,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 11,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sabadell",
+      "pts": 19,
+      "pj": 15,
+      "dg": -1,
+      "pg": 4,
+      "pe": 7,
+      "pp": 4,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9593.png",
+      "equipo_id": 9593,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 3,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Valladolid",
+      "pts": 18,
+      "pj": 14,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 6,
+      "gf": 22,
+      "gc": 21,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/720.png",
+      "equipo_id": 720,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 0,
+        "pp": 3,
+        "gf": 15,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tenerife",
+      "pts": 18,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 17,
+      "gc": 17,
+      "forma": "WDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/719.png",
+      "equipo_id": 719,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Leganés",
+      "pts": 18,
+      "pj": 15,
+      "dg": -8,
+      "pg": 5,
+      "pe": 3,
+      "pp": 7,
+      "gf": 17,
+      "gc": 25,
+      "forma": "WWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/537.png",
+      "equipo_id": 537,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 8,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Eldense",
+      "pts": 17,
+      "pj": 15,
+      "dg": -6,
+      "pg": 5,
+      "pe": 2,
+      "pp": 8,
+      "gf": 15,
+      "gc": 21,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9692.png",
+      "equipo_id": 9692,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 0,
+        "pp": 6,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Cádiz",
+      "pts": 14,
+      "pj": 15,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 7,
+      "gf": 20,
+      "gc": 19,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/724.png",
+      "equipo_id": 724,
+      "casa": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 10,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 10,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Celta de Vigo B",
+      "pts": 13,
+      "pj": 14,
+      "dg": -7,
+      "pg": 3,
+      "pe": 4,
+      "pp": 7,
+      "gf": 19,
+      "gc": 26,
+      "forma": "LLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9571.png",
+      "equipo_id": 9571,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 13,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Real Sociedad B",
+      "pts": 13,
+      "pj": 15,
+      "dg": -10,
+      "pg": 3,
+      "pe": 4,
+      "pp": 8,
+      "gf": 17,
+      "gc": 27,
+      "forma": "LDDWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9585.png",
+      "equipo_id": 9585,
+      "casa": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 2,
+        "pp": 5,
+        "gf": 8,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Albacete",
+      "pts": 13,
+      "pj": 14,
+      "dg": -10,
+      "pg": 4,
+      "pe": 1,
+      "pp": 9,
+      "gf": 14,
+      "gc": 24,
+      "forma": "WWWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/722.png",
+      "equipo_id": 722,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 21,
+      "equipo": "FC Andorra",
+      "pts": 11,
+      "pj": 14,
+      "dg": -8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 9,
+      "gf": 19,
+      "gc": 27,
+      "forma": "LLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/8157.png",
+      "equipo_id": 8157,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 0,
+        "pp": 5,
+        "gf": 11,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 22,
+      "equipo": "AD Ceuta FC",
+      "pts": 5,
+      "pj": 14,
+      "dg": -22,
+      "pg": 1,
+      "pe": 2,
+      "pp": 11,
+      "gf": 10,
+      "gc": 32,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/10139.png",
+      "equipo_id": 10139,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 1,
+        "pp": 6,
+        "gf": 4,
+        "gc": 20
+      }
+    }
+  ],
+  "movimientos": {
+    "Castellón": {
+      "antes": 2,
+      "ahora": 1,
+      "cambio": "sube 1 puesto"
+    },
+    "Granada CF": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Mallorca": {
+      "antes": 8,
+      "ahora": 7,
+      "cambio": "sube 1 puesto"
+    },
+    "Sabadell": {
+      "antes": 13,
+      "ahora": 12,
+      "cambio": "sube 1 puesto"
+    },
+    "Tenerife": {
+      "antes": 15,
+      "ahora": 14,
+      "cambio": "sube 1 puesto"
+    },
+    "Eldense": {
+      "antes": 16,
+      "ahora": 16,
+      "cambio": "se mantiene"
+    },
+    "Cádiz": {
+      "antes": 20,
+      "ahora": 17,
+      "cambio": "sube 3 puestos"
+    },
+    "Real Sociedad B": {
+      "antes": 18,
+      "ahora": 19,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}

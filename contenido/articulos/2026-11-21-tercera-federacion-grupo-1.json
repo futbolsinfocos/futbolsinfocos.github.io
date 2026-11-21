@@ -1,0 +1,701 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-1",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Atlético Arteixo y Antela empatan 1-1 y el Arteixo sube al sexto puesto",
+  "entradilla": "Sarriana y Silva igualan 1-1 y mantienen sus posiciones. En Arteixo, Antela empató con diez hombres tras la expulsión de M. Sabucedo en el 70.",
+  "cuerpo_markdown": "La jornada 12 de Tercera Federación en el Grupo 1 deja dos empates a uno. Sarriana y Silva repartieron puntos y ambos mantienen su puesto en la tabla. En Arteixo, el Atlético y el Antela firmaron otro empate, con una expulsión visitante en el 70 que dejó a los de Antela con diez.\n\n## Atlético Arteixo 1-1 Antela\n\nEl marcador se abrió con un autogol de S. Calvino en el 28. J. Negrete empató para el Antela en el 83. Antela se quedó con diez tras la expulsión de M. Sabucedo en el 70. El resultado sitúa al Atlético Arteixo sexto con 17 puntos, tras subir un puesto, y al Antela séptimo con 17 puntos, también tras subir un puesto. Ambos están a un punto del playoff, cuya última plaza ocupa el Lalin con 18.\n\n## Sarriana 1-1 Silva\n\nR. Parafita marcó para el Silva en el 5. A. Perez Bujan empató para el Sarriana en el 64. Silva se mantiene segundo con 21 puntos, a dos del líder Boiro. El Sarriana se mantiene cuarto con 19 puntos.\n\n## Así queda la clasificación\n\nEl Boiro lidera con 23 puntos, seguido del Silva con 21 en la segunda plaza. Barco (19), Sarriana (19) y Lalin (18) completan el playoff junto al Silva. El Atlético Arteixo (17) y el Antela (17) quedan justo por debajo. En la parte baja, el Celta de Vigo C y el Arenteiro comparten 11 puntos en la zona de descenso, a uno del Alondras, que es el primer equipo fuera de la zona. El Viveiro es último con 8 puntos.",
+  "texto_instagram": "⚽ Jornada 12 en Tercera Federación, Grupo 1: el Atlético Arteixo y el Antela empatan 1-1 y los de Arteixo suben al sexto puesto 🔥. Sarriana y Silva también reparten con un 1-1 🤝.\n\nAtlético Arteixo 1-1 Antela: autogol de S. Calvino (28'); J. Negrete (83') para el Antela. Expulsión de M. Sabucedo (Antela, 70').\n\nSarriana 1-1 Silva: R. Parafita (5') para el Silva; A. Perez Bujan (64') para el Sarriana.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo1",
+    "#AtléticoArteixo",
+    "#Antela",
+    "#Sarriana",
+    "#Silva"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-1-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-1-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1612809,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 439,
+      "id_local": 22130,
+      "id_visitante": 9615,
+      "local": "Sarriana",
+      "visitante": "Silva",
+      "escudo_local": "https://media.api-sports.io/football/teams/22130.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9615.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 5,
+          "equipo": "Silva",
+          "jugador": "R. Parafita",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 64,
+          "equipo": "Sarriana",
+          "jugador": "A. Perez Bujan",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1612803,
+      "fecha": "2026-11-21T17:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 439,
+      "id_local": 19650,
+      "id_visitante": 28094,
+      "local": "Atlético Arteixo",
+      "visitante": "Antela",
+      "escudo_local": "https://media.api-sports.io/football/teams/19650.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28094.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 28,
+          "equipo": "Atlético Arteixo",
+          "jugador": "S. Calvino",
+          "tipo": "Own Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Antela",
+          "jugador": "J. Negrete",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 70,
+          "equipo": "Antela",
+          "jugador": "M. Sabucedo"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Boiro",
+      "pts": 23,
+      "pj": 11,
+      "dg": 9,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 18,
+      "gc": 9,
+      "forma": "LWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/22566.png",
+      "equipo_id": 22566,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Silva",
+      "pts": 21,
+      "pj": 12,
+      "dg": 2,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DWWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9615.png",
+      "equipo_id": 9615,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Barco",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 16,
+      "gc": 10,
+      "forma": "WDWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9608.png",
+      "equipo_id": 9608,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Sarriana",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 21,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/22130.png",
+      "equipo_id": 22130,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Lalin",
+      "pts": 18,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "WLDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/28095.png",
+      "equipo_id": 28095,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Atlético Arteixo",
+      "pts": 17,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/19650.png",
+      "equipo_id": 19650,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Antela",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28094.png",
+      "equipo_id": 28094,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Pontevedra B",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 16,
+      "gc": 12,
+      "forma": "WLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22129.png",
+      "equipo_id": 22129,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Portonovo SD",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28096.png",
+      "equipo_id": 28096,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Villalbés",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 2,
+      "gf": 12,
+      "gc": 11,
+      "forma": "DLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9618.png",
+      "equipo_id": 9618,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Estradense",
+      "pts": 15,
+      "pj": 11,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 19,
+      "forma": "LDDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9611.png",
+      "equipo_id": 9611,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Somozas",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 13,
+      "gc": 12,
+      "forma": "WWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9616.png",
+      "equipo_id": 9616,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Celtiga",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 11,
+      "gc": 12,
+      "forma": "WDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26533.png",
+      "equipo_id": 26533,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 4,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Alondras",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 15,
+      "forma": "LLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9603.png",
+      "equipo_id": 9603,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Celta de Vigo C",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "WDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/20255.png",
+      "equipo_id": 20255,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Arenteiro",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 12,
+      "gc": 16,
+      "forma": "DLWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9604.png",
+      "equipo_id": 9604,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Coruña",
+      "pts": 9,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 0,
+      "pp": 8,
+      "gf": 13,
+      "gc": 23,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/26534.png",
+      "equipo_id": 26534,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Viveiro",
+      "pts": 8,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 7,
+      "gc": 14,
+      "forma": "LWLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15307.png",
+      "equipo_id": 15307,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 2,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Silva": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Sarriana": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Atlético Arteixo": {
+      "antes": 7,
+      "ahora": 6,
+      "cambio": "sube 1 puesto"
+    },
+    "Antela": {
+      "antes": 8,
+      "ahora": 7,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

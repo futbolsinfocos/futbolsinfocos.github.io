@@ -1,0 +1,676 @@
+{
+  "slug": "2026-11-21-segunda-federacion-grupo-5",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Numancia remonta ante el Real Madrid C y asalta el liderato",
+  "entradilla": "El Numancia ganó 1-2 en el campo del Real Madrid C, que jugó con diez desde el minuto 13, y pasa del tercer al primer puesto del Grupo 5 de Segunda Federación con 23 puntos.",
+  "cuerpo_markdown": "El Numancia es el nuevo líder del Grupo 5 de Segunda Federación. Remontó 1-2 en el campo del Real Madrid C, que se quedó con diez en el minuto 13 por la expulsión de A. Lezcano, y sube dos puestos, del tercero al primero, con 23 puntos. Saca dos al Conquense y al A Madrid C, ambos con 21, aunque el Conquense tiene dos partidos menos y el A Madrid C, uno.\n\n## Real Madrid C 1-2 Numancia\n\nEl filial blanco jugó en inferioridad desde el minuto 13 por la roja a A. Lezcano. Aun así, se adelantó con un gol de C. Diez en el 32. El Numancia le dio la vuelta en la segunda parte: empató Jony en el 52 y A. Aranzabe firmó el 1-2 en el 59.\n\nEl triunfo vale el liderato a los sorianos, que siguen invictos lejos de casa: tres victorias y cuatro empates en siete salidas. El Real Madrid C se mantiene 13º con 12 puntos, dos por encima del primer puesto de descenso.\n\n## Así queda la clasificación\n\nEl Numancia (23 puntos) manda por delante del Conquense (21, con dos partidos menos) y el A Madrid C (21). Completan la zona de play-off el Salamanca UDS y el SS Reyes, ambos con 20. El Real Valladolid B, sexto con 18, queda a dos puntos del play-off. Abajo, el Atlético Paso (10) ocupa el primer puesto de descenso, empatado con el RSD Alcalá; les siguen el Getafe B y el Calvo Sotelo, con 9, y el Real Ávila, colista con 7 y cinco derrotas seguidas.",
+  "texto_instagram": "⚽ El Numancia remonta en el campo del Real Madrid C, que jugó con diez desde el minuto 13, y es el nuevo líder del Grupo 5 con 23 puntos 🔝\n\nReal Madrid C 1-2 Numancia: C. Diez (32); Jony (52), A. Aranzabe (59). 🟥 A. Lezcano (13)",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#Grupo5",
+    "#Numancia",
+    "#RealMadridC",
+    "#2RFEF"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-5-1.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-5-2.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573354,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 879,
+      "id_local": 22142,
+      "id_visitante": 717,
+      "local": "Real Madrid C",
+      "visitante": "Numancia",
+      "escudo_local": "https://media.api-sports.io/football/teams/22142.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/717.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 32,
+          "equipo": "Real Madrid C",
+          "jugador": "C. Diez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 52,
+          "equipo": "Numancia",
+          "jugador": "Jony",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 59,
+          "equipo": "Numancia",
+          "jugador": "A. Aranzabe",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 13,
+          "equipo": "Real Madrid C",
+          "jugador": "A. Lezcano"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Numancia",
+      "pts": 23,
+      "pj": 12,
+      "dg": 12,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 19,
+      "gc": 7,
+      "forma": "WDWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/717.png",
+      "equipo_id": 717,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Conquense",
+      "pts": 21,
+      "pj": 10,
+      "dg": 11,
+      "pg": 6,
+      "pe": 3,
+      "pp": 1,
+      "gf": 23,
+      "gc": 12,
+      "forma": "WDWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5257.png",
+      "equipo_id": 5257,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "A Madrid C",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "WDWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/26543.png",
+      "equipo_id": 26543,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Salamanca UDS",
+      "pts": 20,
+      "pj": 11,
+      "dg": 5,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "forma": "DWWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9588.png",
+      "equipo_id": 9588,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "SS Reyes",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9412.png",
+      "equipo_id": 9412,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Valladolid B",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 23,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9587.png",
+      "equipo_id": 9587,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Navalcarnero",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 19,
+      "gc": 16,
+      "forma": "DDWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "equipo_id": 5271,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "CF Talavera",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5253.png",
+      "equipo_id": 5253,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Tordesillas",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 19,
+      "gc": 18,
+      "forma": "WDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9724.png",
+      "equipo_id": 9724,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Gimnástica Segoviana",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9387.png",
+      "equipo_id": 9387,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Guadalajara",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 21,
+      "gc": 23,
+      "forma": "LDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9900.png",
+      "equipo_id": 9900,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 17,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Albacete B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -11,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 24,
+      "forma": "DWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9895.png",
+      "equipo_id": 9895,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Real Madrid C",
+      "pts": 12,
+      "pj": 12,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 4,
+      "gf": 6,
+      "gc": 8,
+      "forma": "LDWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/22142.png",
+      "equipo_id": 22142,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 1,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Atlético Paso",
+      "pts": 10,
+      "pj": 11,
+      "dg": -3,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 16,
+      "forma": "LDLWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9791.png",
+      "equipo_id": 9791,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "RSD Alcalá",
+      "pts": 10,
+      "pj": 11,
+      "dg": -4,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 16,
+      "gc": 20,
+      "forma": "LDDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9714.png",
+      "equipo_id": 9714,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Getafe B",
+      "pts": 9,
+      "pj": 11,
+      "dg": -4,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 14,
+      "gc": 18,
+      "forma": "DWLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9572.png",
+      "equipo_id": 9572,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Calvo Sotelo",
+      "pts": 9,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 10,
+      "gc": 21,
+      "forma": "WLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9899.png",
+      "equipo_id": 9899,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Ávila",
+      "pts": 7,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 8,
+      "gc": 19,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9736.png",
+      "equipo_id": 9736,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Numancia": {
+      "antes": 3,
+      "ahora": 1,
+      "cambio": "sube 2 puestos"
+    },
+    "Real Madrid C": {
+      "antes": 13,
+      "ahora": 13,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573354,
+    "titular": "El Numancia remonta en el campo del Real Madrid C y se coloca líder",
+    "entradilla": "Los goles de Jony y A. Aranzabe en la segunda parte dieron la vuelta al tanto de C. Diez. El Real Madrid C jugó con diez desde el minuto 13.",
+    "parrafos": [
+      "El Numancia ganó 1-2 en el campo del Real Madrid C y asaltó el liderato del Grupo 5 de Segunda Federación. Los sorianos suben del tercer al primer puesto con 23 puntos.",
+      "El partido se torció pronto para el filial blanco: A. Lezcano vio la roja en el minuto 13. Pese a la inferioridad, el Real Madrid C se adelantó en el 32 con un gol de C. Diez y se marchó al descanso con ventaja.",
+      "La remontada llegó en siete minutos. Jony empató en el 52 y A. Aranzabe marcó el 1-2 en el 59, resultado que ya no se movió.",
+      "El Numancia suma 23 puntos, dos más que el Conquense, que tiene dos partidos menos, y el A Madrid C, con uno menos. Fuera de casa sigue sin perder: tres victorias y cuatro empates en siete salidas.",
+      "El Real Madrid C se mantiene 13º con 12 puntos, dos por encima del Atlético Paso, primer equipo en descenso. Ha marcado solo seis goles en doce jornadas."
+    ],
+    "el_dato": "El Numancia sigue invicto a domicilio: siete salidas con tres victorias y cuatro empates.",
+    "slug": "2026-11-21-real-madrid-c-numancia"
+  }
+}

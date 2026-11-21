@@ -40,6 +40,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Sestao River",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
       "equipo": "Deportivo Alavés B",
       "escudo": "https://media.api-sports.io/football/teams/9582.png",
       "amarillas": 1,
@@ -66,12 +72,6 @@
     {
       "equipo": "Ourense CF",
       "escudo": "https://media.api-sports.io/football/teams/9612.png",
-      "amarillas": 0,
-      "rojas": 1
-    },
-    {
-      "equipo": "Sestao River",
-      "escudo": "https://media.api-sports.io/football/teams/9413.png",
       "amarillas": 0,
       "rojas": 1
     },
@@ -112,5 +112,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-18"
+  "fecha": "2026-11-21"
 }

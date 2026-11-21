@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 16",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Vianés",
+      "escudo": "https://media.api-sports.io/football/teams/9874.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Anguiano",
+      "escudo": "https://media.api-sports.io/football/teams/9861.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Alfaro",
+      "escudo": "https://media.api-sports.io/football/teams/9860.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cenicero",
+      "escudo": "https://media.api-sports.io/football/teams/17612.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Varea",
+      "escudo": "https://media.api-sports.io/football/teams/9873.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Calahorra",
+      "escudo": "https://media.api-sports.io/football/teams/9581.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Casalarreina",
+      "escudo": "https://media.api-sports.io/football/teams/9866.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Comillas",
+      "escudo": "https://media.api-sports.io/football/teams/8154.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Haro Deportivo",
+      "escudo": "https://media.api-sports.io/football/teams/9389.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Yagüe",
+      "escudo": "https://media.api-sports.io/football/teams/9876.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Agoncillo",
+      "escudo": "https://media.api-sports.io/football/teams/15323.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Berceo",
+      "escudo": "https://media.api-sports.io/football/teams/9863.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Calasancio",
+      "escudo": "https://media.api-sports.io/football/teams/9865.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "La Calzada",
+      "escudo": "https://media.api-sports.io/football/teams/9867.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Oyonesa",
+      "escudo": "https://media.api-sports.io/football/teams/9869.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Pradejón",
+      "escudo": "https://media.api-sports.io/football/teams/9870.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "River Ebro",
+      "escudo": "https://media.api-sports.io/football/teams/9871.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "San Marcial",
+      "escudo": "https://media.api-sports.io/football/teams/26554.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

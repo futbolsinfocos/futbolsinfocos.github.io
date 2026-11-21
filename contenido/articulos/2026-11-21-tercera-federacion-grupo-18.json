@@ -1,0 +1,701 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-18",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 18",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Villarrubia golea al Noblejas y sube al cuarto puesto; el Manchego sigue líder",
+  "entradilla": "Villarrubia ganó 3-0 y escala del octavo al cuarto puesto. El Manchego, con dos goles de M. Valverde, se impuso 2-0 al Guadalajara B, que sigue último.",
+  "cuerpo_markdown": "El Villarrubia goleó 3-0 al Noblejas y sube del octavo al cuarto puesto de la Tercera Federación, Grupo 18. El Manchego ganó 2-0 al Guadalajara B, con dos goles de M. Valverde, y se mantiene líder. El Guadalajara B, con tres puntos, continúa en el último puesto.\n\n## Villarrubia 3-0 Noblejas\n\nA. Jimenez marcó en el minuto 48, J. Acevedo de penalti en el 52 y Rodrigo en el 57. Con el resultado, el Villarrubia sube 4 puestos, del octavo al cuarto, con 19 puntos, y queda dentro de la zona de play-off. El Noblejas se mantiene undécimo con 15 puntos.\n\n## Guadalajara B 0-2 Manchego\n\nM. Valverde marcó en los minutos 30 y 51 para el Manchego. El Guadalajara B no suma y se queda con tres puntos, en el puesto 18 y con 29 goles encajados, en zona de descenso. El Manchego se mantiene primero con 30 puntos, en zona de ascenso, y encadena cuatro victorias en sus últimos cinco partidos.\n\n## Así queda la clasificación\n\nEl Manchego lidera con 30 puntos y una forma WWWWL. Toledo es segundo con 23 y Villacañas tercero con 21. La zona de play-off la completan Villarrubia, con 19 puntos, y Villarrobledo, con 18. Villarrubia está a dos puntos del Villacañas. En la parte baja, Huracán Balazote (10 puntos) ocupa el puesto 16, Quintanar del Rey (7) el 17 y el Guadalajara B (3) el 18, todos en zona de descenso.",
+  "texto_instagram": "Villarrubia golea 3-0 al Noblejas y sube al cuarto puesto. El Manchego se mantiene líder tras ganar 2-0 al Guadalajara B. ⚽🏆\nVillarrubia 3-0 Noblejas: A. Jimenez (48'), J. Acevedo (52', penalti) y Rodrigo (57').\nGuadalajara B 0-2 Manchego: M. Valverde (30' y 51').",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Villarrubia",
+    "#Manchego",
+    "#GuadalajaraB",
+    "#Noblejas",
+    "#TerceraRFEF"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-18-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-18-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-18-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1618005,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Guadalajara",
+      "arbitro": null,
+      "jornada": "Group 18 - 12",
+      "liga_id": 456,
+      "id_local": 26555,
+      "id_visitante": 9905,
+      "local": "Guadalajara B",
+      "visitante": "Manchego",
+      "escudo_local": "https://media.api-sports.io/football/teams/26555.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9905.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 30,
+          "equipo": "Manchego",
+          "jugador": "M. Valverde",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 51,
+          "equipo": "Manchego",
+          "jugador": "M. Valverde",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1618012,
+      "fecha": "2026-11-21T17:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 18 - 12",
+      "liga_id": 456,
+      "id_local": 9417,
+      "id_visitante": 24653,
+      "local": "Villarrubia",
+      "visitante": "Noblejas",
+      "escudo_local": "https://media.api-sports.io/football/teams/9417.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24653.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 48,
+          "equipo": "Villarrubia",
+          "jugador": "A. Jimenez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 52,
+          "equipo": "Villarrubia",
+          "jugador": "J. Acevedo",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 57,
+          "equipo": "Villarrubia",
+          "jugador": "Rodrigo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Manchego",
+      "pts": 30,
+      "pj": 12,
+      "dg": 13,
+      "pg": 10,
+      "pe": 0,
+      "pp": 2,
+      "gf": 22,
+      "gc": 9,
+      "forma": "WWWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9905.png",
+      "equipo_id": 9905,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 13,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Toledo",
+      "pts": 23,
+      "pj": 11,
+      "dg": 12,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 23,
+      "gc": 11,
+      "forma": "DWWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9908.png",
+      "equipo_id": 9908,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 13,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Villacañas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "WDWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9910.png",
+      "equipo_id": 9910,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Villarrubia",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 18,
+      "gc": 14,
+      "forma": "WWWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9417.png",
+      "equipo_id": 9417,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Villarrobledo",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6,
+      "pg": 4,
+      "pe": 6,
+      "pp": 1,
+      "gf": 12,
+      "gc": 6,
+      "forma": "DLDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9602.png",
+      "equipo_id": 9602,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 8,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "San Clemente",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 20,
+      "gc": 18,
+      "forma": "WWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17619.png",
+      "equipo_id": 17619,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "CD Villa",
+      "pts": 18,
+      "pj": 11,
+      "dg": 1,
+      "pg": 6,
+      "pe": 0,
+      "pp": 5,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28123.png",
+      "equipo_id": 28123,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 11,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Illescas",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 14,
+      "gc": 14,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9901.png",
+      "equipo_id": 9901,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 4,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Almansa",
+      "pts": 15,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 14,
+      "gc": 11,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9896.png",
+      "equipo_id": 9896,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 2,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Tarancón",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 16,
+      "gc": 14,
+      "forma": "LLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9907.png",
+      "equipo_id": 9907,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Noblejas",
+      "pts": 15,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 18,
+      "gc": 22,
+      "forma": "LDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24653.png",
+      "equipo_id": 24653,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Torrijos",
+      "pts": 14,
+      "pj": 11,
+      "dg": -2,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 11,
+      "gc": 13,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9909.png",
+      "equipo_id": 9909,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Socuéllamos",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 8,
+      "gc": 9,
+      "forma": "WWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9414.png",
+      "equipo_id": 9414,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 1,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "La Solana",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 0,
+      "pp": 7,
+      "gf": 9,
+      "gc": 12,
+      "forma": "LWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9903.png",
+      "equipo_id": 9903,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 2,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Marchamalo",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 17,
+      "gc": 21,
+      "forma": "LLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15332.png",
+      "equipo_id": 15332,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Huracán Balazote",
+      "pts": 10,
+      "pj": 11,
+      "dg": -11,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 12,
+      "gc": 23,
+      "forma": "WLWWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15330.png",
+      "equipo_id": 15330,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Quintanar del Rey",
+      "pts": 7,
+      "pj": 11,
+      "dg": -8,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 14,
+      "gc": 22,
+      "forma": "DLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9906.png",
+      "equipo_id": 9906,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Guadalajara B",
+      "pts": 3,
+      "pj": 12,
+      "dg": -20,
+      "pg": 0,
+      "pe": 3,
+      "pp": 9,
+      "gf": 9,
+      "gc": 29,
+      "forma": "LLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/26555.png",
+      "equipo_id": 26555,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Manchego": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Villarrubia": {
+      "antes": 8,
+      "ahora": 4,
+      "cambio": "sube 4 puestos"
+    },
+    "Noblejas": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Guadalajara B": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

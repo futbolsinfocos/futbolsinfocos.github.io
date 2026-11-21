@@ -6,7 +6,7 @@
     {
       "equipo": "Hércules",
       "escudo": "https://media.api-sports.io/football/teams/4666.png",
-      "amarillas": 39,
+      "amarillas": 42,
       "rojas": 4
     },
     {
@@ -18,14 +18,20 @@
     {
       "equipo": "Nàstic de Tarragona",
       "escudo": "https://media.api-sports.io/football/teams/714.png",
-      "amarillas": 38,
+      "amarillas": 40,
       "rojas": 3
     },
     {
       "equipo": "Zaragoza",
       "escudo": "https://media.api-sports.io/football/teams/732.png",
-      "amarillas": 39,
+      "amarillas": 42,
       "rojas": 2
+    },
+    {
+      "equipo": "Rayo Majadahonda",
+      "escudo": "https://media.api-sports.io/football/teams/861.png",
+      "amarillas": 42,
+      "rojas": 1
     },
     {
       "equipo": "Algeciras",
@@ -40,15 +46,15 @@
       "rojas": 2
     },
     {
-      "equipo": "Rayo Majadahonda",
-      "escudo": "https://media.api-sports.io/football/teams/861.png",
+      "equipo": "Águilas",
+      "escudo": "https://media.api-sports.io/football/teams/9823.png",
       "amarillas": 38,
       "rojas": 1
     },
     {
-      "equipo": "Águilas",
-      "escudo": "https://media.api-sports.io/football/teams/9823.png",
-      "amarillas": 38,
+      "equipo": "Real Murcia",
+      "escudo": "https://media.api-sports.io/football/teams/5275.png",
+      "amarillas": 37,
       "rojas": 1
     },
     {
@@ -64,16 +70,16 @@
       "rojas": 1
     },
     {
+      "equipo": "Juventud Torremolinos",
+      "escudo": "https://media.api-sports.io/football/teams/15359.png",
+      "amarillas": 31,
+      "rojas": 2
+    },
+    {
       "equipo": "Huesca",
       "escudo": "https://media.api-sports.io/football/teams/726.png",
       "amarillas": 27,
       "rojas": 3
-    },
-    {
-      "equipo": "Real Murcia",
-      "escudo": "https://media.api-sports.io/football/teams/5275.png",
-      "amarillas": 33,
-      "rojas": 1
     },
     {
       "equipo": "Real Jaén",
@@ -112,17 +118,11 @@
       "rojas": 1
     },
     {
-      "equipo": "Juventud Torremolinos",
-      "escudo": "https://media.api-sports.io/football/teams/15359.png",
-      "amarillas": 28,
-      "rojas": 0
-    },
-    {
       "equipo": "Real Madrid Castilla",
       "escudo": "https://media.api-sports.io/football/teams/9575.png",
       "amarillas": 24,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-20"
+  "fecha": "2026-11-21"
 }

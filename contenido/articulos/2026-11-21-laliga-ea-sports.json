@@ -1,0 +1,952 @@
+{
+  "slug": "2026-11-21-laliga-ea-sports",
+  "fecha": "2026-11-21",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "El Barcelona manda con 33 puntos y el Madrid sube al segundo puesto tras vencer al Celta",
+  "entradilla": "El Alavés sube cinco puestos tras golear por tres goles de diferencia al Deportivo... ",
+  "cuerpo_markdown": "",
+  "texto_instagram": "",
+  "hashtags": [
+    "#LaLiga",
+    "#Jornada13"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-laliga-ea-sports-1.jpg",
+    "img/2026-11-21/2026-11-21-laliga-ea-sports-2.jpg",
+    "img/2026-11-21/2026-11-21-laliga-ea-sports-3.jpg",
+    "img/2026-11-21/2026-11-21-laliga-ea-sports-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570453,
+      "fecha": "2026-11-21T14:00:00+01:00",
+      "estadio": "Estadio de Mendizorroza",
+      "ciudad": "Victoria-Gasteiz",
+      "arbitro": "Victor Garcia Verdura",
+      "jornada": "Regular Season - 13",
+      "liga_id": 140,
+      "id_local": 542,
+      "id_visitante": 544,
+      "local": "Alavés",
+      "visitante": "Deportivo de La Coruña",
+      "escudo_local": "https://media.api-sports.io/football/teams/542.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/544.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 2,
+          "equipo": "Alavés",
+          "jugador": "Angel Pérez Hidalgo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 41,
+          "equipo": "Deportivo de La Coruña",
+          "jugador": "Nahuel Tenaglia",
+          "tipo": "Own Goal"
+        },
+        {
+          "min": 62,
+          "equipo": "Alavés",
+          "jugador": "Lucas Boyé",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Alavés",
+          "jugador": "Denis Suárez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 55,
+          "equipo": "Alavés",
+          "jugador": "Lucas Boyé"
+        }
+      ],
+      "estadisticas": {
+        "local": {
+          "posesion": "48%",
+          "tiros": 21,
+          "a_puerta": 8,
+          "corners": 8,
+          "faltas": 20,
+          "fueras_juego": 1,
+          "amarillas": 4,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "52%",
+          "tiros": 7,
+          "a_puerta": 2,
+          "corners": 2,
+          "faltas": 15,
+          "fueras_juego": 1,
+          "amarillas": 4,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570460,
+      "fecha": "2026-11-21T16:15:00+01:00",
+      "estadio": "Estadio de Vallecas",
+      "ciudad": "Madrid",
+      "arbitro": "Jose Luis Munuera Montero",
+      "jornada": "Regular Season - 13",
+      "liga_id": 140,
+      "id_local": 728,
+      "id_visitante": 532,
+      "local": "Rayo Vallecano",
+      "visitante": "Valencia",
+      "escudo_local": "https://media.api-sports.io/football/teams/728.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/532.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 41,
+          "equipo": "Valencia",
+          "jugador": "José Copete",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "63%",
+          "tiros": 21,
+          "a_puerta": 5,
+          "corners": 8,
+          "faltas": 12,
+          "fueras_juego": 2,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "37%",
+          "tiros": 11,
+          "a_puerta": 2,
+          "corners": 5,
+          "faltas": 17,
+          "fueras_juego": 2,
+          "amarillas": 1,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570462,
+      "fecha": "2026-11-21T18:30:00+01:00",
+      "estadio": "Estadio Ramón Sánchez-Pizjuán",
+      "ciudad": "Seville",
+      "arbitro": "Jose Maria Sanchez Martinez",
+      "jornada": "Regular Season - 13",
+      "liga_id": 140,
+      "id_local": 536,
+      "id_visitante": 543,
+      "local": "Sevilla",
+      "visitante": "Real Betis",
+      "escudo_local": "https://media.api-sports.io/football/teams/536.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/543.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 50,
+          "equipo": "Real Betis",
+          "jugador": "Antony Matheus dos Santos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Sevilla",
+          "jugador": "Kike Salas",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "62%",
+          "tiros": 25,
+          "a_puerta": 6,
+          "corners": 7,
+          "faltas": 21,
+          "fueras_juego": 2,
+          "amarillas": 5,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "38%",
+          "tiros": 6,
+          "a_puerta": 3,
+          "corners": 2,
+          "faltas": 14,
+          "fueras_juego": 1,
+          "amarillas": 4,
+          "rojas": 0
+        }
+      }
+    },
+    {
+      "id": 1570461,
+      "fecha": "2026-11-21T21:00:00+01:00",
+      "estadio": "Santiago Bernabéu Stadium",
+      "ciudad": "Madrid",
+      "arbitro": "Adrian Cordero Vega",
+      "jornada": "Regular Season - 13",
+      "liga_id": 140,
+      "id_local": 541,
+      "id_visitante": 538,
+      "local": "Real Madrid",
+      "visitante": "Celta de Vigo",
+      "escudo_local": "https://media.api-sports.io/football/teams/541.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/538.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "Celta de Vigo",
+          "jugador": "Pablo Durán Fernández",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 66,
+          "equipo": "Real Madrid",
+          "jugador": "Jude Bellingham",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 85,
+          "equipo": "Real Madrid",
+          "jugador": "Carlos Espí",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 39,
+          "equipo": "Real Madrid",
+          "jugador": "Kylian Mbappé"
+        }
+      ],
+      "estadisticas": {
+        "local": {
+          "posesion": "64%",
+          "tiros": 24,
+          "a_puerta": 7,
+          "corners": 8,
+          "faltas": 4,
+          "fueras_juego": 2,
+          "amarillas": 1,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "36%",
+          "tiros": 8,
+          "a_puerta": 4,
+          "corners": 3,
+          "faltas": 13,
+          "fueras_juego": 3,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona",
+      "pts": 33,
+      "pj": 12,
+      "dg": 35,
+      "pg": 11,
+      "pe": 0,
+      "pp": 1,
+      "gf": 48,
+      "gc": 13,
+      "forma": "WWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "equipo_id": 529,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 24,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 24,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Real Madrid",
+      "pts": 30,
+      "pj": 12,
+      "dg": 21,
+      "pg": 10,
+      "pe": 0,
+      "pp": 2,
+      "gf": 31,
+      "gc": 10,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "equipo_id": 541,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 17,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 14,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Atlético de Madrid",
+      "pts": 28,
+      "pj": 12,
+      "dg": 13,
+      "pg": 9,
+      "pe": 1,
+      "pp": 2,
+      "gf": 23,
+      "gc": 10,
+      "forma": "LWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "equipo_id": 530,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Betis",
+      "pts": 27,
+      "pj": 13,
+      "dg": 5,
+      "pg": 8,
+      "pe": 3,
+      "pp": 2,
+      "gf": 21,
+      "gc": 16,
+      "forma": "DWWDL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "equipo_id": 543,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Real Sociedad",
+      "pts": 22,
+      "pj": 12,
+      "dg": 1,
+      "pg": 7,
+      "pe": 1,
+      "pp": 4,
+      "gf": 21,
+      "gc": 20,
+      "forma": "WLWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "equipo_id": 548,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Sevilla",
+      "pts": 19,
+      "pj": 13,
+      "dg": -2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 20,
+      "forma": "DDLWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/536.png",
+      "equipo_id": 536,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Athletic Club",
+      "pts": 16,
+      "pj": 12,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 12,
+      "forma": "LDWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "equipo_id": 531,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Alavés",
+      "pts": 16,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 18,
+      "forma": "WDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "equipo_id": 542,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Villarreal",
+      "pts": 15,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 17,
+      "gc": 15,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/533.png",
+      "equipo_id": 533,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Espanyol",
+      "pts": 15,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 6,
+      "gf": 14,
+      "gc": 14,
+      "forma": "WDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "equipo_id": 540,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Deportivo de La Coruña",
+      "pts": 15,
+      "pj": 13,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 4,
+      "gf": 16,
+      "gc": 17,
+      "forma": "LDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "equipo_id": 544,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Racing de Santander",
+      "pts": 14,
+      "pj": 12,
+      "dg": -13,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 17,
+      "gc": 30,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4665.png",
+      "equipo_id": 4665,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Celta de Vigo",
+      "pts": 13,
+      "pj": 12,
+      "dg": 0,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "DLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/538.png",
+      "equipo_id": 538,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 1,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Rayo Vallecano",
+      "pts": 12,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "equipo_id": 728,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Getafe",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 8,
+      "gc": 18,
+      "forma": "LWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/546.png",
+      "equipo_id": 546,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 0,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Osasuna",
+      "pts": 12,
+      "pj": 12,
+      "dg": -11,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
+      "gc": 23,
+      "forma": "DLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/727.png",
+      "equipo_id": 727,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Valencia",
+      "pts": 12,
+      "pj": 13,
+      "dg": -11,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 9,
+      "gc": 20,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/532.png",
+      "equipo_id": 532,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 3,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Levante",
+      "pts": 11,
+      "pj": 12,
+      "dg": -5,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 16,
+      "gc": 21,
+      "forma": "DLLWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/539.png",
+      "equipo_id": 539,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Elche",
+      "pts": 10,
+      "pj": 12,
+      "dg": -6,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 14,
+      "gc": 20,
+      "forma": "LLWDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "equipo_id": 797,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Málaga",
+      "pts": 5,
+      "pj": 12,
+      "dg": -14,
+      "pg": 0,
+      "pe": 5,
+      "pp": 7,
+      "gf": 9,
+      "gc": 23,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/535.png",
+      "equipo_id": 535,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Real Madrid": {
+      "antes": 3,
+      "ahora": 2,
+      "cambio": "sube 1 puesto"
+    },
+    "Real Betis": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Sevilla": {
+      "antes": 6,
+      "ahora": 6,
+      "cambio": "se mantiene"
+    },
+    "Alavés": {
+      "antes": 13,
+      "ahora": 8,
+      "cambio": "sube 5 puestos"
+    },
+    "Deportivo de La Coruña": {
+      "antes": 9,
+      "ahora": 11,
+      "cambio": "baja 2 puestos"
+    },
+    "Celta de Vigo": {
+      "antes": 12,
+      "ahora": 13,
+      "cambio": "baja 1 puesto"
+    },
+    "Rayo Vallecano": {
+      "antes": 14,
+      "ahora": 14,
+      "cambio": "se mantiene"
+    },
+    "Valencia": {
+      "antes": 19,
+      "ahora": 17,
+      "cambio": "sube 2 puestos"
+    }
+  }
+}

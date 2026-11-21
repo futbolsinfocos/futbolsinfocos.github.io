@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 4",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Durango",
+      "escudo": "https://media.api-sports.io/football/teams/5260.png",
+      "amarillas": 2,
+      "rojas": 3
+    },
+    {
+      "equipo": "Amurrio Club",
+      "escudo": "https://media.api-sports.io/football/teams/17315.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Real Sociedad C",
+      "escudo": "https://media.api-sports.io/football/teams/9662.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Derio",
+      "escudo": "https://media.api-sports.io/football/teams/22135.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Aretxabaleta",
+      "escudo": "https://media.api-sports.io/football/teams/24571.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Aurrerá Vitoria",
+      "escudo": "https://media.api-sports.io/football/teams/20259.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Beasain",
+      "escudo": "https://media.api-sports.io/football/teams/9657.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Deportivo Alavés C",
+      "escudo": "https://media.api-sports.io/football/teams/22134.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Eibar C",
+      "escudo": "https://media.api-sports.io/football/teams/25023.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Erandio",
+      "escudo": "https://media.api-sports.io/football/teams/28099.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lagun Onak",
+      "escudo": "https://media.api-sports.io/football/teams/9660.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Leioa",
+      "escudo": "https://media.api-sports.io/football/teams/9397.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Pasaia KE",
+      "escudo": "https://media.api-sports.io/football/teams/9661.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "R. Union B",
+      "escudo": "https://media.api-sports.io/football/teams/28100.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "San Ignacio",
+      "escudo": "https://media.api-sports.io/football/teams/9663.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Santurtzi",
+      "escudo": "https://media.api-sports.io/football/teams/9664.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Sodupe",
+      "escudo": "https://media.api-sports.io/football/teams/9666.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Touring",
+      "escudo": "https://media.api-sports.io/football/teams/20261.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

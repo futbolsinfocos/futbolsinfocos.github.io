@@ -1,0 +1,730 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-16",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 16",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Agoncillo golea 5-0 en Pradejón y sube al sexto puesto",
+  "entradilla": "Agoncillo goleó 5-0 en Pradejón, con dos goles de M. A. Martin Morer, y sube tres puestos hasta el sexto. En la otra cita de la jornada, Berceo y Anguiano empataron 2-2.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 16 de Tercera Federación deja una goleada del Agoncillo en Pradejón, que suma su quinta victoria en la temporada y sube del noveno al sexto puesto. En el otro partido, Berceo y Anguiano firmaron un empate 2-2 con un penalti fallado por el equipo visitante.\n\n## Pradejón 0-5 Agoncillo\n\nAgoncillo goleó en Pradejón con cinco goles: A. Ranera abrió el marcador en el 5, M. A. Martin Morer marcó en el 15 y en el 38, R. Ruiz Viguera en el 45 y, ya en el 80, un gol del Agoncillo sin nombre cerró la cuenta. Con el resultado, Agoncillo sube del noveno al sexto puesto con 20 puntos y queda a un punto del Anguiano, quinto y en zona de play-off. Pradejón se mantiene undécimo con 13 puntos y encadena cinco derrotas seguidas.\n\n## Berceo 2-2 Anguiano\n\nEl marcador se abrió con un gol del Berceo en el 21, sin nombre registrado. Anguiano respondió con N. Cantero en el 27 y, en el 42, el equipo visitante falló un penalti. Anguiano marcó de nuevo en el 64 y Berceo empató en el 79 con otro gol sin nombre. Berceo se mantiene octavo con 19 puntos, fuera de la zona de play-off, y Anguiano se mantiene quinto con 21 puntos, dentro de la zona de play-off.\n\n## Así queda la clasificación\n\nHaro Deportivo lidera el grupo con 28 puntos y cinco victorias seguidas, en zona de ascenso. Le siguen La Calzada, segundo con 27 puntos, Calahorra, tercero con 24, Alfaro, cuarto con 23, y Anguiano, quinto con 21, que completan la zona de play-off. Agoncillo, sexto con 20 puntos, queda a un punto de esa zona. En la parte baja, Vianés ocupa el puesto 16 con 7 puntos, Comillas el 17 con 6 y Casalarreina es último con 3 puntos y cinco derrotas seguidas, todos en zona de descenso.",
+  "texto_instagram": "Agoncillo golea 5-0 en Pradejón y sube al sexto puesto. ⚽\n\nPradejón 0-5 Agoncillo: A. Ranera (5'), M. A. Martin Morer (15' y 38'), R. Ruiz Viguera (45') y un gol del Agoncillo sin nombre (80').\n\nBerceo 2-2 Anguiano: gol del Berceo (21'), N. Cantero (27'), gol de Anguiano (64') y gol del Berceo (79'). Penalti fallado por Anguiano (42').",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Agoncillo",
+    "#Pradejon",
+    "#Berceo",
+    "#Anguiano"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-16-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-16-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-16-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617392,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 12",
+      "liga_id": 454,
+      "id_local": 9863,
+      "id_visitante": 9861,
+      "local": "Berceo",
+      "visitante": "Anguiano",
+      "escudo_local": "https://media.api-sports.io/football/teams/9863.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9861.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 21,
+          "equipo": "Berceo",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 27,
+          "equipo": "Anguiano",
+          "jugador": "N. Cantero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 64,
+          "equipo": "Anguiano",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 79,
+          "equipo": "Berceo",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 42,
+          "equipo": "Anguiano",
+          "jugador": null
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1617396,
+      "fecha": "2026-11-21T16:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 16 - 12",
+      "liga_id": 454,
+      "id_local": 9870,
+      "id_visitante": 15323,
+      "local": "Pradejón",
+      "visitante": "Agoncillo",
+      "escudo_local": "https://media.api-sports.io/football/teams/9870.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15323.png",
+      "goles_local": 0,
+      "goles_visitante": 5,
+      "goleadores": [
+        {
+          "min": 5,
+          "equipo": "Agoncillo",
+          "jugador": "A. Ranera",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 15,
+          "equipo": "Agoncillo",
+          "jugador": "M. A. Martin Morer",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 38,
+          "equipo": "Agoncillo",
+          "jugador": "M. A. Martin Morer",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Agoncillo",
+          "jugador": "R. Ruiz Viguera",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 80,
+          "equipo": "Agoncillo",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Haro Deportivo",
+      "pts": 28,
+      "pj": 11,
+      "dg": 12,
+      "pg": 9,
+      "pe": 1,
+      "pp": 1,
+      "gf": 27,
+      "gc": 15,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9389.png",
+      "equipo_id": 9389,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 18,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "La Calzada",
+      "pts": 27,
+      "pj": 11,
+      "dg": 6,
+      "pg": 9,
+      "pe": 0,
+      "pp": 2,
+      "gf": 19,
+      "gc": 13,
+      "forma": "WWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9867.png",
+      "equipo_id": 9867,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Calahorra",
+      "pts": 24,
+      "pj": 11,
+      "dg": 20,
+      "pg": 8,
+      "pe": 0,
+      "pp": 3,
+      "gf": 33,
+      "gc": 13,
+      "forma": "WWWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9581.png",
+      "equipo_id": 9581,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 23,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Alfaro",
+      "pts": 23,
+      "pj": 11,
+      "dg": 6,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 15,
+      "gc": 9,
+      "forma": "DWWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9860.png",
+      "equipo_id": 9860,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Anguiano",
+      "pts": 21,
+      "pj": 12,
+      "dg": 11,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 11,
+      "forma": "DWLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9861.png",
+      "equipo_id": 9861,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Agoncillo",
+      "pts": 20,
+      "pj": 12,
+      "dg": 11,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 26,
+      "gc": 15,
+      "forma": "WDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15323.png",
+      "equipo_id": 15323,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 16,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Oyonesa",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 18,
+      "gc": 11,
+      "forma": "WWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9869.png",
+      "equipo_id": 9869,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Berceo",
+      "pts": 19,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 24,
+      "gc": 18,
+      "forma": "DLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9863.png",
+      "equipo_id": 9863,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 18,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Varea",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 12,
+      "gc": 9,
+      "forma": "LWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9873.png",
+      "equipo_id": 9873,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 5,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "San Marcial",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 13,
+      "gc": 9,
+      "forma": "DLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26554.png",
+      "equipo_id": 26554,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Pradejón",
+      "pts": 13,
+      "pj": 12,
+      "dg": -11,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 10,
+      "gc": 21,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9870.png",
+      "equipo_id": 9870,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Yagüe",
+      "pts": 12,
+      "pj": 11,
+      "dg": -10,
+      "pg": 4,
+      "pe": 0,
+      "pp": 7,
+      "gf": 15,
+      "gc": 25,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9876.png",
+      "equipo_id": 9876,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Calasancio",
+      "pts": 11,
+      "pj": 11,
+      "dg": -8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 13,
+      "gc": 21,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9865.png",
+      "equipo_id": 9865,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cenicero",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
+      "gc": 19,
+      "forma": "WDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17612.png",
+      "equipo_id": 17612,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "River Ebro",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 10,
+      "gc": 22,
+      "forma": "DLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9871.png",
+      "equipo_id": 9871,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 2,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Vianés",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 14,
+      "gc": 21,
+      "forma": "WLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9874.png",
+      "equipo_id": 9874,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Comillas",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 19,
+      "forma": "LLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/8154.png",
+      "equipo_id": 8154,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Casalarreina",
+      "pts": 3,
+      "pj": 11,
+      "dg": -20,
+      "pg": 1,
+      "pe": 0,
+      "pp": 10,
+      "gf": 10,
+      "gc": 30,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9866.png",
+      "equipo_id": 9866,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 6,
+        "gc": 18
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Anguiano": {
+      "antes": 5,
+      "ahora": 5,
+      "cambio": "se mantiene"
+    },
+    "Agoncillo": {
+      "antes": 9,
+      "ahora": 6,
+      "cambio": "sube 3 puestos"
+    },
+    "Berceo": {
+      "antes": 8,
+      "ahora": 8,
+      "cambio": "se mantiene"
+    },
+    "Pradejón": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    }
+  }
+}

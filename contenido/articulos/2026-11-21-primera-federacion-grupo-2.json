@@ -1,0 +1,894 @@
+{
+  "slug": "2026-11-21-primera-federacion-grupo-2",
+  "fecha": "2026-11-21",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Atlético B remonta en el Sant Andreu y sale del descenso; el Zaragoza ya saca seis",
+  "entradilla": "El filial rojiblanco ganó 1-2 ante un Sant Andreu con diez desde el minuto 29 y dejó al Águilas en puestos de descenso. El Zaragoza venció al Rayo Majadahonda y amplía su ventaja en cabeza.",
+  "cuerpo_markdown": "La jornada 13 del Grupo 2 de Primera Federación movió la parte baja. El Atlético Madrid B remontó en el campo del Sant Andreu (1-2) y salió del descenso, del 16º al 15º puesto. Su lugar lo ocupa el Águilas, que perdió 0-2 en casa ante el Europa Fc y cae del 15º al 17º. El Antequera también remontó ante un Juventud Torremolinos que terminó con nueve y escaló cuatro puestos. Arriba, el Zaragoza ganó 2-0 al Rayo Majadahonda y suma 30 puntos, seis más que el Villarreal B.\n\n## Sant Andreu 1-2 Atlético Madrid B\n\nJ. De Leon adelantó al Sant Andreu en el minuto 11 y fue expulsado en el 29. Con un jugador más, el Atlético Madrid B le dio la vuelta tras el descanso: empató en el 48 con un gol en propia puerta de J. Gomez y Koke marcó el 1-2 en el 53.\n\nLa victoria saca al filial rojiblanco del descenso: sube del 16º al 15º puesto con 14 puntos, uno por encima del Europa Fc, primer equipo en la zona roja. El Sant Andreu baja del 11º al 12º con 16 puntos, a cinco del play-off.\n\n## Antequera 2-1 Juventud Torremolinos\n\nJ. Merida Palomino adelantó al Juventud Torremolinos en el minuto 45, pero el Antequera empató nada más volver de vestuarios, con un gol de A. Gene en el 47. M. Diaby vio la roja en el 58 y D. Ilahude firmó el 2-1 en el 63. El conjunto visitante terminó con nueve tras la expulsión de Dioni en el 90.\n\nEl Antequera sube cuatro puestos, del 14º al 10º, con 17 puntos, a cuatro del play-off. El Juventud Torremolinos baja del 17º al 18º y se queda con 11 puntos, a tres de la salvación.\n\n## Zaragoza 2-0 Rayo Majadahonda\n\nM. Sangalli abrió el marcador en el minuto 37 y E. D. Espiau Hernandez cerró el 2-0 en el 68. El Zaragoza se mantiene líder con 30 puntos y seis de ventaja sobre el Villarreal B. Es el único equipo de la categoría invicto en casa: cinco victorias y un empate. El Rayo Majadahonda sigue 19º con 7 puntos, a siete de la permanencia.\n\n## Águilas 0-2 Europa Fc\n\nA. Tolosa marcó en el minuto 42 y F. Ribeiro sentenció en el 76. El Europa Fc sube del 18º al 16º con 13 puntos, todavía en descenso pero a uno de la salvación. El Águilas cae del 15º al 17º, con 12 puntos, y entra en la zona de descenso.\n\n## Así queda la clasificación\n\nEl Zaragoza lidera con 30 puntos, la única plaza de ascenso directo, y saca seis al Villarreal B (24). Completan el play-off Real Murcia (23), Alcorcón (21) y Hércules (21). El FC Cartagena, sexto con 19, es el primero fuera, a dos puntos. En la parte baja, el Atlético Madrid B (14) marca la salvación. Por debajo están Europa Fc (13), Águilas (12), Juventud Torremolinos (11), Rayo Majadahonda (7) y Teruel (7).",
+  "texto_instagram": "El Atlético B remonta con uno más en el campo del Sant Andreu y sale del descenso, al que cae el Águilas ⚽ El Zaragoza ya saca seis puntos en cabeza 🔝\n\nSant Andreu 1-2 Atlético Madrid B: De Leon 11'; Gomez (p.p.) 48', Koke 53'. Roja a De Leon 29'\nAntequera 2-1 Juventud Torremolinos: Gene 47', Ilahude 63'; Merida Palomino 45'. Rojas a Diaby 58' y Dioni 90'\nZaragoza 2-0 Rayo Majadahonda: Sangalli 37', Espiau Hernandez 68'\nÁguilas 0-2 Europa Fc: Tolosa 42', Ribeiro 76' 📊",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#PrimeraRFEF",
+    "#Grupo2",
+    "#Zaragoza",
+    "#AtléticoMadridB",
+    "#SantAndreu",
+    "#Antequera",
+    "#Águilas",
+    "#EuropaFC"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-2-1.jpg",
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-2-2.jpg",
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-2-3.jpg",
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1571218,
+      "fecha": "2026-11-21T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": "Antequera",
+      "arbitro": "M. Garcia",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 9742,
+      "id_visitante": 15359,
+      "local": "Antequera",
+      "visitante": "Juventud Torremolinos",
+      "escudo_local": "https://media.api-sports.io/football/teams/9742.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15359.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "Juventud Torremolinos",
+          "jugador": "J. Merida Palomino",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 47,
+          "equipo": "Antequera",
+          "jugador": "A. Gene",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 63,
+          "equipo": "Antequera",
+          "jugador": "D. Ilahude",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 58,
+          "equipo": "Juventud Torremolinos",
+          "jugador": "M. Diaby"
+        },
+        {
+          "min": 90,
+          "equipo": "Juventud Torremolinos",
+          "jugador": "Dioni"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571225,
+      "fecha": "2026-11-21T16:30:00+01:00",
+      "estadio": "Ibercaja Estadio",
+      "ciudad": "Zaragoza",
+      "arbitro": "J. T. Lajara",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 732,
+      "id_visitante": 861,
+      "local": "Zaragoza",
+      "visitante": "Rayo Majadahonda",
+      "escudo_local": "https://media.api-sports.io/football/teams/732.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/861.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 37,
+          "equipo": "Zaragoza",
+          "jugador": "M. Sangalli",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 68,
+          "equipo": "Zaragoza",
+          "jugador": "E. D. Espiau Hernandez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571216,
+      "fecha": "2026-11-21T18:45:00+01:00",
+      "estadio": "Estadio El Rubial",
+      "ciudad": null,
+      "arbitro": "R. Gonzalo Sanchez",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 9823,
+      "id_visitante": 593,
+      "local": "Águilas",
+      "visitante": "Europa Fc",
+      "escudo_local": "https://media.api-sports.io/football/teams/9823.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/593.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 42,
+          "equipo": "Europa Fc",
+          "jugador": "A. Tolosa",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 76,
+          "equipo": "Europa Fc",
+          "jugador": "F. Ribeiro",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571222,
+      "fecha": "2026-11-21T21:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Barcelona",
+      "arbitro": "P. Oreiro Hermida",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 5277,
+      "id_visitante": 9570,
+      "local": "Sant Andreu",
+      "visitante": "Atlético Madrid B",
+      "escudo_local": "https://media.api-sports.io/football/teams/5277.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9570.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 11,
+          "equipo": "Sant Andreu",
+          "jugador": "J. De Leon",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 48,
+          "equipo": "Atlético Madrid B",
+          "jugador": "J. Gomez",
+          "tipo": "Own Goal"
+        },
+        {
+          "min": 53,
+          "equipo": "Atlético Madrid B",
+          "jugador": "Koke",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 29,
+          "equipo": "Sant Andreu",
+          "jugador": "J. De Leon"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Zaragoza",
+      "pts": 30,
+      "pj": 13,
+      "dg": 15,
+      "pg": 9,
+      "pe": 3,
+      "pp": 1,
+      "gf": 27,
+      "gc": 12,
+      "forma": "WWWDW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/732.png",
+      "equipo_id": 732,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Villarreal B",
+      "pts": 24,
+      "pj": 13,
+      "dg": 11,
+      "pg": 6,
+      "pe": 6,
+      "pp": 1,
+      "gf": 28,
+      "gc": 17,
+      "forma": "DDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9595.png",
+      "equipo_id": 9595,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Real Murcia",
+      "pts": 23,
+      "pj": 13,
+      "dg": 5,
+      "pg": 7,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "WLDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5275.png",
+      "equipo_id": 5275,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Alcorcón",
+      "pts": 21,
+      "pj": 12,
+      "dg": 10,
+      "pg": 5,
+      "pe": 6,
+      "pp": 1,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WWDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/711.png",
+      "equipo_id": 711,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 16,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Hércules",
+      "pts": 21,
+      "pj": 13,
+      "dg": 0,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WDDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/4666.png",
+      "equipo_id": 4666,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "FC Cartagena",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 17,
+      "gc": 13,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5262.png",
+      "equipo_id": 5262,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Real Madrid Castilla",
+      "pts": 19,
+      "pj": 13,
+      "dg": 1,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9575.png",
+      "equipo_id": 9575,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Real Jaén",
+      "pts": 19,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5274.png",
+      "equipo_id": 5274,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ibiza",
+      "pts": 18,
+      "pj": 12,
+      "dg": 3,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 15,
+      "forma": "LDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9390.png",
+      "equipo_id": 9390,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Antequera",
+      "pts": 17,
+      "pj": 13,
+      "dg": 2,
+      "pg": 4,
+      "pe": 5,
+      "pp": 4,
+      "gf": 20,
+      "gc": 18,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9742.png",
+      "equipo_id": 9742,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Algeciras",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 18,
+      "forma": "WDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9597.png",
+      "equipo_id": 9597,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sant Andreu",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 14,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5277.png",
+      "equipo_id": 5277,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Nàstic de Tarragona",
+      "pts": 16,
+      "pj": 13,
+      "dg": -2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 20,
+      "forma": "DLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/714.png",
+      "equipo_id": 714,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 5,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Huesca",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "LLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/726.png",
+      "equipo_id": 726,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Atlético Madrid B",
+      "pts": 14,
+      "pj": 12,
+      "dg": 2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 21,
+      "gc": 19,
+      "forma": "WLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9570.png",
+      "equipo_id": 9570,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 4,
+        "pp": 1,
+        "gf": 14,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Europa Fc",
+      "pts": 13,
+      "pj": 13,
+      "dg": -11,
+      "pg": 4,
+      "pe": 1,
+      "pp": 8,
+      "gf": 11,
+      "gc": 22,
+      "forma": "WLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/593.png",
+      "equipo_id": 593,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Águilas",
+      "pts": 12,
+      "pj": 13,
+      "dg": -7,
+      "pg": 2,
+      "pe": 6,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "LWDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9823.png",
+      "equipo_id": 9823,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Juventud Torremolinos",
+      "pts": 11,
+      "pj": 13,
+      "dg": -9,
+      "pg": 2,
+      "pe": 5,
+      "pp": 6,
+      "gf": 14,
+      "gc": 23,
+      "forma": "LWDDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15359.png",
+      "equipo_id": 15359,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 3,
+        "pp": 4,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Rayo Majadahonda",
+      "pts": 7,
+      "pj": 13,
+      "dg": -10,
+      "pg": 2,
+      "pe": 1,
+      "pp": 10,
+      "gf": 8,
+      "gc": 18,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/861.png",
+      "equipo_id": 861,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 0,
+        "pp": 7,
+        "gf": 2,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Teruel",
+      "pts": 7,
+      "pj": 13,
+      "dg": -15,
+      "pg": 1,
+      "pe": 4,
+      "pp": 8,
+      "gf": 5,
+      "gc": 20,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5278.png",
+      "equipo_id": 5278,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 4,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 1,
+        "gc": 15
+      }
+    }
+  ],
+  "movimientos": {
+    "Zaragoza": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Antequera": {
+      "antes": 14,
+      "ahora": 10,
+      "cambio": "sube 4 puestos"
+    },
+    "Sant Andreu": {
+      "antes": 11,
+      "ahora": 12,
+      "cambio": "baja 1 puesto"
+    },
+    "Atlético Madrid B": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    },
+    "Europa Fc": {
+      "antes": 18,
+      "ahora": 16,
+      "cambio": "sube 2 puestos"
+    },
+    "Águilas": {
+      "antes": 15,
+      "ahora": 17,
+      "cambio": "baja 2 puestos"
+    },
+    "Juventud Torremolinos": {
+      "antes": 17,
+      "ahora": 18,
+      "cambio": "baja 1 puesto"
+    },
+    "Rayo Majadahonda": {
+      "antes": 19,
+      "ahora": 19,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1571222,
+    "titular": "El Atlético B remonta en el campo del Sant Andreu y sale del descenso",
+    "entradilla": "El filial rojiblanco ganó 1-2 tras ir por detrás y aprovechó la expulsión de J. De Leon, autor del gol local. Sube al 15º puesto.",
+    "parrafos": [
+      "El Atlético Madrid B ganó 1-2 en el campo del Sant Andreu. La victoria lo saca de la zona de descenso del Grupo 2 de Primera Federación.",
+      "El Sant Andreu golpeó primero: J. De Leon marcó el 1-0 en el minuto 11.",
+      "El propio De Leon fue expulsado en el 29 y dejó a su equipo con diez durante más de una hora.",
+      "El Atlético Madrid B le dio la vuelta en cinco minutos tras el descanso. Empató en el 48 con un gol en propia puerta de J. Gomez y Koke anotó el 1-2 en el 53.",
+      "El filial sube del 16º al 15º con 14 puntos, uno más que el Europa Fc, que abre el descenso. El Sant Andreu baja del 11º al 12º con 16 puntos, a cinco del play-off."
+    ],
+    "el_dato": "J. De Leon marcó en el minuto 11 y fue expulsado en el 29: su equipo jugó con diez más de una hora.",
+    "slug": "2026-11-21-sant-andreu-atletico-madrid-b"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 18",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Socuéllamos",
+      "escudo": "https://media.api-sports.io/football/teams/9414.png",
+      "amarillas": 2,
+      "rojas": 5
+    },
+    {
+      "equipo": "Guadalajara B",
+      "escudo": "https://media.api-sports.io/football/teams/26555.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Marchamalo",
+      "escudo": "https://media.api-sports.io/football/teams/15332.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Almansa",
+      "escudo": "https://media.api-sports.io/football/teams/9896.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Toledo",
+      "escudo": "https://media.api-sports.io/football/teams/9908.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "La Solana",
+      "escudo": "https://media.api-sports.io/football/teams/9903.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Quintanar del Rey",
+      "escudo": "https://media.api-sports.io/football/teams/9906.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Torrijos",
+      "escudo": "https://media.api-sports.io/football/teams/9909.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Illescas",
+      "escudo": "https://media.api-sports.io/football/teams/9901.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Manchego",
+      "escudo": "https://media.api-sports.io/football/teams/9905.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Noblejas",
+      "escudo": "https://media.api-sports.io/football/teams/24653.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "San Clemente",
+      "escudo": "https://media.api-sports.io/football/teams/17619.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Tarancón",
+      "escudo": "https://media.api-sports.io/football/teams/9907.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "CD Villa",
+      "escudo": "https://media.api-sports.io/football/teams/28123.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Huracán Balazote",
+      "escudo": "https://media.api-sports.io/football/teams/15330.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villacañas",
+      "escudo": "https://media.api-sports.io/football/teams/9910.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villarrobledo",
+      "escudo": "https://media.api-sports.io/football/teams/9602.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villarrubia",
+      "escudo": "https://media.api-sports.io/football/teams/9417.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

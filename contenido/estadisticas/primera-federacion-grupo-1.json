@@ -4,16 +4,22 @@
   "goleadores": [],
   "tarjetas": [
     {
+      "equipo": "Ponferradina",
+      "escudo": "https://media.api-sports.io/football/teams/4907.png",
+      "amarillas": 45,
+      "rojas": 3
+    },
+    {
       "equipo": "Unionistas de Salamanca",
       "escudo": "https://media.api-sports.io/football/teams/5281.png",
       "amarillas": 37,
       "rojas": 5
     },
     {
-      "equipo": "Ponferradina",
-      "escudo": "https://media.api-sports.io/football/teams/4907.png",
-      "amarillas": 41,
-      "rojas": 3
+      "equipo": "Mirandés",
+      "escudo": "https://media.api-sports.io/football/teams/799.png",
+      "amarillas": 43,
+      "rojas": 2
     },
     {
       "equipo": "UD Logroñés",
@@ -34,10 +40,10 @@
       "rojas": 3
     },
     {
-      "equipo": "Mirandés",
-      "escudo": "https://media.api-sports.io/football/teams/799.png",
-      "amarillas": 40,
-      "rojas": 2
+      "equipo": "Pontevedra",
+      "escudo": "https://media.api-sports.io/football/teams/9407.png",
+      "amarillas": 32,
+      "rojas": 4
     },
     {
       "equipo": "Barakaldo",
@@ -94,28 +100,22 @@
       "rojas": 2
     },
     {
-      "equipo": "Pontevedra",
-      "escudo": "https://media.api-sports.io/football/teams/9407.png",
-      "amarillas": 25,
-      "rojas": 3
-    },
-    {
       "equipo": "Racing de Ferrol",
       "escudo": "https://media.api-sports.io/football/teams/9409.png",
       "amarillas": 29,
       "rojas": 1
     },
     {
+      "equipo": "Athletic Club B",
+      "escudo": "https://media.api-sports.io/football/teams/9579.png",
+      "amarillas": 24,
+      "rojas": 2
+    },
+    {
       "equipo": "Real Unión",
       "escudo": "https://media.api-sports.io/football/teams/9586.png",
       "amarillas": 28,
       "rojas": 0
-    },
-    {
-      "equipo": "Athletic Club B",
-      "escudo": "https://media.api-sports.io/football/teams/9579.png",
-      "amarillas": 20,
-      "rojas": 2
     },
     {
       "equipo": "Deportivo La Coruña B",

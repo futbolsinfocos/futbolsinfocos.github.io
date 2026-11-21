@@ -1,0 +1,636 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-14",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 14",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Puebla Calzada golea 3-0 al Guadiana y sigue en la sexta posición",
+  "entradilla": "El Puebla Calzada se impuso 3-0 al Guadiana en la Jornada 12 del Grupo 14 de Tercera Federación. El Guadiana, último con 1 punto, suma su quinta derrota consecutiva.",
+  "cuerpo_markdown": "El Puebla Calzada ganó 3-0 al Guadiana en la Jornada 12 del Grupo 14 de Tercera Federación y encadena tres victorias seguidas. El equipo local se mantiene en la sexta posición con 20 puntos. El Guadiana, colista con 1 punto y 34 goles encajados, acumula cinco derrotas consecutivas.\n\n## Puebla Calzada 3-0 Guadiana\n\nEl Puebla Calzada se impuso por 3-0 y goleó al Guadiana, que sigue sin ganar y ocupa la última posición con 1 punto. Los locales se mantienen en el sexto puesto, sin cambios en la tabla, y quedan a seis puntos del líder, el Azuaga. El Guadiana continúa en el puesto 18, sin movimientos tras la jornada.\n\n## Así queda la clasificación\n\nEl Azuaga lidera con 26 puntos, seguido del Castuera y el Llerenense, ambos con 23. El Puebla Calzada es sexto con 20 puntos, a seis del liderato. En la parte baja, el Montijo ocupa el puesto 16 con 8 puntos, el Atlético Pueblonuevo es 17.º con 5 y el Guadiana cierra la tabla con 1 punto y una diferencia de goles de -30.",
+  "texto_instagram": "⚽ El Puebla Calzada golea 3-0 al Guadiana en la Jornada 12 y encadena tres victorias seguidas. Los locales siguen sextos con 20 puntos. 🔻 El Guadiana, último con 1 punto, suma cinco derrotas seguidas.\n\nPuebla Calzada 3-0 Guadiana\n\n📊 Tercera Federación · Grupo 14",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo14",
+    "#PueblaCalzada",
+    "#Guadiana"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-14-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-14-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-14-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616784,
+      "fecha": "2026-11-21T18:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 14 - 12",
+      "liga_id": 452,
+      "id_local": 24613,
+      "id_visitante": 28117,
+      "local": "Puebla Calzada",
+      "visitante": "Guadiana",
+      "escudo_local": "https://media.api-sports.io/football/teams/24613.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28117.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Azuaga",
+      "pts": 26,
+      "pj": 11,
+      "dg": 13,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 21,
+      "gc": 8,
+      "forma": "WDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9826.png",
+      "equipo_id": 9826,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Castuera",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 19,
+      "gc": 6,
+      "forma": "WWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22149.png",
+      "equipo_id": 22149,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 13,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Llerenense",
+      "pts": 23,
+      "pj": 11,
+      "dg": 8,
+      "pg": 6,
+      "pe": 5,
+      "pp": 0,
+      "gf": 13,
+      "gc": 5,
+      "forma": "DDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9833.png",
+      "equipo_id": 9833,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 4,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Villanovense",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 15,
+      "gc": 5,
+      "forma": "WDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5282.png",
+      "equipo_id": 5282,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Moralo",
+      "pts": 21,
+      "pj": 11,
+      "dg": 4,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 16,
+      "gc": 12,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9836.png",
+      "equipo_id": 9836,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Puebla Calzada",
+      "pts": 20,
+      "pj": 12,
+      "dg": 7,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 20,
+      "gc": 13,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24613.png",
+      "equipo_id": 24613,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Jaraíz",
+      "pts": 15,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 16,
+      "gc": 12,
+      "forma": "WWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/18094.png",
+      "equipo_id": 18094,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Gévora",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 18,
+      "forma": "WDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25032.png",
+      "equipo_id": 25032,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Jerez",
+      "pts": 15,
+      "pj": 11,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 13,
+      "gc": 15,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9832.png",
+      "equipo_id": 9832,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Quintana",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 11,
+      "gc": 10,
+      "forma": "DDWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28119.png",
+      "equipo_id": 28119,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Villafranca",
+      "pts": 14,
+      "pj": 11,
+      "dg": 0,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 18,
+      "forma": "DWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9479.png",
+      "equipo_id": 9479,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "CD Zafra",
+      "pts": 13,
+      "pj": 11,
+      "dg": 2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 14,
+      "gc": 12,
+      "forma": "LDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28118.png",
+      "equipo_id": 28118,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Cabeza Buey",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26552.png",
+      "equipo_id": 26552,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Santa Amalia",
+      "pts": 12,
+      "pj": 11,
+      "dg": 1,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 12,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20448.png",
+      "equipo_id": 20448,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 0,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Plasencia",
+      "pts": 11,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 11,
+      "gc": 17,
+      "forma": "WLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9838.png",
+      "equipo_id": 9838,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Montijo",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 8,
+      "gc": 17,
+      "forma": "LLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9835.png",
+      "equipo_id": 9835,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 1,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Pueblonuevo",
+      "pts": 5,
+      "pj": 11,
+      "dg": -15,
+      "pg": 0,
+      "pe": 5,
+      "pp": 6,
+      "gf": 12,
+      "gc": 27,
+      "forma": "DLDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20279.png",
+      "equipo_id": 20279,
+      "casa": {
+        "pj": 3,
+        "pg": 0,
+        "pe": 1,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 0,
+        "pe": 4,
+        "pp": 4,
+        "gf": 9,
+        "gc": 22
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Guadiana",
+      "pts": 1,
+      "pj": 12,
+      "dg": -30,
+      "pg": 0,
+      "pe": 1,
+      "pp": 11,
+      "gf": 4,
+      "gc": 34,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28117.png",
+      "equipo_id": 28117,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 3,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 1,
+        "gc": 19
+      }
+    }
+  ],
+  "movimientos": {
+    "Puebla Calzada": {
+      "antes": 6,
+      "ahora": 6,
+      "cambio": "se mantiene"
+    },
+    "Guadiana": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

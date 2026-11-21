@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 5",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "San Juan Atletico de Montcada",
+      "escudo": "https://media.api-sports.io/football/teams/28102.png",
+      "amarillas": 1,
+      "rojas": 4
+    },
+    {
+      "equipo": "L'Escala",
+      "escudo": "https://media.api-sports.io/football/teams/17528.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Peralada",
+      "escudo": "https://media.api-sports.io/football/teams/9676.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atlètic Lleida",
+      "escudo": "https://media.api-sports.io/football/teams/24574.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Martinenc",
+      "escudo": "https://media.api-sports.io/football/teams/28101.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "San Cristóbal",
+      "escudo": "https://media.api-sports.io/football/teams/9678.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Vilassar Mar",
+      "escudo": "https://media.api-sports.io/football/teams/9683.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Badalona",
+      "escudo": "https://media.api-sports.io/football/teams/5250.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Grama",
+      "escudo": "https://media.api-sports.io/football/teams/15344.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Mollerussa",
+      "escudo": "https://media.api-sports.io/football/teams/18096.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cerdanyola del Vallès",
+      "escudo": "https://media.api-sports.io/football/teams/9670.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cornellà",
+      "escudo": "https://media.api-sports.io/football/teams/5258.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Europa B",
+      "escudo": "https://media.api-sports.io/football/teams/24575.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "L'Hospitalet",
+      "escudo": "https://media.api-sports.io/football/teams/9392.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Montañesa",
+      "escudo": "https://media.api-sports.io/football/teams/15345.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Pobla Mafumet",
+      "escudo": "https://media.api-sports.io/football/teams/9677.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Tona",
+      "escudo": "https://media.api-sports.io/football/teams/20264.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Vilanova",
+      "escudo": "https://media.api-sports.io/football/teams/26542.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

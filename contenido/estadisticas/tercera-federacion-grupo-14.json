@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 14",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "CD Zafra",
+      "escudo": "https://media.api-sports.io/football/teams/28118.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
+      "equipo": "Plasencia",
+      "escudo": "https://media.api-sports.io/football/teams/9838.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
+      "equipo": "Cabeza Buey",
+      "escudo": "https://media.api-sports.io/football/teams/26552.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Gévora",
+      "escudo": "https://media.api-sports.io/football/teams/25032.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Quintana",
+      "escudo": "https://media.api-sports.io/football/teams/28119.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Guadiana",
+      "escudo": "https://media.api-sports.io/football/teams/28117.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Santa Amalia",
+      "escudo": "https://media.api-sports.io/football/teams/20448.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Villafranca",
+      "escudo": "https://media.api-sports.io/football/teams/9479.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Pueblonuevo",
+      "escudo": "https://media.api-sports.io/football/teams/20279.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Azuaga",
+      "escudo": "https://media.api-sports.io/football/teams/9826.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Castuera",
+      "escudo": "https://media.api-sports.io/football/teams/22149.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Jaraíz",
+      "escudo": "https://media.api-sports.io/football/teams/18094.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Jerez",
+      "escudo": "https://media.api-sports.io/football/teams/9832.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Llerenense",
+      "escudo": "https://media.api-sports.io/football/teams/9833.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Montijo",
+      "escudo": "https://media.api-sports.io/football/teams/9835.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Moralo",
+      "escudo": "https://media.api-sports.io/football/teams/9836.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Puebla Calzada",
+      "escudo": "https://media.api-sports.io/football/teams/24613.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Villanovense",
+      "escudo": "https://media.api-sports.io/football/teams/5282.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

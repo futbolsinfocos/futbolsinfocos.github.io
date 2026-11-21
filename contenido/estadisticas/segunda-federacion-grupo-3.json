@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Real Murcia B",
+      "escudo": "https://media.api-sports.io/football/teams/9820.png",
+      "amarillas": 2,
+      "rojas": 3
+    },
+    {
+      "equipo": "Atlético Baleares",
+      "escudo": "https://media.api-sports.io/football/teams/9381.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "La Nucía",
+      "escudo": "https://media.api-sports.io/football/teams/9393.png",
+      "amarillas": 1,
+      "rojas": 3
+    },
+    {
+      "equipo": "Poblense",
+      "escudo": "https://media.api-sports.io/football/teams/5273.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Yeclano",
+      "escudo": "https://media.api-sports.io/football/teams/5283.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Intercity",
+      "escudo": "https://media.api-sports.io/football/teams/8160.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Castellón B",
+      "escudo": "https://media.api-sports.io/football/teams/17588.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Lorca Deportiva",
+      "escudo": "https://media.api-sports.io/football/teams/9400.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Alcoyano",
+      "escudo": "https://media.api-sports.io/football/teams/9686.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Castellonense",
+      "escudo": "https://media.api-sports.io/football/teams/22138.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Peña Deportiva",
+      "escudo": "https://media.api-sports.io/football/teams/9405.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Elche B",
+      "escudo": "https://media.api-sports.io/football/teams/9691.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Mallorca B",
+      "escudo": "https://media.api-sports.io/football/teams/9783.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Orihuela",
+      "escudo": "https://media.api-sports.io/football/teams/9404.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ucam Murcia",
+      "escudo": "https://media.api-sports.io/football/teams/800.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Valencia B",
+      "escudo": "https://media.api-sports.io/football/teams/9594.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cieza",
+      "escudo": "https://media.api-sports.io/football/teams/20277.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Deportiva Minera",
+      "escudo": "https://media.api-sports.io/football/teams/9811.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}
