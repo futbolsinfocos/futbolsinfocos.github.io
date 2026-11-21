@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 10",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Bollullos",
+      "escudo": "https://media.api-sports.io/football/teams/20257.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Linense",
+      "escudo": "https://media.api-sports.io/football/teams/9596.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Tomares",
+      "escudo": "https://media.api-sports.io/football/teams/15528.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Betis C",
+      "escudo": "https://media.api-sports.io/football/teams/28109.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Conil",
+      "escudo": "https://media.api-sports.io/football/teams/9757.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Córdoba B",
+      "escudo": "https://media.api-sports.io/football/teams/9759.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "San Roque Lepe",
+      "escudo": "https://media.api-sports.io/football/teams/9767.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Utrera",
+      "escudo": "https://media.api-sports.io/football/teams/9769.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Chiclana",
+      "escudo": "https://media.api-sports.io/football/teams/21905.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Portuense",
+      "escudo": "https://media.api-sports.io/football/teams/28111.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sevilla C",
+      "escudo": "https://media.api-sports.io/football/teams/9768.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Onubense",
+      "escudo": "https://media.api-sports.io/football/teams/24724.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Ceuta B",
+      "escudo": "https://media.api-sports.io/football/teams/17596.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Cádiz B",
+      "escudo": "https://media.api-sports.io/football/teams/9598.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Dos Hermanas",
+      "escudo": "https://media.api-sports.io/football/teams/26535.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Egabrense",
+      "escudo": "https://media.api-sports.io/football/teams/28110.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Pozoblanco",
+      "escudo": "https://media.api-sports.io/football/teams/9763.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Xerez Deportivo",
+      "escudo": "https://media.api-sports.io/football/teams/9771.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

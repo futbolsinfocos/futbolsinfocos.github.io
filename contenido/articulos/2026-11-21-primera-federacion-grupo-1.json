@@ -1,0 +1,723 @@
+{
+  "slug": "2026-11-21-primera-federacion-grupo-1",
+  "fecha": "2026-11-21",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Athletic Club B gana 0-1 en Anduva y escala hasta la décima plaza",
+  "entradilla": "Un gol de A. Conde en el minuto 54 dio la victoria al filial rojiblanco ante el Mirandés, que pierde y sigue cuarto con 20 puntos.",
+  "cuerpo_markdown": "El Athletic Club B asaltó Anduva en el partido de la jornada 13 disputado este sábado en el Grupo 1 de Primera Federación. Un tanto de A. Conde en el minuto 54 tumbó al Mirandés (0-1) y permitió al filial subir cuatro puestos, del 14.º al 10.º, con 16 puntos. El conjunto de Miranda de Ebro se mantiene cuarto, en plaza de play-off, con 20.\n\n## Mirandés 0-1 Athletic Club B\n\nEl único gol llegó en el minuto 54 y lo firmó A. Conde. Fue suficiente para que el Athletic Club B se llevara los tres puntos del Estadio Municipal de Anduva.\n\nEl filial bilbaíno sube cuatro puestos y es décimo con 16 puntos, a tres del play-off que marca el Mérida AD. El Mirandés conserva la cuarta plaza con 20 puntos, pero corta una racha de dos victorias seguidas y queda a ocho del líder, el Lugo.\n\n## Así queda la clasificación\n\nEl Lugo manda con 28 puntos, cuatro más que la UD Logroñés (24). Completan la zona de play-off Pontevedra (21), Mirandés (20) y Mérida AD (19). El Real Avilés, sexto con 18, está a un punto del play-off, igualado con Cacereño y Racing de Ferrol. Abajo, la Cultural Leonesa marca la salvación con 13 puntos, los mismos que Zamora y Unionistas de Salamanca, que abren el descenso. Les siguen Deportivo La Coruña B y Arenas Getxo con 12, y cierra la tabla la UD Ourense con 8, a cinco de la permanencia.",
+  "texto_instagram": "⚽ El Athletic Club B gana en Anduva y sube cuatro puestos, hasta el 10.º. El Mirandés pierde pero sigue cuarto, en play-off 📊\n\nMirandés 0-1 Athletic Club B: A. Conde (54')\n\n🏆 Lidera el Lugo con 28 puntos.",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#PrimeraRFEF",
+    "#Mirandés",
+    "#AthleticClubB",
+    "#Bilbao_Athletic",
+    "#Anduva"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-1-1.jpg",
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-1-2.jpg",
+    "img/2026-11-21/2026-11-21-primera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570842,
+      "fecha": "2026-11-21T13:00:00+01:00",
+      "estadio": "Estadio Municipal de Anduva",
+      "ciudad": "Miranda de Ebro",
+      "arbitro": null,
+      "jornada": "Group 1 - 13",
+      "liga_id": 435,
+      "id_local": 799,
+      "id_visitante": 9579,
+      "local": "Mirandés",
+      "visitante": "Athletic Club B",
+      "escudo_local": "https://media.api-sports.io/football/teams/799.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9579.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 54,
+          "equipo": "Athletic Club B",
+          "jugador": "A. Conde",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Lugo",
+      "pts": 28,
+      "pj": 12,
+      "dg": 8,
+      "pg": 9,
+      "pe": 1,
+      "pp": 2,
+      "gf": 20,
+      "gc": 12,
+      "forma": "LWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/716.png",
+      "equipo_id": 716,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD Logroñés",
+      "pts": 24,
+      "pj": 12,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 24,
+      "gc": 16,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5280.png",
+      "equipo_id": 5280,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 16,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Pontevedra",
+      "pts": 21,
+      "pj": 12,
+      "dg": 3,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WWDWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9407.png",
+      "equipo_id": 9407,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Mirandés",
+      "pts": 20,
+      "pj": 12,
+      "dg": 3,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WLWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/799.png",
+      "equipo_id": 799,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Mérida AD",
+      "pts": 19,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 21,
+      "gc": 15,
+      "forma": "WWLDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/10140.png",
+      "equipo_id": 10140,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Avilés",
+      "pts": 18,
+      "pj": 12,
+      "dg": 8,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 25,
+      "gc": 17,
+      "forma": "DWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9632.png",
+      "equipo_id": 9632,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Cacereño",
+      "pts": 18,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 10,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9384.png",
+      "equipo_id": 9384,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Racing de Ferrol",
+      "pts": 18,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 10,
+      "gc": 9,
+      "forma": "DLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9409.png",
+      "equipo_id": 9409,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Extremadura 1924",
+      "pts": 16,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 23,
+      "gc": 18,
+      "forma": "LLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24612.png",
+      "equipo_id": 24612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 15,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Athletic Club B",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DLWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9579.png",
+      "equipo_id": 9579,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Real Unión",
+      "pts": 16,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 20,
+      "gc": 19,
+      "forma": "WLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9586.png",
+      "equipo_id": 9586,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Barakaldo",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5251.png",
+      "equipo_id": 5251,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "CD Coria",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 18,
+      "gc": 19,
+      "forma": "WWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9827.png",
+      "equipo_id": 9827,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Ponferradina",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 8,
+      "gc": 9,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4907.png",
+      "equipo_id": 4907,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Cultural Leonesa",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LDLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/725.png",
+      "equipo_id": 725,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Zamora",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 15,
+      "forma": "DLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9418.png",
+      "equipo_id": 9418,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 9,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Unionistas de Salamanca",
+      "pts": 13,
+      "pj": 12,
+      "dg": -7,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LWLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5281.png",
+      "equipo_id": 5281,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Deportivo La Coruña B",
+      "pts": 12,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 14,
+      "gc": 21,
+      "forma": "DLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9610.png",
+      "equipo_id": 9610,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Arenas Getxo",
+      "pts": 12,
+      "pj": 12,
+      "dg": -13,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 12,
+      "gc": 25,
+      "forma": "DWWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9578.png",
+      "equipo_id": 9578,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "UD Ourense",
+      "pts": 8,
+      "pj": 12,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 5,
+      "gc": 19,
+      "forma": "LLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9617.png",
+      "equipo_id": 9617,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Mirandés": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Athletic Club B": {
+      "antes": 14,
+      "ahora": 10,
+      "cambio": "sube 4 puestos"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1570842,
+    "titular": "A. Conde da al Athletic Club B la victoria en Anduva (0-1)",
+    "entradilla": "El filial bilbaíno ganó al Mirandés con un gol en el minuto 54 y sube del 14.º al 10.º puesto. Los locales siguen cuartos con 20 puntos.",
+    "parrafos": [
+      "El Athletic Club B se impuso por 0-1 al Mirandés en el Estadio Municipal de Anduva, en la jornada 13 del Grupo 1 de Primera Federación. El triunfo le permite subir cuatro puestos en la tabla.",
+      "El marcador se movió una sola vez. A. Conde anotó en el minuto 54 el gol que decidió el encuentro.",
+      "No hubo expulsiones ni penaltis fallados en un partido que se resolvió por la mínima.",
+      "Con esta victoria, el Athletic Club B es décimo con 16 puntos, a tres del Mérida AD, quinto y último puesto de play-off.",
+      "El Mirandés se mantiene cuarto con 20 puntos, dentro del play-off, a ocho del líder Lugo. La derrota llega tras dos victorias seguidas."
+    ],
+    "el_dato": "4 puestos sube el Athletic Club B: del 14.º al 10.º con un solo gol.",
+    "slug": "2026-11-21-mirandes-athletic-club-b"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Marbella",
+      "escudo": "https://media.api-sports.io/football/teams/5267.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Tamaraceite",
+      "escudo": "https://media.api-sports.io/football/teams/9415.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
+      "equipo": "Antoniano",
+      "escudo": "https://media.api-sports.io/football/teams/7522.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atlético Central",
+      "escudo": "https://media.api-sports.io/football/teams/24723.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Ciudad de Lucena",
+      "escudo": "https://media.api-sports.io/football/teams/9756.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Puente Genil",
+      "escudo": "https://media.api-sports.io/football/teams/9764.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Real Betis B",
+      "escudo": "https://media.api-sports.io/football/teams/9765.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Tenerife B",
+      "escudo": "https://media.api-sports.io/football/teams/9802.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Estepona",
+      "escudo": "https://media.api-sports.io/football/teams/15358.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Linares Deportivo",
+      "escudo": "https://media.api-sports.io/football/teams/9398.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sevilla Atlético",
+      "escudo": "https://media.api-sports.io/football/teams/730.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Recreativo Huelva",
+      "escudo": "https://media.api-sports.io/football/teams/9410.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Xerez",
+      "escudo": "https://media.api-sports.io/football/teams/9770.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Badajoz",
+      "escudo": "https://media.api-sports.io/football/teams/9382.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Don Benito",
+      "escudo": "https://media.api-sports.io/football/teams/5259.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Las Palmas B",
+      "escudo": "https://media.api-sports.io/football/teams/9574.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mijas Las Lagunas",
+      "escudo": "https://media.api-sports.io/football/teams/22569.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Sanluqueño",
+      "escudo": "https://media.api-sports.io/football/teams/9601.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-21"
+}

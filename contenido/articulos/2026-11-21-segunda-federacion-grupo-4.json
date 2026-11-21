@@ -1,0 +1,676 @@
+{
+  "slug": "2026-11-21-segunda-federacion-grupo-4",
+  "fecha": "2026-11-21",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Tenerife B gana con diez al Tamaraceite y deja al colista en su quinta derrota",
+  "entradilla": "Laghdaf marcó en el 87 el 2-1 de un filial que jugó desde el 36 con un hombre menos. El Tenerife B sube al 14º puesto y el Tamaraceite sigue último con 6 puntos.",
+  "cuerpo_markdown": "El Tenerife B se impuso 2-1 al Tamaraceite en el único partido de la jornada 12 del Grupo 4 de Segunda Federación. Lo hizo con diez desde el minuto 36, tras la expulsión de O. Bazaga, y con un gol de A. Laghdaf en el 87. El filial sube un puesto, hasta el 14º, con 13 puntos. El Tamaraceite encadena cinco derrotas seguidas y continúa colista con 6.\n\n## Tenerife B 2-1 Tamaraceite\n\nJ. Perez adelantó al Tenerife B en el minuto 34. Dos minutos después, en el 36, O. Bazaga vio la roja y dejó a su equipo con diez durante más de medio partido. El Tamaraceite empató en el 75 por medio de J. Farias, pero A. Laghdaf firmó el 2-1 definitivo en el 87.\n\nLa victoria lleva al Tenerife B del 15º al 14º puesto, con 13 puntos, los mismos que el Marbella. El Tamaraceite se mantiene 18º y último con 6 puntos: suma diez derrotas en 12 partidos, cinco de ellas consecutivas, y todavía no ha puntuado fuera de casa (seis partidos, seis derrotas).\n\n## Así queda la clasificación\n\nEl Recreativo Huelva lidera con 21 puntos y un partido menos. Le siguen Don Benito y Badajoz, con 20, y el Ciudad de Lucena, con 19. Xerez, Real Betis B y Estepona comparten 18 puntos, a tres del primero. En la parte baja, el Tamaraceite y el Antoniano cierran la tabla con 6 puntos, por detrás de Las Palmas B (8) y Sanluqueño (10). El Tenerife B, 14º con 13, aventaja en tres puntos al Sanluqueño.",
+  "texto_instagram": "⚽ El Tenerife B gana con diez al Tamaraceite gracias a un gol de Laghdaf en el 87 y sube al 14º puesto. El Tamaraceite suma su quinta derrota seguida y sigue colista con 6 puntos 🔴\n\nTenerife B 2-1 Tamaraceite: J. Perez (34), J. Farias (75), A. Laghdaf (87). Roja a O. Bazaga (36) 🟥",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo4",
+    "#TenerifeB",
+    "#Tamaraceite"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-4-1.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-4-2.jpg",
+    "img/2026-11-21/2026-11-21-segunda-federacion-grupo-4-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573055,
+      "fecha": "2026-11-21T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 878,
+      "id_local": 9802,
+      "id_visitante": 9415,
+      "local": "Tenerife B",
+      "visitante": "Tamaraceite",
+      "escudo_local": "https://media.api-sports.io/football/teams/9802.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9415.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 34,
+          "equipo": "Tenerife B",
+          "jugador": "J. Perez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 75,
+          "equipo": "Tamaraceite",
+          "jugador": "J. Farias",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 87,
+          "equipo": "Tenerife B",
+          "jugador": "A. Laghdaf",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 36,
+          "equipo": "Tenerife B",
+          "jugador": "O. Bazaga"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Recreativo Huelva",
+      "pts": 21,
+      "pj": 10,
+      "dg": 13,
+      "pg": 6,
+      "pe": 3,
+      "pp": 1,
+      "gf": 21,
+      "gc": 8,
+      "forma": "DWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9410.png",
+      "equipo_id": 9410,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 13,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Don Benito",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 19,
+      "gc": 15,
+      "forma": "LWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5259.png",
+      "equipo_id": 5259,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Badajoz",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 12,
+      "gc": 8,
+      "forma": "WDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9382.png",
+      "equipo_id": 9382,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Ciudad de Lucena",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "LDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9756.png",
+      "equipo_id": 9756,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Xerez",
+      "pts": 18,
+      "pj": 11,
+      "dg": 7,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 14,
+      "gc": 7,
+      "forma": "WWWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9770.png",
+      "equipo_id": 9770,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Betis B",
+      "pts": 18,
+      "pj": 10,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 2,
+      "gf": 13,
+      "gc": 7,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9765.png",
+      "equipo_id": 9765,
+      "casa": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Estepona",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 18,
+      "forma": "WWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15358.png",
+      "equipo_id": 15358,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Linares Deportivo",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 15,
+      "gc": 14,
+      "forma": "WDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9398.png",
+      "equipo_id": 9398,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Mijas Las Lagunas",
+      "pts": 15,
+      "pj": 11,
+      "dg": 3,
+      "pg": 3,
+      "pe": 6,
+      "pp": 2,
+      "gf": 21,
+      "gc": 18,
+      "forma": "LDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22569.png",
+      "equipo_id": 22569,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Puente Genil",
+      "pts": 15,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 13,
+      "gc": 10,
+      "forma": "WLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9764.png",
+      "equipo_id": 9764,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Central",
+      "pts": 15,
+      "pj": 11,
+      "dg": -4,
+      "pg": 5,
+      "pe": 0,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "LWWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24723.png",
+      "equipo_id": 24723,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sevilla Atlético",
+      "pts": 14,
+      "pj": 10,
+      "dg": 2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 2,
+      "gf": 18,
+      "gc": 16,
+      "forma": "DDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/730.png",
+      "equipo_id": 730,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Marbella",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 9,
+      "gc": 11,
+      "forma": "WWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5267.png",
+      "equipo_id": 5267,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 1,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tenerife B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 1,
+      "pp": 6,
+      "gf": 14,
+      "gc": 17,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9802.png",
+      "equipo_id": 9802,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Sanluqueño",
+      "pts": 10,
+      "pj": 11,
+      "dg": -4,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 15,
+      "gc": 19,
+      "forma": "LLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9601.png",
+      "equipo_id": 9601,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Las Palmas B",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9574.png",
+      "equipo_id": 9574,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Antoniano",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 10,
+      "gc": 21,
+      "forma": "LLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/7522.png",
+      "equipo_id": 7522,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Tamaraceite",
+      "pts": 6,
+      "pj": 12,
+      "dg": -17,
+      "pg": 2,
+      "pe": 0,
+      "pp": 10,
+      "gf": 9,
+      "gc": 26,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9415.png",
+      "equipo_id": 9415,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Tenerife B": {
+      "antes": 15,
+      "ahora": 14,
+      "cambio": "sube 1 puesto"
+    },
+    "Tamaraceite": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573055,
+    "titular": "Laghdaf da al Tenerife B, con diez, la victoria ante el Tamaraceite en el 87",
+    "entradilla": "El filial ganó 2-1 pese a jugar desde el minuto 36 con un hombre menos por la expulsión de O. Bazaga. Sube al 14º puesto y hunde al colista en su quinta derrota seguida.",
+    "parrafos": [
+      "El Tenerife B venció 2-1 al Tamaraceite en la jornada 12 del Grupo 4 de Segunda Federación. El triunfo le permite subir del 15º al 14º puesto, con 13 puntos.",
+      "J. Perez abrió el marcador en el minuto 34. El Tamaraceite igualó en el 75 con un gol de J. Farias, y A. Laghdaf decidió el partido en el 87 con el 2-1.",
+      "El Tenerife B jugó con diez desde el minuto 36 por la expulsión de O. Bazaga, dos minutos después del primer gol.",
+      "El Tamaraceite se mantiene 18º y último con 6 puntos. Acumula cinco derrotas consecutivas, diez en doce jornadas, y ha perdido sus seis partidos fuera de casa, con 3 goles a favor y 16 en contra.",
+      "El Tenerife B iguala a puntos con el Marbella y se coloca tres por encima del Sanluqueño, 15º con 10."
+    ],
+    "el_dato": "El Tenerife B ganó pese a jugar 51 minutos más el añadido con diez.",
+    "slug": "2026-11-21-tenerife-b-tamaraceite"
+  }
+}

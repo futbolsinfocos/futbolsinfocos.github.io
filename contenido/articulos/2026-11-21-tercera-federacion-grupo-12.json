@@ -1,0 +1,692 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-12",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Estrella tumba 1-0 al líder Panadería Pulido en la jornada 12 del Grupo 12",
+  "entradilla": "El líder Panadería Pulido perdió 1-0 en casa del Estrella, que sube dos puestos hasta el noveno. El Villa Santa Brígida ganó 2-1 al Playas Sotavento y escala tres posiciones.",
+  "cuerpo_markdown": "El líder de la Tercera Federación, Grupo 12, cayó en la jornada 12 ante el Estrella por 1-0, con gol de Fede en el minuto 6. Mientras, el Villa Santa Brígida ganó 2-1 al Playas Sotavento con goles de Joni (21) y J. M. Perez (27), y Amis marcó de penalti en el 50 para el visitante.\n\n## Estrella 1-0 Panadería Pulido\n\nFede marcó en el minuto 6 y dio al Estrella su triunfo sobre el líder. Con esta victoria, el equipo local sube dos puestos, del 11.º al 9.º, con 16 puntos. El Panadería Pulido, que perdió su primer partido de la jornada, se mantiene primero con 26 puntos.\n\n## Villa Santa Brígida 2-1 Playas Sotavento\n\nJoni marcó en el minuto 21 y J. M. Perez en el 27, y Amis anotó de penalti en el 50 para el Playas Sotavento. El Villa Santa Brígida sube tres puestos, del 15.º al 12.º, con 13 puntos. El Playas Sotavento se mantiene 16.º con 7 puntos.\n\n## Así queda la clasificación\n\nEl Panadería Pulido encabeza la tabla con 26 puntos, igual que la UD San Fernando, segunda, con la misma diferencia de goles (+18). San Miguel y Real Unión de Tenerife suman 23 puntos. En la parte baja, el Villaverde Norte es 18.º con 5 puntos, a dos del Playas Sotavento (16.º, 7 puntos).",
+  "texto_instagram": "Jornada 12 en el Grupo 12: el Estrella derrota 1-0 al líder Panadería Pulido y el Villa Santa Brígida gana 2-1 al Playas Sotavento. ⚽\n\nEstrella 1-0 Panadería Pulido: Fede (6')\nVilla Santa Brígida 2-1 Playas Sotavento: Joni (21'), J. M. Perez (27') y Amis (50', penalti)",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo12",
+    "#Jornada12"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-12-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-12-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-12-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616169,
+      "fecha": "2026-11-21T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 12 - 12",
+      "liga_id": 450,
+      "id_local": 20275,
+      "id_visitante": 9800,
+      "local": "Estrella",
+      "visitante": "Panadería Pulido",
+      "escudo_local": "https://media.api-sports.io/football/teams/20275.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9800.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "Estrella",
+          "jugador": "Fede",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1616175,
+      "fecha": "2026-11-21T13:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 12 - 12",
+      "liga_id": 450,
+      "id_local": 9807,
+      "id_visitante": 25036,
+      "local": "Villa Santa Brígida",
+      "visitante": "Playas Sotavento",
+      "escudo_local": "https://media.api-sports.io/football/teams/9807.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/25036.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 21,
+          "equipo": "Villa Santa Brígida",
+          "jugador": "Joni",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 27,
+          "equipo": "Villa Santa Brígida",
+          "jugador": "J. M. Perez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 50,
+          "equipo": "Playas Sotavento",
+          "jugador": "Amis",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Panadería Pulido",
+      "pts": 26,
+      "pj": 12,
+      "dg": 18,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 34,
+      "gc": 16,
+      "forma": "LWWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9800.png",
+      "equipo_id": 9800,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 25,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD San Fernando",
+      "pts": 26,
+      "pj": 11,
+      "dg": 18,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 25,
+      "gc": 7,
+      "forma": "DWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9804.png",
+      "equipo_id": 9804,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "San Miguel",
+      "pts": 23,
+      "pj": 11,
+      "dg": 12,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 21,
+      "gc": 9,
+      "forma": "DWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/27623.png",
+      "equipo_id": 27623,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 16,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Unión de Tenerife",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 17,
+      "gc": 10,
+      "forma": "WWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20375.png",
+      "equipo_id": 20375,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Las Palmas C",
+      "pts": 19,
+      "pj": 11,
+      "dg": 9,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 22,
+      "gc": 13,
+      "forma": "WLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9798.png",
+      "equipo_id": 9798,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Unión Sur Yaiza",
+      "pts": 19,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 19,
+      "gc": 12,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17605.png",
+      "equipo_id": 17605,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Los Llanos",
+      "pts": 16,
+      "pj": 10,
+      "dg": 6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 4,
+      "gf": 15,
+      "gc": 9,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24611.png",
+      "equipo_id": 24611,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 13,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Marino",
+      "pts": 16,
+      "pj": 12,
+      "dg": 5,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 20,
+      "gc": 15,
+      "forma": "LDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9799.png",
+      "equipo_id": 9799,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Estrella",
+      "pts": 16,
+      "pj": 12,
+      "dg": -6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 14,
+      "gc": 20,
+      "forma": "WLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20275.png",
+      "equipo_id": 20275,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Tenerife C",
+      "pts": 15,
+      "pj": 10,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DLDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26851.png",
+      "equipo_id": 26851,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Mensajero",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 19,
+      "forma": "LDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5269.png",
+      "equipo_id": 5269,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Villa Santa Brígida",
+      "pts": 13,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "WLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9807.png",
+      "equipo_id": 9807,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Lanzarote",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 11,
+      "gc": 14,
+      "forma": "LDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9797.png",
+      "equipo_id": 9797,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Anaza",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 23,
+      "forma": "WLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28113.png",
+      "equipo_id": 28113,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "San Bartolomé",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 14,
+      "gc": 19,
+      "forma": "LLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22148.png",
+      "equipo_id": 22148,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Playas Sotavento",
+      "pts": 7,
+      "pj": 12,
+      "dg": -18,
+      "pg": 1,
+      "pe": 4,
+      "pp": 7,
+      "gf": 10,
+      "gc": 28,
+      "forma": "LWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25036.png",
+      "equipo_id": 25036,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Laguna de Duero",
+      "pts": 6,
+      "pj": 11,
+      "dg": -11,
+      "pg": 1,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 24,
+      "forma": "WDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22143.png",
+      "equipo_id": 22143,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Villaverde Norte",
+      "pts": 5,
+      "pj": 11,
+      "dg": -18,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 8,
+      "gc": 26,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28114.png",
+      "equipo_id": 28114,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 21
+      }
+    }
+  ],
+  "movimientos": {
+    "Panadería Pulido": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Estrella": {
+      "antes": 11,
+      "ahora": 9,
+      "cambio": "sube 2 puestos"
+    },
+    "Villa Santa Brígida": {
+      "antes": 15,
+      "ahora": 12,
+      "cambio": "sube 3 puestos"
+    },
+    "Playas Sotavento": {
+      "antes": 16,
+      "ahora": 16,
+      "cambio": "se mantiene"
+    }
+  }
+}

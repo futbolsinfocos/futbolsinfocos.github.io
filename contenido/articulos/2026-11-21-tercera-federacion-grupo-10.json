@@ -1,0 +1,663 @@
+{
+  "slug": "2026-11-21-tercera-federacion-grupo-10",
+  "fecha": "2026-11-21",
+  "etiqueta": "Tercera Federación · Grupo 10",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Betis C golea 4-0 al Utrera y sube al segundo puesto",
+  "entradilla": "Los verdiblancos firman un doblete de J. Rodriguez, con dos goles en los minutos 80 y 90, y escalan del cuarto al segundo puesto de la clasificación.",
+  "cuerpo_markdown": "El Betis C goleó 4-0 al Utrera en el Estadio de La Cartuja, en la Jornada 12 del Grupo 10 de Tercera Federación, y sube del cuarto al segundo puesto. El equipo sevillano iguala en puntos al líder, Dos Hermanas, con 23, aunque ha disputado un partido más.\n\n## Betis C 4-0 Utrera\n\nM. Castilla abrió el marcador en el minuto 34. M. H. Kamara amplió la ventaja de penalti en el 67. J. Rodriguez marcó en el 80 y volvió a hacerlo en el 90, en el descuento, para cerrar el 4-0. Con esta victoria, el Betis C sube dos puestos, del 4º al 2º, según la clasificación tras la jornada. El Utrera se mantiene en el 6º puesto con 19 puntos y encadena dos derrotas seguidas.\n\n## Así queda la clasificación\n\nDos Hermanas lidera con 23 puntos tras 11 partidos, empatado a puntos con el Betis C (2º, 12 partidos) y con el San Roque Lepe (3º, 23 puntos, 11 partidos). El San Roque llega con cinco victorias seguidas. El Portuense es 4º con 21 puntos. En la parte baja, el Bollullos ocupa el 18º puesto con 7 puntos y el Atlético Onubense es 17º con 8.",
+  "texto_instagram": "⚽ El Betis C golea 4-0 al Utrera en La Cartuja y sube al segundo puesto de la Tercera Federación, Grupo 10. Doblete de J. Rodriguez.\n\nBetis C 4-0 Utrera\nM. Castilla 34', M. H. Kamara 67' (penalti), J. Rodriguez 80' y 90'. 🔵⚪\n\n📊 Dos Hermanas sigue líder con 23 puntos, igual que el Betis C, que ha jugado un partido más.",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#BetisC",
+    "#Utrera",
+    "#Grupo10",
+    "#Jornada12",
+    "#FutbolBase"
+  ],
+  "imagenes": [
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-10-1.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-10-2.jpg",
+    "img/2026-11-21/2026-11-21-tercera-federacion-grupo-10-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615556,
+      "fecha": "2026-11-21T12:00:00+01:00",
+      "estadio": "Estadio de La Cartuja",
+      "ciudad": "Sevilla",
+      "arbitro": null,
+      "jornada": "Group 10 - 12",
+      "liga_id": 448,
+      "id_local": 28109,
+      "id_visitante": 9769,
+      "local": "Betis C",
+      "visitante": "Utrera",
+      "escudo_local": "https://media.api-sports.io/football/teams/28109.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9769.png",
+      "goles_local": 4,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 34,
+          "equipo": "Betis C",
+          "jugador": "M. Castilla",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 67,
+          "equipo": "Betis C",
+          "jugador": "M. H. Kamara",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 80,
+          "equipo": "Betis C",
+          "jugador": "J. Rodriguez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Betis C",
+          "jugador": "J. Rodriguez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Dos Hermanas",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 25,
+      "gc": 12,
+      "forma": "LDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26535.png",
+      "equipo_id": 26535,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 21,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Betis C",
+      "pts": 23,
+      "pj": 12,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 29,
+      "gc": 19,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28109.png",
+      "equipo_id": 28109,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "San Roque Lepe",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 17,
+      "gc": 10,
+      "forma": "WWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9767.png",
+      "equipo_id": 9767,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 5,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Portuense",
+      "pts": 21,
+      "pj": 11,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 19,
+      "gc": 10,
+      "forma": "DDWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28111.png",
+      "equipo_id": 28111,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Xerez Deportivo",
+      "pts": 19,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 14,
+      "gc": 12,
+      "forma": "DDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9771.png",
+      "equipo_id": 9771,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Utrera",
+      "pts": 19,
+      "pj": 11,
+      "dg": -3,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
+      "gc": 20,
+      "forma": "LWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9769.png",
+      "equipo_id": 9769,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Egabrense",
+      "pts": 17,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 21,
+      "gc": 17,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28110.png",
+      "equipo_id": 28110,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Tomares",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 12,
+      "gc": 12,
+      "forma": "LLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15528.png",
+      "equipo_id": 15528,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Pozoblanco",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9763.png",
+      "equipo_id": 9763,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Linense",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9596.png",
+      "equipo_id": 9596,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Ceuta B",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 17,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17596.png",
+      "equipo_id": 17596,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Chiclana",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 17,
+      "forma": "WLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/21905.png",
+      "equipo_id": 21905,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Conil",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 9,
+      "gc": 15,
+      "forma": "DLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9757.png",
+      "equipo_id": 9757,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cádiz B",
+      "pts": 10,
+      "pj": 11,
+      "dg": -1,
+      "pg": 1,
+      "pe": 7,
+      "pp": 3,
+      "gf": 7,
+      "gc": 8,
+      "forma": "DDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9598.png",
+      "equipo_id": 9598,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 2,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Córdoba B",
+      "pts": 10,
+      "pj": 10,
+      "dg": -2,
+      "pg": 2,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 13,
+      "forma": "WWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9759.png",
+      "equipo_id": 9759,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Sevilla C",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 13,
+      "gc": 20,
+      "forma": "DDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9768.png",
+      "equipo_id": 9768,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Onubense",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "LLLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24724.png",
+      "equipo_id": 24724,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Bollullos",
+      "pts": 7,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 10,
+      "gc": 16,
+      "forma": "LDDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20257.png",
+      "equipo_id": 20257,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      }
+    }
+  ],
+  "movimientos": {
+    "Betis C": {
+      "antes": 4,
+      "ahora": 2,
+      "cambio": "sube 2 puestos"
+    },
+    "Utrera": {
+      "antes": 6,
+      "ahora": 6,
+      "cambio": "se mantiene"
+    }
+  }
+}

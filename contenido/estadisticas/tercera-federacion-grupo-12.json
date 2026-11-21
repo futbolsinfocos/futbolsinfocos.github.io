@@ -4,16 +4,16 @@
   "goleadores": [],
   "tarjetas": [
     {
+      "equipo": "Anaza",
+      "escudo": "https://media.api-sports.io/football/teams/28113.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
       "equipo": "Villa Santa Brígida",
       "escudo": "https://media.api-sports.io/football/teams/9807.png",
       "amarillas": 0,
       "rojas": 2
-    },
-    {
-      "equipo": "Anaza",
-      "escudo": "https://media.api-sports.io/football/teams/28113.png",
-      "amarillas": 1,
-      "rojas": 1
     },
     {
       "equipo": "Laguna de Duero",
@@ -112,5 +112,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-20"
+  "fecha": "2026-11-21"
 }
