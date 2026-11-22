@@ -52,6 +52,12 @@
       "rojas": 1
     },
     {
+      "equipo": "Navalcarnero",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
       "equipo": "Numancia",
       "escudo": "https://media.api-sports.io/football/teams/717.png",
       "amarillas": 0,
@@ -96,12 +102,6 @@
     {
       "equipo": "Calvo Sotelo",
       "escudo": "https://media.api-sports.io/football/teams/9899.png",
-      "amarillas": 0,
-      "rojas": 0
-    },
-    {
-      "equipo": "Navalcarnero",
-      "escudo": "https://media.api-sports.io/football/teams/5271.png",
       "amarillas": 0,
       "rojas": 0
     },

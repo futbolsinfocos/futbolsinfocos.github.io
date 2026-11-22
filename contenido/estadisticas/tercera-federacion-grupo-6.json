@@ -34,6 +34,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Torrent",
+      "escudo": "https://media.api-sports.io/football/teams/15348.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
       "equipo": "Buñol",
       "escudo": "https://media.api-sports.io/football/teams/15524.png",
       "amarillas": 0,
@@ -48,12 +54,6 @@
     {
       "equipo": "Levante B",
       "escudo": "https://media.api-sports.io/football/teams/9591.png",
-      "amarillas": 1,
-      "rojas": 1
-    },
-    {
-      "equipo": "Torrent",
-      "escudo": "https://media.api-sports.io/football/teams/15348.png",
       "amarillas": 1,
       "rojas": 1
     },

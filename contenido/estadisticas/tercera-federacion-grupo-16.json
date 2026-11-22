@@ -16,6 +16,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Casalarreina",
+      "escudo": "https://media.api-sports.io/football/teams/9866.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
       "equipo": "Alfaro",
       "escudo": "https://media.api-sports.io/football/teams/9860.png",
       "amarillas": 1,
@@ -36,12 +42,6 @@
     {
       "equipo": "Calahorra",
       "escudo": "https://media.api-sports.io/football/teams/9581.png",
-      "amarillas": 0,
-      "rojas": 1
-    },
-    {
-      "equipo": "Casalarreina",
-      "escudo": "https://media.api-sports.io/football/teams/9866.png",
       "amarillas": 0,
       "rojas": 1
     },

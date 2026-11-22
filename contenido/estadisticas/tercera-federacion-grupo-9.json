@@ -16,6 +16,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Atlético Porcuna",
+      "escudo": "https://media.api-sports.io/football/teams/7523.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
       "equipo": "Cantoria",
       "escudo": "https://media.api-sports.io/football/teams/28108.png",
       "amarillas": 1,
@@ -44,12 +50,6 @@
       "escudo": "https://media.api-sports.io/football/teams/17558.png",
       "amarillas": 0,
       "rojas": 2
-    },
-    {
-      "equipo": "Atlético Porcuna",
-      "escudo": "https://media.api-sports.io/football/teams/7523.png",
-      "amarillas": 1,
-      "rojas": 1
     },
     {
       "equipo": "Melilla",

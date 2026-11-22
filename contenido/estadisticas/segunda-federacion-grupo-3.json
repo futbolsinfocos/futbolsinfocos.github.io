@@ -34,6 +34,12 @@
       "rojas": 3
     },
     {
+      "equipo": "Castellonense",
+      "escudo": "https://media.api-sports.io/football/teams/22138.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
       "equipo": "Intercity",
       "escudo": "https://media.api-sports.io/football/teams/8160.png",
       "amarillas": 1,
@@ -54,12 +60,6 @@
     {
       "equipo": "Alcoyano",
       "escudo": "https://media.api-sports.io/football/teams/9686.png",
-      "amarillas": 1,
-      "rojas": 1
-    },
-    {
-      "equipo": "Castellonense",
-      "escudo": "https://media.api-sports.io/football/teams/22138.png",
       "amarillas": 1,
       "rojas": 1
     },

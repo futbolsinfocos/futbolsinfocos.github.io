@@ -4,15 +4,15 @@
   "goleadores": [],
   "tarjetas": [
     {
+      "equipo": "Calamocha",
+      "escudo": "https://media.api-sports.io/football/teams/9885.png",
+      "amarillas": 2,
+      "rojas": 5
+    },
+    {
       "equipo": "Girona B",
       "escudo": "https://media.api-sports.io/football/teams/15343.png",
       "amarillas": 2,
-      "rojas": 3
-    },
-    {
-      "equipo": "Calamocha",
-      "escudo": "https://media.api-sports.io/football/teams/9885.png",
-      "amarillas": 1,
       "rojas": 3
     },
     {
@@ -46,6 +46,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Arnedo",
+      "escudo": "https://media.api-sports.io/football/teams/9862.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
       "equipo": "Náxara",
       "escudo": "https://media.api-sports.io/football/teams/9868.png",
       "amarillas": 0,
@@ -67,12 +73,6 @@
       "equipo": "Manresa",
       "escudo": "https://media.api-sports.io/football/teams/9675.png",
       "amarillas": 1,
-      "rojas": 1
-    },
-    {
-      "equipo": "Arnedo",
-      "escudo": "https://media.api-sports.io/football/teams/9862.png",
-      "amarillas": 0,
       "rojas": 1
     },
     {

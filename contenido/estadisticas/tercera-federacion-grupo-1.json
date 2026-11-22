@@ -10,6 +10,12 @@
       "rojas": 4
     },
     {
+      "equipo": "Arenteiro",
+      "escudo": "https://media.api-sports.io/football/teams/9604.png",
+      "amarillas": 0,
+      "rojas": 3
+    },
+    {
       "equipo": "Sarriana",
       "escudo": "https://media.api-sports.io/football/teams/22130.png",
       "amarillas": 2,
@@ -25,12 +31,6 @@
       "equipo": "Viveiro",
       "escudo": "https://media.api-sports.io/football/teams/15307.png",
       "amarillas": 1,
-      "rojas": 2
-    },
-    {
-      "equipo": "Arenteiro",
-      "escudo": "https://media.api-sports.io/football/teams/9604.png",
-      "amarillas": 0,
       "rojas": 2
     },
     {

@@ -4,34 +4,34 @@
   "goleadores": [],
   "tarjetas": [
     {
+      "equipo": "Unionistas de Salamanca",
+      "escudo": "https://media.api-sports.io/football/teams/5281.png",
+      "amarillas": 42,
+      "rojas": 5
+    },
+    {
       "equipo": "Ponferradina",
       "escudo": "https://media.api-sports.io/football/teams/4907.png",
       "amarillas": 45,
       "rojas": 3
     },
     {
-      "equipo": "Unionistas de Salamanca",
-      "escudo": "https://media.api-sports.io/football/teams/5281.png",
+      "equipo": "UD Logroñés",
+      "escudo": "https://media.api-sports.io/football/teams/5280.png",
       "amarillas": 37,
       "rojas": 5
+    },
+    {
+      "equipo": "UD Ourense",
+      "escudo": "https://media.api-sports.io/football/teams/9617.png",
+      "amarillas": 39,
+      "rojas": 4
     },
     {
       "equipo": "Mirandés",
       "escudo": "https://media.api-sports.io/football/teams/799.png",
       "amarillas": 43,
       "rojas": 2
-    },
-    {
-      "equipo": "UD Logroñés",
-      "escudo": "https://media.api-sports.io/football/teams/5280.png",
-      "amarillas": 33,
-      "rojas": 5
-    },
-    {
-      "equipo": "UD Ourense",
-      "escudo": "https://media.api-sports.io/football/teams/9617.png",
-      "amarillas": 36,
-      "rojas": 4
     },
     {
       "equipo": "Mérida AD",
@@ -46,21 +46,33 @@
       "rojas": 4
     },
     {
-      "equipo": "Pontevedra",
-      "escudo": "https://media.api-sports.io/football/teams/9407.png",
-      "amarillas": 32,
-      "rojas": 4
-    },
-    {
       "equipo": "Barakaldo",
       "escudo": "https://media.api-sports.io/football/teams/5251.png",
-      "amarillas": 34,
+      "amarillas": 36,
+      "rojas": 3
+    },
+    {
+      "equipo": "Cacereño",
+      "escudo": "https://media.api-sports.io/football/teams/9384.png",
+      "amarillas": 36,
       "rojas": 3
     },
     {
       "equipo": "Real Avilés",
       "escudo": "https://media.api-sports.io/football/teams/9632.png",
-      "amarillas": 31,
+      "amarillas": 33,
+      "rojas": 4
+    },
+    {
+      "equipo": "CD Coria",
+      "escudo": "https://media.api-sports.io/football/teams/9827.png",
+      "amarillas": 41,
+      "rojas": 1
+    },
+    {
+      "equipo": "Pontevedra",
+      "escudo": "https://media.api-sports.io/football/teams/9407.png",
+      "amarillas": 32,
       "rojas": 4
     },
     {
@@ -82,28 +94,22 @@
       "rojas": 2
     },
     {
-      "equipo": "CD Coria",
-      "escudo": "https://media.api-sports.io/football/teams/9827.png",
-      "amarillas": 35,
-      "rojas": 1
-    },
-    {
-      "equipo": "Cacereño",
-      "escudo": "https://media.api-sports.io/football/teams/9384.png",
-      "amarillas": 32,
-      "rojas": 2
-    },
-    {
       "equipo": "Cultural Leonesa",
       "escudo": "https://media.api-sports.io/football/teams/725.png",
-      "amarillas": 30,
+      "amarillas": 32,
       "rojas": 2
     },
     {
       "equipo": "Racing de Ferrol",
       "escudo": "https://media.api-sports.io/football/teams/9409.png",
-      "amarillas": 29,
-      "rojas": 1
+      "amarillas": 31,
+      "rojas": 2
+    },
+    {
+      "equipo": "Real Unión",
+      "escudo": "https://media.api-sports.io/football/teams/9586.png",
+      "amarillas": 31,
+      "rojas": 0
     },
     {
       "equipo": "Athletic Club B",
@@ -112,15 +118,9 @@
       "rojas": 2
     },
     {
-      "equipo": "Real Unión",
-      "escudo": "https://media.api-sports.io/football/teams/9586.png",
-      "amarillas": 28,
-      "rojas": 0
-    },
-    {
       "equipo": "Deportivo La Coruña B",
       "escudo": "https://media.api-sports.io/football/teams/9610.png",
-      "amarillas": 25,
+      "amarillas": 28,
       "rojas": 0
     }
   ],

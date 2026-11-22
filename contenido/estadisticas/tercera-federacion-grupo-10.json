@@ -28,6 +28,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Chiclana",
+      "escudo": "https://media.api-sports.io/football/teams/21905.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
       "equipo": "Conil",
       "escudo": "https://media.api-sports.io/football/teams/9757.png",
       "amarillas": 1,
@@ -49,12 +55,6 @@
       "equipo": "Utrera",
       "escudo": "https://media.api-sports.io/football/teams/9769.png",
       "amarillas": 1,
-      "rojas": 1
-    },
-    {
-      "equipo": "Chiclana",
-      "escudo": "https://media.api-sports.io/football/teams/21905.png",
-      "amarillas": 0,
       "rojas": 1
     },
     {

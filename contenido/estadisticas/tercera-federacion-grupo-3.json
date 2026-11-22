@@ -4,15 +4,15 @@
   "goleadores": [],
   "tarjetas": [
     {
-      "equipo": "Atlético Albericia",
-      "escudo": "https://media.api-sports.io/football/teams/9637.png",
-      "amarillas": 1,
-      "rojas": 3
-    },
-    {
       "equipo": "Castro",
       "escudo": "https://media.api-sports.io/football/teams/15336.png",
       "amarillas": 0,
+      "rojas": 4
+    },
+    {
+      "equipo": "Atlético Albericia",
+      "escudo": "https://media.api-sports.io/football/teams/9637.png",
+      "amarillas": 1,
       "rojas": 3
     },
     {
@@ -36,6 +36,12 @@
     {
       "equipo": "Bezana",
       "escudo": "https://media.api-sports.io/football/teams/9639.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cayón",
+      "escudo": "https://media.api-sports.io/football/teams/15339.png",
       "amarillas": 0,
       "rojas": 1
     },
@@ -66,12 +72,6 @@
     {
       "equipo": "Barquereño",
       "escudo": "https://media.api-sports.io/football/teams/8152.png",
-      "amarillas": 0,
-      "rojas": 0
-    },
-    {
-      "equipo": "Cayón",
-      "escudo": "https://media.api-sports.io/football/teams/15339.png",
       "amarillas": 0,
       "rojas": 0
     },

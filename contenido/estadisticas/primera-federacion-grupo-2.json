@@ -52,6 +52,12 @@
       "rojas": 2
     },
     {
+      "equipo": "Ibiza",
+      "escudo": "https://media.api-sports.io/football/teams/9390.png",
+      "amarillas": 40,
+      "rojas": 1
+    },
+    {
       "equipo": "Águilas",
       "escudo": "https://media.api-sports.io/football/teams/9823.png",
       "amarillas": 39,
@@ -64,28 +70,28 @@
       "rojas": 1
     },
     {
-      "equipo": "Ibiza",
-      "escudo": "https://media.api-sports.io/football/teams/9390.png",
-      "amarillas": 36,
-      "rojas": 1
-    },
-    {
       "equipo": "Sant Andreu",
       "escudo": "https://media.api-sports.io/football/teams/5277.png",
       "amarillas": 36,
       "rojas": 1
     },
     {
+      "equipo": "Huesca",
+      "escudo": "https://media.api-sports.io/football/teams/726.png",
+      "amarillas": 29,
+      "rojas": 3
+    },
+    {
+      "equipo": "Real Jaén",
+      "escudo": "https://media.api-sports.io/football/teams/5274.png",
+      "amarillas": 29,
+      "rojas": 3
+    },
+    {
       "equipo": "Juventud Torremolinos",
       "escudo": "https://media.api-sports.io/football/teams/15359.png",
       "amarillas": 31,
       "rojas": 2
-    },
-    {
-      "equipo": "Huesca",
-      "escudo": "https://media.api-sports.io/football/teams/726.png",
-      "amarillas": 27,
-      "rojas": 3
     },
     {
       "equipo": "Alcorcón",
@@ -100,22 +106,16 @@
       "rojas": 3
     },
     {
-      "equipo": "Real Jaén",
-      "escudo": "https://media.api-sports.io/football/teams/5274.png",
-      "amarillas": 27,
-      "rojas": 2
+      "equipo": "FC Cartagena",
+      "escudo": "https://media.api-sports.io/football/teams/5262.png",
+      "amarillas": 29,
+      "rojas": 1
     },
     {
       "equipo": "Europa Fc",
       "escudo": "https://media.api-sports.io/football/teams/593.png",
       "amarillas": 30,
       "rojas": 0
-    },
-    {
-      "equipo": "FC Cartagena",
-      "escudo": "https://media.api-sports.io/football/teams/5262.png",
-      "amarillas": 25,
-      "rojas": 1
     },
     {
       "equipo": "Real Madrid Castilla",

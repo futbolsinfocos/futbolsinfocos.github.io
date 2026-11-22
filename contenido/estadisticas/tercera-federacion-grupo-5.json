@@ -64,6 +64,12 @@
       "rojas": 1
     },
     {
+      "equipo": "Pobla Mafumet",
+      "escudo": "https://media.api-sports.io/football/teams/9677.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
       "equipo": "Cerdanyola del Vallès",
       "escudo": "https://media.api-sports.io/football/teams/9670.png",
       "amarillas": 0,
@@ -90,12 +96,6 @@
     {
       "equipo": "Montañesa",
       "escudo": "https://media.api-sports.io/football/teams/15345.png",
-      "amarillas": 0,
-      "rojas": 0
-    },
-    {
-      "equipo": "Pobla Mafumet",
-      "escudo": "https://media.api-sports.io/football/teams/9677.png",
       "amarillas": 0,
       "rojas": 0
     },

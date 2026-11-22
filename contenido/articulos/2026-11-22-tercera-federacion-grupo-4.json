@@ -5,15 +5,18 @@
   "competicion": "Tercera Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "El Santurtzi remonta al Erandio (2-1) y sube al puesto 15",
-  "entradilla": "Un gol de Erandio en el 63 no bastó: Niwa, en el 73, y Valle Garcia, en el 83, dieron la vuelta al marcador. El Santurtzi sube al 15.º puesto y el Erandio sigue en el 17.º, en zona de descenso, con 6 puntos.",
-  "cuerpo_markdown": "La única cita de la Jornada 12 del Grupo 4 de Tercera Federación dejó una remontada en Santurtzi. El conjunto local ganó 2-1 al Erandio tras empezar perdiendo, y con ese resultado sube un puesto en la tabla hasta el 15.º, con 12 puntos. El Erandio se queda en el 17.º, en zona de descenso, con 6 puntos y cinco derrotas seguidas.\n\n## Santurtzi 2-1 Erandio\n\nEl Erandio se adelantó en el minuto 63, con un gol que figura a nombre del propio equipo en el acta de goles. El Santurtzi reaccionó con dos tantos en diez minutos: D. Niwa marcó en el 73 y J. Valle Garcia, en el 83, firmó el definitivo. Con la victoria, el Santurtzi suma su cuarta victoria de la temporada y pasa a 12 puntos, mientras que el Erandio no sale de la última zona: sigue en el 17.º puesto con 6 puntos, a ocho de la salvación que ocupa el Lagun Onak (14 puntos, 14.º). Según los movimientos de la jornada, el Erandio se mantiene en el mismo puesto.\n\n## Así queda la clasificación\n\nEl Real Sociedad C encabeza la tabla con 24 puntos, por delante del Leioa (23) y del Aurrerá Vitoria (23), que ocupan la zona de play-off junto al Deportivo Alavés C y al Durango (21 puntos ambos). El Beasain (20) y el San Ignacio (18) quedan fuera de la zona. En la parte baja, el Pasaia KE (10 puntos, 16.º) y el Erandio (6, 17.º) están en descenso, y el Amurrio Club, con 1 punto y 11 partidos disputados, ocupa el último puesto.",
-  "texto_instagram": "⚽ Tercera Federación · Grupo 4, Jornada 12. El Santurtzi da la vuelta al Erandio y sube al 15.º puesto. El Erandio sigue en descenso, en el 17.º, con 6 puntos.\n\nSanturtzi 2-1 Erandio\nErandio: gol en el 63. Santurtzi: D. Niwa (73') y J. Valle Garcia (83'). 🔥",
+  "titular": "Santurtzi remonta al Erandio con dos goles en el tramo final y deja al rival en descenso",
+  "entradilla": "El Santurtzi da la vuelta al marcador con goles en el 73 y el 83 y el Erandio, que había marcado en el 63, sigue en la zona de descenso. Derio y Aretxabaleta suben en la tabla, mientras el Amurrio Club continúa como colista sin ganar.",
+  "cuerpo_markdown": "La undécima jornada del Grupo 4 de Tercera Federación deja tres partidos y un movimiento claro en la parte baja: el Santurtzi gana 2-1 al Erandio tras ir perdiendo, el Aretxabaleta suma tres puntos más en la tabla y el Derio sube al sexto puesto. El Amurrio Club, con un punto y 27 goles en contra, sigue en el último lugar.\n\n## Santurtzi 2-1 Erandio\n\nEl Erandio se adelantó en el 63 y el Santurtzi dio la vuelta al marcador con dos goles de D. Niwa en el 73 y de J. Valle Garcia en el 83. El Santurtzi sube del puesto 16 al 15 y suma 12 puntos, mientras el Erandio se mantiene en el 17 con 6 puntos, dentro de la zona de descenso.\n\n## Aretxabaleta 2-1 Sodupe\n\nEl Aretxabaleta gana 2-1 al Sodupe y sube del puesto 11 al 8, con 20 puntos. El Sodupe se mantiene en el 12 con 17 puntos.\n\n## Derio 1-0 Amurrio Club\n\nEl Derio gana 1-0 al Amurrio Club y sube del puesto 8 al 6, con 21 puntos. El Amurrio Club se mantiene en el 18, último, con 1 punto.\n\n## Así queda la clasificación\n\nLa Real Sociedad C lidera con 24 puntos tras cinco victorias seguidas, una de ellas en la última jornada, y es la única que ocupa la zona de ascenso. Leioa y Aurrerá Vitoria, con 23 puntos, ocupan el segundo y tercer puesto, y Deportivo Alavés C y Durango, con 21, completan la zona de play-off. El Derio, sexto con 21 puntos, empata en puntos con el Durango y queda fuera del play-off. En la parte baja, el Pasaia KE ocupa el puesto 16 con 10 puntos, a cuatro del Santurtzi, que está en el 15 con 12. El Erandio, con 6 puntos, y el Amurrio Club, con 1, completan el descenso.",
+  "texto_instagram": "Santurtzi remonta al Erandio con goles en el 73 y el 83 y el Derio sube al sexto puesto ⚽🔥\n\nSanturtzi 2-1 Erandio: Erandio 63' (gol del Erandio), D. Niwa 73', J. Valle Garcia 83'\nAretxabaleta 2-1 Sodupe: resultado sin goleadores registrados en la jornada\nDerio 1-0 Amurrio Club: resultado sin goleadores registrados en la jornada",
   "hashtags": [
-    "#TerceraFederación",
+    "#TerceraFederacion",
     "#Santurtzi",
     "#Erandio",
-    "#Grupo4"
+    "#Aretxabaleta",
+    "#Sodupe",
+    "#Derio",
+    "#AmurrioClub"
   ],
   "imagenes": [
     "img/2026-11-22/2026-11-22-tercera-federacion-grupo-4-1.jpg",
@@ -57,6 +60,48 @@
           "tipo": "Normal Goal"
         }
       ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1613728,
+      "fecha": "2026-11-22T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 442,
+      "id_local": 24571,
+      "id_visitante": 9666,
+      "local": "Aretxabaleta",
+      "visitante": "Sodupe",
+      "escudo_local": "https://media.api-sports.io/football/teams/24571.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9666.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1613721,
+      "fecha": "2026-11-22T17:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 442,
+      "id_local": 22135,
+      "id_visitante": 17315,
+      "local": "Derio",
+      "visitante": "Amurrio Club",
+      "escudo_local": "https://media.api-sports.io/football/teams/22135.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17315.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [],
       "rojas": [],
       "penaltis_fallados": [],
       "estadisticas": null
@@ -225,6 +270,38 @@
     },
     {
       "pos": 6,
+      "equipo": "Derio",
+      "pts": 21,
+      "pj": 12,
+      "dg": 3,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22135.png",
+      "equipo_id": 22135,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
       "equipo": "Beasain",
       "pts": 20,
       "pj": 12,
@@ -256,7 +333,39 @@
       }
     },
     {
-      "pos": 7,
+      "pos": 8,
+      "equipo": "Aretxabaleta",
+      "pts": 20,
+      "pj": 12,
+      "dg": -1,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 17,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24571.png",
+      "equipo_id": 24571,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
       "equipo": "San Ignacio",
       "pts": 18,
       "pj": 12,
@@ -288,39 +397,7 @@
       }
     },
     {
-      "pos": 8,
-      "equipo": "Derio",
-      "pts": 18,
-      "pj": 11,
-      "dg": 2,
-      "pg": 5,
-      "pe": 3,
-      "pp": 3,
-      "gf": 15,
-      "gc": 13,
-      "forma": "LLWWL",
-      "zona": "",
-      "escudo": "https://media.api-sports.io/football/teams/22135.png",
-      "equipo_id": 22135,
-      "casa": {
-        "pj": 5,
-        "pg": 3,
-        "pe": 1,
-        "pp": 1,
-        "gf": 8,
-        "gc": 4
-      },
-      "fuera": {
-        "pj": 6,
-        "pg": 2,
-        "pe": 2,
-        "pp": 2,
-        "gf": 7,
-        "gc": 9
-      }
-    },
-    {
-      "pos": 9,
+      "pos": 10,
       "equipo": "Touring",
       "pts": 18,
       "pj": 12,
@@ -352,7 +429,7 @@
       }
     },
     {
-      "pos": 10,
+      "pos": 11,
       "equipo": "Eibar C",
       "pts": 17,
       "pj": 12,
@@ -384,49 +461,17 @@
       }
     },
     {
-      "pos": 11,
-      "equipo": "Aretxabaleta",
-      "pts": 17,
-      "pj": 11,
-      "dg": -2,
-      "pg": 5,
-      "pe": 2,
-      "pp": 4,
-      "gf": 14,
-      "gc": 16,
-      "forma": "LLWLW",
-      "zona": "",
-      "escudo": "https://media.api-sports.io/football/teams/24571.png",
-      "equipo_id": 24571,
-      "casa": {
-        "pj": 5,
-        "pg": 1,
-        "pe": 1,
-        "pp": 3,
-        "gf": 5,
-        "gc": 9
-      },
-      "fuera": {
-        "pj": 6,
-        "pg": 4,
-        "pe": 1,
-        "pp": 1,
-        "gf": 9,
-        "gc": 7
-      }
-    },
-    {
       "pos": 12,
       "equipo": "Sodupe",
       "pts": 17,
-      "pj": 11,
-      "dg": -7,
+      "pj": 12,
+      "dg": -8,
       "pg": 5,
       "pe": 2,
-      "pp": 4,
-      "gf": 8,
-      "gc": 15,
-      "forma": "WWLLW",
+      "pp": 5,
+      "gf": 9,
+      "gc": 17,
+      "forma": "LWWLL",
       "zona": "",
       "escudo": "https://media.api-sports.io/football/teams/9666.png",
       "equipo_id": 9666,
@@ -439,12 +484,12 @@
         "gc": 7
       },
       "fuera": {
-        "pj": 5,
+        "pj": 6,
         "pg": 2,
         "pe": 1,
-        "pp": 2,
-        "gf": 4,
-        "gc": 8
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
       }
     },
     {
@@ -611,13 +656,13 @@
       "pos": 18,
       "equipo": "Amurrio Club",
       "pts": 1,
-      "pj": 11,
-      "dg": -23,
+      "pj": 12,
+      "dg": -24,
       "pg": 0,
       "pe": 1,
-      "pp": 10,
+      "pp": 11,
       "gf": 3,
-      "gc": 26,
+      "gc": 27,
       "forma": "LLLLL",
       "zona": "descenso",
       "escudo": "https://media.api-sports.io/football/teams/17315.png",
@@ -631,16 +676,31 @@
         "gc": 12
       },
       "fuera": {
-        "pj": 5,
+        "pj": 6,
         "pg": 0,
         "pe": 0,
-        "pp": 5,
+        "pp": 6,
         "gf": 1,
-        "gc": 14
+        "gc": 15
       }
     }
   ],
   "movimientos": {
+    "Derio": {
+      "antes": 8,
+      "ahora": 6,
+      "cambio": "sube 2 puestos"
+    },
+    "Aretxabaleta": {
+      "antes": 11,
+      "ahora": 8,
+      "cambio": "sube 3 puestos"
+    },
+    "Sodupe": {
+      "antes": 12,
+      "ahora": 12,
+      "cambio": "se mantiene"
+    },
     "Santurtzi": {
       "antes": 16,
       "ahora": 15,
@@ -649,6 +709,11 @@
     "Erandio": {
       "antes": 17,
       "ahora": 17,
+      "cambio": "se mantiene"
+    },
+    "Amurrio Club": {
+      "antes": 18,
+      "ahora": 18,
       "cambio": "se mantiene"
     }
   }

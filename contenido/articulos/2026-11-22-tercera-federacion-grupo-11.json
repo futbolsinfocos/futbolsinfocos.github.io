@@ -5,17 +5,17 @@
   "competicion": "Tercera Federación",
   "grupo": "espana",
   "prioridad": 2,
-  "titular": "El Cardassar sube al sexto puesto con una victoria en Formentera; el Mercadal gana 1-0 al Manacor",
-  "entradilla": "El Cardassar gana 1-2 en Formentera y sube cuatro puestos hasta el sexto. El Mercadal vence 1-0 al Manacor con un gol en el minuto 90 y el Manacor sigue cuarto.",
-  "cuerpo_markdown": "El Cardassar sube al sexto puesto tras ganar 2-1 en Formentera, y el Mercadal se impone 1-0 al Manacor con un gol en el minuto 90.\n\n## Formentera 1-2 Cardassar\n\nP. Parra marcó para el Formentera en el minuto 9. Joan empató para el Cardassar en el 12 y I. Ojeda adelantó a los visitantes en el 42. Con este resultado, el Cardassar sube cuatro puestos, del 10.º al 6.º, con 20 puntos. El Formentera se mantiene undécimo con 16 puntos.\n\n## Mercadal 1-0 Manacor\n\nEl Mercadal ganó 1-0 con un gol en el minuto 90. El Manacor se mantiene cuarto con 22 puntos, en zona de play-off, mientras el Mercadal sigue decimoquinto con 11 puntos.\n\n## Así queda la clasificación\n\nEl Ibiza Islas Pitiusas encabeza la tabla con 25 puntos, en zona de ascenso, seguido del Platges Calvià con 24 y el Constància con 23, ambos en play-off. El Manacor es cuarto con 22 y el Santanyí quinto con 20. El Cardassar, sexto, iguala los 20 puntos del Santanyí. En la parte baja, el Migjorn ocupa el 16.º puesto con 6 puntos, en descenso, y el Arenal y el Inter Ibiza, 17.º y 18.º, tienen 5 puntos.",
-  "texto_instagram": "El Cardassar sube al sexto puesto tras ganar 2-1 en Formentera, y el Mercadal gana 1-0 al Manacor con gol en el 90. ⚽\n\nFormentera 1-2 Cardassar: P. Parra (9'), Joan (12') y I. Ojeda (42').\nMercadal 1-0 Manacor: gol de Mercadal (90'). 🏆",
+  "titular": "Porreres asalta el cuarto puesto y el Ibiza pierde su primer partido liguero",
+  "entradilla": "El Ibiza Islas Pitiusas cae 1-0 ante el Porreres y sigue líder con 25 puntos. Cardassar gana en Formentera y sube tres puestos hasta el séptimo.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 11 deja el primer tropiezo del líder: el Ibiza Islas Pitiusas perdió 1-0 en Porreres y sigue en cabeza con 25 puntos. El Porreres, con el gol de I. Martinez en el 52, sube al cuarto puesto con 22 puntos. En el otro partido con movimientos en la tabla, el Cardassar ganó 2-1 en Formentera y pasa del décimo al séptimo puesto.\n\n## Porreres 1-0 Ibiza Islas Pitiusas\n\nI. Martinez marcó en el minuto 52 y dio al Porreres su victoria sobre el líder. El Ibiza sigue primero con 25 puntos, pero ya no es imbatido: es su primera derrota de la temporada en liga. El Porreres sube tres puestos, hasta el cuarto, con 22 puntos, y se queda a tres de la cabeza.\n\n## Formentera 1-2 Cardassar\n\nP. Parra abrió el marcador para el Formentera en el minuto 9. Joan igualó para el Cardassar en el 12 y I. Ojeda dio la vuelta al marcador en el 42. El Cardassar sube tres puestos, hasta el séptimo, con 20 puntos. El Formentera se mantiene undécimo con 16 puntos.\n\n## Mercadal 1-0 Manacor\n\nEl Mercadal ganó 1-0 al Manacor con un gol en el minuto 90. El Manacor baja un puesto, hasta el quinto, con 21 puntos, y sigue en zona de playoff. El Mercadal se mantiene decimoquinto con 13 puntos.\n\n## Así queda la clasificación\n\nEl Ibiza Islas Pitiusas encabeza la tabla con 25 puntos, por delante del Platges Calvià (24), el Constància (23), el Porreres (22) y el Manacor (21), que cierran la zona de playoff. Santanyí, Cardassar y PE Sant Jordi, con 20 puntos, están a un punto del quinto. En la parte baja, el Migjorn ocupa el decimosexto puesto con 6 puntos, a uno del Arenal, y el Arenal y el Inter Ibiza, con 5, cierran la tabla en la zona de descenso.",
+  "texto_instagram": "⚽ El Porreres gana 1-0 al Ibiza y el líder pierde su primer partido. Cardassar, séptimo tras ganar en Formentera.\n\nPorreres 1-0 Ibiza Islas Pitiusas: I. Martinez (52')\nFormentera 1-2 Cardassar: P. Parra (9'); Joan (12'), I. Ojeda (42')\nMercadal 1-0 Manacor: gol en el 90'\n\nClasificación: el Ibiza sigue líder con 25 puntos. 🏆",
   "hashtags": [
-    "#TerceraFederacion",
+    "#TerceraFederación",
+    "#Grupo11",
+    "#Baleares",
+    "#Porreres",
     "#Cardassar",
-    "#Formentera",
-    "#Mercadal",
-    "#Manacor",
-    "#FutbolBalear"
+    "#IbizaIslasPitiusas"
   ],
   "imagenes": [
     "img/2026-11-22/2026-11-22-tercera-federacion-grupo-11-1.jpg",
@@ -90,6 +90,34 @@
       "rojas": [],
       "penaltis_fallados": [],
       "estadisticas": null
+    },
+    {
+      "id": 1615869,
+      "fecha": "2026-11-22T16:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 12",
+      "liga_id": 449,
+      "id_local": 24580,
+      "id_visitante": 9781,
+      "local": "Porreres",
+      "visitante": "Ibiza Islas Pitiusas",
+      "escudo_local": "https://media.api-sports.io/football/teams/24580.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9781.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 52,
+          "equipo": "Porreres",
+          "jugador": "I. Martinez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
     }
   ],
   "clasificacion": [
@@ -97,14 +125,14 @@
       "pos": 1,
       "equipo": "Ibiza Islas Pitiusas",
       "pts": 25,
-      "pj": 11,
-      "dg": 14,
+      "pj": 12,
+      "dg": 13,
       "pg": 7,
       "pe": 4,
-      "pp": 0,
+      "pp": 1,
       "gf": 17,
-      "gc": 3,
-      "forma": "DWWDD",
+      "gc": 4,
+      "forma": "LDWWD",
       "zona": "ascenso",
       "escudo": "https://media.api-sports.io/football/teams/9781.png",
       "equipo_id": 9781,
@@ -117,12 +145,12 @@
         "gc": 2
       },
       "fuera": {
-        "pj": 5,
+        "pj": 6,
         "pg": 3,
         "pe": 2,
-        "pp": 0,
+        "pp": 1,
         "gf": 9,
-        "gc": 1
+        "gc": 2
       }
     },
     {
@@ -191,16 +219,48 @@
     },
     {
       "pos": 4,
-      "equipo": "Manacor",
+      "equipo": "Porreres",
       "pts": 22,
       "pj": 12,
-      "dg": 11,
-      "pg": 6,
-      "pe": 4,
-      "pp": 2,
-      "gf": 22,
+      "dg": 6,
+      "pg": 7,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
       "gc": 11,
-      "forma": "DLWDD",
+      "forma": "WDLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24580.png",
+      "equipo_id": 24580,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Manacor",
+      "pts": 21,
+      "pj": 12,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 12,
+      "forma": "LLWDD",
       "zona": "playoff",
       "escudo": "https://media.api-sports.io/football/teams/9784.png",
       "equipo_id": 9784,
@@ -215,14 +275,14 @@
       "fuera": {
         "pj": 6,
         "pg": 2,
-        "pe": 3,
-        "pp": 1,
+        "pe": 2,
+        "pp": 2,
         "gf": 9,
-        "gc": 6
+        "gc": 7
       }
     },
     {
-      "pos": 5,
+      "pos": 6,
       "equipo": "Santanyí",
       "pts": 20,
       "pj": 12,
@@ -233,7 +293,7 @@
       "gf": 18,
       "gc": 10,
       "forma": "WLWLD",
-      "zona": "playoff",
+      "zona": "",
       "escudo": "https://media.api-sports.io/football/teams/9789.png",
       "equipo_id": 9789,
       "casa": {
@@ -254,7 +314,7 @@
       }
     },
     {
-      "pos": 6,
+      "pos": 7,
       "equipo": "Cardassar",
       "pts": 20,
       "pj": 12,
@@ -286,7 +346,7 @@
       }
     },
     {
-      "pos": 7,
+      "pos": 8,
       "equipo": "PE Sant Jordi",
       "pts": 20,
       "pj": 12,
@@ -315,38 +375,6 @@
         "pp": 2,
         "gf": 10,
         "gc": 9
-      }
-    },
-    {
-      "pos": 8,
-      "equipo": "Porreres",
-      "pts": 19,
-      "pj": 11,
-      "dg": 5,
-      "pg": 6,
-      "pe": 1,
-      "pp": 4,
-      "gf": 16,
-      "gc": 11,
-      "forma": "DLWWW",
-      "zona": "",
-      "escudo": "https://media.api-sports.io/football/teams/24580.png",
-      "equipo_id": 24580,
-      "casa": {
-        "pj": 6,
-        "pg": 4,
-        "pe": 0,
-        "pp": 2,
-        "gf": 7,
-        "gc": 4
-      },
-      "fuera": {
-        "pj": 5,
-        "pg": 2,
-        "pe": 1,
-        "pp": 2,
-        "gf": 9,
-        "gc": 7
       }
     },
     {
@@ -544,24 +572,24 @@
     {
       "pos": 15,
       "equipo": "Mercadal",
-      "pts": 11,
+      "pts": 13,
       "pj": 12,
-      "dg": -7,
-      "pg": 2,
-      "pe": 5,
+      "dg": -6,
+      "pg": 3,
+      "pe": 4,
       "pp": 5,
-      "gf": 11,
+      "gf": 12,
       "gc": 18,
-      "forma": "DDDLL",
+      "forma": "WDDLL",
       "zona": "",
       "escudo": "https://media.api-sports.io/football/teams/17599.png",
       "equipo_id": 17599,
       "casa": {
         "pj": 6,
-        "pg": 0,
-        "pe": 3,
+        "pg": 1,
+        "pe": 2,
         "pp": 3,
-        "gf": 5,
+        "gf": 6,
         "gc": 12
       },
       "fuera": {
@@ -671,15 +699,25 @@
     }
   ],
   "movimientos": {
+    "Ibiza Islas Pitiusas": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Porreres": {
+      "antes": 7,
+      "ahora": 4,
+      "cambio": "sube 3 puestos"
+    },
     "Manacor": {
       "antes": 4,
-      "ahora": 4,
-      "cambio": "se mantiene"
+      "ahora": 5,
+      "cambio": "baja 1 puesto"
     },
     "Cardassar": {
       "antes": 10,
-      "ahora": 6,
-      "cambio": "sube 4 puestos"
+      "ahora": 7,
+      "cambio": "sube 3 puestos"
     },
     "Formentera": {
       "antes": 11,
