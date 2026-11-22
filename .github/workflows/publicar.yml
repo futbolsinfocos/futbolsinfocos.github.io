@@ -27,9 +27,9 @@ permissions:
 concurrency: publicar
 
 jobs:
+  # 1) Preparar la web y dejar el paquete subido
   web:
     runs-on: ubuntu-latest
-    environment: {name: github-pages, url: "${{ steps.d.outputs.page_url }}"}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -38,11 +38,24 @@ jobs:
       - run: python -m pipeline web
       - uses: actions/upload-pages-artifact@v3
         with: {path: _site}
+
+  # 2) Publicarla, en un paso aparte (como recomienda GitHub): a veces GitHub tarda en "ver" el paquete
+  desplegar:
+    needs: web
+    runs-on: ubuntu-latest
+    environment: {name: github-pages, url: "${{ steps.d.outputs.page_url || steps.d2.outputs.page_url }}"}
+    steps:
       - id: d
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - if: steps.d.outcome == 'failure'
+        run: sleep 60
+      - id: d2
+        if: steps.d.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
   instagram:
-    needs: web
+    needs: desplegar
     if: ${{ !inputs.solo_web }}
     runs-on: ubuntu-latest
     steps:
