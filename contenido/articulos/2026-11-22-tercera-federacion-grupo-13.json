@@ -1,0 +1,752 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-13",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 13",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Santomera golea al Alcantarilla y sigue líder; el Santa Cruz sube al segundo puesto",
+  "entradilla": "El Santomera suma su tercera victoria seguida con un 3-0 al Alcantarilla, que falló un penalti. El Santa Cruz gana 3-0 en Los Garres y sube al segundo puesto.",
+  "cuerpo_markdown": "El Santomera sigue líder del Grupo 13 tras golear 3-0 al Alcantarilla. El Santa Cruz sube al segundo puesto con su 3-0 en Los Garres y el Mazarrón FC sube tres puestos tras ganar 1-0 al Cartagena LU B.\n\n## Santomera 3-0 Alcantarilla\n\nEl Santomera marcó en el 33 por medio de Baro Moreno, en el 45 con gol de J. Pastor y en el 84 con gol de E. Lopez Moreno. El Alcantarilla falló un penalti en el 39. El Santomera mantiene el primer puesto con 29 puntos y su racha es de tres victorias seguidas. El Alcantarilla baja del quinto al sexto puesto, con 18 puntos.\n\n## Los Garres 0-3 Santa Cruz\n\nEl Santa Cruz marcó en el 40, en el 42 y en el 82. Los tres goles son del Santa Cruz y no hubo expulsiones. El Santa Cruz sube del tercer al segundo puesto, con 24 puntos, y está en zona de playoff. Los Garres se mantiene en el puesto 11 con 15 puntos.\n\n## Cartagena LU B 0-1 Mazarrón FC\n\nEl Mazarrón FC marcó en el 59 por medio de Feli. El Mazarrón sube del puesto 15 al 12, con 13 puntos. El Cartagena LU B baja del puesto 13 al 14, con 11 puntos.\n\n## Así queda la clasificación\n\nEl Santomera lidera con 29 puntos, cinco más que el Santa Cruz, segundo con 24. La zona de playoff va del segundo al quinto puesto, y el Unión Molinense cierra esa zona con 18 puntos. En la parte baja, el SFC Minerva ocupa el puesto 15 con 11 puntos y está en descenso. Detrás están el Cotillas CD, con 10, el Algar, con 9, y el Bullas Deportivo, último con 5 puntos.",
+  "texto_instagram": "Jornada 12 del Grupo 13 de Tercera. El Santomera sigue líder tras golear 3-0 al Alcantarilla y el Santa Cruz sube al segundo puesto con su 3-0 en Los Garres. ⚽🏆\n\nSantomera 3-0 Alcantarilla: Baro Moreno (33'), J. Pastor (45'), E. Lopez Moreno (84'). Penalti fallado por el Alcantarilla en el 39'.\nLos Garres 0-3 Santa Cruz: goles en el 40', 42' y 82'.\nCartagena LU B 0-1 Mazarrón FC: Feli (59').\n\n📊 Clasificación completa en nuestra web. 🔝",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo13",
+    "#Santomera",
+    "#SantaCruz",
+    "#Mazarron",
+    "#Alcantarilla",
+    "#LosGarres"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-13-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-13-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-13-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616480,
+      "fecha": "2026-11-22T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 13 - 12",
+      "liga_id": 451,
+      "id_local": 24655,
+      "id_visitante": 20276,
+      "local": "Santomera",
+      "visitante": "Alcantarilla",
+      "escudo_local": "https://media.api-sports.io/football/teams/24655.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20276.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 33,
+          "equipo": "Santomera",
+          "jugador": "Baro Moreno",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Santomera",
+          "jugador": "J. Pastor",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 84,
+          "equipo": "Santomera",
+          "jugador": "E. Lopez Moreno",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 39,
+          "equipo": "Alcantarilla",
+          "jugador": null
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1616477,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 13 - 12",
+      "liga_id": 451,
+      "id_local": 17715,
+      "id_visitante": 9816,
+      "local": "Cartagena LU B",
+      "visitante": "Mazarrón FC",
+      "escudo_local": "https://media.api-sports.io/football/teams/17715.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9816.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 59,
+          "equipo": "Mazarrón FC",
+          "jugador": "Feli",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1616482,
+      "fecha": "2026-11-22T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 13 - 12",
+      "liga_id": 451,
+      "id_local": 9814,
+      "id_visitante": 26850,
+      "local": "Los Garres",
+      "visitante": "Santa Cruz",
+      "escudo_local": "https://media.api-sports.io/football/teams/9814.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26850.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 40,
+          "equipo": "Santa Cruz",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 42,
+          "equipo": "Santa Cruz",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 82,
+          "equipo": "Santa Cruz",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Santomera",
+      "pts": 29,
+      "pj": 12,
+      "dg": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 27,
+      "gc": 12,
+      "forma": "WDLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/24655.png",
+      "equipo_id": 24655,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 15,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Santa Cruz",
+      "pts": 24,
+      "pj": 12,
+      "dg": 7,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 13,
+      "forma": "WLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/26850.png",
+      "equipo_id": 26850,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Águilas B",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13,
+      "pg": 6,
+      "pe": 5,
+      "pp": 0,
+      "gf": 19,
+      "gc": 6,
+      "forma": "WWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24656.png",
+      "equipo_id": 24656,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "San Javier",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 17,
+      "gc": 13,
+      "forma": "WDDDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/28116.png",
+      "equipo_id": 28116,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 9,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Unión Molinense",
+      "pts": 18,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 19,
+      "gc": 14,
+      "forma": "WLWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/20278.png",
+      "equipo_id": 20278,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Alcantarilla",
+      "pts": 18,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 13,
+      "forma": "LWWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20276.png",
+      "equipo_id": 20276,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Bala Azul",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 15,
+      "gc": 10,
+      "forma": "WDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17607.png",
+      "equipo_id": 17607,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "UCAM Murcia B",
+      "pts": 15,
+      "pj": 11,
+      "dg": 5,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 13,
+      "forma": "LLDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9822.png",
+      "equipo_id": 9822,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Pulpileño",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "WDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9808.png",
+      "equipo_id": 9808,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Olímpico Totana",
+      "pts": 15,
+      "pj": 11,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 14,
+      "gc": 14,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9818.png",
+      "equipo_id": 9818,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Los Garres",
+      "pts": 15,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 12,
+      "gc": 15,
+      "forma": "LLDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9814.png",
+      "equipo_id": 9814,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Mazarrón FC",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 18,
+      "gc": 19,
+      "forma": "WWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9816.png",
+      "equipo_id": 9816,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Balsicas Atlético",
+      "pts": 13,
+      "pj": 11,
+      "dg": -6,
+      "pg": 4,
+      "pe": 1,
+      "pp": 6,
+      "gf": 13,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22180.png",
+      "equipo_id": 22180,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cartagena LU B",
+      "pts": 11,
+      "pj": 12,
+      "dg": -4,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 16,
+      "gc": 20,
+      "forma": "LDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17715.png",
+      "equipo_id": 17715,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 9,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "SFC Minerva",
+      "pts": 11,
+      "pj": 11,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 7,
+      "gc": 14,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9821.png",
+      "equipo_id": 9821,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Cotillas CD",
+      "pts": 10,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 10,
+      "gc": 16,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28418.png",
+      "equipo_id": 28418,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Algar",
+      "pts": 9,
+      "pj": 11,
+      "dg": -17,
+      "pg": 3,
+      "pe": 0,
+      "pp": 8,
+      "gf": 7,
+      "gc": 24,
+      "forma": "LWLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/20438.png",
+      "equipo_id": 20438,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Bullas Deportivo",
+      "pts": 5,
+      "pj": 11,
+      "dg": -16,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 10,
+      "gc": 26,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28115.png",
+      "equipo_id": 28115,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 14
+      }
+    }
+  ],
+  "movimientos": {
+    "Santomera": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Santa Cruz": {
+      "antes": 3,
+      "ahora": 2,
+      "cambio": "sube 1 puesto"
+    },
+    "Alcantarilla": {
+      "antes": 5,
+      "ahora": 6,
+      "cambio": "baja 1 puesto"
+    },
+    "Los Garres": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Mazarrón FC": {
+      "antes": 15,
+      "ahora": 12,
+      "cambio": "sube 3 puestos"
+    },
+    "Cartagena LU B": {
+      "antes": 13,
+      "ahora": 14,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}

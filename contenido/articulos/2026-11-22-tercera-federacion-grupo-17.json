@@ -1,0 +1,804 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-17",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 17",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Robres gana 4-2 en el CD Sietamo y sube al 16 de la tabla",
+  "entradilla": "El Robres suma su segunda victoria de la jornada 12 del Grupo 17 y sale del 17. El Cuarte gana al Binéfar y sube al segundo puesto, con 22 puntos y en zona de playoff.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 17 de Tercera Federación deja cuatro partidos, 13 goles y dos cambios destacados en la zona alta y baja. El Robres gana 4-2 en el campo del CD Sietamo y sube un puesto, al 16, con 11 puntos, todavía en zona de descenso. El Cuarte, con dos goles en la segunda parte, se impone al Binéfar y sube al segundo puesto.\n\n## CD Sietamo 2-4 Robres\n\nEl Robres gana 4-2 y sube del 17 al 16 con 11 puntos, en zona de descenso. Marcan Riva Fer (16') para el Robres, P. Calvo Martinez (22') y H. Bautista (43') para el Sietamo, R. Caicedo de penalti (44') y T. Fofana (71') para el Robres, y C. G. De Brito Lopes (89') para el Robres. El CD Sietamo baja del 13 al 14 con 13 puntos.\n\n## Cuarte 2-0 Binéfar\n\nEl Cuarte marca en el 56' y en el 90' y sube del tercer al segundo puesto, con 22 puntos y en zona de playoff. El Binéfar se mantiene undécimo con 14 puntos.\n\n## Illueca 1-0 Fraga\n\nJ. Pelegrin marca en el 7' para el Illueca, que sube tres puestos, del 15 al 12, con 14 puntos. El Fraga se mantiene décimo con 15 puntos.\n\n## Ejea 1-1 Huesca B\n\nEl Ejea marca en el 28' y el Huesca B empata en el 67'. El Ejea baja del 2 al 3 con 22 puntos, en zona de playoff. El Huesca B se mantiene séptimo con 18 puntos.\n\n## Así queda la clasificación\n\nEl Real Zaragoza B lidera con 24 puntos y está en zona de ascenso. Cuarte y Ejea comparten 22 puntos en segunda y tercera posición, y la zona de playoff llega hasta el Caspe, quinto con 18 puntos, tras el La Almunia, cuarto con 19. Brea y Huesca B, sextos y séptimos con 18 puntos, quedan fuera de zona. En la parte baja, el Robres ocupa el 16 con 11 puntos, dos por encima del CDJ Tamarite, 17.º con 9, y una por debajo del Andorra CF, 15.º con 12. El Belchite 97 cierra la tabla con 5 puntos.",
+  "texto_instagram": "Robres gana 4-2 al CD Sietamo y sube al 16. El Cuarte se impone al Binéfar y pasa al segundo puesto. ⚽🔥\nCD Sietamo 2-4 Robres: Robres: Riva Fer 16', R. Caicedo 44' (p), T. Fofana 71', C. G. De Brito Lopes 89'. Sietamo: P. Calvo Martinez 22', H. Bautista 43'.\nCuarte 2-0 Binéfar: Cuarte 56', 90'.\nIlleuca 1-0 Fraga: J. Pelegrin 7'.\nEjea 1-1 Huesca B: Ejea 28', Huesca B 67'. 📊",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo17",
+    "#Robres",
+    "#CDSietamo",
+    "#Cuarte",
+    "#Illueca",
+    "#Ejea",
+    "#HuescaB"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-17-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-17-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-17-3.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-17-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617701,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 12",
+      "liga_id": 455,
+      "id_local": 28122,
+      "id_visitante": 9888,
+      "local": "CD Sietamo",
+      "visitante": "Robres",
+      "escudo_local": "https://media.api-sports.io/football/teams/28122.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9888.png",
+      "goles_local": 2,
+      "goles_visitante": 4,
+      "goleadores": [
+        {
+          "min": 16,
+          "equipo": "Robres",
+          "jugador": "Riva Fer",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 22,
+          "equipo": "CD Sietamo",
+          "jugador": "P. Calvo Martinez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 43,
+          "equipo": "CD Sietamo",
+          "jugador": "H. Bautista",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 44,
+          "equipo": "Robres",
+          "jugador": "R. Caicedo",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 71,
+          "equipo": "Robres",
+          "jugador": "T. Fofana",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Robres",
+          "jugador": "C. G. De Brito Lopes",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1617702,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 12",
+      "liga_id": 455,
+      "id_local": 9391,
+      "id_visitante": 8158,
+      "local": "Illueca",
+      "visitante": "Fraga",
+      "escudo_local": "https://media.api-sports.io/football/teams/9391.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/8158.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 7,
+          "equipo": "Illueca",
+          "jugador": "J. Pelegrin",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1617703,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 12",
+      "liga_id": 455,
+      "id_local": 9886,
+      "id_visitante": 9881,
+      "local": "Cuarte",
+      "visitante": "Binéfar",
+      "escudo_local": "https://media.api-sports.io/football/teams/9886.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9881.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 56,
+          "equipo": "Cuarte",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Cuarte",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1617704,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 17 - 12",
+      "liga_id": 455,
+      "id_local": 9589,
+      "id_visitante": 15327,
+      "local": "Ejea",
+      "visitante": "Huesca B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9589.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15327.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 28,
+          "equipo": "Ejea",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 67,
+          "equipo": "Huesca B",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Real Zaragoza B",
+      "pts": 24,
+      "pj": 11,
+      "dg": 14,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 22,
+      "gc": 8,
+      "forma": "DWDWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9887.png",
+      "equipo_id": 9887,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 16,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Cuarte",
+      "pts": 22,
+      "pj": 12,
+      "dg": 10,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 22,
+      "gc": 12,
+      "forma": "WDWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9886.png",
+      "equipo_id": 9886,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Ejea",
+      "pts": 22,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 21,
+      "gc": 15,
+      "forma": "DDWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9589.png",
+      "equipo_id": 9589,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "La Almunia",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
+      "gc": 14,
+      "forma": "WLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/20287.png",
+      "equipo_id": 20287,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Caspe",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6,
+      "pg": 4,
+      "pe": 6,
+      "pp": 1,
+      "gf": 19,
+      "gc": 13,
+      "forma": "WDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17615.png",
+      "equipo_id": 17615,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Brea",
+      "pts": 18,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 13,
+      "gc": 8,
+      "forma": "LLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9883.png",
+      "equipo_id": 9883,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Huesca B",
+      "pts": 18,
+      "pj": 12,
+      "dg": 5,
+      "pg": 4,
+      "pe": 6,
+      "pp": 2,
+      "gf": 13,
+      "gc": 8,
+      "forma": "DWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15327.png",
+      "equipo_id": 15327,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Atlético Monzón",
+      "pts": 17,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 21,
+      "forma": "DDWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9878.png",
+      "equipo_id": 9878,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 14,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Almudévar",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 10,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9877.png",
+      "equipo_id": 9877,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Fraga",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8158.png",
+      "equipo_id": 8158,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Binéfar",
+      "pts": 14,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 18,
+      "gc": 19,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9881.png",
+      "equipo_id": 9881,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 13,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Illueca",
+      "pts": 14,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 14,
+      "gc": 17,
+      "forma": "WLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9391.png",
+      "equipo_id": 9391,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Épila",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15329.png",
+      "equipo_id": 15329,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "CD Sietamo",
+      "pts": 13,
+      "pj": 12,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 17,
+      "gc": 20,
+      "forma": "LLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28122.png",
+      "equipo_id": 28122,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Andorra CF",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 12,
+      "gc": 18,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17498.png",
+      "equipo_id": 17498,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Robres",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 17,
+      "gc": 24,
+      "forma": "WWDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9888.png",
+      "equipo_id": 9888,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "CDJ Tamarite",
+      "pts": 9,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 0,
+      "pp": 8,
+      "gf": 15,
+      "gc": 25,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9884.png",
+      "equipo_id": 9884,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Belchite 97",
+      "pts": 5,
+      "pj": 12,
+      "dg": -16,
+      "pg": 0,
+      "pe": 5,
+      "pp": 7,
+      "gf": 8,
+      "gc": 24,
+      "forma": "DLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9880.png",
+      "equipo_id": 9880,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 3,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Cuarte": {
+      "antes": 3,
+      "ahora": 2,
+      "cambio": "sube 1 puesto"
+    },
+    "Ejea": {
+      "antes": 2,
+      "ahora": 3,
+      "cambio": "baja 1 puesto"
+    },
+    "Huesca B": {
+      "antes": 7,
+      "ahora": 7,
+      "cambio": "se mantiene"
+    },
+    "Fraga": {
+      "antes": 10,
+      "ahora": 10,
+      "cambio": "se mantiene"
+    },
+    "Binéfar": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Illueca": {
+      "antes": 15,
+      "ahora": 12,
+      "cambio": "sube 3 puestos"
+    },
+    "CD Sietamo": {
+      "antes": 13,
+      "ahora": 14,
+      "cambio": "baja 1 puesto"
+    },
+    "Robres": {
+      "antes": 17,
+      "ahora": 16,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

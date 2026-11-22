@@ -1,0 +1,846 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-10",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 10",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Xerez Deportivo golea 6-2 al Pozoblanco y sube al quinto puesto",
+  "entradilla": "El Xerez firma la goleada de la jornada en el Grupo 10 de Tercera Federación y sube dos puestos. Tomares gana en Chiclana con diez hombres tras la expulsión de la nota 9 y Córdoba B, Sevilla C y Portuense completan la jornada.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 10 deja la goleada del Xerez Deportivo al Pozoblanco (6-2), que le permite subir hasta el quinto puesto con 19 puntos. Tomares se impone en Chiclana (0-2) y sube al octavo puesto, mientras Sevilla C gana a Linense y sube dos puestos hasta el 16.\n\n## Xerez Deportivo 6-2 Pozoblanco\n\nEl Xerez abrió el marcador en el 19 con gol de P. Platero y ya ganaba 2-0 en el 36 gracias a A. Diawara. El Pozoblanco recortó con un penalti de Alvarito en el 39 y un gol de A. Gomez en el 54, pero el Xerez respondió con los tantos de J. Bachuri en el 58 y el 67, P. Platero en el 77 y R. Moreno en el 89. Es una goleada de cuatro goles de diferencia. El Xerez sube dos puestos, del séptimo al quinto, con 19 puntos. El Pozoblanco se mantiene en el décimo puesto con 13 puntos.\n\n## Chiclana 0-2 Tomares\n\nEl Chiclana se quedó con diez jugadores en el minuto 9 por una expulsión, sin nombre en el dato. En el 10, Tomares falló un penalti. Tomares marcó en el minuto 1 con S. Buzon y en el 45 con A. Moya. El Tomares sube un puesto, del noveno al octavo, con 17 puntos. El Chiclana se mantiene en el duodécimo puesto con 12 puntos.\n\n## Portuense 1-2 Córdoba B\n\nJ. Hugo marcó para el Córdoba B en el minuto 17 y M. Farrando igualó para el Portuense en el 24. P. Munoz dio la victoria al Córdoba B en el 52. El Córdoba B sube un puesto, del decimosexto al decimoquinto, con 10 puntos. El Portuense se mantiene cuarto con 21 puntos.\n\n## Sevilla C 2-1 Linense\n\nEl Sevilla C marcó en el minuto 14 y M. Pena empató para el Linense en el 59. El Sevilla C marcó de nuevo en el minuto 90 y ganó el partido. El Sevilla C sube dos puestos, del decimoctavo al decimosexto, con 9 puntos. El Linense se mantiene undécimo con 13 puntos.\n\n## Así queda la clasificación\n\nDos Hermanas, Betis C y San Roque Lepe comparten la cabeza con 23 puntos, aunque el Dos Hermanas ha jugado un partido menos que el Betis C. En la parte baja, el Atlético Onubense ocupa el decimoséptimo puesto con 8 puntos y el Bollullos cierra la tabla con 7 puntos.",
+  "texto_instagram": "⚽ El Xerez Deportivo golea 6-2 al Pozoblanco y sube al quinto puesto. Tomares gana en Chiclana con diez jugadores tras una expulsión en el 9.\n\nChiclana 0-2 Tomares: Tomares, S. Buzon (1') y A. Moya (45'). 🟥 Expulsión de Chiclana en el 9.\nPortuense 1-2 Córdoba B: Córdoba B, J. Hugo (17') y P. Munoz (52'); Portuense, M. Farrando (24').\nSevilla C 2-1 Linense: Sevilla C (14') y Sevilla C (90'); Linense, M. Pena (59').\nXerez Deportivo 6-2 Pozoblanco: Xerez, P. Platero (19', 77'), A. Diawara (36'), J. Bachuri (58', 67'), R. Moreno (89'); Pozoblanco, Alvarito (39', penalti) y A. Gomez (54').\n\n⚽ Jornada 12 · Grupo 10 🏆",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo10",
+    "#XerezDeportivo",
+    "#Tomares",
+    "#Chiclana",
+    "#Portuense",
+    "#CordobaB",
+    "#SevillaC"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-10-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-10-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-10-3.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-10-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615559,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 12",
+      "liga_id": 448,
+      "id_local": 21905,
+      "id_visitante": 15528,
+      "local": "Chiclana",
+      "visitante": "Tomares",
+      "escudo_local": "https://media.api-sports.io/football/teams/21905.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15528.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 1,
+          "equipo": "Tomares",
+          "jugador": "S. Buzon",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Tomares",
+          "jugador": "A. Moya",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 9,
+          "equipo": "Chiclana",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [
+        {
+          "min": 10,
+          "equipo": "Tomares",
+          "jugador": null
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1615561,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 12",
+      "liga_id": 448,
+      "id_local": 28111,
+      "id_visitante": 9759,
+      "local": "Portuense",
+      "visitante": "Córdoba B",
+      "escudo_local": "https://media.api-sports.io/football/teams/28111.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9759.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 17,
+          "equipo": "Córdoba B",
+          "jugador": "J. Hugo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 24,
+          "equipo": "Portuense",
+          "jugador": "M. Farrando",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 52,
+          "equipo": "Córdoba B",
+          "jugador": "P. Munoz",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615563,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 12",
+      "liga_id": 448,
+      "id_local": 9768,
+      "id_visitante": 9596,
+      "local": "Sevilla C",
+      "visitante": "Linense",
+      "escudo_local": "https://media.api-sports.io/football/teams/9768.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9596.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 14,
+          "equipo": "Sevilla C",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 59,
+          "equipo": "Linense",
+          "jugador": "M. Pena",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Sevilla C",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615564,
+      "fecha": "2026-11-22T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 10 - 12",
+      "liga_id": 448,
+      "id_local": 9771,
+      "id_visitante": 9763,
+      "local": "Xerez Deportivo",
+      "visitante": "Pozoblanco",
+      "escudo_local": "https://media.api-sports.io/football/teams/9771.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9763.png",
+      "goles_local": 6,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 19,
+          "equipo": "Xerez Deportivo",
+          "jugador": "P. Platero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 36,
+          "equipo": "Xerez Deportivo",
+          "jugador": "A. Diawara",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 39,
+          "equipo": "Pozoblanco",
+          "jugador": "Alvarito",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 54,
+          "equipo": "Pozoblanco",
+          "jugador": "A. Gomez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 58,
+          "equipo": "Xerez Deportivo",
+          "jugador": "J. Bachuri",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 67,
+          "equipo": "Xerez Deportivo",
+          "jugador": "J. Bachuri",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Xerez Deportivo",
+          "jugador": "P. Platero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Xerez Deportivo",
+          "jugador": "R. Moreno",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Dos Hermanas",
+      "pts": 23,
+      "pj": 11,
+      "dg": 13,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 25,
+      "gc": 12,
+      "forma": "LDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26535.png",
+      "equipo_id": 26535,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 21,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Betis C",
+      "pts": 23,
+      "pj": 12,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 29,
+      "gc": 19,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28109.png",
+      "equipo_id": 28109,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "San Roque Lepe",
+      "pts": 23,
+      "pj": 11,
+      "dg": 7,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 17,
+      "gc": 10,
+      "forma": "WWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9767.png",
+      "equipo_id": 9767,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 5,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Portuense",
+      "pts": 21,
+      "pj": 11,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 19,
+      "gc": 10,
+      "forma": "DDWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28111.png",
+      "equipo_id": 28111,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Xerez Deportivo",
+      "pts": 19,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 14,
+      "gc": 12,
+      "forma": "DDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9771.png",
+      "equipo_id": 9771,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Utrera",
+      "pts": 19,
+      "pj": 11,
+      "dg": -3,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 17,
+      "gc": 20,
+      "forma": "LWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9769.png",
+      "equipo_id": 9769,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Egabrense",
+      "pts": 17,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 21,
+      "gc": 17,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28110.png",
+      "equipo_id": 28110,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Tomares",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 12,
+      "gc": 12,
+      "forma": "LLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15528.png",
+      "equipo_id": 15528,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ceuta B",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 16,
+      "gc": 17,
+      "forma": "WLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17596.png",
+      "equipo_id": 17596,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Pozoblanco",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9763.png",
+      "equipo_id": 9763,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Linense",
+      "pts": 13,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9596.png",
+      "equipo_id": 9596,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Chiclana",
+      "pts": 12,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 17,
+      "forma": "WLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/21905.png",
+      "equipo_id": 21905,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Conil",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 9,
+      "gc": 15,
+      "forma": "DLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9757.png",
+      "equipo_id": 9757,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cádiz B",
+      "pts": 10,
+      "pj": 11,
+      "dg": -1,
+      "pg": 1,
+      "pe": 7,
+      "pp": 3,
+      "gf": 7,
+      "gc": 8,
+      "forma": "DDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9598.png",
+      "equipo_id": 9598,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 2,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Córdoba B",
+      "pts": 10,
+      "pj": 10,
+      "dg": -2,
+      "pg": 2,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 13,
+      "forma": "WWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9759.png",
+      "equipo_id": 9759,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Sevilla C",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 13,
+      "gc": 20,
+      "forma": "DDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9768.png",
+      "equipo_id": 9768,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Onubense",
+      "pts": 8,
+      "pj": 12,
+      "dg": -15,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 24,
+      "forma": "LLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24724.png",
+      "equipo_id": 24724,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Bollullos",
+      "pts": 7,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 10,
+      "gc": 16,
+      "forma": "LDDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20257.png",
+      "equipo_id": 20257,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      }
+    }
+  ],
+  "movimientos": {
+    "Portuense": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Xerez Deportivo": {
+      "antes": 7,
+      "ahora": 5,
+      "cambio": "sube 2 puestos"
+    },
+    "Tomares": {
+      "antes": 9,
+      "ahora": 8,
+      "cambio": "sube 1 puesto"
+    },
+    "Pozoblanco": {
+      "antes": 10,
+      "ahora": 10,
+      "cambio": "se mantiene"
+    },
+    "Linense": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Chiclana": {
+      "antes": 12,
+      "ahora": 12,
+      "cambio": "se mantiene"
+    },
+    "Córdoba B": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    },
+    "Sevilla C": {
+      "antes": 18,
+      "ahora": 16,
+      "cambio": "sube 2 puestos"
+    }
+  }
+}

@@ -1,0 +1,835 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-9",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 9",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Arenas remonta al Granada B y el Huétor Vega sube al 11º; el Melilla sigue líder",
+  "entradilla": "El Arenas Armilla dio la vuelta al Granada B en la Jornada 12 y se mantiene tercero. El Melilla, líder, empató con el Churriana y el Huétor Vega goleó al Atlético Porcuna.",
+  "cuerpo_markdown": "La Jornada 12 del Grupo 9 de Tercera Federación deja tres puntos destacados: el Arenas Armilla remontó al Granada B (2-1), el Huétor Vega goleó al Atlético Porcuna (3-0) con una expulsión visitante y el Melilla, líder con 26 puntos, empató 1-1 con el Churriana Vega. El Málaga B ganó al Mancha Real y sube al quinto puesto.\n\n## Arenas Armilla 2-1 Granada B\n\nEl Granada B se adelantó en el minuto 23 con gol de M. Rodriguez. El Arenas Armilla respondió con dos goles en el 30 y el 32, obra de M. Garcia y C. Leon, y dio la vuelta al marcador. El equipo local se mantiene tercero con 23 puntos, a la misma altura que el Ciudad de Torredonjimeno, y el Granada B continúa octavo con 16 puntos.\n\n## Huétor Vega 3-0 Atlético Porcuna\n\nEl Atlético Porcuna se quedó con diez jugadores en el minuto 30 tras la expulsión de A. Chica. Antes, Rober había abierto el marcador en el 22. A. Pumareta marcó en el 35 y en el 78. El Huétor Vega sube tres puestos hasta el 11º con 13 puntos, mientras el Atlético Porcuna baja al 12º, también con 13 puntos.\n\n## Melilla 1-1 Churriana Vega\n\nL. Montes transformó un penalti en el minuto 76 para el Churriana Vega. Robinho empató para el Melilla en el 81. El líder mantiene el primer puesto con 26 puntos. El Churriana Vega sube un puesto, hasta el 9º, con 15 puntos.\n\n## Málaga B 2-0 Mancha Real\n\nM. Lopez marcó en el 7 y en el 27 y firmó los dos goles del Málaga B. El equipo visitante sube dos puestos y se sitúa quinto con 19 puntos, a uno de la cuarta plaza. El Mancha Real se queda en el 15º puesto con 8 puntos.\n\n## Torre del Mar 1-1 UD San Pedro\n\nEl empate deja al Torre del Mar en el 13º puesto con 12 puntos. El UD San Pedro baja un puesto, hasta el 7º, con 18 puntos.\n\n## Así queda la clasificación\n\nEl Melilla encabeza la tabla con 26 puntos, seguido del Ciudad de Torredonjimeno y el Arenas Armilla con 23. La zona de play-off la completan Motril (20 puntos), Málaga B (19). El Almería B, sexto con 19 puntos, queda fuera de la zona. En la parte baja, el Atletico de Marbella ocupa el 16º puesto con 7 puntos, en zona de descenso, cuatro por encima del Malaga City, que cierra la tabla con 3 puntos. El Cantoria, 17º con 5 puntos, también está en descenso.",
+  "texto_instagram": "Arenas remonta al Granada B y el Huétor Vega sube al 11º ⚽\n\nJornada 12, Grupo 9 de Tercera Federación:\n\nArenas Armilla 2-1 Granada B: M. Rodriguez (Granada B) 23'; M. Garcia 30' y C. Leon 32' (Arenas)\nHuétor Vega 3-0 Atlético Porcuna: Rober 22'; A. Pumareta 35' y 78' (Huétor Vega). Expulsado A. Chica (Porcuna) 30'\nMálaga B 2-0 Mancha Real: M. Lopez 7' y 27' (Málaga B)\nMelilla 1-1 Churriana Vega: L. Montes 76' de penalti (Churriana); Robinho 81' (Melilla)\nTorre del Mar 1-1 UD San Pedro",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grupo9",
+    "#Arenas",
+    "#HuetorVega",
+    "#Melilla",
+    "#MálagaB",
+    "#Granada",
+    "#Jornada12"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-9-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-9-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-9-3.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-9-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615250,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 12",
+      "liga_id": 447,
+      "id_local": 20272,
+      "id_visitante": 9599,
+      "local": "Arenas Armilla",
+      "visitante": "Granada B",
+      "escudo_local": "https://media.api-sports.io/football/teams/20272.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9599.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 23,
+          "equipo": "Granada B",
+          "jugador": "M. Rodriguez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 30,
+          "equipo": "Arenas Armilla",
+          "jugador": "M. Garcia",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 32,
+          "equipo": "Arenas Armilla",
+          "jugador": "C. Leon",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615251,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 12",
+      "liga_id": 447,
+      "id_local": 9747,
+      "id_visitante": 7523,
+      "local": "Huétor Vega",
+      "visitante": "Atlético Porcuna",
+      "escudo_local": "https://media.api-sports.io/football/teams/9747.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/7523.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 22,
+          "equipo": "Huétor Vega",
+          "jugador": "Rober",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 35,
+          "equipo": "Huétor Vega",
+          "jugador": "A. Pumareta",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 78,
+          "equipo": "Huétor Vega",
+          "jugador": "A. Pumareta",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 30,
+          "equipo": "Atlético Porcuna",
+          "jugador": "A. Chica"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615253,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 12",
+      "liga_id": 447,
+      "id_local": 9749,
+      "id_visitante": 9752,
+      "local": "Mancha Real",
+      "visitante": "Málaga B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9749.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9752.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 7,
+          "equipo": "Málaga B",
+          "jugador": "M. Lopez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 27,
+          "equipo": "Málaga B",
+          "jugador": "M. Lopez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615255,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": "Melilla",
+      "arbitro": null,
+      "jornada": "Group 9 - 12",
+      "liga_id": 447,
+      "id_local": 5268,
+      "id_visitante": 26547,
+      "local": "Melilla",
+      "visitante": "Churriana Vega",
+      "escudo_local": "https://media.api-sports.io/football/teams/5268.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/26547.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 76,
+          "equipo": "Churriana Vega",
+          "jugador": "L. Montes",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 81,
+          "equipo": "Melilla",
+          "jugador": "Robinho",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615257,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 9 - 12",
+      "liga_id": 447,
+      "id_local": 17558,
+      "id_visitante": 17562,
+      "local": "Torre del Mar",
+      "visitante": "UD San Pedro",
+      "escudo_local": "https://media.api-sports.io/football/teams/17558.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/17562.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Melilla",
+      "pts": 26,
+      "pj": 11,
+      "dg": 12,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 19,
+      "gc": 7,
+      "forma": "WDDWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/5268.png",
+      "equipo_id": 5268,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 9,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ciudad de Torredonjimeno",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 22,
+      "gc": 12,
+      "forma": "WWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9743.png",
+      "equipo_id": 9743,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Arenas Armilla",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 5,
+      "pp": 0,
+      "gf": 19,
+      "gc": 9,
+      "forma": "DWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/20272.png",
+      "equipo_id": 20272,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Motril",
+      "pts": 20,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 15,
+      "gc": 10,
+      "forma": "WDDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9751.png",
+      "equipo_id": 9751,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Málaga B",
+      "pts": 19,
+      "pj": 11,
+      "dg": 9,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 21,
+      "gc": 12,
+      "forma": "DWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9752.png",
+      "equipo_id": 9752,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 13,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Almería B",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 14,
+      "gc": 8,
+      "forma": "LDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9741.png",
+      "equipo_id": 9741,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "UD San Pedro",
+      "pts": 18,
+      "pj": 11,
+      "dg": 0,
+      "pg": 6,
+      "pe": 0,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17562.png",
+      "equipo_id": 17562,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Granada B",
+      "pts": 16,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 11,
+      "gc": 7,
+      "forma": "WDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9599.png",
+      "equipo_id": 9599,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 1,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Churriana Vega",
+      "pts": 15,
+      "pj": 11,
+      "dg": 4,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 11,
+      "forma": "LWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26547.png",
+      "equipo_id": 26547,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Marbelli",
+      "pts": 15,
+      "pj": 11,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 8,
+      "gc": 9,
+      "forma": "LLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24960.png",
+      "equipo_id": 24960,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 3,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Huétor Vega",
+      "pts": 13,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 14,
+      "gc": 18,
+      "forma": "LWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9747.png",
+      "equipo_id": 9747,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Atlético Porcuna",
+      "pts": 13,
+      "pj": 11,
+      "dg": -7,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/7523.png",
+      "equipo_id": 7523,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Torre del Mar",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 9,
+      "gc": 11,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17558.png",
+      "equipo_id": 17558,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 3,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Alhaurino",
+      "pts": 12,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 16,
+      "forma": "WLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15357.png",
+      "equipo_id": 15357,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Mancha Real",
+      "pts": 8,
+      "pj": 11,
+      "dg": -8,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 8,
+      "gc": 16,
+      "forma": "DDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9749.png",
+      "equipo_id": 9749,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 2,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Atletico de Marbella",
+      "pts": 7,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 7,
+      "gc": 14,
+      "forma": "LLDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28107.png",
+      "equipo_id": 28107,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Cantoria",
+      "pts": 5,
+      "pj": 11,
+      "dg": -11,
+      "pg": 0,
+      "pe": 5,
+      "pp": 6,
+      "gf": 5,
+      "gc": 16,
+      "forma": "DLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28108.png",
+      "equipo_id": 28108,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 4,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 1,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Malaga City",
+      "pts": 3,
+      "pj": 11,
+      "dg": -17,
+      "pg": 1,
+      "pe": 0,
+      "pp": 10,
+      "gf": 7,
+      "gc": 24,
+      "forma": "WLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/24962.png",
+      "equipo_id": 24962,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 3,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Melilla": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Arenas Armilla": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Málaga B": {
+      "antes": 7,
+      "ahora": 5,
+      "cambio": "sube 2 puestos"
+    },
+    "UD San Pedro": {
+      "antes": 6,
+      "ahora": 7,
+      "cambio": "baja 1 puesto"
+    },
+    "Granada B": {
+      "antes": 8,
+      "ahora": 8,
+      "cambio": "se mantiene"
+    },
+    "Churriana Vega": {
+      "antes": 10,
+      "ahora": 9,
+      "cambio": "sube 1 puesto"
+    },
+    "Huétor Vega": {
+      "antes": 14,
+      "ahora": 11,
+      "cambio": "sube 3 puestos"
+    },
+    "Atlético Porcuna": {
+      "antes": 11,
+      "ahora": 12,
+      "cambio": "baja 1 puesto"
+    },
+    "Torre del Mar": {
+      "antes": 13,
+      "ahora": 13,
+      "cambio": "se mantiene"
+    },
+    "Mancha Real": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  }
+}

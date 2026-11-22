@@ -7,7 +7,7 @@
       "equipo": "Leganés B",
       "escudo": "https://media.api-sports.io/football/teams/9710.png",
       "amarillas": 1,
-      "rojas": 5
+      "rojas": 6
     },
     {
       "equipo": "Torrejón",
@@ -28,6 +28,12 @@
       "rojas": 3
     },
     {
+      "equipo": "Villanueva Pardillo",
+      "escudo": "https://media.api-sports.io/football/teams/15353.png",
+      "amarillas": 2,
+      "rojas": 2
+    },
+    {
       "equipo": "Alcobendas Sport",
       "escudo": "https://media.api-sports.io/football/teams/9705.png",
       "amarillas": 1,
@@ -44,12 +50,6 @@
       "escudo": "https://media.api-sports.io/football/teams/9719.png",
       "amarillas": 1,
       "rojas": 2
-    },
-    {
-      "equipo": "Villanueva Pardillo",
-      "escudo": "https://media.api-sports.io/football/teams/15353.png",
-      "amarillas": 1,
-      "rojas": 1
     },
     {
       "equipo": "Fuenlabrada",
@@ -112,5 +112,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-22"
 }

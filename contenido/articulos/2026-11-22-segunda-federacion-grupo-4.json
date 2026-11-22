@@ -1,0 +1,815 @@
+{
+  "slug": "2026-11-22-segunda-federacion-grupo-4",
+  "fecha": "2026-11-22",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Xerez encadena cinco victorias y escala hasta la segunda plaza",
+  "entradilla": "El Xerez ganó 0-2 al Atlético Central, subió cuatro puestos y empata a 21 puntos con el líder, el Recreativo Huelva. El Antoniano tumbó al Puente Genil con un gol en el minuto 90.",
+  "cuerpo_markdown": "El Xerez es el gran beneficiado de la duodécima jornada en el Grupo 4 de Segunda Federación. Su 0-2 en el campo del Atlético Central, quinta victoria seguida, le lleva del sexto al segundo puesto con 21 puntos, los mismos que el líder, el Recreativo Huelva, que tiene dos partidos menos. Cuatro equipos comparten ahora esa cifra. El Don Benito, con uno menos desde el 74, empató sin goles ante el Marbella y cae a la cuarta plaza. Las Palmas B goleó 0-3 en Mijas y el Antoniano se impuso 3-2 al Puente Genil con un tanto de J. Ruiz en el 90.\n\n## Atlético Central 0-2 Xerez\n\nEl Xerez resolvió antes del descanso. F. Chacartegui abrió el marcador en el minuto 23 y Zequi firmó el 0-2 en el 43. No hubo más goles.\n\nCon el triunfo, el Xerez suma cinco victorias consecutivas, sube cuatro puestos y es segundo con 21 puntos, empatado con el Recreativo Huelva, Estepona y Don Benito. El Atlético Central se mantiene undécimo con 15 puntos.\n\n## Antoniano 3-2 Puente Genil\n\nEl Antoniano ganó en el último minuto un partido que tuvo encarrilado. P. Galvez marcó de penalti en el 3 y R. Marquez amplió la ventaja en el 57. El Puente Genil igualó con goles de L. Hernandez (61) e I. Sahraoui (77), pero J. Ruiz decidió en el 90.\n\nEl Antoniano sigue decimoséptimo con 9 puntos, tres por encima del colista, el Tamaraceite. El Puente Genil, pese a la derrota, sube un puesto y es noveno con 15 puntos.\n\n## Mijas Las Lagunas 0-3 Las Palmas B\n\nLas Palmas B goleó a domicilio. C. Guzman adelantó al filial de penalti en el minuto 33, A. Dominguez hizo el 0-2 en el 42 y A. Bombardo cerró el marcador en el 82. Las Palmas B sube un puesto y es decimoquinto con 11 puntos. El Mijas Las Lagunas baja un puesto y queda décimo con 15.\n\n## Don Benito 0-0 Marbella\n\nSin goles en Don Benito, donde el equipo local terminó con diez por una expulsión en el minuto 74. El Don Benito baja un puesto y es cuarto con 21 puntos. El Marbella se mantiene decimotercero con 14.\n\n## Así queda la clasificación\n\nCuatro equipos empatan a 21 puntos en cabeza: Recreativo Huelva (con dos partidos menos), Xerez, Estepona y Don Benito. Les siguen el Badajoz, con 20 y un partido menos, y el Ciudad de Lucena, con 19. En la parte baja, el Tamaraceite es colista con 6 puntos tras cinco derrotas seguidas, a tres del Antoniano (9). El Sanluqueño, con 10, y Las Palmas B, con 11, completan el tramo final de la tabla.",
+  "texto_instagram": "⚽ El Xerez suma cinco victorias seguidas y sube al segundo puesto, empatado a 21 con el líder. El Antoniano gana en el 90 💥\n\nAtlético Central 0-2 Xerez: F. Chacartegui (23), Zequi (43)\nAntoniano 3-2 Puente Genil: P. Galvez (3, pen.), R. Marquez (57), L. Hernandez (61), I. Sahraoui (77), J. Ruiz (90)\nMijas Las Lagunas 0-3 Las Palmas B: C. Guzman (33, pen.), A. Dominguez (42), A. Bombardo (82)\nDon Benito 0-0 Marbella 🟥 (74, Don Benito)",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo4",
+    "#Xerez",
+    "#Antoniano",
+    "#LasPalmasB",
+    "#DonBenito"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-4-1.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-4-2.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-4-3.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-4-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573048,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 878,
+      "id_local": 24723,
+      "id_visitante": 9770,
+      "local": "Atlético Central",
+      "visitante": "Xerez",
+      "escudo_local": "https://media.api-sports.io/football/teams/24723.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9770.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 23,
+          "equipo": "Xerez",
+          "jugador": "F. Chacartegui",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 43,
+          "equipo": "Xerez",
+          "jugador": "Zequi",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1573051,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 878,
+      "id_local": 5259,
+      "id_visitante": 5267,
+      "local": "Don Benito",
+      "visitante": "Marbella",
+      "escudo_local": "https://media.api-sports.io/football/teams/5259.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5267.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [
+        {
+          "min": 74,
+          "equipo": "Don Benito",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1573053,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 878,
+      "id_local": 22569,
+      "id_visitante": 9574,
+      "local": "Mijas Las Lagunas",
+      "visitante": "Las Palmas B",
+      "escudo_local": "https://media.api-sports.io/football/teams/22569.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9574.png",
+      "goles_local": 0,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 33,
+          "equipo": "Las Palmas B",
+          "jugador": "C. Guzman",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 42,
+          "equipo": "Las Palmas B",
+          "jugador": "A. Dominguez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 82,
+          "equipo": "Las Palmas B",
+          "jugador": "A. Bombardo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1573047,
+      "fecha": "2026-11-22T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 878,
+      "id_local": 7522,
+      "id_visitante": 9764,
+      "local": "Antoniano",
+      "visitante": "Puente Genil",
+      "escudo_local": "https://media.api-sports.io/football/teams/7522.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9764.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 3,
+          "equipo": "Antoniano",
+          "jugador": "P. Galvez",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 57,
+          "equipo": "Antoniano",
+          "jugador": "R. Marquez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 61,
+          "equipo": "Puente Genil",
+          "jugador": "L. Hernandez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Puente Genil",
+          "jugador": "I. Sahraoui",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Antoniano",
+          "jugador": "J. Ruiz",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Recreativo Huelva",
+      "pts": 21,
+      "pj": 10,
+      "dg": 13,
+      "pg": 6,
+      "pe": 3,
+      "pp": 1,
+      "gf": 21,
+      "gc": 8,
+      "forma": "DWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9410.png",
+      "equipo_id": 9410,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 13,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Xerez",
+      "pts": 21,
+      "pj": 12,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 7,
+      "forma": "WWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9770.png",
+      "equipo_id": 9770,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Estepona",
+      "pts": 21,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 26,
+      "gc": 18,
+      "forma": "WWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15358.png",
+      "equipo_id": 15358,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 18,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Don Benito",
+      "pts": 21,
+      "pj": 12,
+      "dg": 4,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 19,
+      "gc": 15,
+      "forma": "DLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5259.png",
+      "equipo_id": 5259,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Badajoz",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 5,
+      "pp": 1,
+      "gf": 12,
+      "gc": 8,
+      "forma": "WDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9382.png",
+      "equipo_id": 9382,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Ciudad de Lucena",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "LDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9756.png",
+      "equipo_id": 9756,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Real Betis B",
+      "pts": 18,
+      "pj": 10,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 2,
+      "gf": 13,
+      "gc": 7,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9765.png",
+      "equipo_id": 9765,
+      "casa": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Linares Deportivo",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 15,
+      "gc": 14,
+      "forma": "WDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9398.png",
+      "equipo_id": 9398,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Puente Genil",
+      "pts": 15,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9764.png",
+      "equipo_id": 9764,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Mijas Las Lagunas",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 21,
+      "gc": 21,
+      "forma": "LLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22569.png",
+      "equipo_id": 22569,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Central",
+      "pts": 15,
+      "pj": 12,
+      "dg": -6,
+      "pg": 5,
+      "pe": 0,
+      "pp": 7,
+      "gf": 13,
+      "gc": 19,
+      "forma": "LLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24723.png",
+      "equipo_id": 24723,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sevilla Atlético",
+      "pts": 14,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 20,
+      "forma": "LDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/730.png",
+      "equipo_id": 730,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Marbella",
+      "pts": 14,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 9,
+      "gc": 11,
+      "forma": "DWWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5267.png",
+      "equipo_id": 5267,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 1,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tenerife B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 1,
+      "pp": 6,
+      "gf": 14,
+      "gc": 17,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9802.png",
+      "equipo_id": 9802,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Las Palmas B",
+      "pts": 11,
+      "pj": 12,
+      "dg": -9,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 12,
+      "gc": 21,
+      "forma": "WWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9574.png",
+      "equipo_id": 9574,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Sanluqueño",
+      "pts": 10,
+      "pj": 11,
+      "dg": -4,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 15,
+      "gc": 19,
+      "forma": "LLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9601.png",
+      "equipo_id": 9601,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Antoniano",
+      "pts": 9,
+      "pj": 12,
+      "dg": -10,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 23,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/7522.png",
+      "equipo_id": 7522,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Tamaraceite",
+      "pts": 6,
+      "pj": 12,
+      "dg": -17,
+      "pg": 2,
+      "pe": 0,
+      "pp": 10,
+      "gf": 9,
+      "gc": 26,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9415.png",
+      "equipo_id": 9415,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Xerez": {
+      "antes": 6,
+      "ahora": 2,
+      "cambio": "sube 4 puestos"
+    },
+    "Don Benito": {
+      "antes": 3,
+      "ahora": 4,
+      "cambio": "baja 1 puesto"
+    },
+    "Puente Genil": {
+      "antes": 10,
+      "ahora": 9,
+      "cambio": "sube 1 puesto"
+    },
+    "Mijas Las Lagunas": {
+      "antes": 9,
+      "ahora": 10,
+      "cambio": "baja 1 puesto"
+    },
+    "Atlético Central": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Marbella": {
+      "antes": 13,
+      "ahora": 13,
+      "cambio": "se mantiene"
+    },
+    "Las Palmas B": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    },
+    "Antoniano": {
+      "antes": 17,
+      "ahora": 17,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573048,
+    "titular": "El Xerez gana 0-2 al Atlético Central y sube al segundo puesto",
+    "entradilla": "Los goles de F. Chacartegui y Zequi antes del descanso dan al Xerez su quinta victoria consecutiva. El equipo escala cuatro posiciones y empata a 21 puntos con el líder.",
+    "parrafos": [
+      "El Xerez venció 0-2 en el campo del Atlético Central en la duodécima jornada del Grupo 4 de Segunda Federación. El resultado le lleva del sexto al segundo puesto de la clasificación.",
+      "F. Chacartegui adelantó al Xerez en el minuto 23. Zequi amplió la ventaja en el 43, justo antes del descanso. En la segunda parte no se movió el marcador.",
+      "El Xerez encadena cinco victorias seguidas y suma 21 puntos, los mismos que el líder, el Recreativo Huelva, que ha disputado dos partidos menos, y que Estepona y Don Benito. Es además uno de los equipos menos goleados del grupo, con 7 tantos en contra en 12 jornadas.",
+      "El Atlético Central se mantiene undécimo con 15 puntos, con cinco victorias y siete derrotas en el campeonato."
+    ],
+    "el_dato": "El Xerez ha encajado solo 7 goles en 12 partidos y suma cinco victorias consecutivas.",
+    "slug": "2026-11-22-atletico-central-xerez"
+  }
+}

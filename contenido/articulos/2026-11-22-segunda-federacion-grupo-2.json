@@ -1,0 +1,810 @@
+{
+  "slug": "2026-11-22-segunda-federacion-grupo-2",
+  "fecha": "2026-11-22",
+  "etiqueta": "Segunda Federación · Grupo 2",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Olot remonta en Reus y entra en el play-off a costa del Ebro",
+  "entradilla": "El Olot ganó 1-2 al Reddis y saltó del séptimo al quinto puesto, mientras el Ebro, que empató en Nájera, cae al sexto. El Utebo venció 2-0 a un Calamocha que acabó con dos expulsados.",
+  "cuerpo_markdown": "La duodécima jornada del Grupo 2 de Segunda Federación cambió la frontera del play-off. El Olot remontó en el Estadi Municipal de Reus (1-2) y subió dos puestos, hasta el quinto, con 22 puntos. Su salto desplazó al Ebro, que empató 1-1 ante el Náxara y bajó al sexto lugar, a un punto de la promoción. El Girona B no pasó del 0-0 ante el UD Logroñés B, pero ascendió al tercer puesto. El Utebo ganó 2-0 a un Calamocha con dos expulsados y sigue hundido en la última plaza.\n\n## Reddis 1-2 Olot\n\nEl Reddis se adelantó en el minuto 20 con un gol de A. Camara. El Olot le dio la vuelta antes del descanso: W. Meddeb empató en el 30 y M. Puigbert del Arco firmó el 1-2 en el 39.\n\nLa victoria lleva al Olot del séptimo al quinto puesto, con 22 puntos, ya dentro de la zona de play-off e igualado con el Espanyol B. El Reddis se mantiene noveno con 17 puntos.\n\n## Náxara 1-1 Ebro\n\nEl Ebro abrió el marcador en el minuto 31 por medio de I. Boudaoud y A. Garcia igualó para el Náxara en el 77.\n\nEl empate le cuesta al Ebro la plaza de play-off: baja del quinto al sexto puesto, con 21 puntos, uno menos que el quinto. El Náxara sube un puesto, al decimosexto, con 7 puntos, pero sigue en zona de descenso.\n\n## Utebo 2-0 Calamocha\n\nJ. Mariano adelantó al Utebo en el minuto 12 y D. Suarez sentenció en el 57. El Calamocha sufrió una expulsión en el 47 y otra en el 90. El Utebo falló un penalti en el 84. Con el triunfo, el Utebo sube dos puestos, del duodécimo al décimo, y suma 15 puntos. El Calamocha sigue colista con 5.\n\n## Girona B 0-0 UD Logroñés B\n\nSin goles en el filial gerundense. Aun así, el Girona B sube del cuarto al tercer puesto, con 23 puntos, a tres del liderato. El UD Logroñés B se mantiene decimotercero con 11 puntos.\n\n## Así queda la clasificación\n\nEl Barcelona B lidera con 26 puntos, dos más que el Terrassa (24), que tiene un partido menos. Completan la zona de play-off el Girona B (23), el Espanyol B (22) y el Olot (22). El Ebro, sexto con 21, se queda a un punto, y el Osasuna B, séptimo, suma 20. Abajo, el UD Logroñés B (11) marca la frontera con el descenso, donde están el Tudelano (9), el SD Logroñés (8), el Náxara (7), el Arnedo (7) y el Calamocha (5), a seis puntos de la salvación.",
+  "texto_instagram": "⚽ El Olot remonta en Reus y entra en el play-off; el Ebro cae al sexto puesto. El Girona B sube al tercero pese al empate 📈\n\nReddis 1-2 Olot: A. Camara (20); W. Meddeb (30), M. Puigbert del Arco (39)\nNáxara 1-1 Ebro: A. Garcia (77); I. Boudaoud (31)\nUtebo 2-0 Calamocha: J. Mariano (12), D. Suarez (57) 🟥🟥 Calamocha\nGirona B 0-0 UD Logroñés B",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo2",
+    "#Olot",
+    "#Reddis",
+    "#Ebro",
+    "#Utebo",
+    "#GironaB"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-2-1.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-2-2.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-2-3.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572436,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 15343,
+      "id_visitante": 9872,
+      "local": "Girona B",
+      "visitante": "UD Logroñés B",
+      "escudo_local": "https://media.api-sports.io/football/teams/15343.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9872.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572437,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 9868,
+      "id_visitante": 5261,
+      "local": "Náxara",
+      "visitante": "Ebro",
+      "escudo_local": "https://media.api-sports.io/football/teams/9868.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5261.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 31,
+          "equipo": "Ebro",
+          "jugador": "I. Boudaoud",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Náxara",
+          "jugador": "A. Garcia",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572443,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 9891,
+      "id_visitante": 9885,
+      "local": "Utebo",
+      "visitante": "Calamocha",
+      "escudo_local": "https://media.api-sports.io/football/teams/9891.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9885.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 12,
+          "equipo": "Utebo",
+          "jugador": "J. Mariano",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 57,
+          "equipo": "Utebo",
+          "jugador": "D. Suarez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 47,
+          "equipo": "Calamocha",
+          "jugador": null
+        },
+        {
+          "min": 90,
+          "equipo": "Calamocha",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [
+        {
+          "min": 84,
+          "equipo": "Utebo",
+          "jugador": null
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1572439,
+      "fecha": "2026-11-22T12:30:00+01:00",
+      "estadio": "Estadi Municipal de Reus",
+      "ciudad": "Reus",
+      "arbitro": null,
+      "jornada": "Group 2 - 12",
+      "liga_id": 876,
+      "id_local": 22136,
+      "id_visitante": 9403,
+      "local": "Reddis",
+      "visitante": "Olot",
+      "escudo_local": "https://media.api-sports.io/football/teams/22136.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9403.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 20,
+          "equipo": "Reddis",
+          "jugador": "A. Camara",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 30,
+          "equipo": "Olot",
+          "jugador": "W. Meddeb",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 39,
+          "equipo": "Olot",
+          "jugador": "M. Puigbert del Arco",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona B",
+      "pts": 26,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 6,
+      "forma": "DLWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/712.png",
+      "equipo_id": 712,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Terrassa",
+      "pts": 24,
+      "pj": 11,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 13,
+      "gc": 5,
+      "forma": "WWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9681.png",
+      "equipo_id": 9681,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Girona B",
+      "pts": 23,
+      "pj": 12,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 22,
+      "gc": 12,
+      "forma": "DWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15343.png",
+      "equipo_id": 15343,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Espanyol B",
+      "pts": 22,
+      "pj": 11,
+      "dg": 14,
+      "pg": 6,
+      "pe": 4,
+      "pp": 1,
+      "gf": 22,
+      "gc": 8,
+      "forma": "DDDWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9590.png",
+      "equipo_id": 9590,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 13,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Olot",
+      "pts": 22,
+      "pj": 12,
+      "dg": 4,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 17,
+      "gc": 13,
+      "forma": "WDLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9403.png",
+      "equipo_id": 9403,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Ebro",
+      "pts": 21,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 14,
+      "forma": "DWWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5261.png",
+      "equipo_id": 5261,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Osasuna B",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 14,
+      "gc": 8,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9584.png",
+      "equipo_id": 9584,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Manresa",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "WLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9675.png",
+      "equipo_id": 9675,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Reddis",
+      "pts": 17,
+      "pj": 12,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 12,
+      "gc": 14,
+      "forma": "LWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22136.png",
+      "equipo_id": 22136,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Utebo",
+      "pts": 15,
+      "pj": 12,
+      "dg": 1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 12,
+      "forma": "WLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9891.png",
+      "equipo_id": 9891,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Barbastro",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "WDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9879.png",
+      "equipo_id": 9879,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Peña Sport",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 17,
+      "forma": "DLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9406.png",
+      "equipo_id": 9406,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "UD Logroñés B",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DDLLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9872.png",
+      "equipo_id": 9872,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tudelano",
+      "pts": 9,
+      "pj": 11,
+      "dg": -7,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5279.png",
+      "equipo_id": 5279,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "SD Logroñés",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 8,
+      "gc": 17,
+      "forma": "LWDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9411.png",
+      "equipo_id": 9411,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Náxara",
+      "pts": 7,
+      "pj": 11,
+      "dg": -12,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 6,
+      "gc": 18,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9868.png",
+      "equipo_id": 9868,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 2,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Arnedo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -13,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 11,
+      "gc": 24,
+      "forma": "DWLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9862.png",
+      "equipo_id": 9862,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Calamocha",
+      "pts": 5,
+      "pj": 12,
+      "dg": -17,
+      "pg": 1,
+      "pe": 2,
+      "pp": 9,
+      "gf": 5,
+      "gc": 22,
+      "forma": "LLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9885.png",
+      "equipo_id": 9885,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Girona B": {
+      "antes": 4,
+      "ahora": 3,
+      "cambio": "sube 1 puesto"
+    },
+    "Olot": {
+      "antes": 7,
+      "ahora": 5,
+      "cambio": "sube 2 puestos"
+    },
+    "Ebro": {
+      "antes": 5,
+      "ahora": 6,
+      "cambio": "baja 1 puesto"
+    },
+    "Reddis": {
+      "antes": 9,
+      "ahora": 9,
+      "cambio": "se mantiene"
+    },
+    "Utebo": {
+      "antes": 12,
+      "ahora": 10,
+      "cambio": "sube 2 puestos"
+    },
+    "UD Logroñés B": {
+      "antes": 13,
+      "ahora": 13,
+      "cambio": "se mantiene"
+    },
+    "Náxara": {
+      "antes": 17,
+      "ahora": 16,
+      "cambio": "sube 1 puesto"
+    },
+    "Calamocha": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572439,
+    "titular": "El Olot remonta ante el Reddis y se mete en zona de play-off",
+    "entradilla": "El Olot venció 1-2 en el Estadi Municipal de Reus tras ir por detrás. El triunfo le lleva del séptimo al quinto puesto.",
+    "parrafos": [
+      "El Olot ganó 1-2 al Reddis en el Estadi Municipal de Reus, en la duodécima jornada del Grupo 2 de Segunda Federación, y entró en la zona de play-off. Sube dos puestos, del séptimo al quinto.",
+      "El Reddis golpeó primero. A. Camara marcó el 1-0 en el minuto 20.",
+      "La respuesta del Olot llegó en nueve minutos. W. Meddeb empató en el 30 y M. Puigbert del Arco hizo el 1-2 en el 39. El marcador ya no se movió en la segunda parte.",
+      "El Olot suma 22 puntos, los mismos que el Espanyol B, cuarto, y está a uno del Girona B. Su victoria empuja al Ebro fuera de la promoción, al sexto lugar con 21. El Olot ha ganado cuatro de sus seis partidos a domicilio.",
+      "El Reddis se mantiene noveno con 17 puntos, cinco por debajo del play-off. En casa acumula tres derrotas en seis partidos."
+    ],
+    "el_dato": "El Olot remontó en nueve minutos, entre el 30 y el 39, y ya suma cuatro victorias en seis salidas.",
+    "slug": "2026-11-22-reddis-olot"
+  }
+}

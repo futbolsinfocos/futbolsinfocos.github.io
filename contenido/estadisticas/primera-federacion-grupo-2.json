@@ -16,6 +16,12 @@
       "rojas": 3
     },
     {
+      "equipo": "Algeciras",
+      "escudo": "https://media.api-sports.io/football/teams/9597.png",
+      "amarillas": 44,
+      "rojas": 2
+    },
+    {
       "equipo": "Nàstic de Tarragona",
       "escudo": "https://media.api-sports.io/football/teams/714.png",
       "amarillas": 40,
@@ -34,21 +40,21 @@
       "rojas": 1
     },
     {
-      "equipo": "Algeciras",
-      "escudo": "https://media.api-sports.io/football/teams/9597.png",
-      "amarillas": 41,
-      "rojas": 1
-    },
-    {
       "equipo": "Villarreal B",
       "escudo": "https://media.api-sports.io/football/teams/9595.png",
       "amarillas": 38,
       "rojas": 2
     },
     {
+      "equipo": "Antequera",
+      "escudo": "https://media.api-sports.io/football/teams/9742.png",
+      "amarillas": 37,
+      "rojas": 2
+    },
+    {
       "equipo": "Águilas",
       "escudo": "https://media.api-sports.io/football/teams/9823.png",
-      "amarillas": 38,
+      "amarillas": 39,
       "rojas": 1
     },
     {
@@ -58,14 +64,14 @@
       "rojas": 1
     },
     {
-      "equipo": "Antequera",
-      "escudo": "https://media.api-sports.io/football/teams/9742.png",
-      "amarillas": 33,
-      "rojas": 2
-    },
-    {
       "equipo": "Ibiza",
       "escudo": "https://media.api-sports.io/football/teams/9390.png",
+      "amarillas": 36,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sant Andreu",
+      "escudo": "https://media.api-sports.io/football/teams/5277.png",
       "amarillas": 36,
       "rojas": 1
     },
@@ -82,33 +88,27 @@
       "rojas": 3
     },
     {
+      "equipo": "Alcorcón",
+      "escudo": "https://media.api-sports.io/football/teams/711.png",
+      "amarillas": 31,
+      "rojas": 1
+    },
+    {
+      "equipo": "Atlético Madrid B",
+      "escudo": "https://media.api-sports.io/football/teams/9570.png",
+      "amarillas": 25,
+      "rojas": 3
+    },
+    {
       "equipo": "Real Jaén",
       "escudo": "https://media.api-sports.io/football/teams/5274.png",
       "amarillas": 27,
       "rojas": 2
     },
     {
-      "equipo": "Alcorcón",
-      "escudo": "https://media.api-sports.io/football/teams/711.png",
-      "amarillas": 29,
-      "rojas": 1
-    },
-    {
-      "equipo": "Sant Andreu",
-      "escudo": "https://media.api-sports.io/football/teams/5277.png",
-      "amarillas": 32,
-      "rojas": 0
-    },
-    {
-      "equipo": "Atlético Madrid B",
-      "escudo": "https://media.api-sports.io/football/teams/9570.png",
-      "amarillas": 22,
-      "rojas": 3
-    },
-    {
       "equipo": "Europa Fc",
       "escudo": "https://media.api-sports.io/football/teams/593.png",
-      "amarillas": 28,
+      "amarillas": 30,
       "rojas": 0
     },
     {
@@ -124,5 +124,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-22"
 }

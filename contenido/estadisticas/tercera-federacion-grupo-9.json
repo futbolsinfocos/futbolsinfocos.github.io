@@ -1,0 +1,116 @@
+{
+  "etiqueta": "Tercera Federación · Grupo 9",
+  "competicion": "Tercera Federación",
+  "goleadores": [],
+  "tarjetas": [
+    {
+      "equipo": "Alhaurino",
+      "escudo": "https://media.api-sports.io/football/teams/15357.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atletico de Marbella",
+      "escudo": "https://media.api-sports.io/football/teams/28107.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Cantoria",
+      "escudo": "https://media.api-sports.io/football/teams/28108.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Motril",
+      "escudo": "https://media.api-sports.io/football/teams/9751.png",
+      "amarillas": 1,
+      "rojas": 2
+    },
+    {
+      "equipo": "Churriana Vega",
+      "escudo": "https://media.api-sports.io/football/teams/26547.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Malaga City",
+      "escudo": "https://media.api-sports.io/football/teams/24962.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Torre del Mar",
+      "escudo": "https://media.api-sports.io/football/teams/17558.png",
+      "amarillas": 0,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atlético Porcuna",
+      "escudo": "https://media.api-sports.io/football/teams/7523.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Melilla",
+      "escudo": "https://media.api-sports.io/football/teams/5268.png",
+      "amarillas": 1,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ciudad de Torredonjimeno",
+      "escudo": "https://media.api-sports.io/football/teams/9743.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Málaga B",
+      "escudo": "https://media.api-sports.io/football/teams/9752.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
+      "equipo": "Almería B",
+      "escudo": "https://media.api-sports.io/football/teams/9741.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Arenas Armilla",
+      "escudo": "https://media.api-sports.io/football/teams/20272.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Granada B",
+      "escudo": "https://media.api-sports.io/football/teams/9599.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Huétor Vega",
+      "escudo": "https://media.api-sports.io/football/teams/9747.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Mancha Real",
+      "escudo": "https://media.api-sports.io/football/teams/9749.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "Marbelli",
+      "escudo": "https://media.api-sports.io/football/teams/24960.png",
+      "amarillas": 0,
+      "rojas": 0
+    },
+    {
+      "equipo": "UD San Pedro",
+      "escudo": "https://media.api-sports.io/football/teams/17562.png",
+      "amarillas": 0,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-22"
+}

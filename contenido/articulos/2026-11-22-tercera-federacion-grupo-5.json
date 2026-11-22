@@ -1,0 +1,859 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-5",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 5",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "San Cristóbal gana 3-1 al Tona y el Grama sube al segundo puesto",
+  "entradilla": "El Grama sube siete puestos hasta la segunda plaza tras ganar 1-0 al Peralada. El San Cristóbal vence 3-1 al Tona y sigue en la parte baja.",
+  "cuerpo_markdown": "El Grama se impone 1-0 al Peralada con el gol de Prat en el 79 y sube del noveno al segundo puesto, ya en zona de playoff. El San Cristóbal gana 3-1 al Tona, pero se mantiene en el 18º puesto, la última posición de la tabla. El Montañesa sigue líder pese al empate 1-1 con el Atlètic Lleida, que sube al tercero.\n\n## San Cristóbal 3-1 Tona\n\nEl San Cristóbal marca en el 19 por Pime y en el 36 por M. Martinez. Carlos reduce para el Tona en el 49 y J. Linares sella el 3-1 en el 83. El San Cristóbal se mantiene en el 18º puesto con 11 puntos. El Tona baja al noveno puesto con 17 puntos.\n\n## Grama 1-0 Peralada\n\nPrat marca en el 79 y da al Grama la victoria. El Grama sube del noveno al segundo puesto, con 19 puntos y zona de playoff. El Peralada baja al 14º puesto con 14 puntos.\n\n## Montañesa 1-1 Atlètic Lleida\n\nMoha adelanta al Atlètic Lleida en el 43 y S. Melero empata para el Montañesa en el 82. El Montañesa se mantiene primero con 21 puntos y zona de ascenso. El Atlètic Lleida sube al tercer puesto con 19 puntos.\n\n## Martinenc 1-0 Cornellà\n\nR. Vidal marca de penalti en el 37 y da la victoria al Martinenc. El Martinenc sube al 12º puesto con 15 puntos. El Cornellà baja al 13º puesto con 14 puntos.\n\n## Europa B 0-1 Mollerussa\n\nJ. Graells Mas marca de penalti en el 12 y el Mollerussa gana en campo del Europa B. El Mollerussa sube al 15º puesto con 14 puntos. El Europa B baja al séptimo puesto con 17 puntos.\n\n## L'Escala 1-0 L'Hospitalet\n\nB. Casadevall marca en el 37 y da la victoria al L'Escala. El L'Escala sube al 16º puesto con 12 puntos, todavía en zona de descenso. El L'Hospitalet se queda en el sexto puesto con 18 puntos.\n\n## Así queda la clasificación\n\nEl Montañesa lidera con 21 puntos. Detrás están el Grama con 19, el Atlètic Lleida, el Vilanova y el Cerdanyola del Vallès, todos con 19, en zona de playoff. El L'Hospitalet, sexto con 18, queda a un punto de esa zona. En la parte baja, el L'Escala es 16º con 12 puntos, el Vilassar Mar 17º con 12 y el San Cristóbal 18º con 11 puntos.",
+  "texto_instagram": "Jornada 12 de Tercera Federación Grupo 5 ⚽ El Grama sube al segundo puesto con su victoria 1-0 al Peralada. El San Cristóbal gana 3-1 al Tona.\n\nSan Cristóbal 3-1 Tona: Pime (19'), M. Martinez (36'), J. Linares (83') para el San Cristóbal; Carlos (49') para el Tona.\nGrama 1-0 Peralada: Prat (79').\nMontañesa 1-1 Atlètic Lleida: Moha (43') para el Atlètic Lleida; S. Melero (82') para el Montañesa.\nMartinenc 1-0 Cornellà: R. Vidal (37', penalti).\nEuropa B 0-1 Mollerussa: J. Graells Mas (12', penalti).\nL'Escala 1-0 L'Hospitalet: B. Casadevall (37').",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Grama",
+    "#SanCristobal",
+    "#Montañesa",
+    "#Tercera"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-5-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-5-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-5-3.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614029,
+      "fecha": "2026-11-22T11:45:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 15344,
+      "id_visitante": 9676,
+      "local": "Grama",
+      "visitante": "Peralada",
+      "escudo_local": "https://media.api-sports.io/football/teams/15344.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9676.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 79,
+          "equipo": "Grama",
+          "jugador": "Prat",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614026,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 24575,
+      "id_visitante": 18096,
+      "local": "Europa B",
+      "visitante": "Mollerussa",
+      "escudo_local": "https://media.api-sports.io/football/teams/24575.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/18096.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 12,
+          "equipo": "Mollerussa",
+          "jugador": "J. Graells Mas",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614028,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 17528,
+      "id_visitante": 9392,
+      "local": "L'Escala",
+      "visitante": "L'Hospitalet",
+      "escudo_local": "https://media.api-sports.io/football/teams/17528.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9392.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 37,
+          "equipo": "L'Escala",
+          "jugador": "B. Casadevall",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614030,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 28101,
+      "id_visitante": 5258,
+      "local": "Martinenc",
+      "visitante": "Cornellà",
+      "escudo_local": "https://media.api-sports.io/football/teams/28101.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5258.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 37,
+          "equipo": "Martinenc",
+          "jugador": "R. Vidal",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614031,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 15345,
+      "id_visitante": 24574,
+      "local": "Montañesa",
+      "visitante": "Atlètic Lleida",
+      "escudo_local": "https://media.api-sports.io/football/teams/15345.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/24574.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 43,
+          "equipo": "Atlètic Lleida",
+          "jugador": "Moha",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 82,
+          "equipo": "Montañesa",
+          "jugador": "S. Melero",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614032,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 443,
+      "id_local": 9678,
+      "id_visitante": 20264,
+      "local": "San Cristóbal",
+      "visitante": "Tona",
+      "escudo_local": "https://media.api-sports.io/football/teams/9678.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20264.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 19,
+          "equipo": "San Cristóbal",
+          "jugador": "Pime",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 36,
+          "equipo": "San Cristóbal",
+          "jugador": "M. Martinez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 49,
+          "equipo": "Tona",
+          "jugador": "Carlos",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "San Cristóbal",
+          "jugador": "J. Linares",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Montañesa",
+      "pts": 21,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 8,
+      "forma": "DWDWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/15345.png",
+      "equipo_id": 15345,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Grama",
+      "pts": 19,
+      "pj": 12,
+      "dg": 10,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 16,
+      "gc": 6,
+      "forma": "WWDDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15344.png",
+      "equipo_id": 15344,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Atlètic Lleida",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 18,
+      "gc": 14,
+      "forma": "DWWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24574.png",
+      "equipo_id": 24574,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Vilanova",
+      "pts": 19,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 14,
+      "gc": 13,
+      "forma": "LWWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/26542.png",
+      "equipo_id": 26542,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Cerdanyola del Vallès",
+      "pts": 19,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 14,
+      "gc": 13,
+      "forma": "LWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9670.png",
+      "equipo_id": 9670,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "L'Hospitalet",
+      "pts": 18,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 6,
+      "pp": 2,
+      "gf": 14,
+      "gc": 12,
+      "forma": "LWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9392.png",
+      "equipo_id": 9392,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Europa B",
+      "pts": 17,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 12,
+      "forma": "LLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24575.png",
+      "equipo_id": 24575,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Badalona",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 17,
+      "gc": 12,
+      "forma": "LWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5250.png",
+      "equipo_id": 5250,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Tona",
+      "pts": 17,
+      "pj": 12,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 10,
+      "gc": 12,
+      "forma": "LWDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20264.png",
+      "equipo_id": 20264,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Pobla Mafumet",
+      "pts": 16,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 15,
+      "gc": 13,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9677.png",
+      "equipo_id": 9677,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "San Juan Atletico de Montcada",
+      "pts": 16,
+      "pj": 12,
+      "dg": -5,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 17,
+      "gc": 22,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28102.png",
+      "equipo_id": 28102,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Martinenc",
+      "pts": 15,
+      "pj": 12,
+      "dg": -5,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 20,
+      "gc": 25,
+      "forma": "WLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28101.png",
+      "equipo_id": 28101,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Cornellà",
+      "pts": 14,
+      "pj": 12,
+      "dg": 2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 17,
+      "gc": 15,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5258.png",
+      "equipo_id": 5258,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Peralada",
+      "pts": 14,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 13,
+      "gc": 13,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9676.png",
+      "equipo_id": 9676,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Mollerussa",
+      "pts": 14,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 11,
+      "gc": 15,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/18096.png",
+      "equipo_id": 18096,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "L'Escala",
+      "pts": 12,
+      "pj": 12,
+      "dg": -4,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "WLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/17528.png",
+      "equipo_id": 17528,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Vilassar Mar",
+      "pts": 12,
+      "pj": 11,
+      "dg": -6,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 14,
+      "gc": 20,
+      "forma": "LWDDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9683.png",
+      "equipo_id": 9683,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "San Cristóbal",
+      "pts": 11,
+      "pj": 12,
+      "dg": -15,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 11,
+      "gc": 26,
+      "forma": "WLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9678.png",
+      "equipo_id": 9678,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 15
+      }
+    }
+  ],
+  "movimientos": {
+    "Montañesa": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Grama": {
+      "antes": 9,
+      "ahora": 2,
+      "cambio": "sube 7 puestos"
+    },
+    "Atlètic Lleida": {
+      "antes": 4,
+      "ahora": 3,
+      "cambio": "sube 1 puesto"
+    },
+    "L'Hospitalet": {
+      "antes": 5,
+      "ahora": 6,
+      "cambio": "baja 1 puesto"
+    },
+    "Europa B": {
+      "antes": 6,
+      "ahora": 7,
+      "cambio": "baja 1 puesto"
+    },
+    "Tona": {
+      "antes": 8,
+      "ahora": 9,
+      "cambio": "baja 1 puesto"
+    },
+    "Martinenc": {
+      "antes": 14,
+      "ahora": 12,
+      "cambio": "sube 2 puestos"
+    },
+    "Cornellà": {
+      "antes": 12,
+      "ahora": 13,
+      "cambio": "baja 1 puesto"
+    },
+    "Peralada": {
+      "antes": 13,
+      "ahora": 14,
+      "cambio": "baja 1 puesto"
+    },
+    "Mollerussa": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    },
+    "L'Escala": {
+      "antes": 17,
+      "ahora": 16,
+      "cambio": "sube 1 puesto"
+    },
+    "San Cristóbal": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

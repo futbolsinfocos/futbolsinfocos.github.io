@@ -1,0 +1,785 @@
+{
+  "slug": "2026-11-22-primera-federacion-grupo-2",
+  "fecha": "2026-11-22",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Ibiza golea en El Alcoraz y salta al play-off; el Alcorcón ya es tercero",
+  "entradilla": "El Ibiza ganó 0-4 al Huesca y escaló cuatro puestos hasta la quinta plaza. El Alcorcón venció 1-0 a un Algeciras con diez y sube al tercer puesto.",
+  "cuerpo_markdown": "La jornada 13 del Grupo 2 de Primera Federación dejó al Ibiza como gran protagonista: goleó 0-4 al Huesca en El Alcoraz, con doblete de I. Varela, y pasó del noveno al quinto puesto, ya en zona de play-off con 21 puntos. El Alcorcón también sacó rédito: su 1-0 ante el Algeciras, que jugó con diez desde el 57, le sube al tercer lugar con 24 puntos, igualado con el segundo, el Villarreal B. El Zaragoza sigue líder con 30.\n\n## Huesca 0-4 Ibiza\n\nEl Ibiza se impuso con claridad en El Alcoraz. A. Yoldi abrió el marcador en el minuto 6 y D. Astals amplió la ventaja en el 58. En el tramo final, I. Varela firmó un doblete con goles en el 84 y el 89.\n\nEl triunfo dispara al Ibiza del noveno al quinto puesto, con 21 puntos, dentro del play-off. El Huesca se mantiene decimoquinto con 15 puntos y suma una sola victoria en sus últimos cinco partidos; está a dos puntos de la zona de descenso.\n\n## Alcorcón 1-0 Algeciras\n\nUn gol de M. Berlanga en el minuto 32 bastó al Alcorcón para vencer en Santo Domingo. El Algeciras se quedó con diez en el 57 por la expulsión de I. Moreno.\n\nEl Alcorcón sube del cuarto al tercer puesto con 24 puntos, los mismos que el Villarreal B, segundo, y a seis del líder. Sigue invicto en casa esta temporada: cuatro victorias y tres empates. El Algeciras se mantiene duodécimo con 17 puntos.\n\n## Así queda la clasificación\n\nEl Zaragoza lidera con 30 puntos, seis más que Villarreal B y Alcorcón, ambos con 24. Completan el play-off el Real Murcia, con 23, y el Ibiza, con 21; el Hércules, sexto con los mismos 21 puntos, se queda fuera. Abajo, el Huesca (15) tiene dos puntos de margen sobre el Europa Fc, primer equipo en descenso con 13. Por detrás aparecen Águilas (12), Juventud Torremolinos (11), Rayo Majadahonda y Teruel, ambos con 7.",
+  "texto_instagram": "El Ibiza golea 0-4 en El Alcoraz y salta del noveno al quinto puesto, en play-off ⚽ El Alcorcón gana al Algeciras y ya es tercero 📈\n\nHuesca 0-4 Ibiza: A. Yoldi (6'), D. Astals (58'), I. Varela (84', 89')\nAlcorcón 1-0 Algeciras: M. Berlanga (32'). Roja a I. Moreno (57') 🟥",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#PrimeraRFEF",
+    "#Ibiza",
+    "#Alcorcón",
+    "#Huesca",
+    "#Algeciras"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-2-1.jpg",
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-2-2.jpg",
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-2-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1571217,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio Municipal de Santo Domingo",
+      "ciudad": null,
+      "arbitro": "G. Riu",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 711,
+      "id_visitante": 9597,
+      "local": "Alcorcón",
+      "visitante": "Algeciras",
+      "escudo_local": "https://media.api-sports.io/football/teams/711.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9597.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 32,
+          "equipo": "Alcorcón",
+          "jugador": "M. Berlanga",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 57,
+          "equipo": "Algeciras",
+          "jugador": "I. Moreno"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1571220,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio El Alcoraz",
+      "ciudad": "Huesca",
+      "arbitro": "M. Ibanez",
+      "jornada": "Group 2 - 13",
+      "liga_id": 436,
+      "id_local": 726,
+      "id_visitante": 9390,
+      "local": "Huesca",
+      "visitante": "Ibiza",
+      "escudo_local": "https://media.api-sports.io/football/teams/726.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9390.png",
+      "goles_local": 0,
+      "goles_visitante": 4,
+      "goleadores": [
+        {
+          "min": 6,
+          "equipo": "Ibiza",
+          "jugador": "A. Yoldi",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 58,
+          "equipo": "Ibiza",
+          "jugador": "D. Astals",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 84,
+          "equipo": "Ibiza",
+          "jugador": "I. Varela",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Ibiza",
+          "jugador": "I. Varela",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Zaragoza",
+      "pts": 30,
+      "pj": 13,
+      "dg": 15,
+      "pg": 9,
+      "pe": 3,
+      "pp": 1,
+      "gf": 27,
+      "gc": 12,
+      "forma": "WWWDW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/732.png",
+      "equipo_id": 732,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Villarreal B",
+      "pts": 24,
+      "pj": 13,
+      "dg": 11,
+      "pg": 6,
+      "pe": 6,
+      "pp": 1,
+      "gf": 28,
+      "gc": 17,
+      "forma": "DDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9595.png",
+      "equipo_id": 9595,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Alcorcón",
+      "pts": 24,
+      "pj": 13,
+      "dg": 11,
+      "pg": 6,
+      "pe": 6,
+      "pp": 1,
+      "gf": 25,
+      "gc": 14,
+      "forma": "WWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/711.png",
+      "equipo_id": 711,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 3,
+        "pp": 0,
+        "gf": 17,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Murcia",
+      "pts": 23,
+      "pj": 13,
+      "dg": 5,
+      "pg": 7,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "WLDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5275.png",
+      "equipo_id": 5275,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Ibiza",
+      "pts": 21,
+      "pj": 13,
+      "dg": 7,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 22,
+      "gc": 15,
+      "forma": "WLDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9390.png",
+      "equipo_id": 9390,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Hércules",
+      "pts": 21,
+      "pj": 13,
+      "dg": 0,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WDDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4666.png",
+      "equipo_id": 4666,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "FC Cartagena",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 17,
+      "gc": 13,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5262.png",
+      "equipo_id": 5262,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Real Madrid Castilla",
+      "pts": 19,
+      "pj": 13,
+      "dg": 1,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9575.png",
+      "equipo_id": 9575,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Real Jaén",
+      "pts": 19,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5274.png",
+      "equipo_id": 5274,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Atlético Madrid B",
+      "pts": 17,
+      "pj": 13,
+      "dg": 3,
+      "pg": 4,
+      "pe": 5,
+      "pp": 4,
+      "gf": 23,
+      "gc": 20,
+      "forma": "WWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9570.png",
+      "equipo_id": 9570,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 4,
+        "pp": 1,
+        "gf": 14,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Antequera",
+      "pts": 17,
+      "pj": 13,
+      "dg": 2,
+      "pg": 4,
+      "pe": 5,
+      "pp": 4,
+      "gf": 20,
+      "gc": 18,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9742.png",
+      "equipo_id": 9742,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Algeciras",
+      "pts": 17,
+      "pj": 13,
+      "dg": -1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 6,
+      "gf": 18,
+      "gc": 19,
+      "forma": "LWDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9597.png",
+      "equipo_id": 9597,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 9,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Sant Andreu",
+      "pts": 16,
+      "pj": 13,
+      "dg": 1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 17,
+      "gc": 16,
+      "forma": "LWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5277.png",
+      "equipo_id": 5277,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Nàstic de Tarragona",
+      "pts": 16,
+      "pj": 13,
+      "dg": -2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 20,
+      "forma": "DLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/714.png",
+      "equipo_id": 714,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 5,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Huesca",
+      "pts": 15,
+      "pj": 13,
+      "dg": -5,
+      "pg": 3,
+      "pe": 6,
+      "pp": 4,
+      "gf": 13,
+      "gc": 18,
+      "forma": "LLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/726.png",
+      "equipo_id": 726,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Europa Fc",
+      "pts": 13,
+      "pj": 13,
+      "dg": -11,
+      "pg": 4,
+      "pe": 1,
+      "pp": 8,
+      "gf": 11,
+      "gc": 22,
+      "forma": "WLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/593.png",
+      "equipo_id": 593,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Águilas",
+      "pts": 12,
+      "pj": 13,
+      "dg": -7,
+      "pg": 2,
+      "pe": 6,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "LWDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9823.png",
+      "equipo_id": 9823,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Juventud Torremolinos",
+      "pts": 11,
+      "pj": 13,
+      "dg": -9,
+      "pg": 2,
+      "pe": 5,
+      "pp": 6,
+      "gf": 14,
+      "gc": 23,
+      "forma": "LWDDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15359.png",
+      "equipo_id": 15359,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 3,
+        "pp": 4,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Rayo Majadahonda",
+      "pts": 7,
+      "pj": 13,
+      "dg": -10,
+      "pg": 2,
+      "pe": 1,
+      "pp": 10,
+      "gf": 8,
+      "gc": 18,
+      "forma": "LLLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/861.png",
+      "equipo_id": 861,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 0,
+        "pp": 7,
+        "gf": 2,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Teruel",
+      "pts": 7,
+      "pj": 13,
+      "dg": -15,
+      "pg": 1,
+      "pe": 4,
+      "pp": 8,
+      "gf": 5,
+      "gc": 20,
+      "forma": "LLDLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5278.png",
+      "equipo_id": 5278,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 4,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 1,
+        "gc": 15
+      }
+    }
+  ],
+  "movimientos": {
+    "Alcorcón": {
+      "antes": 4,
+      "ahora": 3,
+      "cambio": "sube 1 puesto"
+    },
+    "Ibiza": {
+      "antes": 9,
+      "ahora": 5,
+      "cambio": "sube 4 puestos"
+    },
+    "Algeciras": {
+      "antes": 12,
+      "ahora": 12,
+      "cambio": "se mantiene"
+    },
+    "Huesca": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1571220,
+    "titular": "El Ibiza golea al Huesca en El Alcoraz y entra en el play-off",
+    "entradilla": "El Ibiza ganó 0-4 al Huesca con un doblete de I. Varela y subió cuatro puestos, hasta el quinto. El Huesca sigue decimoquinto, a dos puntos del descenso.",
+    "parrafos": [
+      "El Ibiza firmó en El Alcoraz su victoria más amplia de la jornada en el Grupo 2 de Primera Federación: 0-4 ante el Huesca. El triunfo le lleva del noveno al quinto puesto, con 21 puntos, ya en zona de play-off.",
+      "El marcador se movió pronto. A. Yoldi adelantó al Ibiza en el minuto 6. La ventaja mínima se mantuvo hasta el 58, cuando D. Astals hizo el 0-2.",
+      "I. Varela cerró el partido en el tramo final con dos goles, en el 84 y en el 89, para firmar el doblete y dejar el 0-4 definitivo. El encuentro lo dirigió M. Ibanez.",
+      "El Ibiza suma 6 victorias, 3 empates y 4 derrotas, con 22 goles a favor y 15 en contra. Fuera de casa ya acumula 14 goles, más que en su estadio (8). Está a tres puntos del segundo puesto y a nueve del líder, el Zaragoza.",
+      "El Huesca se mantiene decimoquinto con 15 puntos y lleva una sola victoria en sus últimos cinco partidos. Encajó cuatro goles en un partido en El Alcoraz, donde había recibido cinco en sus seis citas anteriores, y su margen sobre el descenso es de dos puntos."
+    ],
+    "el_dato": "El Ibiza subió cuatro puestos en una sola jornada, del noveno al quinto.",
+    "slug": "2026-11-22-huesca-ibiza"
+  }
+}

@@ -7,7 +7,7 @@
       "equipo": "Antela",
       "escudo": "https://media.api-sports.io/football/teams/28094.png",
       "amarillas": 1,
-      "rojas": 3
+      "rojas": 4
     },
     {
       "equipo": "Sarriana",
@@ -112,5 +112,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-22"
 }

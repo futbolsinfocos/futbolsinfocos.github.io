@@ -1,0 +1,688 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-8",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 8",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Palencia CF gana al Guijuelo 2-1 y sube al octavo puesto",
+  "entradilla": "El Palencia CF se impuso al Guijuelo por 2-1 con goles de S. Rios y A. Gonzalez. Burgos Promesas y Bembibre empataron a cero.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 8 de Tercera Federación deja una victoria del Palencia CF ante el Guijuelo (2-1) y un empate sin goles entre Burgos Promesas y Bembibre. El Palencia sube al octavo puesto, mientras que el Guijuelo baja al noveno. El Burgos Promesas sube al quinto puesto.\n\n## Palencia CF 2-1 Guijuelo\n\nEl Palencia CF ganó al Guijuelo por 2-1. El Guijuelo se adelantó en el minuto 5 con gol de C. Godson. S. Rios igualó en el 16 y A. Gonzalez marcó el 2-1 en el 77. El Palencia sube un puesto, del 9 al 8, con 17 puntos. El Guijuelo baja del 8 al 9, con 16 puntos.\n\n## Burgos Promesas 0-0 Bembibre\n\nBurgos Promesas y Bembibre empataron sin goles. El Burgos Promesas sube del sexto al quinto puesto con 21 puntos y se mantiene en zona de play-off. El Bembibre se mantiene en el décimo puesto con 15 puntos.\n\n## Así queda la clasificación\n\nEl Cristo Atlético encabeza la tabla con 27 puntos y está en zona de ascenso. Le siguen UD Santa Marta (26), La Virgen del Camino (23), Atlético Mansillés (22) y Burgos Promesas (21), todos en zona de play-off. Cultural Leonesa B es sexto con 21 puntos, fuera de zona. En la parte baja, Colegios Diocesanos (6) y Salamanca B (6) ocupan los puestos 16 y 17, en zona de descenso. El Mirandés B es último con 4 puntos.",
+  "texto_instagram": "⚽ Jornada 12 del Grupo 8: el Palencia CF gana 2-1 al Guijuelo y sube al octavo puesto. Burgos Promesas y Bembibre empatan a cero.\n\nPalencia CF 2-1 Guijuelo: C. Godson (Guijuelo) 5'; S. Rios (Palencia CF) 16'; A. Gonzalez (Palencia CF) 77'.\n\nBurgos Promesas 0-0 Bembibre.\n\n🏆 El Cristo Atlético lidera con 27 puntos.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Jornada12",
+    "#PalenciaCF",
+    "#Guijuelo",
+    "#BurgosPromesas",
+    "#Bembibre"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-8-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-8-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-8-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614946,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 9727,
+      "id_visitante": 9725,
+      "local": "Burgos Promesas",
+      "visitante": "Bembibre",
+      "escudo_local": "https://media.api-sports.io/football/teams/9727.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9725.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1614949,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 8 - 12",
+      "liga_id": 446,
+      "id_local": 17538,
+      "id_visitante": 9388,
+      "local": "Palencia CF",
+      "visitante": "Guijuelo",
+      "escudo_local": "https://media.api-sports.io/football/teams/17538.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9388.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 5,
+          "equipo": "Guijuelo",
+          "jugador": "C. Godson",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 16,
+          "equipo": "Palencia CF",
+          "jugador": "S. Rios",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 77,
+          "equipo": "Palencia CF",
+          "jugador": "A. Gonzalez",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Cristo Atlético",
+      "pts": 27,
+      "pj": 12,
+      "dg": 11,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 17,
+      "gc": 6,
+      "forma": "WDDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9728.png",
+      "equipo_id": 9728,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD Santa Marta",
+      "pts": 26,
+      "pj": 12,
+      "dg": 12,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 8,
+      "forma": "LWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9738.png",
+      "equipo_id": 9738,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "La Virgen del Camino",
+      "pts": 23,
+      "pj": 12,
+      "dg": 3,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 16,
+      "gc": 13,
+      "forma": "WWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9732.png",
+      "equipo_id": 9732,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Atlético Mansillés",
+      "pts": 22,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 17,
+      "gc": 11,
+      "forma": "WWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/17502.png",
+      "equipo_id": 17502,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Burgos Promesas",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 16,
+      "gc": 6,
+      "forma": "DLWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9727.png",
+      "equipo_id": 9727,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Cultural Leonesa B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 14,
+      "gc": 7,
+      "forma": "LDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9729.png",
+      "equipo_id": 9729,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Almazán",
+      "pts": 19,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 18,
+      "gc": 15,
+      "forma": "WWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9721.png",
+      "equipo_id": 9721,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Palencia CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17538.png",
+      "equipo_id": 17538,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Guijuelo",
+      "pts": 16,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 19,
+      "gc": 13,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9388.png",
+      "equipo_id": 9388,
+      "casa": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Bembibre",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
+      "forma": "LDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9725.png",
+      "equipo_id": 9725,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Unionistas B",
+      "pts": 14,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26546.png",
+      "equipo_id": 26546,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 11,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Villaralbo",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 19,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22144.png",
+      "equipo_id": 22144,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Arandina",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 15,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9722.png",
+      "equipo_id": 9722,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Turégano",
+      "pts": 11,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 12,
+      "gc": 14,
+      "forma": "LWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20449.png",
+      "equipo_id": 20449,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 3,
+        "pp": 0,
+        "gf": 5,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Calasanz de Soria",
+      "pts": 8,
+      "pj": 12,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 12,
+      "gc": 26,
+      "forma": "DLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28106.png",
+      "equipo_id": 28106,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 18
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Colegios Diocesanos",
+      "pts": 6,
+      "pj": 12,
+      "dg": -14,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 11,
+      "gc": 25,
+      "forma": "LLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15354.png",
+      "equipo_id": 15354,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Salamanca B",
+      "pts": 6,
+      "pj": 12,
+      "dg": -18,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 13,
+      "gc": 31,
+      "forma": "DDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9737.png",
+      "equipo_id": 9737,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Mirandés B",
+      "pts": 4,
+      "pj": 11,
+      "dg": -10,
+      "pg": 0,
+      "pe": 4,
+      "pp": 7,
+      "gf": 3,
+      "gc": 13,
+      "forma": "DLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9733.png",
+      "equipo_id": 9733,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 2,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 2,
+        "pp": 2,
+        "gf": 1,
+        "gc": 3
+      }
+    }
+  ],
+  "movimientos": {
+    "Burgos Promesas": {
+      "antes": 6,
+      "ahora": 5,
+      "cambio": "sube 1 puesto"
+    },
+    "Palencia CF": {
+      "antes": 9,
+      "ahora": 8,
+      "cambio": "sube 1 puesto"
+    },
+    "Guijuelo": {
+      "antes": 8,
+      "ahora": 9,
+      "cambio": "baja 1 puesto"
+    },
+    "Bembibre": {
+      "antes": 10,
+      "ahora": 10,
+      "cambio": "se mantiene"
+    }
+  }
+}

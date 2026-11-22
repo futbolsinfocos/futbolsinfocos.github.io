@@ -1,0 +1,762 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-3",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Tropezón gana en Guarnizo y se pone primero en el Grupo 3 de Tercera Federación",
+  "entradilla": "El Tropezón asalta el liderato con un 0-1 en Guarnizo. En la Jornada 12, Cayón y Castro empatan 2-2 con dos expulsiones y Naval Reinosa y Atlético Mineros también igualan 2-2.",
+  "cuerpo_markdown": "Tropezón gana en Guarnizo y se coloca líder del Grupo 3 de Tercera Federación con 29 puntos. La Jornada 12 deja además dos empates 2-2, uno de ellos con dos expulsiones y un doblete de D. Ortiz.\n\n## Guarnizo 0-1 Tropezón\n\nTropezón se impone en Guarnizo con el único gol del encuentro y sube del segundo al primer puesto de la clasificación, con 29 puntos, uno más que Revilla (27). Guarnizo se mantiene undécimo con 11 puntos.\n\n## Cayón 2-2 Castro\n\nD. Ortiz abre el marcador para Cayón en el 26 y vuelve a marcar en el 90. Castro empata en el 63 y da la vuelta en el 75, pero Cayón iguala en el descuento. Hubo dos expulsiones: una de Cayón en el 84 y otra de Castro en el 90. Cayón se mantiene quinto con 24 puntos, dentro de la zona de play-off. Castro sube al puesto 15 con 9 puntos.\n\n## Naval Reinosa 2-2 Atlético Mineros\n\nEl empate se decide en dos mitades iguales: Naval Reinosa marca en el 45 y Atlético Mineros responde en el mismo minuto. Mineros marca de nuevo en el 74 y Naval Reinosa iguala en el 85. Naval Reinosa sube al puesto 14 con 10 puntos y Atlético Mineros sube al octavo con 17 puntos.\n\n## Así queda la clasificación\n\nTropezón encabeza la tabla con 29 puntos, en zona de ascenso. Revilla (27), Vimenor (26), Laredo (25) y Cayón (24) completan la zona de play-off. Sámano, sexto con 22 puntos, queda a dos de esa zona. En la parte baja, Solares (9 puntos) ocupa el puesto 16 y Escobedo (7 puntos, 11 partidos jugados) el 18, ambos en zona de descenso. Barquereño (8 puntos, 11 partidos) ocupa el 17.",
+  "texto_instagram": "⚽ Tropezón gana en Guarnizo y se pone primero en el Grupo 3 de Tercera Federación. Cayón y Castro empatan 2-2 con dos expulsiones.\nGuarnizo 0-1 Tropezón: gol de Tropezón.\nCayón 2-2 Castro: D. Ortiz 26' y 90'; Castro 63' y 75'. 🟥\nNaval Reinosa 2-2 Atlético Mineros: Naval 45' y 85'; Mineros 45' y 74'.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo3",
+    "#Tropezón",
+    "#Cayón",
+    "#Castro",
+    "#NavalReinosa",
+    "#AtléticoMineros"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-3-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-3-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613415,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 441,
+      "id_local": 15339,
+      "id_visitante": 15336,
+      "local": "Cayón",
+      "visitante": "Castro",
+      "escudo_local": "https://media.api-sports.io/football/teams/15339.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15336.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 26,
+          "equipo": "Cayón",
+          "jugador": "D. Ortiz",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 63,
+          "equipo": "Castro",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 75,
+          "equipo": "Castro",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Cayón",
+          "jugador": "D. Ortiz",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 84,
+          "equipo": "Cayón",
+          "jugador": null
+        },
+        {
+          "min": 90,
+          "equipo": "Castro",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1613417,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 441,
+      "id_local": 9642,
+      "id_visitante": 9651,
+      "local": "Guarnizo",
+      "visitante": "Tropezón",
+      "escudo_local": "https://media.api-sports.io/football/teams/9642.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9651.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1613418,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 441,
+      "id_local": 28098,
+      "id_visitante": 22132,
+      "local": "Naval Reinosa",
+      "visitante": "Atlético Mineros",
+      "escudo_local": "https://media.api-sports.io/football/teams/28098.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22132.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "Naval Reinosa",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Atlético Mineros",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Atlético Mineros",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 85,
+          "equipo": "Naval Reinosa",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Tropezón",
+      "pts": 29,
+      "pj": 12,
+      "dg": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 23,
+      "gc": 8,
+      "forma": "WLWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9651.png",
+      "equipo_id": 9651,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Revilla",
+      "pts": 27,
+      "pj": 12,
+      "dg": 15,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 28,
+      "gc": 13,
+      "forma": "WWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15337.png",
+      "equipo_id": 15337,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 15,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 13,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Vimenor",
+      "pts": 26,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 21,
+      "gc": 7,
+      "forma": "WWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9652.png",
+      "equipo_id": 9652,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Laredo",
+      "pts": 25,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 1,
+      "pp": 3,
+      "gf": 24,
+      "gc": 10,
+      "forma": "WWDLL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9394.png",
+      "equipo_id": 9394,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Cayón",
+      "pts": 24,
+      "pj": 12,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 15,
+      "gc": 7,
+      "forma": "DLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15339.png",
+      "equipo_id": 15339,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 10,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Sámano",
+      "pts": 22,
+      "pj": 12,
+      "dg": 14,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 25,
+      "gc": 11,
+      "forma": "LWWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9648.png",
+      "equipo_id": 9648,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Bezana",
+      "pts": 21,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 21,
+      "gc": 15,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9639.png",
+      "equipo_id": 9639,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Atlético Mineros",
+      "pts": 17,
+      "pj": 12,
+      "dg": -5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 23,
+      "forma": "DWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22132.png",
+      "equipo_id": 22132,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Torina",
+      "pts": 16,
+      "pj": 12,
+      "dg": 4,
+      "pg": 3,
+      "pe": 7,
+      "pp": 2,
+      "gf": 13,
+      "gc": 9,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9650.png",
+      "equipo_id": 9650,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Atlético Albericia",
+      "pts": 11,
+      "pj": 12,
+      "dg": -4,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 15,
+      "gc": 19,
+      "forma": "LWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9637.png",
+      "equipo_id": 9637,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Guarnizo",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9642.png",
+      "equipo_id": 9642,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Selaya",
+      "pts": 11,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 19,
+      "forma": "WDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9645.png",
+      "equipo_id": 9645,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 3,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Velarde",
+      "pts": 10,
+      "pj": 12,
+      "dg": -11,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 9,
+      "gc": 20,
+      "forma": "WDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20451.png",
+      "equipo_id": 20451,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Naval Reinosa",
+      "pts": 10,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 14,
+      "gc": 26,
+      "forma": "DWDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28098.png",
+      "equipo_id": 28098,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Castro",
+      "pts": 9,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 21,
+      "forma": "DLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15336.png",
+      "equipo_id": 15336,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Solares",
+      "pts": 9,
+      "pj": 12,
+      "dg": -9,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 17,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9647.png",
+      "equipo_id": 9647,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Barquereño",
+      "pts": 8,
+      "pj": 11,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 8,
+      "gc": 22,
+      "forma": "LLWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/8152.png",
+      "equipo_id": 8152,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Escobedo",
+      "pts": 7,
+      "pj": 11,
+      "dg": -10,
+      "pg": 1,
+      "pe": 4,
+      "pp": 6,
+      "gf": 8,
+      "gc": 18,
+      "forma": "LLDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9386.png",
+      "equipo_id": 9386,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 2,
+        "gc": 7
+      }
+    }
+  ],
+  "movimientos": {
+    "Tropezón": {
+      "antes": 2,
+      "ahora": 1,
+      "cambio": "sube 1 puesto"
+    },
+    "Cayón": {
+      "antes": 5,
+      "ahora": 5,
+      "cambio": "se mantiene"
+    },
+    "Atlético Mineros": {
+      "antes": 9,
+      "ahora": 8,
+      "cambio": "sube 1 puesto"
+    },
+    "Guarnizo": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Naval Reinosa": {
+      "antes": 15,
+      "ahora": 14,
+      "cambio": "sube 1 puesto"
+    },
+    "Castro": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

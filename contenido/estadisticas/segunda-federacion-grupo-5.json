@@ -64,6 +64,12 @@
       "rojas": 1
     },
     {
+      "equipo": "Real Madrid C",
+      "escudo": "https://media.api-sports.io/football/teams/22142.png",
+      "amarillas": 0,
+      "rojas": 1
+    },
+    {
       "equipo": "Real Ávila",
       "escudo": "https://media.api-sports.io/football/teams/9736.png",
       "amarillas": 0,
@@ -100,17 +106,11 @@
       "rojas": 0
     },
     {
-      "equipo": "Real Madrid C",
-      "escudo": "https://media.api-sports.io/football/teams/22142.png",
-      "amarillas": 0,
-      "rojas": 0
-    },
-    {
       "equipo": "SS Reyes",
       "escudo": "https://media.api-sports.io/football/teams/9412.png",
       "amarillas": 0,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-22"
 }

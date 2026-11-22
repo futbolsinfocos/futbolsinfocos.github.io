@@ -1,0 +1,803 @@
+{
+  "slug": "2026-11-22-primera-federacion-grupo-1",
+  "fecha": "2026-11-22",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Real Avilés entra en play-off y el Racing de Ferrol gana en el descuento en O Couto",
+  "entradilla": "Dos remontadas visitantes marcan la jornada 13 del Grupo 1 de Primera Federación. El Real Avilés sube cuatro puestos hasta el tercero y el Racing de Ferrol, otros cuatro hasta el noveno.",
+  "cuerpo_markdown": "Los dos partidos disputados este domingo en el Grupo 1 de Primera Federación terminaron con victoria visitante por 2-3 y 1-2, y ambos tras remontada. El **Real Avilés** ganó 1-2 en Fadura y escala del séptimo al tercer puesto, ya en zona de play-off con 21 puntos. El **Racing de Ferrol** se impuso 2-3 en O Couto con un gol de V. Esquerdo en el minuto 90 y sube del decimotercero al noveno, con 18. Arenas Getxo y UD Ourense siguen en descenso.\n\n## UD Ourense 2-3 Racing de Ferrol\n\nCinco goles y un final de máxima tensión en O Couto. J. Labrada adelantó al UD Ourense en el minuto 45 y J. Bernal empató en ese mismo minuto. E. Eto'o puso el 1-2 en el 76, R. Jansonas igualó en el 87 y V. Esquerdo decidió en el 90. El Racing de Ferrol terminó con diez por la expulsión de R. Arroyo, también en el 90.\n\nEl triunfo lleva al Racing de Ferrol del decimotercer al noveno puesto, con 18 puntos, a dos del play-off. El UD Ourense sigue colista con 8 puntos, a cinco de la permanencia, que marca la Cultural Leonesa con 13.\n\n## Arenas Getxo 1-2 Real Avilés\n\nR. Torres Manzanares adelantó al Arenas Getxo en el minuto 2, pero el Real Avilés le dio la vuelta al marcador. Neskes empató en el 31 y A. Santamaria firmó el 1-2 de penalti en el 62.\n\nEl Real Avilés sube cuatro puestos, del séptimo al tercero, y entra en play-off con 21 puntos, empatado con el Pontevedra y a tres del UD Logroñés. El Arenas Getxo se mantiene decimonoveno con 12 puntos, a uno de la salvación.\n\n## Así queda la clasificación\n\nEl Lugo lidera con 31 puntos y siete de ventaja sobre el UD Logroñés, segundo con 24 y un partido menos. Completan el play-off el Real Avilés (21), el Pontevedra (21) y el Mirandés (20). El Mérida AD, sexto con 19 y un partido menos, se queda a un punto, igual que el Athletic Club B. En la parte baja, la Cultural Leonesa marca la salvación con 13 puntos, los mismos que Zamora y Unionistas de Salamanca, ya en descenso. Cierran la tabla el Deportivo La Coruña B (12), el Arenas Getxo (12) y el UD Ourense (8).",
+  "texto_instagram": "Dos remontadas a domicilio en el Grupo 1 de Primera Federación ⚽ El Real Avilés entra en play-off y el Racing de Ferrol gana en el minuto 90 en O Couto 🔥\n\nUD Ourense 2-3 Racing de Ferrol: Labrada (45), Jansonas (87); Bernal (45), Eto'o (76), Esquerdo (90). Roja: Arroyo (90)\nArenas Getxo 1-2 Real Avilés: Torres Manzanares (2); Neskes (31), Santamaria (62, pen.) 📊",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#1RFEF",
+    "#RacingdeFerrol",
+    "#RealAviles",
+    "#UDOurense",
+    "#ArenasGetxo"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-1-1.jpg",
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-1-2.jpg",
+    "img/2026-11-22/2026-11-22-primera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570837,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio Municipal de Fadura",
+      "ciudad": "Getxo",
+      "arbitro": "J. Lopez",
+      "jornada": "Group 1 - 13",
+      "liga_id": 435,
+      "id_local": 9578,
+      "id_visitante": 9632,
+      "local": "Arenas Getxo",
+      "visitante": "Real Avilés",
+      "escudo_local": "https://media.api-sports.io/football/teams/9578.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9632.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 2,
+          "equipo": "Arenas Getxo",
+          "jugador": "R. Torres Manzanares",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 31,
+          "equipo": "Real Avilés",
+          "jugador": "Neskes",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 62,
+          "equipo": "Real Avilés",
+          "jugador": "A. Santamaria",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1570845,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio de O Couto",
+      "ciudad": null,
+      "arbitro": "D. Manrique",
+      "jornada": "Group 1 - 13",
+      "liga_id": 435,
+      "id_local": 9617,
+      "id_visitante": 9409,
+      "local": "UD Ourense",
+      "visitante": "Racing de Ferrol",
+      "escudo_local": "https://media.api-sports.io/football/teams/9617.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9409.png",
+      "goles_local": 2,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "UD Ourense",
+          "jugador": "J. Labrada",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Racing de Ferrol",
+          "jugador": "J. Bernal",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 76,
+          "equipo": "Racing de Ferrol",
+          "jugador": "E. Eto'o",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 87,
+          "equipo": "UD Ourense",
+          "jugador": "R. Jansonas",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Racing de Ferrol",
+          "jugador": "V. Esquerdo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 90,
+          "equipo": "Racing de Ferrol",
+          "jugador": "R. Arroyo"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Lugo",
+      "pts": 31,
+      "pj": 13,
+      "dg": 10,
+      "pg": 10,
+      "pe": 1,
+      "pp": 2,
+      "gf": 22,
+      "gc": 12,
+      "forma": "WLWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/716.png",
+      "equipo_id": 716,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD Logroñés",
+      "pts": 24,
+      "pj": 12,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 24,
+      "gc": 16,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5280.png",
+      "equipo_id": 5280,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 16,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Real Avilés",
+      "pts": 21,
+      "pj": 13,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 27,
+      "gc": 18,
+      "forma": "WDWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9632.png",
+      "equipo_id": 9632,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Pontevedra",
+      "pts": 21,
+      "pj": 13,
+      "dg": 1,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9407.png",
+      "equipo_id": 9407,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Mirandés",
+      "pts": 20,
+      "pj": 13,
+      "dg": 2,
+      "pg": 6,
+      "pe": 2,
+      "pp": 5,
+      "gf": 16,
+      "gc": 14,
+      "forma": "LWLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/799.png",
+      "equipo_id": 799,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Mérida AD",
+      "pts": 19,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 21,
+      "gc": 15,
+      "forma": "WWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/10140.png",
+      "equipo_id": 10140,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Athletic Club B",
+      "pts": 19,
+      "pj": 13,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 15,
+      "forma": "WDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9579.png",
+      "equipo_id": 9579,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Cacereño",
+      "pts": 18,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 11,
+      "gc": 10,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9384.png",
+      "equipo_id": 9384,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Racing de Ferrol",
+      "pts": 18,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 10,
+      "gc": 9,
+      "forma": "DLDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9409.png",
+      "equipo_id": 9409,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Ponferradina",
+      "pts": 18,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "WLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4907.png",
+      "equipo_id": 4907,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Extremadura 1924",
+      "pts": 16,
+      "pj": 13,
+      "dg": 4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 7,
+      "gf": 24,
+      "gc": 20,
+      "forma": "LLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24612.png",
+      "equipo_id": 24612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 16,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Real Unión",
+      "pts": 16,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 20,
+      "gc": 19,
+      "forma": "WLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9586.png",
+      "equipo_id": 9586,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Barakaldo",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5251.png",
+      "equipo_id": 5251,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "CD Coria",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 18,
+      "gc": 19,
+      "forma": "WWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9827.png",
+      "equipo_id": 9827,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Cultural Leonesa",
+      "pts": 13,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LDLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/725.png",
+      "equipo_id": 725,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Zamora",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 15,
+      "forma": "DLLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9418.png",
+      "equipo_id": 9418,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 9,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Unionistas de Salamanca",
+      "pts": 13,
+      "pj": 12,
+      "dg": -7,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LWLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5281.png",
+      "equipo_id": 5281,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Deportivo La Coruña B",
+      "pts": 12,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 14,
+      "gc": 21,
+      "forma": "DLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9610.png",
+      "equipo_id": 9610,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Arenas Getxo",
+      "pts": 12,
+      "pj": 13,
+      "dg": -14,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 27,
+      "forma": "LDWWW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9578.png",
+      "equipo_id": 9578,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "UD Ourense",
+      "pts": 8,
+      "pj": 12,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 5,
+      "gc": 19,
+      "forma": "LLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9617.png",
+      "equipo_id": 9617,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Real Avilés": {
+      "antes": 7,
+      "ahora": 3,
+      "cambio": "sube 4 puestos"
+    },
+    "Racing de Ferrol": {
+      "antes": 13,
+      "ahora": 9,
+      "cambio": "sube 4 puestos"
+    },
+    "Arenas Getxo": {
+      "antes": 19,
+      "ahora": 19,
+      "cambio": "se mantiene"
+    },
+    "UD Ourense": {
+      "antes": 20,
+      "ahora": 20,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1570845,
+    "titular": "Esquerdo da al Racing de Ferrol la victoria en el 90 ante el UD Ourense (2-3)",
+    "entradilla": "El Racing de Ferrol remontó en O Couto con un gol en el minuto 90 y sube cuatro puestos, hasta el noveno. El UD Ourense sigue colista.",
+    "parrafos": [
+      "El Racing de Ferrol ganó 2-3 al UD Ourense en el Estadio de O Couto, en la jornada 13 del Grupo 1 de Primera Federación. El triunfo lo lleva del decimotercer al noveno puesto, con 18 puntos.",
+      "El UD Ourense se adelantó en el minuto 45 con gol de J. Labrada, pero J. Bernal empató en ese mismo minuto antes del descanso.",
+      "E. Eto'o puso por delante al Racing de Ferrol en el 76. R. Jansonas igualó en el 87 y V. Esquerdo marcó el 2-3 definitivo en el 90.",
+      "El conjunto ferrolano acabó con diez por la expulsión de R. Arroyo en el minuto 90. Dirigió el partido D. Manrique.",
+      "El Racing de Ferrol se queda a dos puntos del play-off, que cierra el Mirandés con 20. El UD Ourense continúa último con 8 puntos, a cinco de la permanencia que marca la Cultural Leonesa."
+    ],
+    "el_dato": "Tres de los cinco goles del partido llegaron en el minuto 45 o más tarde del 85.",
+    "slug": "2026-11-22-ud-ourense-racing-de-ferrol"
+  }
+}

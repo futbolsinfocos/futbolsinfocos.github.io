@@ -40,6 +40,12 @@
       "rojas": 3
     },
     {
+      "equipo": "Extremadura 1924",
+      "escudo": "https://media.api-sports.io/football/teams/24612.png",
+      "amarillas": 34,
+      "rojas": 4
+    },
+    {
       "equipo": "Pontevedra",
       "escudo": "https://media.api-sports.io/football/teams/9407.png",
       "amarillas": 32,
@@ -58,15 +64,21 @@
       "rojas": 4
     },
     {
-      "equipo": "Extremadura 1924",
-      "escudo": "https://media.api-sports.io/football/teams/24612.png",
-      "amarillas": 30,
-      "rojas": 4
+      "equipo": "Lugo",
+      "escudo": "https://media.api-sports.io/football/teams/716.png",
+      "amarillas": 33,
+      "rojas": 3
     },
     {
       "equipo": "Zamora",
       "escudo": "https://media.api-sports.io/football/teams/9418.png",
       "amarillas": 33,
+      "rojas": 2
+    },
+    {
+      "equipo": "Arenas Getxo",
+      "escudo": "https://media.api-sports.io/football/teams/9578.png",
+      "amarillas": 32,
       "rojas": 2
     },
     {
@@ -85,18 +97,6 @@
       "equipo": "Cultural Leonesa",
       "escudo": "https://media.api-sports.io/football/teams/725.png",
       "amarillas": 30,
-      "rojas": 2
-    },
-    {
-      "equipo": "Arenas Getxo",
-      "escudo": "https://media.api-sports.io/football/teams/9578.png",
-      "amarillas": 29,
-      "rojas": 2
-    },
-    {
-      "equipo": "Lugo",
-      "escudo": "https://media.api-sports.io/football/teams/716.png",
-      "amarillas": 29,
       "rojas": 2
     },
     {
@@ -124,5 +124,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-22"
 }

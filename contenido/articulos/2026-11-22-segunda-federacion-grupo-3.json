@@ -1,0 +1,874 @@
+{
+  "slug": "2026-11-22-segunda-federacion-grupo-3",
+  "fecha": "2026-11-22",
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Yeclano frena al Ucam en el 89 y el Atlético Baleares escala hasta la quinta plaza",
+  "entradilla": "El empate de S. Holgado en La Condomina deja al Ucam Murcia segundo, a un punto de la Deportiva Minera. El Atlético Baleares gana 3-0 al Real Murcia B y sube cuatro puestos.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 3 de Segunda Federación se decidió en los minutos finales. El Ucam Murcia no pasó del 1-1 ante el Yeclano, que empató en el 89, y sigue segundo con 23 puntos, a uno de la Deportiva Minera, líder con 24. El Castellón B, tercero con 22, también se dejó dos puntos: el Castellonense, con uno menos desde el 77, le arrancó el 2-2 en el 90. El Atlético Baleares goleó 3-0 al Real Murcia B y saltó del noveno al quinto puesto. El Lorca Deportiva ganó 0-1 en el campo de la Peña Deportiva y el Mallorca B superó 3-1 al Cieza, que cae del cuarto al séptimo lugar.\n\n## Ucam Murcia 1-1 Yeclano\n\nEl Ucam Murcia se adelantó en La Condomina con un gol de D. Aquino en el minuto 15. Sostuvo la ventaja hasta el 89, cuando S. Holgado firmó el empate para el Yeclano.\n\nEl conjunto universitario se mantiene segundo con 23 puntos, a uno del liderato, y encadena dos jornadas sin ganar. El Yeclano sigue undécimo con 15 puntos.\n\n## Castellón B 2-2 Castellonense\n\nEl derbi fue de ida y vuelta en el marcador. J. Perez adelantó al Castellón B en el minuto 7 e I. Garijo igualó en el 23. N. Font volvió a poner por delante al filial en el 49. El Castellonense se quedó con diez por una expulsión en el 77, pero empató en el minuto 90.\n\nEl Castellón B sigue tercero con 22 puntos. El Castellonense sube un puesto y es cuarto con 19 puntos. Suma cuatro empates en sus últimos cinco partidos.\n\n## Atlético Baleares 3-0 Real Murcia B\n\nEl Atlético Baleares goleó en el Estadio Balear. A. Catala marcó en el 58 y en el 70, y R. Caballero cerró el 3-0 en el 90. Es su segunda victoria seguida y la cuarta en los últimos cinco partidos. Sube cuatro puestos, del noveno al quinto, con 19 puntos. El Real Murcia B sigue colista con 8.\n\n## Peña Deportiva 0-1 Lorca Deportiva\n\nUn gol de J. Naranjo en el minuto 2 dio el triunfo al Lorca Deportiva, que sube dos puestos y es sexto con 19 puntos. La Peña Deportiva encadena su segunda derrota seguida y baja al decimoséptimo puesto con 8 puntos.\n\n## Mallorca B 3-1 Cieza\n\nA. Pena firmó un doblete para el Mallorca B: abrió el marcador en el 25 y marcó de penalti en el 54. El Cieza recortó en el 78 y A. Diallo sentenció en el 83. El filial sube dos puestos y es duodécimo con 15 puntos. El Cieza, con tres derrotas en sus últimos cuatro partidos, baja tres puestos, del cuarto al séptimo, con 18 puntos.\n\n## Así queda la clasificación\n\nLa Deportiva Minera lidera con 24 puntos, uno más que el Ucam Murcia y dos más que el Castellón B. El Castellonense es cuarto con 19 puntos, empatado con el Atlético Baleares y el Lorca Deportiva. El Cieza queda séptimo con 18. En la parte baja, Valencia B, Peña Deportiva y Real Murcia B suman 8 puntos, a cuatro del Elche B, decimoquinto con 12.",
+  "texto_instagram": "El Yeclano empata en el 89 en La Condomina y el Ucam Murcia sigue a un punto del líder ⚽ El Atlético Baleares gana 3-0 y sube del 9º al 5º puesto 📈\n\nUcam Murcia 1-1 Yeclano: D. Aquino 15'; S. Holgado 89'\nCastellón B 2-2 Castellonense: J. Perez 7', N. Font 49'; I. Garijo 23', gol en el 90'\nAtlético Baleares 3-0 Real Murcia B: A. Catala 58', 70', R. Caballero 90'\nPeña Deportiva 0-1 Lorca Deportiva: J. Naranjo 2'\nMallorca B 3-1 Cieza: A. Pena 25', 54' (p), A. Diallo 83'; gol en el 78' 🔥",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Grupo3",
+    "#UcamMurcia",
+    "#Yeclano",
+    "#AtleticoBaleares",
+    "#CastellonB",
+    "#Castellonense"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-3-1.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-3-2.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-3-3.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572747,
+      "fecha": "2026-11-22T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 9405,
+      "id_visitante": 9400,
+      "local": "Peña Deportiva",
+      "visitante": "Lorca Deportiva",
+      "escudo_local": "https://media.api-sports.io/football/teams/9405.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9400.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 2,
+          "equipo": "Lorca Deportiva",
+          "jugador": "J. Naranjo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572741,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio Balear",
+      "ciudad": "Palma",
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 9381,
+      "id_visitante": 9820,
+      "local": "Atlético Baleares",
+      "visitante": "Real Murcia B",
+      "escudo_local": "https://media.api-sports.io/football/teams/9381.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9820.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 58,
+          "equipo": "Atlético Baleares",
+          "jugador": "A. Catala",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 70,
+          "equipo": "Atlético Baleares",
+          "jugador": "A. Catala",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Atlético Baleares",
+          "jugador": "R. Caballero",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572744,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 17588,
+      "id_visitante": 22138,
+      "local": "Castellón B",
+      "visitante": "Castellonense",
+      "escudo_local": "https://media.api-sports.io/football/teams/17588.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22138.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 7,
+          "equipo": "Castellón B",
+          "jugador": "J. Perez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 23,
+          "equipo": "Castellonense",
+          "jugador": "I. Garijo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 49,
+          "equipo": "Castellón B",
+          "jugador": "N. Font",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Castellonense",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 77,
+          "equipo": "Castellonense",
+          "jugador": null
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572745,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 9783,
+      "id_visitante": 20277,
+      "local": "Mallorca B",
+      "visitante": "Cieza",
+      "escudo_local": "https://media.api-sports.io/football/teams/9783.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20277.png",
+      "goles_local": 3,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 25,
+          "equipo": "Mallorca B",
+          "jugador": "A. Pena",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 54,
+          "equipo": "Mallorca B",
+          "jugador": "A. Pena",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 78,
+          "equipo": "Cieza",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Mallorca B",
+          "jugador": "A. Diallo",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1572748,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": "Estadio de La Condomina",
+      "ciudad": "Murcia",
+      "arbitro": null,
+      "jornada": "Group 3 - 12",
+      "liga_id": 877,
+      "id_local": 800,
+      "id_visitante": 5283,
+      "local": "Ucam Murcia",
+      "visitante": "Yeclano",
+      "escudo_local": "https://media.api-sports.io/football/teams/800.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5283.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 15,
+          "equipo": "Ucam Murcia",
+          "jugador": "D. Aquino",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Yeclano",
+          "jugador": "S. Holgado",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Deportiva Minera",
+      "pts": 24,
+      "pj": 12,
+      "dg": 6,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 17,
+      "gc": 11,
+      "forma": "DWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9811.png",
+      "equipo_id": 9811,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ucam Murcia",
+      "pts": 23,
+      "pj": 12,
+      "dg": 12,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 24,
+      "gc": 12,
+      "forma": "DWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/800.png",
+      "equipo_id": 800,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Castellón B",
+      "pts": 22,
+      "pj": 12,
+      "dg": 11,
+      "pg": 7,
+      "pe": 1,
+      "pp": 4,
+      "gf": 25,
+      "gc": 14,
+      "forma": "DLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17588.png",
+      "equipo_id": 17588,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Castellonense",
+      "pts": 19,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 20,
+      "gc": 15,
+      "forma": "DDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22138.png",
+      "equipo_id": 22138,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Atlético Baleares",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 21,
+      "gc": 17,
+      "forma": "WWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9381.png",
+      "equipo_id": 9381,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Lorca Deportiva",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 16,
+      "gc": 12,
+      "forma": "WWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9400.png",
+      "equipo_id": 9400,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Cieza",
+      "pts": 18,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 12,
+      "forma": "LDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20277.png",
+      "equipo_id": 20277,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "La Nucía",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "DDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9393.png",
+      "equipo_id": 9393,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Alcoyano",
+      "pts": 17,
+      "pj": 11,
+      "dg": 1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9686.png",
+      "equipo_id": 9686,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Poblense",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 10,
+      "gc": 14,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5273.png",
+      "equipo_id": 5273,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Yeclano",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
+      "forma": "DWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5283.png",
+      "equipo_id": 5283,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Mallorca B",
+      "pts": 15,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9783.png",
+      "equipo_id": 9783,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Orihuela",
+      "pts": 14,
+      "pj": 11,
+      "dg": -5,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 10,
+      "gc": 15,
+      "forma": "DDDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9404.png",
+      "equipo_id": 9404,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Intercity",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 18,
+      "forma": "LLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8160.png",
+      "equipo_id": 8160,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Elche B",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 15,
+      "gc": 25,
+      "forma": "DLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9691.png",
+      "equipo_id": 9691,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Valencia B",
+      "pts": 8,
+      "pj": 11,
+      "dg": -7,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 10,
+      "gc": 17,
+      "forma": "DLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9594.png",
+      "equipo_id": 9594,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Peña Deportiva",
+      "pts": 8,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 16,
+      "forma": "LDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9405.png",
+      "equipo_id": 9405,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Murcia B",
+      "pts": 8,
+      "pj": 11,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "LLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9820.png",
+      "equipo_id": 9820,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Ucam Murcia": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Castellón B": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Castellonense": {
+      "antes": 5,
+      "ahora": 4,
+      "cambio": "sube 1 puesto"
+    },
+    "Atlético Baleares": {
+      "antes": 9,
+      "ahora": 5,
+      "cambio": "sube 4 puestos"
+    },
+    "Lorca Deportiva": {
+      "antes": 8,
+      "ahora": 6,
+      "cambio": "sube 2 puestos"
+    },
+    "Cieza": {
+      "antes": 4,
+      "ahora": 7,
+      "cambio": "baja 3 puestos"
+    },
+    "Yeclano": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Mallorca B": {
+      "antes": 14,
+      "ahora": 12,
+      "cambio": "sube 2 puestos"
+    },
+    "Peña Deportiva": {
+      "antes": 16,
+      "ahora": 17,
+      "cambio": "baja 1 puesto"
+    },
+    "Real Murcia B": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572748,
+    "titular": "S. Holgado empata en el 89 y el Ucam Murcia se queda a un punto del liderato",
+    "entradilla": "El Yeclano arrancó un 1-1 de La Condomina en el último minuto. El Ucam Murcia sigue segundo con 23 puntos, a uno de la Deportiva Minera.",
+    "parrafos": [
+      "El Ucam Murcia dejó escapar dos puntos en el minuto 89. El 1-1 ante el Yeclano en el Estadio de La Condomina lo mantiene segundo en el Grupo 3 de Segunda Federación, con 23 puntos, a uno de la Deportiva Minera.",
+      "D. Aquino adelantó al equipo murciano en el minuto 15. El 1-0 aguantó hasta el 89, cuando S. Holgado marcó el empate para el Yeclano.",
+      "El partido terminó sin expulsiones ni penaltis fallados.",
+      "El Ucam Murcia suma dos partidos sin ganar, tras perder la jornada anterior. Mantiene, eso sí, la mejor diferencia de goles del grupo (+12) y acumula 24 goles a favor.",
+      "El Yeclano sigue undécimo con 15 puntos. Es el sexto empate de su temporada, el equipo que más empates suma en el grupo."
+    ],
+    "el_dato": "El Yeclano empató en el minuto 89; ya suma seis empates en 12 jornadas, más que ningún otro equipo del grupo.",
+    "slug": "2026-11-22-ucam-murcia-yeclano"
+  }
+}

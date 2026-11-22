@@ -1,0 +1,695 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-11",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 11",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Cardassar sube al sexto puesto con una victoria en Formentera; el Mercadal gana 1-0 al Manacor",
+  "entradilla": "El Cardassar gana 1-2 en Formentera y sube cuatro puestos hasta el sexto. El Mercadal vence 1-0 al Manacor con un gol en el minuto 90 y el Manacor sigue cuarto.",
+  "cuerpo_markdown": "El Cardassar sube al sexto puesto tras ganar 2-1 en Formentera, y el Mercadal se impone 1-0 al Manacor con un gol en el minuto 90.\n\n## Formentera 1-2 Cardassar\n\nP. Parra marcó para el Formentera en el minuto 9. Joan empató para el Cardassar en el 12 y I. Ojeda adelantó a los visitantes en el 42. Con este resultado, el Cardassar sube cuatro puestos, del 10.º al 6.º, con 20 puntos. El Formentera se mantiene undécimo con 16 puntos.\n\n## Mercadal 1-0 Manacor\n\nEl Mercadal ganó 1-0 con un gol en el minuto 90. El Manacor se mantiene cuarto con 22 puntos, en zona de play-off, mientras el Mercadal sigue decimoquinto con 11 puntos.\n\n## Así queda la clasificación\n\nEl Ibiza Islas Pitiusas encabeza la tabla con 25 puntos, en zona de ascenso, seguido del Platges Calvià con 24 y el Constància con 23, ambos en play-off. El Manacor es cuarto con 22 y el Santanyí quinto con 20. El Cardassar, sexto, iguala los 20 puntos del Santanyí. En la parte baja, el Migjorn ocupa el 16.º puesto con 6 puntos, en descenso, y el Arenal y el Inter Ibiza, 17.º y 18.º, tienen 5 puntos.",
+  "texto_instagram": "El Cardassar sube al sexto puesto tras ganar 2-1 en Formentera, y el Mercadal gana 1-0 al Manacor con gol en el 90. ⚽\n\nFormentera 1-2 Cardassar: P. Parra (9'), Joan (12') y I. Ojeda (42').\nMercadal 1-0 Manacor: gol de Mercadal (90'). 🏆",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Cardassar",
+    "#Formentera",
+    "#Mercadal",
+    "#Manacor",
+    "#FutbolBalear"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-11-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-11-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-11-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1615865,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 12",
+      "liga_id": 449,
+      "id_local": 9780,
+      "id_visitante": 15311,
+      "local": "Formentera",
+      "visitante": "Cardassar",
+      "escudo_local": "https://media.api-sports.io/football/teams/9780.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15311.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 9,
+          "equipo": "Formentera",
+          "jugador": "P. Parra",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 12,
+          "equipo": "Cardassar",
+          "jugador": "Joan",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 42,
+          "equipo": "Cardassar",
+          "jugador": "I. Ojeda",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1615868,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 11 - 12",
+      "liga_id": 449,
+      "id_local": 17599,
+      "id_visitante": 9784,
+      "local": "Mercadal",
+      "visitante": "Manacor",
+      "escudo_local": "https://media.api-sports.io/football/teams/17599.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9784.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 90,
+          "equipo": "Mercadal",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Ibiza Islas Pitiusas",
+      "pts": 25,
+      "pj": 11,
+      "dg": 14,
+      "pg": 7,
+      "pe": 4,
+      "pp": 0,
+      "gf": 17,
+      "gc": 3,
+      "forma": "DWWDD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9781.png",
+      "equipo_id": 9781,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 1
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Platges Calvià",
+      "pts": 24,
+      "pj": 12,
+      "dg": 11,
+      "pg": 8,
+      "pe": 0,
+      "pp": 4,
+      "gf": 22,
+      "gc": 11,
+      "forma": "LLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9785.png",
+      "equipo_id": 9785,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Constància",
+      "pts": 23,
+      "pj": 12,
+      "dg": 11,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 19,
+      "gc": 8,
+      "forma": "WDDDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9776.png",
+      "equipo_id": 9776,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Manacor",
+      "pts": 22,
+      "pj": 12,
+      "dg": 11,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 22,
+      "gc": 11,
+      "forma": "DLWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9784.png",
+      "equipo_id": 9784,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Santanyí",
+      "pts": 20,
+      "pj": 12,
+      "dg": 8,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 18,
+      "gc": 10,
+      "forma": "WLWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9789.png",
+      "equipo_id": 9789,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Cardassar",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 21,
+      "gc": 15,
+      "forma": "WWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15311.png",
+      "equipo_id": 15311,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "PE Sant Jordi",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "LWDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15313.png",
+      "equipo_id": 15313,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Porreres",
+      "pts": 19,
+      "pj": 11,
+      "dg": 5,
+      "pg": 6,
+      "pe": 1,
+      "pp": 4,
+      "gf": 16,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24580.png",
+      "equipo_id": 24580,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Llosetense",
+      "pts": 19,
+      "pj": 12,
+      "dg": 0,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 12,
+      "gc": 12,
+      "forma": "WLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9782.png",
+      "equipo_id": 9782,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Alcúdia",
+      "pts": 18,
+      "pj": 12,
+      "dg": -1,
+      "pg": 6,
+      "pe": 0,
+      "pp": 6,
+      "gf": 18,
+      "gc": 19,
+      "forma": "WWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9773.png",
+      "equipo_id": 9773,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Formentera",
+      "pts": 16,
+      "pj": 12,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 12,
+      "forma": "LDDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9780.png",
+      "equipo_id": 9780,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 4,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Binissalem",
+      "pts": 15,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 18,
+      "gc": 20,
+      "forma": "LDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9774.png",
+      "equipo_id": 9774,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Sineu",
+      "pts": 14,
+      "pj": 12,
+      "dg": -6,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 13,
+      "gc": 19,
+      "forma": "WWWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28112.png",
+      "equipo_id": 28112,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 11,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Andratx",
+      "pts": 13,
+      "pj": 12,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 19,
+      "gc": 22,
+      "forma": "WDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8151.png",
+      "equipo_id": 8151,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Mercadal",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DDDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17599.png",
+      "equipo_id": 17599,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 5,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Migjorn",
+      "pts": 6,
+      "pj": 12,
+      "dg": -16,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 12,
+      "gc": 28,
+      "forma": "LDLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/24579.png",
+      "equipo_id": 24579,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 7,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Arenal",
+      "pts": 5,
+      "pj": 12,
+      "dg": -17,
+      "pg": 1,
+      "pe": 2,
+      "pp": 9,
+      "gf": 7,
+      "gc": 24,
+      "forma": "LDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22147.png",
+      "equipo_id": 22147,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 3,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Inter Ibiza",
+      "pts": 5,
+      "pj": 12,
+      "dg": -23,
+      "pg": 1,
+      "pe": 2,
+      "pp": 9,
+      "gf": 8,
+      "gc": 31,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/17598.png",
+      "equipo_id": 17598,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 18
+      }
+    }
+  ],
+  "movimientos": {
+    "Manacor": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Cardassar": {
+      "antes": 10,
+      "ahora": 6,
+      "cambio": "sube 4 puestos"
+    },
+    "Formentera": {
+      "antes": 11,
+      "ahora": 11,
+      "cambio": "se mantiene"
+    },
+    "Mercadal": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  }
+}

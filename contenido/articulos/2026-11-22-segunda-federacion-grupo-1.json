@@ -1,0 +1,721 @@
+{
+  "slug": "2026-11-22-segunda-federacion-grupo-1",
+  "fecha": "2026-11-22",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Oviedo B sube cuatro puestos y el Alavés B se deja dos puntos tras fallar un penalti",
+  "entradilla": "El filial ovetense ganó 2-1 al Atlético Astorga y escala hasta la sexta plaza. El Alavés B empató 1-1 con el Compostela, con un penalti fallado de T. Bouguettaya en el 75, y sigue segundo.",
+  "cuerpo_markdown": "La jornada 12 del Grupo 1 de Segunda Federación dejó dos partidos el domingo. El Real Oviedo B venció 2-1 al Atlético Astorga y saltó del décimo al sexto puesto, con 18 puntos. El Deportivo Alavés B no pasó del 1-1 ante el Compostela y se mantiene segundo con 23, a tres del líder, el Sestao River.\n\n## Real Oviedo B 2-1 Atlético Astorga\n\nEl Real Oviedo B resolvió en la primera media hora. E. Cazorla abrió el marcador de penalti en el minuto 13 e I. Angulo hizo el 2-0 en el 23. Albertin recortó para el Atlético Astorga en el 87, sin tiempo para más.\n\nLa victoria impulsa al filial ovetense cuatro puestos, del décimo al sexto, con 18 puntos, a uno del Portugalete, quinto y último en zona de play-off. El Atlético Astorga sigue decimoséptimo, en descenso, con 8 puntos, y suma cuatro partidos sin ganar. Fuera de casa ha perdido sus cinco partidos.\n\n## Deportivo Alavés B 1-1 Compostela\n\nH. Martinez adelantó al Deportivo Alavés B de penalti en el minuto 14 y M. Rivas empató para el Compostela en el 26. El filial vitoriano tuvo la victoria en el 75, pero T. Bouguettaya falló un penalti.\n\nEl Alavés B se mantiene segundo con 23 puntos, a tres del Sestao River y con dos de margen sobre el Eibar B. El Compostela sube un puesto, hasta el séptimo, con 17 puntos, a dos del play-off, y encadena cuatro partidos sin perder.\n\n## Así queda la clasificación\n\nEl Sestao River lidera con 26 puntos y un partido menos que algunos rivales, seguido del Deportivo Alavés B (23). Eibar B (21), Bergantiños (19) y Portugalete (19) completan la zona de play-off. Real Oviedo B (18), Compostela, Amorebieta y Ourense CF (17) aprietan por detrás. Abajo, Llanera (10), Arosa (9), Gimnástica Torrelavega (9), Atlético Astorga (8) y Marino de Luanco (8) ocupan el descenso. El Gernika, decimotercero con 12, marca la salvación, a dos puntos del Llanera.",
+  "texto_instagram": "El Real Oviedo B escala cuatro puestos hasta el sexto y el Alavés B, segundo, se deja dos puntos con un penalti fallado ⚽📈\n\nDeportivo Alavés B 1-1 Compostela: H. Martinez (14, p.); M. Rivas (26). Penalti fallado de T. Bouguettaya (75) ❌\nReal Oviedo B 2-1 Atlético Astorga: E. Cazorla (13, p.), I. Angulo (23); Albertin (87)",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#RealOviedoB",
+    "#AlavesB",
+    "#Compostela",
+    "#AtleticoAstorga"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-1-1.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-1-2.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572129,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 875,
+      "id_local": 9582,
+      "id_visitante": 5256,
+      "local": "Deportivo Alavés B",
+      "visitante": "Compostela",
+      "escudo_local": "https://media.api-sports.io/football/teams/9582.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5256.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 14,
+          "equipo": "Deportivo Alavés B",
+          "jugador": "H. Martinez",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 26,
+          "equipo": "Compostela",
+          "jugador": "M. Rivas",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 75,
+          "equipo": "Deportivo Alavés B",
+          "jugador": "T. Bouguettaya"
+        }
+      ],
+      "estadisticas": null
+    },
+    {
+      "id": 1572135,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 875,
+      "id_local": 9576,
+      "id_visitante": 9723,
+      "local": "Real Oviedo B",
+      "visitante": "Atlético Astorga",
+      "escudo_local": "https://media.api-sports.io/football/teams/9576.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9723.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 13,
+          "equipo": "Real Oviedo B",
+          "jugador": "E. Cazorla",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 23,
+          "equipo": "Real Oviedo B",
+          "jugador": "I. Angulo",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 87,
+          "equipo": "Atlético Astorga",
+          "jugador": "Albertin",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Sestao River",
+      "pts": 26,
+      "pj": 11,
+      "dg": 10,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 14,
+      "gc": 4,
+      "forma": "DWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "equipo_id": 9413,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 0
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Deportivo Alavés B",
+      "pts": 23,
+      "pj": 11,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 24,
+      "gc": 14,
+      "forma": "WLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9582.png",
+      "equipo_id": 9582,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Eibar B",
+      "pts": 21,
+      "pj": 11,
+      "dg": 10,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24572.png",
+      "equipo_id": 24572,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Bergantiños",
+      "pts": 19,
+      "pj": 11,
+      "dg": 8,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 24,
+      "gc": 16,
+      "forma": "DLDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9383.png",
+      "equipo_id": 9383,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Portugalete",
+      "pts": 19,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 14,
+      "forma": "LWWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9408.png",
+      "equipo_id": 9408,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Oviedo B",
+      "pts": 18,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9576.png",
+      "equipo_id": 9576,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Compostela",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 10,
+      "forma": "LWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5256.png",
+      "equipo_id": 5256,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Amorebieta",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9380.png",
+      "equipo_id": 9380,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Ourense CF",
+      "pts": 17,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 10,
+      "gc": 12,
+      "forma": "WLDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9612.png",
+      "equipo_id": 9612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Coruxo",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 14,
+      "forma": "WWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9385.png",
+      "equipo_id": 9385,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Basconia",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 16,
+      "forma": "LWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9656.png",
+      "equipo_id": 9656,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Racing Santander B",
+      "pts": 14,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 15,
+      "gc": 18,
+      "forma": "WWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9643.png",
+      "equipo_id": 9643,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Gernika",
+      "pts": 12,
+      "pj": 11,
+      "dg": 5,
+      "pg": 2,
+      "pe": 6,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "forma": "LDDDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5263.png",
+      "equipo_id": 5263,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Llanera",
+      "pts": 10,
+      "pj": 11,
+      "dg": -10,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 17,
+      "gc": 27,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9627.png",
+      "equipo_id": 9627,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Arosa",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 4,
+      "gf": 17,
+      "gc": 23,
+      "forma": "DLDLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9605.png",
+      "equipo_id": 9605,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Gimnástica Torrelavega",
+      "pts": 9,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "WLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5264.png",
+      "equipo_id": 5264,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Astorga",
+      "pts": 8,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 13,
+      "gc": 19,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9723.png",
+      "equipo_id": 9723,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Marino de Luanco",
+      "pts": 8,
+      "pj": 12,
+      "dg": -10,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 19,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9401.png",
+      "equipo_id": 9401,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Deportivo Alavés B": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Real Oviedo B": {
+      "antes": 10,
+      "ahora": 6,
+      "cambio": "sube 4 puestos"
+    },
+    "Compostela": {
+      "antes": 8,
+      "ahora": 7,
+      "cambio": "sube 1 puesto"
+    },
+    "Atlético Astorga": {
+      "antes": 17,
+      "ahora": 17,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572135,
+    "titular": "El Real Oviedo B vence al Atlético Astorga y sube hasta el sexto puesto",
+    "entradilla": "Los goles de E. Cazorla, de penalti, e I. Angulo en la primera media hora dieron el triunfo al filial ovetense (2-1). El Astorga sigue en descenso.",
+    "parrafos": [
+      "El Real Oviedo B ganó 2-1 al Atlético Astorga en la jornada 12 y subió cuatro puestos en la clasificación, del décimo al sexto, con 18 puntos.",
+      "E. Cazorla abrió el marcador de penalti en el minuto 13. Diez minutos después, en el 23, I. Angulo firmó el 2-0.",
+      "El Atlético Astorga acortó distancias en el minuto 87 por medio de Albertin, pero el marcador ya no se movió.",
+      "El filial ovetense queda a un punto del Portugalete, quinto y último puesto de play-off. En casa sigue invicto: tres victorias y dos empates en cinco partidos.",
+      "El Atlético Astorga se mantiene decimoséptimo, en zona de descenso, con 8 puntos, y acumula cuatro partidos sin ganar. Lejos de su campo ha perdido los cinco que ha disputado."
+    ],
+    "el_dato": "El Atlético Astorga ha perdido sus cinco partidos fuera de casa, con 4 goles a favor y 15 en contra.",
+    "slug": "2026-11-22-real-oviedo-b-atletico-astorga"
+  }
+}

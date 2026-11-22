@@ -1,0 +1,677 @@
+{
+  "slug": "2026-11-22-segunda-federacion-grupo-5",
+  "fecha": "2026-11-22",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El RSD Alcalá gana 1-3 en el campo del Getafe B y sube al 12.º puesto",
+  "entradilla": "El RSD Alcalá ganó 1-3 en el campo del Getafe B con tres goles en 15 minutos y escala tres puestos hasta el duodécimo. El filial azulón sigue 16.º, en descenso, con 9 puntos.",
+  "cuerpo_markdown": "El RSD Alcalá resolvió en un cuarto de hora su visita al Getafe B en la jornada 12 de Segunda Federación, Grupo 5. Marcó tres goles entre el 41 y el 56 y ganó 1-3. Es su primera victoria lejos de casa en seis salidas. Sube del 15.º al 12.º puesto con 13 puntos y sale de la zona de descenso. El Getafe B, que encaja su primera derrota como local, se queda 16.º con 9 puntos.\n\n## Getafe B 1-3 RSD Alcalá\n\nE. Viana adelantó al RSD Alcalá en el minuto 41. Tras el descanso, H. Javi amplió de penalti en el 50 y M. Ramirez firmó el 0-3 en el 56. Joselu recortó de penalti en el 74 para el Getafe B. Hubo un penalti para cada equipo y ninguna expulsión.\n\nEl triunfo permite al RSD Alcalá subir tres puestos, del 15.º al 12.º, con 13 puntos, uno más que el Real Madrid C, primer equipo en descenso. Queda a siete del play-off. El Getafe B se mantiene 16.º con 9 puntos y solo una victoria en 12 jornadas, con seis empates y cinco derrotas. Está a cuatro puntos de la permanencia.\n\n## Así queda la clasificación\n\nEl Numancia lidera con 23 puntos tras 12 partidos. Le siguen el Conquense, con 21 y dos partidos menos, y el A Madrid C, también con 21. Cierran el play-off el Salamanca UDS y el SS Reyes, ambos con 20. El Real Valladolid B, sexto con 18, está a dos puntos del play-off. En la parte baja, el Real Madrid C (12) marca el inicio del descenso, a un punto de la salvación que ocupa el Albacete B con 13. Debajo están el Atlético Paso (10), el Getafe B (9), el Calvo Sotelo (9) y el colista Real Ávila, con 7.",
+  "texto_instagram": "⚽ El RSD Alcalá gana en el campo del Getafe B con tres goles en 15 minutos. Es su primera victoria a domicilio y sube del 15.º al 12.º puesto 📈 El filial azulón sigue en descenso 🔻\n\nGetafe B 1-3 RSD Alcalá: E. Viana (41), H. Javi (50, pen.), M. Ramirez (56); Joselu (74, pen.)",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Grupo5",
+    "#GetafeB",
+    "#RSDAlcala",
+    "#GetafeAlcala"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-5-1.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-5-2.jpg",
+    "img/2026-11-22/2026-11-22-segunda-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573358,
+      "fecha": "2026-11-22T11:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 5 - 12",
+      "liga_id": 879,
+      "id_local": 9572,
+      "id_visitante": 9714,
+      "local": "Getafe B",
+      "visitante": "RSD Alcalá",
+      "escudo_local": "https://media.api-sports.io/football/teams/9572.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9714.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 41,
+          "equipo": "RSD Alcalá",
+          "jugador": "E. Viana",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 50,
+          "equipo": "RSD Alcalá",
+          "jugador": "H. Javi",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 56,
+          "equipo": "RSD Alcalá",
+          "jugador": "M. Ramirez",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Getafe B",
+          "jugador": "Joselu",
+          "tipo": "Penalty"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Numancia",
+      "pts": 23,
+      "pj": 12,
+      "dg": 12,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 19,
+      "gc": 7,
+      "forma": "WDWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/717.png",
+      "equipo_id": 717,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Conquense",
+      "pts": 21,
+      "pj": 10,
+      "dg": 11,
+      "pg": 6,
+      "pe": 3,
+      "pp": 1,
+      "gf": 23,
+      "gc": 12,
+      "forma": "WDWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5257.png",
+      "equipo_id": 5257,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "A Madrid C",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "WDWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/26543.png",
+      "equipo_id": 26543,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Salamanca UDS",
+      "pts": 20,
+      "pj": 11,
+      "dg": 5,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 16,
+      "gc": 11,
+      "forma": "DWWLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9588.png",
+      "equipo_id": 9588,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "SS Reyes",
+      "pts": 20,
+      "pj": 11,
+      "dg": 4,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "forma": "DLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9412.png",
+      "equipo_id": 9412,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Real Valladolid B",
+      "pts": 18,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 23,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9587.png",
+      "equipo_id": 9587,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Navalcarnero",
+      "pts": 17,
+      "pj": 11,
+      "dg": 3,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 19,
+      "gc": 16,
+      "forma": "DDWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "equipo_id": 5271,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "CF Talavera",
+      "pts": 15,
+      "pj": 10,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "LLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5253.png",
+      "equipo_id": 5253,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Atlético Tordesillas",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 19,
+      "gc": 18,
+      "forma": "WDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9724.png",
+      "equipo_id": 9724,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Gimnástica Segoviana",
+      "pts": 13,
+      "pj": 11,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "WLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9387.png",
+      "equipo_id": 9387,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Guadalajara",
+      "pts": 13,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 21,
+      "gc": 23,
+      "forma": "LDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9900.png",
+      "equipo_id": 9900,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 17,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "RSD Alcalá",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 19,
+      "gc": 21,
+      "forma": "WLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9714.png",
+      "equipo_id": 9714,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Albacete B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -11,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 13,
+      "gc": 24,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9895.png",
+      "equipo_id": 9895,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Real Madrid C",
+      "pts": 12,
+      "pj": 12,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 4,
+      "gf": 6,
+      "gc": 8,
+      "forma": "LDWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22142.png",
+      "equipo_id": 22142,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 1,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Atlético Paso",
+      "pts": 10,
+      "pj": 11,
+      "dg": -3,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 16,
+      "forma": "LDLWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9791.png",
+      "equipo_id": 9791,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Getafe B",
+      "pts": 9,
+      "pj": 12,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 5,
+      "gf": 15,
+      "gc": 21,
+      "forma": "LDWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9572.png",
+      "equipo_id": 9572,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Calvo Sotelo",
+      "pts": 9,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 10,
+      "gc": 21,
+      "forma": "WLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9899.png",
+      "equipo_id": 9899,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Ávila",
+      "pts": 7,
+      "pj": 11,
+      "dg": -11,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 8,
+      "gc": 19,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9736.png",
+      "equipo_id": 9736,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "RSD Alcalá": {
+      "antes": 15,
+      "ahora": 12,
+      "cambio": "sube 3 puestos"
+    },
+    "Getafe B": {
+      "antes": 16,
+      "ahora": 16,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573358,
+    "titular": "El RSD Alcalá asalta el campo del Getafe B (1-3) y sale del descenso",
+    "entradilla": "Tres goles entre el 41 y el 56 dieron al RSD Alcalá su primera victoria fuera de casa. El equipo complutense sube del 15.º al 12.º puesto y hunde al Getafe B en el 16.º.",
+    "parrafos": [
+      "El RSD Alcalá ganó 1-3 al Getafe B en la jornada 12 de Segunda Federación, Grupo 5. El triunfo le hace escalar tres puestos, del 15.º al 12.º, con 13 puntos, y le saca de la zona de descenso.",
+      "E. Viana abrió el marcador en el minuto 41. H. Javi transformó un penalti en el 50 para el 0-2, y M. Ramirez puso el 0-3 en el 56. En 15 minutos el partido quedó decidido.",
+      "El Getafe B solo pudo recortar distancias en el 74, con un penalti marcado por Joselu. No hubo expulsiones.",
+      "El RSD Alcalá suma ahora tres victorias, cuatro empates y cinco derrotas. Queda un punto por encima del Real Madrid C, primer equipo en descenso, y a siete del play-off, que cierra el SS Reyes con 20.",
+      "El Getafe B se mantiene 16.º con 9 puntos. Solo ha ganado uno de sus 12 partidos, con seis empates y cinco derrotas. Encajó su primera derrota en casa y está a cuatro puntos de la permanencia."
+    ],
+    "el_dato": "El RSD Alcalá marcó tres goles en 15 minutos (41, 50 y 56) para lograr su primera victoria a domicilio en seis salidas.",
+    "slug": "2026-11-22-getafe-b-rsd-alcala"
+  }
+}

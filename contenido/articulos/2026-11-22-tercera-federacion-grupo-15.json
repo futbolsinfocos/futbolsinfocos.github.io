@@ -1,0 +1,643 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-15",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 15",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Pamplona gana en Subiza con un gol de H. Urriza en el 76 y sube tres puestos hasta el 13",
+  "entradilla": "Un tanto de H. Urriza en el minuto 76 decide el partido en Subiza. El Pamplona sube tres puestos y el Subiza se mantiene tercero.",
+  "cuerpo_markdown": "Pamplona se impone a Subiza por 0-1 en la Jornada 12 del Grupo 15 de Tercera Federación gracias a un gol de H. Urriza en el minuto 76. El triunfo permite al Pamplona escalar del puesto 16 al 13 y apartarse de la zona de descenso, mientras el Subiza mantiene el tercer puesto.\n\n## Subiza 0-1 Pamplona\n\nH. Urriza marcó para el Pamplona en el minuto 76 y fue el único gol del partido. El Subiza no logró marcar en casa y pierde su racha de victorias. Con este resultado, el Pamplona sube del puesto 16 al 13 y acumula 13 puntos. El Subiza se mantiene tercero con 19 puntos, dentro de la zona de play-off.\n\n## Así queda la clasificación\n\nIzarra encabeza la tabla con 32 puntos y ocupa la zona de ascenso. Mutilvera es segundo con 26 puntos, a seis del líder. La zona de play-off queda formada por Mutilvera, Subiza, Gazte Berriak y Valle Egüés, este último con 19 puntos, a seis del Pamplona. En la parte baja, Beti Onak ocupa el puesto 16 con 11 puntos, Huarte es 17.º con 9 y Bidezarra cierra con 8. El Pamplona, con 13 puntos, queda a dos del Beti Onak.",
+  "texto_instagram": "⚽ Pamplona gana en Subiza (0-1) y sube al puesto 13 de la tabla. Subiza se mantiene tercero.\n\nSubiza 0-1 Pamplona\n⚽ 76' H. Urriza (Pamplona)\n\n🏆 Tercera Federación · Grupo 15",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo15",
+    "#Subiza",
+    "#Pamplona"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-15-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-15-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-15-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1617094,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 15 - 12",
+      "liga_id": 453,
+      "id_local": 9856,
+      "id_visitante": 9854,
+      "local": "Subiza",
+      "visitante": "Pamplona",
+      "escudo_local": "https://media.api-sports.io/football/teams/9856.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9854.png",
+      "goles_local": 0,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 76,
+          "equipo": "Pamplona",
+          "jugador": "H. Urriza",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Izarra",
+      "pts": 32,
+      "pj": 12,
+      "dg": 28,
+      "pg": 10,
+      "pe": 2,
+      "pp": 0,
+      "gf": 36,
+      "gc": 8,
+      "forma": "WWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9583.png",
+      "equipo_id": 9583,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 16,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 20,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Mutilvera",
+      "pts": 26,
+      "pj": 12,
+      "dg": 16,
+      "pg": 7,
+      "pe": 5,
+      "pp": 0,
+      "gf": 22,
+      "gc": 6,
+      "forma": "WDDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5270.png",
+      "equipo_id": 5270,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Subiza",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 21,
+      "gc": 17,
+      "forma": "LWWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9856.png",
+      "equipo_id": 9856,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Gazte Berriak",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 15,
+      "gc": 11,
+      "forma": "WDDLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/28121.png",
+      "equipo_id": 28121,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Valle Egüés",
+      "pts": 19,
+      "pj": 12,
+      "dg": 3,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 18,
+      "gc": 15,
+      "forma": "WLWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9858.png",
+      "equipo_id": 9858,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Avance Ezcabarte",
+      "pts": 17,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 16,
+      "gc": 12,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17609.png",
+      "equipo_id": 17609,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Txantrea",
+      "pts": 17,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 15,
+      "gc": 14,
+      "forma": "WDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9857.png",
+      "equipo_id": 9857,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Beti Kozkor",
+      "pts": 17,
+      "pj": 12,
+      "dg": -5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 13,
+      "gc": 18,
+      "forma": "DLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9844.png",
+      "equipo_id": 9844,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Doneztebe FT",
+      "pts": 16,
+      "pj": 12,
+      "dg": 7,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 21,
+      "gc": 14,
+      "forma": "LWDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28120.png",
+      "equipo_id": 28120,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 10,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "San Juan",
+      "pts": 16,
+      "pj": 12,
+      "dg": 6,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 21,
+      "gc": 15,
+      "forma": "LDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9855.png",
+      "equipo_id": 9855,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 18,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Cirbonero",
+      "pts": 15,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 11,
+      "gc": 15,
+      "forma": "LWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9847.png",
+      "equipo_id": 9847,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 2,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Aoiz",
+      "pts": 14,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 14,
+      "gc": 15,
+      "forma": "LLWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26553.png",
+      "equipo_id": 26553,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Pamplona",
+      "pts": 13,
+      "pj": 12,
+      "dg": -6,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 9,
+      "gc": 15,
+      "forma": "WWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9854.png",
+      "equipo_id": 9854,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cortes",
+      "pts": 12,
+      "pj": 12,
+      "dg": -11,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 8,
+      "gc": 19,
+      "forma": "WWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9849.png",
+      "equipo_id": 9849,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Cantolagua",
+      "pts": 12,
+      "pj": 12,
+      "dg": -19,
+      "pg": 4,
+      "pe": 0,
+      "pp": 8,
+      "gf": 8,
+      "gc": 27,
+      "forma": "LLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15321.png",
+      "equipo_id": 15321,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 2,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Beti Onak",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9845.png",
+      "equipo_id": 9845,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Huarte",
+      "pts": 9,
+      "pj": 12,
+      "dg": -10,
+      "pg": 1,
+      "pe": 6,
+      "pp": 5,
+      "gf": 10,
+      "gc": 20,
+      "forma": "DLDLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9851.png",
+      "equipo_id": 9851,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 2,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 8,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Bidezarra",
+      "pts": 8,
+      "pj": 12,
+      "dg": -10,
+      "pg": 1,
+      "pe": 5,
+      "pp": 6,
+      "gf": 11,
+      "gc": 21,
+      "forma": "LWDDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15320.png",
+      "equipo_id": 15320,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 10
+      }
+    }
+  ],
+  "movimientos": {
+    "Subiza": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "Pamplona": {
+      "antes": 16,
+      "ahora": 13,
+      "cambio": "sube 3 puestos"
+    }
+  }
+}

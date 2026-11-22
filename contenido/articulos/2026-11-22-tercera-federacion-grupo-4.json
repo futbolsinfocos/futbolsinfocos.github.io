@@ -1,0 +1,655 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-4",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 4",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Santurtzi remonta al Erandio (2-1) y sube al puesto 15",
+  "entradilla": "Un gol de Erandio en el 63 no bastó: Niwa, en el 73, y Valle Garcia, en el 83, dieron la vuelta al marcador. El Santurtzi sube al 15.º puesto y el Erandio sigue en el 17.º, en zona de descenso, con 6 puntos.",
+  "cuerpo_markdown": "La única cita de la Jornada 12 del Grupo 4 de Tercera Federación dejó una remontada en Santurtzi. El conjunto local ganó 2-1 al Erandio tras empezar perdiendo, y con ese resultado sube un puesto en la tabla hasta el 15.º, con 12 puntos. El Erandio se queda en el 17.º, en zona de descenso, con 6 puntos y cinco derrotas seguidas.\n\n## Santurtzi 2-1 Erandio\n\nEl Erandio se adelantó en el minuto 63, con un gol que figura a nombre del propio equipo en el acta de goles. El Santurtzi reaccionó con dos tantos en diez minutos: D. Niwa marcó en el 73 y J. Valle Garcia, en el 83, firmó el definitivo. Con la victoria, el Santurtzi suma su cuarta victoria de la temporada y pasa a 12 puntos, mientras que el Erandio no sale de la última zona: sigue en el 17.º puesto con 6 puntos, a ocho de la salvación que ocupa el Lagun Onak (14 puntos, 14.º). Según los movimientos de la jornada, el Erandio se mantiene en el mismo puesto.\n\n## Así queda la clasificación\n\nEl Real Sociedad C encabeza la tabla con 24 puntos, por delante del Leioa (23) y del Aurrerá Vitoria (23), que ocupan la zona de play-off junto al Deportivo Alavés C y al Durango (21 puntos ambos). El Beasain (20) y el San Ignacio (18) quedan fuera de la zona. En la parte baja, el Pasaia KE (10 puntos, 16.º) y el Erandio (6, 17.º) están en descenso, y el Amurrio Club, con 1 punto y 11 partidos disputados, ocupa el último puesto.",
+  "texto_instagram": "⚽ Tercera Federación · Grupo 4, Jornada 12. El Santurtzi da la vuelta al Erandio y sube al 15.º puesto. El Erandio sigue en descenso, en el 17.º, con 6 puntos.\n\nSanturtzi 2-1 Erandio\nErandio: gol en el 63. Santurtzi: D. Niwa (73') y J. Valle Garcia (83'). 🔥",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Santurtzi",
+    "#Erandio",
+    "#Grupo4"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-4-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-4-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-4-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613727,
+      "fecha": "2026-11-22T11:15:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 4 - 12",
+      "liga_id": 442,
+      "id_local": 9664,
+      "id_visitante": 28099,
+      "local": "Santurtzi",
+      "visitante": "Erandio",
+      "escudo_local": "https://media.api-sports.io/football/teams/9664.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28099.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 63,
+          "equipo": "Erandio",
+          "jugador": "Erandio",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 73,
+          "equipo": "Santurtzi",
+          "jugador": "D. Niwa",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 83,
+          "equipo": "Santurtzi",
+          "jugador": "J. Valle Garcia",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Real Sociedad C",
+      "pts": 24,
+      "pj": 12,
+      "dg": 13,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 27,
+      "gc": 14,
+      "forma": "WWWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9662.png",
+      "equipo_id": 9662,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 16,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Leioa",
+      "pts": 23,
+      "pj": 12,
+      "dg": 14,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 30,
+      "gc": 16,
+      "forma": "DLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9397.png",
+      "equipo_id": 9397,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 15,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Aurrerá Vitoria",
+      "pts": 23,
+      "pj": 12,
+      "dg": 1,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "forma": "DLWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/20259.png",
+      "equipo_id": 20259,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Deportivo Alavés C",
+      "pts": 21,
+      "pj": 12,
+      "dg": 12,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 28,
+      "gc": 16,
+      "forma": "LWWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/22134.png",
+      "equipo_id": 22134,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 19,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Durango",
+      "pts": 21,
+      "pj": 12,
+      "dg": 7,
+      "pg": 5,
+      "pe": 6,
+      "pp": 1,
+      "gf": 19,
+      "gc": 12,
+      "forma": "DWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5260.png",
+      "equipo_id": 5260,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Beasain",
+      "pts": 20,
+      "pj": 12,
+      "dg": 10,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 25,
+      "gc": 15,
+      "forma": "WWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9657.png",
+      "equipo_id": 9657,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 18,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "San Ignacio",
+      "pts": 18,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 19,
+      "gc": 13,
+      "forma": "DWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9663.png",
+      "equipo_id": 9663,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Derio",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22135.png",
+      "equipo_id": 22135,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Touring",
+      "pts": 18,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 15,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20261.png",
+      "equipo_id": 20261,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Eibar C",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 19,
+      "gc": 19,
+      "forma": "LWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25023.png",
+      "equipo_id": 25023,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Aretxabaleta",
+      "pts": 17,
+      "pj": 11,
+      "dg": -2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 14,
+      "gc": 16,
+      "forma": "LLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24571.png",
+      "equipo_id": 24571,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sodupe",
+      "pts": 17,
+      "pj": 11,
+      "dg": -7,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 8,
+      "gc": 15,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9666.png",
+      "equipo_id": 9666,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "R. Union B",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 22,
+      "forma": "WWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28100.png",
+      "equipo_id": 28100,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Lagun Onak",
+      "pts": 14,
+      "pj": 12,
+      "dg": 0,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 17,
+      "gc": 17,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9660.png",
+      "equipo_id": 9660,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Santurtzi",
+      "pts": 12,
+      "pj": 12,
+      "dg": -6,
+      "pg": 4,
+      "pe": 0,
+      "pp": 8,
+      "gf": 9,
+      "gc": 15,
+      "forma": "WLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9664.png",
+      "equipo_id": 9664,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 2,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Pasaia KE",
+      "pts": 10,
+      "pj": 12,
+      "dg": -12,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 17,
+      "gc": 29,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9661.png",
+      "equipo_id": 9661,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 10,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Erandio",
+      "pts": 6,
+      "pj": 12,
+      "dg": -11,
+      "pg": 2,
+      "pe": 0,
+      "pp": 10,
+      "gf": 10,
+      "gc": 21,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28099.png",
+      "equipo_id": 28099,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Amurrio Club",
+      "pts": 1,
+      "pj": 11,
+      "dg": -23,
+      "pg": 0,
+      "pe": 1,
+      "pp": 10,
+      "gf": 3,
+      "gc": 26,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/17315.png",
+      "equipo_id": 17315,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 1,
+        "gc": 14
+      }
+    }
+  ],
+  "movimientos": {
+    "Santurtzi": {
+      "antes": 16,
+      "ahora": 15,
+      "cambio": "sube 1 puesto"
+    },
+    "Erandio": {
+      "antes": 17,
+      "ahora": 17,
+      "cambio": "se mantiene"
+    }
+  }
+}

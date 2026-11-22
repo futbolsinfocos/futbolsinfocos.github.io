@@ -1,0 +1,783 @@
+{
+  "slug": "2026-11-22-tercera-federacion-grupo-1",
+  "fecha": "2026-11-22",
+  "etiqueta": "Tercera Federación · Grupo 1",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Pontevedra B vence 4-2 al Coruña, que sigue último en la Tercera Federación",
+  "entradilla": "Pontevedra B, Barco y Viveiro ganan en la duodécima jornada. El Coruña encadena cinco derrotas seguidas y es el último clasificado.",
+  "cuerpo_markdown": "La duodécima jornada del Grupo 1 de Tercera Federación deja al Pontevedra B en cuarta posición tras ganar 4-2 al Coruña, que sigue último con 9 puntos. El Barco gana 3-1 al Villalbés y sube al segundo puesto, y el Viveiro vence 2-1 al Somozas y sale del puesto 18.\n\n## Coruña 2-4 Pontevedra B\n\nEl Coruña se adelantó en el minuto 3, pero el Pontevedra B empató en el 10. El conjunto visitante marcó en el 68 y en el 71 para tomar ventaja, y el Coruña recortó en el 80. El Pontevedra cerró el marcador con un gol en el 88. Es la cuarta victoria del Pontevedra B en la temporada, que sube cuatro puestos y pasa del 8 al 4 con 19 puntos, dentro de la zona de playoff. El Coruña baja un puesto, hasta el 18, con 9 puntos y cinco derrotas consecutivas.\n\n## Barco 3-1 Villalbés\n\nEl Barco marcó en el minuto 8 y el Villalbés igualó en el 11. El Barco volvió a adelantarse en el 36 y en el 55 cerró el resultado. El Barco sube del puesto 3 al 2, con 22 puntos y dentro de la zona de playoff. El Villalbés se mantiene en el puesto 10 con 15 puntos.\n\n## Viveiro 2-1 Somozas\n\nEl Viveiro marcó en los minutos 14 y 30. El Somozas acortó en el 32 y no logró el empate. El Viveiro sube un puesto, del 18 al 17, con 11 puntos, todavía en zona de descenso. El Somozas se mantiene en el puesto 12 con 14 puntos.\n\n## Así queda la clasificación\n\nEl Boiro lidera la tabla con 23 puntos, en zona de ascenso. Le siguen el Barco con 22, el Silva con 21, y el Pontevedra B y el Sarriana con 19, todos en zona de playoff. En la parte baja, el Celta de Vigo C y el Arenteiro tienen 11 puntos y están en descenso, igual que el Viveiro, con 11 puntos en el puesto 17. El Coruña, último con 9 puntos, está a dos puntos del Celta de Vigo C y del Arenteiro.",
+  "texto_instagram": "⚽ El Pontevedra B vence 4-2 al Coruña, que sigue último. Barco y Viveiro también ganan en la jornada 12. 🔝\nCoruña 2-4 Pontevedra B: Coruña 3' (1-0), Pontevedra B 10', 68', 71' y 88', Coruña 80'.\nBarco 3-1 Villalbés: Barco 8', 36' y 55', Villalbés 11'.\nViveiro 2-1 Somozas: Viveiro 14' y 30', Somozas 32'.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Grupo1",
+    "#PontevedraB",
+    "#Coruña",
+    "#Barco",
+    "#Viveiro",
+    "#Villalbés",
+    "#Somozas"
+  ],
+  "imagenes": [
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-1-1.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-1-2.jpg",
+    "img/2026-11-22/2026-11-22-tercera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1612808,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 439,
+      "id_local": 9618,
+      "id_visitante": 9608,
+      "local": "Villalbés",
+      "visitante": "Barco",
+      "escudo_local": "https://media.api-sports.io/football/teams/9618.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9608.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 8,
+          "equipo": "Barco",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 11,
+          "equipo": "Villalbés",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 36,
+          "equipo": "Barco",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 55,
+          "equipo": "Barco",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1612810,
+      "fecha": "2026-11-22T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 439,
+      "id_local": 15307,
+      "id_visitante": 9616,
+      "local": "Viveiro",
+      "visitante": "Somozas",
+      "escudo_local": "https://media.api-sports.io/football/teams/15307.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9616.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 14,
+          "equipo": "Viveiro",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 30,
+          "equipo": "Viveiro",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 32,
+          "equipo": "Somozas",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    },
+    {
+      "id": 1612807,
+      "fecha": "2026-11-22T12:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 12",
+      "liga_id": 439,
+      "id_local": 26534,
+      "id_visitante": 22129,
+      "local": "Coruña",
+      "visitante": "Pontevedra B",
+      "escudo_local": "https://media.api-sports.io/football/teams/26534.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22129.png",
+      "goles_local": 2,
+      "goles_visitante": 4,
+      "goleadores": [
+        {
+          "min": 3,
+          "equipo": "Coruña",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 10,
+          "equipo": "Pontevedra B",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 68,
+          "equipo": "Pontevedra B",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 71,
+          "equipo": "Pontevedra B",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 80,
+          "equipo": "Coruña",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 88,
+          "equipo": "Pontevedra B",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Boiro",
+      "pts": 23,
+      "pj": 11,
+      "dg": 9,
+      "pg": 7,
+      "pe": 2,
+      "pp": 2,
+      "gf": 18,
+      "gc": 9,
+      "forma": "LWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/22566.png",
+      "equipo_id": 22566,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Barco",
+      "pts": 22,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 19,
+      "gc": 11,
+      "forma": "WWDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9608.png",
+      "equipo_id": 9608,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Silva",
+      "pts": 21,
+      "pj": 12,
+      "dg": 2,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DWWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9615.png",
+      "equipo_id": 9615,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Pontevedra B",
+      "pts": 19,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 1,
+      "pp": 5,
+      "gf": 20,
+      "gc": 14,
+      "forma": "WWLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/22129.png",
+      "equipo_id": 22129,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Sarriana",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 21,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/22130.png",
+      "equipo_id": 22130,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Lalin",
+      "pts": 18,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "WLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28095.png",
+      "equipo_id": 28095,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Atlético Arteixo",
+      "pts": 17,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 18,
+      "gc": 17,
+      "forma": "DLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/19650.png",
+      "equipo_id": 19650,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Antela",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 12,
+      "gc": 12,
+      "forma": "DWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28094.png",
+      "equipo_id": 28094,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Portonovo SD",
+      "pts": 15,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28096.png",
+      "equipo_id": 28096,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Villalbés",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "LDLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9618.png",
+      "equipo_id": 9618,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 6,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Estradense",
+      "pts": 15,
+      "pj": 11,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 19,
+      "forma": "LDDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9611.png",
+      "equipo_id": 9611,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Somozas",
+      "pts": 14,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 14,
+      "gc": 14,
+      "forma": "LWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9616.png",
+      "equipo_id": 9616,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Celtiga",
+      "pts": 14,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 11,
+      "gc": 12,
+      "forma": "WDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26533.png",
+      "equipo_id": 26533,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 4,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Alondras",
+      "pts": 12,
+      "pj": 11,
+      "dg": -2,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 15,
+      "forma": "LLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9603.png",
+      "equipo_id": 9603,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Celta de Vigo C",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "WDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/20255.png",
+      "equipo_id": 20255,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Arenteiro",
+      "pts": 11,
+      "pj": 11,
+      "dg": -4,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 12,
+      "gc": 16,
+      "forma": "DLWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9604.png",
+      "equipo_id": 9604,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Viveiro",
+      "pts": 11,
+      "pj": 12,
+      "dg": -6,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 15,
+      "forma": "WLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15307.png",
+      "equipo_id": 15307,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Coruña",
+      "pts": 9,
+      "pj": 12,
+      "dg": -12,
+      "pg": 3,
+      "pe": 0,
+      "pp": 9,
+      "gf": 15,
+      "gc": 27,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/26534.png",
+      "equipo_id": 26534,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 9,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Barco": {
+      "antes": 3,
+      "ahora": 2,
+      "cambio": "sube 1 puesto"
+    },
+    "Pontevedra B": {
+      "antes": 8,
+      "ahora": 4,
+      "cambio": "sube 4 puestos"
+    },
+    "Villalbés": {
+      "antes": 10,
+      "ahora": 10,
+      "cambio": "se mantiene"
+    },
+    "Somozas": {
+      "antes": 12,
+      "ahora": 12,
+      "cambio": "se mantiene"
+    },
+    "Viveiro": {
+      "antes": 18,
+      "ahora": 17,
+      "cambio": "sube 1 puesto"
+    },
+    "Coruña": {
+      "antes": 17,
+      "ahora": 18,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}
