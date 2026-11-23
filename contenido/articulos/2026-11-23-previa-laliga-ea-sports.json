@@ -1,0 +1,316 @@
+{
+  "slug": "2026-11-23-previa-laliga-ea-sports",
+  "tipo": "previa",
+  "fecha": "2026-11-23",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Levante y Elche se juegan en Orriols una salida del descenso separados por un punto",
+  "entradilla": "El partido enfrenta a los dos equipos peor clasificados de la jornada, ambos en zona de descenso. Un punto separa al 18º del 19º.",
+  "cuerpo_markdown": "La jornada 13 de LaLiga EA Sports deja en Valencia el único partido de la jornada y el único enfrentamiento entre dos equipos de la zona de descenso. Levante es 18º con 11 puntos y Elche 19º con 10. Málaga, 20º con 5 puntos, queda a seis de los dos. Ninguno de los dos ha ganado en casa con regularidad: el Elche ha sumado dos victorias en 6 partidos fuera, pero solo una en casa.\n\n## Claves de la jornada\n\n- Levante y Elche, 18º y 19º, a un punto\n- Elche, 0 victorias en sus 6 partidos como local\n- Levante, 0 victorias en sus 7 partidos fuera\n\n## Levante - Elche\n\n<p class=\"ficha\"><b>21:00</b> · Estadio Ciudad de Valencia · Jornada 13 · Árbitro: Francisco Jose Hernandez Maeso</p><p class=\"forma\"><span class=\"eq\">Levante</span><span class=\"fG\" title=\"3-1 vs Athletic Club\">G</span><span class=\"fP\" title=\"1-2 vs Real Sociedad\">P</span><span class=\"fP\" title=\"0-2 vs Atlético de Madrid\">P</span><span class=\"fE\" title=\"0-0 vs Celta de Vigo\">E</span><span class=\"fG\" title=\"2-1 vs Tarancón\">G</span><br><span class=\"eq\">Elche</span><span class=\"fE\" title=\"0-0 vs Villarreal\">E</span><span class=\"fG\" title=\"3-0 vs Rayo Vallecano\">G</span><span class=\"fG\" title=\"3-1 vs Pinatar\">G</span><span class=\"fP\" title=\"0-1 vs Valencia\">P</span><span class=\"fP\" title=\"0-2 vs Real Betis\">P</span></p>\n\nLevante y Elche, 18º y 19º, se enfrentan con once y diez puntos. Quien gane sale del último tramo de la tabla y deja al otro con un punto menos.\n\n[Leer la previa completa →](../previas/2026-11-23-levante-elche.html)",
+  "texto_instagram": "Levante y Elche se juegan la salida del descenso en el Ciudad de Valencia. Son 18º y 19º, con 11 y 10 puntos, y un punto les separa. El partido se juega el lunes 23 a las 21:00. 🔴⚪\n\nLevante - Elche, lunes 23 de noviembre, 21:00, Estadio Ciudad de Valencia.",
+  "hashtags": [
+    "#LaLiga",
+    "#Levante",
+    "#Elche",
+    "#Descenso",
+    "#Jornada13"
+  ],
+  "imagenes_web": [
+    "img/2026-11-23/2026-11-23-previa-laliga-ea-sports.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-23/2026-11-23-previa-laliga-ea-sports.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570457,
+      "fecha": "2026-11-23T21:00:00+01:00",
+      "estadio": "Estadio Ciudad de Valencia",
+      "ciudad": "Valencia",
+      "jornada": "Regular Season - 13",
+      "arbitro": "Francisco Jose Hernandez Maeso",
+      "local": "Levante",
+      "visitante": "Elche",
+      "escudo_local": "https://media.api-sports.io/football/teams/539.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/797.png",
+      "contexto": {
+        "local": {
+          "pos": 18,
+          "pts": 11,
+          "pj": 12,
+          "pg": 2,
+          "pe": 5,
+          "pp": 5,
+          "gf": 16,
+          "gc": 21,
+          "dg": -5,
+          "zona": "descenso",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 13,
+            "gc": 12
+          },
+          "goleador": {
+            "jugador": "Brugui",
+            "goles": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-12",
+              "rival": "Tarancón",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Celta de Vigo",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Atlético de Madrid",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Real Sociedad",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-21",
+              "rival": "Athletic Club",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "La Liga"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 19,
+          "pts": 10,
+          "pj": 12,
+          "pg": 2,
+          "pe": 4,
+          "pp": 6,
+          "gf": 14,
+          "gc": 20,
+          "dg": -6,
+          "zona": "descenso",
+          "fuera": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 3,
+            "pp": 1,
+            "gf": 10,
+            "gc": 6
+          },
+          "goleador": {
+            "jugador": "Fer Niño",
+            "goles": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Real Betis",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Valencia",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Pinatar",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Rayo Vallecano",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Villarreal",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "La Liga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-01-23",
+          "competicion": "La Liga",
+          "resultado": "Levante 3-2 Elche"
+        },
+        {
+          "fecha": "2025-08-29",
+          "competicion": "La Liga",
+          "resultado": "Elche 2-0 Levante"
+        },
+        {
+          "fecha": "2025-05-10",
+          "competicion": "Segunda División",
+          "resultado": "Elche 1-3 Levante"
+        },
+        {
+          "fecha": "2024-11-16",
+          "competicion": "Segunda División",
+          "resultado": "Levante 1-1 Elche"
+        },
+        {
+          "fecha": "2024-03-24",
+          "competicion": "Segunda División",
+          "resultado": "Levante 3-2 Elche"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Levante": [
+      {
+        "fecha": "2026-11-12",
+        "rival": "Tarancón",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Celta de Vigo",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Atlético de Madrid",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Real Sociedad",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-21",
+        "rival": "Athletic Club",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "La Liga"
+      }
+    ],
+    "Elche": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Real Betis",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Valencia",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Pinatar",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Rayo Vallecano",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Villarreal",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "La Liga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570457,
+      "slug": "2026-11-23-levante-elche",
+      "titular": "Levante y Elche se juegan en el Ciudad de Valencia salir del descenso",
+      "entradilla": "Levante y Elche, 18º y 19º, se enfrentan con once y diez puntos. Quien gane sale del último tramo de la tabla y deja al otro con un punto menos.",
+      "parrafos": [
+        "El partido se juega este lunes 23 de noviembre a las 21:00 en el Estadio Ciudad de Valencia, correspondiente a la jornada 13 de LaLiga EA Sports. Arbitra Francisco José Hernández Maeso. Es un duelo directo por la permanencia: el ganador se aleja de la última posición, que ocupa el Málaga con 5 puntos.",
+        "El Levante llega con 11 puntos en 12 partidos, dos victorias, cinco empates y cinco derrotas. En casa ha ganado dos de cinco, con 13 goles a favor y 12 en contra. Su racha reciente mezcla resultados: victoria en la Copa del Rey ante el Tarancón, empate en Vigo ante el Celta, derrota ante el Atlético en casa y ante la Real Sociedad fuera, y triunfo ante el Athletic en casa. Brugui es su máximo goleador, con 5 tantos.",
+        "El Elche llega con 10 puntos en 12 partidos, dos victorias, cuatro empates y seis derrotas. Como visitante ha ganado dos de sus seis partidos y ha empatado tres, con 10 goles a favor y 6 en contra. En sus tres últimos encuentros fuera ha sumado una victoria en la Copa del Rey, una en la Liga ante el Rayo Vallecano, con un 3-0, y un empate ante el Villarreal. Fer Niño, con 6 goles, es el máximo goleador del equipo."
+      ],
+      "precedente": "El último enfrentamiento en el historial es de enero de 2026, en La Liga, con victoria del Levante por 3-2 sobre el Elche.",
+      "el_dato": "El Elche ha perdido cinco de sus seis partidos como local esta temporada.",
+      "claves": [
+        {
+          "titulo": "Un punto de distancia",
+          "texto": "Levante, 11 puntos, y Elche, 10, se separan solo por un punto en la tabla."
+        },
+        {
+          "titulo": "Casa y fuera",
+          "texto": "El Levante ha ganado dos veces en casa y ninguna fuera; el Elche, al revés, ha ganado dos veces fuera y ninguna en casa."
+        },
+        {
+          "titulo": "Fer Niño y Brugui",
+          "texto": "Fer Niño, del Elche, lleva 6 goles y Brugui, del Levante, 5."
+        }
+      ]
+    }
+  ]
+}

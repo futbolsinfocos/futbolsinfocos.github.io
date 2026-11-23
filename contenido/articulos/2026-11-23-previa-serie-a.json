@@ -1,0 +1,316 @@
+{
+  "slug": "2026-11-23-previa-serie-a",
+  "tipo": "previa",
+  "fecha": "2026-11-23",
+  "etiqueta": "Serie A",
+  "competicion": "Serie A",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Monza, en descenso, recibe a una Fiorentina que no pierde desde hace tres partidos",
+  "entradilla": "La jornada 12 de la Serie A tiene hoy un único partido: el Monza, 18º y en zona de descenso, recibe a la Fiorentina, 15ª con 9 puntos.",
+  "cuerpo_markdown": "Lazio y Roma encabezan la tabla con 32 y 30 puntos. En la parte baja, el Monza suma 7 puntos y ocupa la 18ª posición, a un punto de Udinese y Venezia, que cierran la clasificación con 6. La Fiorentina, con 9 puntos, está dos por encima de los locales y fuera de la zona de descenso.\n\n## Claves de la jornada\n\n- El Monza suma 7 puntos y está a un punto del Udinese y del Venezia, los dos últimos clasificados.\n- La Fiorentina llega con 9 puntos, a dos del Monza.\n- Lazio y Roma lideran con 32 y 30 puntos.\n\n## Monza - Fiorentina\n\n<p class=\"ficha\"><b>20:45</b> · Stadio Brianteo (Monza) · Jornada 12 · Árbitro: Daniele Doveri</p><p class=\"forma\"><span class=\"eq\">Monza</span><span class=\"fG\" title=\"4-0 vs Cagliari\">G</span><span class=\"fP\" title=\"2-3 vs Torino\">P</span><span class=\"fP\" title=\"1-4 vs Nápoles\">P</span><span class=\"fP\" title=\"1-2 vs Bologna\">P</span><span class=\"fP\" title=\"0-1 vs Atalanta\">P</span><br><span class=\"eq\">Fiorentina</span><span class=\"fP\" title=\"1-3 vs Como\">P</span><span class=\"fP\" title=\"1-2 vs Inter de Milán\">P</span><span class=\"fE\" title=\"2-2 vs Atalanta\">E</span><span class=\"fG\" title=\"4-2 vs Sassuolo\">G</span><span class=\"fE\" title=\"2-2 vs Juventus\">E</span></p>\n\nEl Monza, 18º y con 7 puntos, necesita sumar para salir de la zona de descenso. La Fiorentina, 15ª con 9, busca despegarse de los puestos bajos.\n\n[Leer la previa completa →](../previas/2026-11-23-monza-fiorentina.html)",
+  "texto_instagram": "El Monza, 18º y en descenso, recibe a la Fiorentina (15ª, 9 puntos) en la jornada 12. Los locales solo han ganado una de sus últimas cinco y la Fiorentina no pierde desde hace tres partidos. ⚽\nMonza - Fiorentina: hoy, 20:45, Stadio Brianteo.",
+  "hashtags": [
+    "#SerieA",
+    "#Monza",
+    "#Fiorentina",
+    "#Jornada12"
+  ],
+  "imagenes_web": [
+    "img/2026-11-23/2026-11-23-previa-serie-a.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-23/2026-11-23-previa-serie-a.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1550203,
+      "fecha": "2026-11-23T20:45:00+01:00",
+      "estadio": "Stadio Brianteo",
+      "ciudad": "Monza",
+      "jornada": "Regular Season - 12",
+      "arbitro": "Daniele Doveri",
+      "local": "Monza",
+      "visitante": "Fiorentina",
+      "escudo_local": "https://media.api-sports.io/football/teams/1579.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/502.png",
+      "contexto": {
+        "local": {
+          "pos": 18,
+          "pts": 7,
+          "pj": 11,
+          "pg": 2,
+          "pe": 1,
+          "pp": 8,
+          "gf": 17,
+          "gc": 25,
+          "dg": -8,
+          "zona": "descenso",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 0,
+            "pp": 3,
+            "gf": 9,
+            "gc": 9
+          },
+          "goleador": {
+            "jugador": "Gustavo Varela",
+            "goles": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Atalanta",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Bologna",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "Nápoles",
+              "campo": "casa",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-23",
+              "rival": "Torino",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-19",
+              "rival": "Cagliari",
+              "campo": "casa",
+              "marcador": "4-0",
+              "resultado": "G",
+              "competicion": "Serie A"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 15,
+          "pts": 9,
+          "pj": 11,
+          "pg": 2,
+          "pe": 3,
+          "pp": 6,
+          "gf": 17,
+          "gc": 25,
+          "dg": -8,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 0,
+            "pp": 3,
+            "gf": 10,
+            "gc": 12
+          },
+          "goleador": {
+            "jugador": "Mateo Pellegrino",
+            "goles": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Juventus",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Sassuolo",
+              "campo": "fuera",
+              "marcador": "4-2",
+              "resultado": "G",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Atalanta",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Inter de Milán",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Como",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Serie A"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-01-13",
+          "competicion": "Serie A",
+          "resultado": "Monza 2-1 Fiorentina"
+        },
+        {
+          "fecha": "2024-09-01",
+          "competicion": "Serie A",
+          "resultado": "Fiorentina 2-2 Monza"
+        },
+        {
+          "fecha": "2024-05-13",
+          "competicion": "Serie A",
+          "resultado": "Fiorentina 2-1 Monza"
+        },
+        {
+          "fecha": "2023-12-22",
+          "competicion": "Serie A",
+          "resultado": "Monza 0-1 Fiorentina"
+        },
+        {
+          "fecha": "2023-04-23",
+          "competicion": "Serie A",
+          "resultado": "Monza 3-2 Fiorentina"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Monza": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Atalanta",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Bologna",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "Nápoles",
+        "campo": "casa",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-23",
+        "rival": "Torino",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-19",
+        "rival": "Cagliari",
+        "campo": "casa",
+        "marcador": "4-0",
+        "resultado": "G",
+        "competicion": "Serie A"
+      }
+    ],
+    "Fiorentina": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Juventus",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Sassuolo",
+        "campo": "fuera",
+        "marcador": "4-2",
+        "resultado": "G",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Atalanta",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Inter de Milán",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Como",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Serie A"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1550203,
+      "slug": "2026-11-23-monza-fiorentina",
+      "titular": "El Monza, en descenso, recibe a una Fiorentina que no pierde desde hace tres partidos",
+      "entradilla": "El Monza, 18º y con 7 puntos, necesita sumar para salir de la zona de descenso. La Fiorentina, 15ª con 9, busca despegarse de los puestos bajos.",
+      "parrafos": [
+        "El Monza y la Fiorentina se miden hoy a las 20:45 en el Stadio Brianteo, de Monza, por la jornada 12 de la Serie A. Dirige el partido Daniele Doveri. Los locales son 18º con 7 puntos, en zona de descenso, y los visitantes 15ª con 9, a dos puntos de distancia.",
+        "El Monza llega con cuatro derrotas seguidas y solo una victoria en sus últimos cinco partidos, un 4-0 al Cagliari el 19 de octubre. En casa tiene 2 victorias, 0 empates y 3 derrotas, con 9 goles a favor y 9 en contra. Gustavo Varela ha marcado 9 de los 17 goles del equipo.",
+        "La Fiorentina llega con tres partidos sin perder: empate 2-2 con la Juventus, victoria 4-2 en Sassuolo y empate 2-2 con la Atalanta. Fuera tiene 2 victorias, 0 empates y 3 derrotas, con 10 goles a favor y 12 en contra. Su máximo goleador, Mateo Pellegrino, tiene 4 goles.",
+        "En la tabla, el Monza necesita reaccionar para no hundirse, mientras la Fiorentina busca mantener distancia con los puestos de descenso."
+      ],
+      "precedente": "El último enfrentamiento fue el 13 de enero de 2025 en la Serie A, con victoria del Monza por 2-1. En los últimos cinco duelos hay dos victorias del Monza, dos de la Fiorentina y un empate.",
+      "el_dato": "Gustavo Varela ha marcado 9 de los 17 goles del Monza esta temporada.",
+      "claves": [
+        {
+          "titulo": "Monza sin ganar fuera",
+          "texto": "El Monza solo ha sumado un punto a domicilio... fuera de casa tiene 0 victorias en seis partidos."
+        },
+        {
+          "titulo": "Fiorentina sin ganar en casa",
+          "texto": "La Fiorentina tiene 0 victorias y 3 empates en sus seis partidos como visitante de la temporada en casa."
+        },
+        {
+          "titulo": "Varela, clave goleadora",
+          "texto": "Gustavo Varela ha marcado 9 goles, más de la mitad de los 17 del Monza."
+        }
+      ]
+    }
+  ]
+}
