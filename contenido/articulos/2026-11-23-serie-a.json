@@ -1,0 +1,741 @@
+{
+  "slug": "2026-11-23-serie-a",
+  "fecha": "2026-11-23",
+  "etiqueta": "Serie A",
+  "competicion": "Serie A",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Monza golea 3-0 a la Fiorentina y sube cuatro puestos hasta el 14",
+  "entradilla": "El Monza goleó 3-0 a la Fiorentina con dos goles de Gustavo Varela, uno de penalti, y un tanto de Jay Robinson. Con la victoria, los lombardos suben al puesto 14 y los toscanos bajan al 16.",
+  "cuerpo_markdown": "El Monza goleó 3-0 a la Fiorentina en el Stadio Brianteo de la Jornada 12 de la Serie A. Gustavo Varela marcó de penalti en el 45 y repitió en el 51, y Jay Robinson cerró el marcador en el 59. Con este resultado, el Monza sube cuatro puestos, del 18 al 14, mientras la Fiorentina baja del 15 al 16.\n\n## Monza 3-0 Fiorentina\n\nEl Monza ganó con cinco tiros a puerta frente a los ocho de la Fiorentina, que tuvo el 55% de posesión y 17 disparos. Varela abrió el marcador de penalti en el 45 y amplió la ventaja en el 51. Robinson firmó el 3-0 en el 59. Ningún jugador fue expulsado ni falló un penalti. En la tabla, el Monza queda con 10 puntos en el puesto 14, a dos puntos del primer puesto de descenso, que ocupa el Sassuolo con 8. La Fiorentina se queda con 9 puntos en el 16, a un punto del Parma, que ocupa el 17.\n\n## Así queda la clasificación\n\nLa Lazio encabeza la tabla con 32 puntos, seguida por la Roma con 30, la Inter de Milán con 29, el Milan con 27 y el Como con 26. La zona de playoff la ocupa la Juventus, con 21 puntos en el sexto puesto. En la parte baja, el Sassuolo (18.º, 8 puntos), el Udinese (19.º, 6) y el Venezia (20.º, 6) están en zona de descenso. El Monza, con 10 puntos, queda en el 14, dos puntos por encima del Sassuolo.",
+  "texto_instagram": "⚽ El Monza golea 3-0 a la Fiorentina y sube al puesto 14 de la Serie A. Varela marca dos veces y Robinson cierra la goleada.\n\nMonza 3-0 Fiorentina\nGustavo Varela (penalti, 45'), Gustavo Varela (51'), Jay Robinson (59')\n\n📊 Jornada 12 completada en la Serie A.",
+  "hashtags": [
+    "#SerieA",
+    "#Monza",
+    "#Fiorentina",
+    "#Jornada12",
+    "#Calcio"
+  ],
+  "imagenes": [
+    "img/2026-11-23/2026-11-23-serie-a-1.jpg",
+    "img/2026-11-23/2026-11-23-serie-a-2.jpg",
+    "img/2026-11-23/2026-11-23-serie-a-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1550203,
+      "fecha": "2026-11-23T20:45:00+01:00",
+      "estadio": "Stadio Brianteo",
+      "ciudad": "Monza",
+      "arbitro": "Daniele Doveri",
+      "jornada": "Regular Season - 12",
+      "liga_id": 135,
+      "id_local": 1579,
+      "id_visitante": 502,
+      "local": "Monza",
+      "visitante": "Fiorentina",
+      "escudo_local": "https://media.api-sports.io/football/teams/1579.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/502.png",
+      "goles_local": 3,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 45,
+          "equipo": "Monza",
+          "jugador": "Gustavo Varela",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 51,
+          "equipo": "Monza",
+          "jugador": "Gustavo Varela",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 59,
+          "equipo": "Monza",
+          "jugador": "Jay Robinson",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "45%",
+          "tiros": 13,
+          "a_puerta": 5,
+          "corners": 3,
+          "faltas": 8,
+          "fueras_juego": 1,
+          "amarillas": 0,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "55%",
+          "tiros": 17,
+          "a_puerta": 8,
+          "corners": 7,
+          "faltas": 13,
+          "fueras_juego": 1,
+          "amarillas": 1,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Lazio",
+      "pts": 32,
+      "pj": 12,
+      "dg": 19,
+      "pg": 10,
+      "pe": 2,
+      "pp": 0,
+      "gf": 28,
+      "gc": 9,
+      "forma": "WDWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "equipo_id": 487,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 13,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 15,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "AS Roma",
+      "pts": 30,
+      "pj": 12,
+      "dg": 25,
+      "pg": 9,
+      "pe": 3,
+      "pp": 0,
+      "gf": 36,
+      "gc": 11,
+      "forma": "WWWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/497.png",
+      "equipo_id": 497,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 19,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Inter de Milán",
+      "pts": 29,
+      "pj": 12,
+      "dg": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 32,
+      "gc": 17,
+      "forma": "DWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/505.png",
+      "equipo_id": 505,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 19,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Milan",
+      "pts": 27,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 28,
+      "gc": 14,
+      "forma": "WWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "equipo_id": 489,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 18,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Como",
+      "pts": 26,
+      "pj": 12,
+      "dg": 10,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "WLWWW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/895.png",
+      "equipo_id": 895,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Juventus",
+      "pts": 21,
+      "pj": 12,
+      "dg": 7,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 19,
+      "gc": 12,
+      "forma": "WDWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/496.png",
+      "equipo_id": 496,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Frosinone",
+      "pts": 20,
+      "pj": 12,
+      "dg": 5,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 25,
+      "gc": 20,
+      "forma": "LLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/512.png",
+      "equipo_id": 512,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 16,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Nápoles",
+      "pts": 18,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 19,
+      "gc": 14,
+      "forma": "WDLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/492.png",
+      "equipo_id": 492,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Bologna",
+      "pts": 18,
+      "pj": 12,
+      "dg": 2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/500.png",
+      "equipo_id": 500,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Genoa",
+      "pts": 16,
+      "pj": 12,
+      "dg": -3,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 13,
+      "gc": 16,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/495.png",
+      "equipo_id": 495,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Cagliari",
+      "pts": 16,
+      "pj": 12,
+      "dg": -7,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 10,
+      "gc": 17,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/490.png",
+      "equipo_id": 490,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 3,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Atalanta",
+      "pts": 15,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 21,
+      "gc": 24,
+      "forma": "DWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/499.png",
+      "equipo_id": 499,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 15,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Torino",
+      "pts": 14,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 18,
+      "forma": "LDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/503.png",
+      "equipo_id": 503,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Monza",
+      "pts": 10,
+      "pj": 12,
+      "dg": -5,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 20,
+      "gc": 25,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1579.png",
+      "equipo_id": 1579,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 8,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Lecce",
+      "pts": 10,
+      "pj": 12,
+      "dg": -13,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 12,
+      "gc": 25,
+      "forma": "LDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/867.png",
+      "equipo_id": 867,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Fiorentina",
+      "pts": 9,
+      "pj": 12,
+      "dg": -11,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 17,
+      "gc": 28,
+      "forma": "LDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/502.png",
+      "equipo_id": 502,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 10,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Parma",
+      "pts": 8,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 10,
+      "gc": 22,
+      "forma": "LLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/523.png",
+      "equipo_id": 523,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Sassuolo",
+      "pts": 8,
+      "pj": 12,
+      "dg": -15,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 16,
+      "gc": 31,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/488.png",
+      "equipo_id": 488,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Udinese",
+      "pts": 6,
+      "pj": 12,
+      "dg": -13,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 13,
+      "gc": 26,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/494.png",
+      "equipo_id": 494,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Venezia",
+      "pts": 6,
+      "pj": 12,
+      "dg": -17,
+      "pg": 2,
+      "pe": 0,
+      "pp": 10,
+      "gf": 8,
+      "gc": 25,
+      "forma": "LWLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/517.png",
+      "equipo_id": 517,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 14
+      }
+    }
+  ],
+  "movimientos": {
+    "Monza": {
+      "antes": 18,
+      "ahora": 14,
+      "cambio": "sube 4 puestos"
+    },
+    "Fiorentina": {
+      "antes": 15,
+      "ahora": 16,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}

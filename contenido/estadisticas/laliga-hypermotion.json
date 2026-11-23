@@ -16,7 +16,7 @@
       "escudo": "https://media.api-sports.io/football/teams/9571.png",
       "goles": 8,
       "penaltis": 1,
-      "pj": 14
+      "pj": 15
     },
     {
       "jugador": "Enric Gallego",
@@ -24,7 +24,7 @@
       "escudo": "https://media.api-sports.io/football/teams/719.png",
       "goles": 8,
       "penaltis": 2,
-      "pj": 12
+      "pj": 13
     },
     {
       "jugador": "Fuentes",
@@ -32,7 +32,7 @@
       "escudo": "https://media.api-sports.io/football/teams/798.png",
       "goles": 7,
       "penaltis": 0,
-      "pj": 13
+      "pj": 14
     },
     {
       "jugador": "Percan",
@@ -40,7 +40,7 @@
       "escudo": "https://media.api-sports.io/football/teams/713.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 14
+      "pj": 15
     },
     {
       "jugador": "Israel Suero",
@@ -48,6 +48,22 @@
       "escudo": "https://media.api-sports.io/football/teams/5254.png",
       "goles": 6,
       "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "Antonio Cordero",
+      "equipo": "Cádiz",
+      "escudo": "https://media.api-sports.io/football/teams/724.png",
+      "goles": 6,
+      "penaltis": 1,
+      "pj": 15
+    },
+    {
+      "jugador": "V. Vanat",
+      "equipo": "Girona",
+      "escudo": "https://media.api-sports.io/football/teams/547.png",
+      "goles": 6,
+      "penaltis": 1,
       "pj": 10
     },
     {
@@ -59,12 +75,20 @@
       "pj": 10
     },
     {
+      "jugador": "Jorge Pascual",
+      "equipo": "Granada CF",
+      "escudo": "https://media.api-sports.io/football/teams/715.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
       "jugador": "Y. Asprilla",
       "equipo": "Girona",
       "escudo": "https://media.api-sports.io/football/teams/547.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 11
+      "pj": 12
     },
     {
       "jugador": "Adrian Arnuncio",
@@ -72,15 +96,7 @@
       "escudo": "https://media.api-sports.io/football/teams/720.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 10
-    },
-    {
-      "jugador": "Jorge Pascual",
-      "equipo": "Granada CF",
-      "escudo": "https://media.api-sports.io/football/teams/715.png",
-      "goles": 5,
-      "penaltis": 0,
-      "pj": 12
+      "pj": 11
     },
     {
       "jugador": "Carlos Domínguez",
@@ -88,31 +104,7 @@
       "escudo": "https://media.api-sports.io/football/teams/718.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 11
-    },
-    {
-      "jugador": "Antonio Cordero",
-      "equipo": "Cádiz",
-      "escudo": "https://media.api-sports.io/football/teams/724.png",
-      "goles": 5,
-      "penaltis": 1,
-      "pj": 14
-    },
-    {
-      "jugador": "V. Vanat",
-      "equipo": "Girona",
-      "escudo": "https://media.api-sports.io/football/teams/547.png",
-      "goles": 5,
-      "penaltis": 1,
-      "pj": 9
-    },
-    {
-      "jugador": "Jon Guruzeta",
-      "equipo": "Eibar",
-      "escudo": "https://media.api-sports.io/football/teams/545.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 13
+      "pj": 12
     },
     {
       "jugador": "Eder García",
@@ -120,12 +112,20 @@
       "escudo": "https://media.api-sports.io/football/teams/713.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 13
+      "pj": 14
     },
     {
-      "jugador": "Jordi Escobar",
-      "equipo": "AD Ceuta FC",
-      "escudo": "https://media.api-sports.io/football/teams/10139.png",
+      "jugador": "T. Miyashiro",
+      "equipo": "Las Palmas",
+      "escudo": "https://media.api-sports.io/football/teams/534.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 15
+    },
+    {
+      "jugador": "Jon Guruzeta",
+      "equipo": "Eibar",
+      "escudo": "https://media.api-sports.io/football/teams/545.png",
       "goles": 4,
       "penaltis": 0,
       "pj": 14
@@ -134,6 +134,14 @@
       "jugador": "Álex Forés",
       "equipo": "Burgos",
       "escudo": "https://media.api-sports.io/football/teams/9580.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 15
+    },
+    {
+      "jugador": "Jordi Escobar",
+      "equipo": "AD Ceuta FC",
+      "escudo": "https://media.api-sports.io/football/teams/10139.png",
       "goles": 4,
       "penaltis": 0,
       "pj": 14
@@ -152,27 +160,31 @@
       "escudo": "https://media.api-sports.io/football/teams/5254.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 10
-    },
-    {
-      "jugador": "Ousmane Camara",
-      "equipo": "Castellón",
-      "escudo": "https://media.api-sports.io/football/teams/5254.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 8
+      "pj": 11
     }
   ],
   "tarjetas": [
     {
-      "equipo": "FC Andorra",
-      "escudo": "https://media.api-sports.io/football/teams/8157.png",
-      "amarillas": 47,
+      "equipo": "Real Sociedad B",
+      "escudo": "https://media.api-sports.io/football/teams/9585.png",
+      "amarillas": 48,
       "rojas": 4
     },
     {
-      "equipo": "Real Sociedad B",
-      "escudo": "https://media.api-sports.io/football/teams/9585.png",
+      "equipo": "Valladolid",
+      "escudo": "https://media.api-sports.io/football/teams/720.png",
+      "amarillas": 48,
+      "rojas": 4
+    },
+    {
+      "equipo": "Córdoba",
+      "escudo": "https://media.api-sports.io/football/teams/713.png",
+      "amarillas": 53,
+      "rojas": 2
+    },
+    {
+      "equipo": "FC Andorra",
+      "escudo": "https://media.api-sports.io/football/teams/8157.png",
       "amarillas": 47,
       "rojas": 4
     },
@@ -183,16 +195,28 @@
       "rojas": 3
     },
     {
-      "equipo": "Córdoba",
-      "escudo": "https://media.api-sports.io/football/teams/713.png",
-      "amarillas": 50,
-      "rojas": 2
+      "equipo": "Sporting de Gijón",
+      "escudo": "https://media.api-sports.io/football/teams/731.png",
+      "amarillas": 46,
+      "rojas": 3
     },
     {
-      "equipo": "Valladolid",
-      "escudo": "https://media.api-sports.io/football/teams/720.png",
+      "equipo": "AD Ceuta FC",
+      "escudo": "https://media.api-sports.io/football/teams/10139.png",
+      "amarillas": 45,
+      "rojas": 3
+    },
+    {
+      "equipo": "Oviedo",
+      "escudo": "https://media.api-sports.io/football/teams/718.png",
+      "amarillas": 50,
+      "rojas": 1
+    },
+    {
+      "equipo": "Las Palmas",
+      "escudo": "https://media.api-sports.io/football/teams/534.png",
       "amarillas": 43,
-      "rojas": 4
+      "rojas": 3
     },
     {
       "equipo": "Sabadell",
@@ -201,28 +225,16 @@
       "rojas": 2
     },
     {
-      "equipo": "Sporting de Gijón",
-      "escudo": "https://media.api-sports.io/football/teams/731.png",
-      "amarillas": 41,
-      "rojas": 3
-    },
-    {
       "equipo": "Celta de Vigo B",
       "escudo": "https://media.api-sports.io/football/teams/9571.png",
-      "amarillas": 42,
+      "amarillas": 44,
       "rojas": 2
     },
     {
-      "equipo": "Las Palmas",
-      "escudo": "https://media.api-sports.io/football/teams/534.png",
-      "amarillas": 39,
-      "rojas": 3
-    },
-    {
-      "equipo": "Oviedo",
-      "escudo": "https://media.api-sports.io/football/teams/718.png",
-      "amarillas": 45,
-      "rojas": 1
+      "equipo": "Girona",
+      "escudo": "https://media.api-sports.io/football/teams/547.png",
+      "amarillas": 41,
+      "rojas": 2
     },
     {
       "equipo": "Cádiz",
@@ -231,22 +243,16 @@
       "rojas": 0
     },
     {
-      "equipo": "AD Ceuta FC",
-      "escudo": "https://media.api-sports.io/football/teams/10139.png",
-      "amarillas": 39,
-      "rojas": 2
-    },
-    {
       "equipo": "Albacete",
       "escudo": "https://media.api-sports.io/football/teams/722.png",
-      "amarillas": 37,
+      "amarillas": 38,
       "rojas": 2
     },
     {
-      "equipo": "Girona",
-      "escudo": "https://media.api-sports.io/football/teams/547.png",
-      "amarillas": 37,
-      "rojas": 2
+      "equipo": "Mallorca",
+      "escudo": "https://media.api-sports.io/football/teams/798.png",
+      "amarillas": 40,
+      "rojas": 1
     },
     {
       "equipo": "Eldense",
@@ -255,27 +261,27 @@
       "rojas": 0
     },
     {
-      "equipo": "Mallorca",
-      "escudo": "https://media.api-sports.io/football/teams/798.png",
-      "amarillas": 37,
-      "rojas": 1
-    },
-    {
       "equipo": "Tenerife",
       "escudo": "https://media.api-sports.io/football/teams/719.png",
-      "amarillas": 33,
+      "amarillas": 35,
       "rojas": 2
     },
     {
       "equipo": "Burgos",
       "escudo": "https://media.api-sports.io/football/teams/9580.png",
-      "amarillas": 35,
+      "amarillas": 40,
       "rojas": 0
     },
     {
       "equipo": "Castellón",
       "escudo": "https://media.api-sports.io/football/teams/5254.png",
-      "amarillas": 26,
+      "amarillas": 30,
+      "rojas": 2
+    },
+    {
+      "equipo": "Eibar",
+      "escudo": "https://media.api-sports.io/football/teams/545.png",
+      "amarillas": 28,
       "rojas": 2
     },
     {
@@ -285,17 +291,11 @@
       "rojas": 1
     },
     {
-      "equipo": "Eibar",
-      "escudo": "https://media.api-sports.io/football/teams/545.png",
-      "amarillas": 25,
-      "rojas": 2
-    },
-    {
       "equipo": "Granada CF",
       "escudo": "https://media.api-sports.io/football/teams/715.png",
       "amarillas": 30,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-23"
 }

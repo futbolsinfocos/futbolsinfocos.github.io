@@ -8,7 +8,7 @@
       "escudo": "https://media.api-sports.io/football/teams/50.png",
       "goles": 9,
       "penaltis": 0,
-      "pj": 10
+      "pj": 11
     },
     {
       "jugador": "A. Isak",
@@ -16,15 +16,15 @@
       "escudo": "https://media.api-sports.io/football/teams/40.png",
       "goles": 7,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
-      "jugador": "T. Barry",
-      "equipo": "Everton",
-      "escudo": "https://media.api-sports.io/football/teams/45.png",
+      "jugador": "Evanilson",
+      "equipo": "Bournemouth",
+      "escudo": "https://media.api-sports.io/football/teams/35.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 10
+      "pj": 11
     },
     {
       "jugador": "N. Jackson",
@@ -32,13 +32,13 @@
       "escudo": "https://media.api-sports.io/football/teams/66.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
-      "jugador": "Evanilson",
-      "equipo": "Bournemouth",
-      "escudo": "https://media.api-sports.io/football/teams/35.png",
-      "goles": 5,
+      "jugador": "T. Barry",
+      "equipo": "Everton",
+      "escudo": "https://media.api-sports.io/football/teams/45.png",
+      "goles": 6,
       "penaltis": 0,
       "pj": 10
     },
@@ -51,17 +51,17 @@
       "pj": 6
     },
     {
-      "jugador": "R. Cherki",
-      "equipo": "Manchester City",
-      "escudo": "https://media.api-sports.io/football/teams/50.png",
-      "goles": 5,
-      "penaltis": 0,
-      "pj": 9
-    },
-    {
       "jugador": "M. Rogers",
       "equipo": "Chelsea",
       "escudo": "https://media.api-sports.io/football/teams/49.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "R. Cherki",
+      "equipo": "Manchester City",
+      "escudo": "https://media.api-sports.io/football/teams/50.png",
       "goles": 5,
       "penaltis": 0,
       "pj": 10
@@ -72,15 +72,15 @@
       "escudo": "https://media.api-sports.io/football/teams/35.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 10
+      "pj": 11
     },
     {
       "jugador": "D. Calvert-Lewin",
       "equipo": "Leeds",
       "escudo": "https://media.api-sports.io/football/teams/63.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 10
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 11
     },
     {
       "jugador": "B. Mbeumo",
@@ -88,7 +88,23 @@
       "escudo": "https://media.api-sports.io/football/teams/33.png",
       "goles": 4,
       "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "N. Okafor",
+      "equipo": "Leeds",
+      "escudo": "https://media.api-sports.io/football/teams/63.png",
+      "goles": 4,
+      "penaltis": 0,
       "pj": 10
+    },
+    {
+      "jugador": "O. McBurnie",
+      "equipo": "Hull City",
+      "escudo": "https://media.api-sports.io/football/teams/64.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 11
     },
     {
       "jugador": "P. Groß",
@@ -96,7 +112,7 @@
       "escudo": "https://media.api-sports.io/football/teams/51.png",
       "goles": 4,
       "penaltis": 2,
-      "pj": 10
+      "pj": 11
     },
     {
       "jugador": "Bruno Fernandes",
@@ -104,14 +120,6 @@
       "escudo": "https://media.api-sports.io/football/teams/33.png",
       "goles": 4,
       "penaltis": 2,
-      "pj": 9
-    },
-    {
-      "jugador": "C. Kostoulas",
-      "equipo": "Brighton",
-      "escudo": "https://media.api-sports.io/football/teams/51.png",
-      "goles": 3,
-      "penaltis": 0,
       "pj": 10
     },
     {
@@ -120,7 +128,23 @@
       "escudo": "https://media.api-sports.io/football/teams/64.png",
       "goles": 3,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
+    },
+    {
+      "jugador": "C. Kostoulas",
+      "equipo": "Brighton",
+      "escudo": "https://media.api-sports.io/football/teams/51.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "H. Barnes",
+      "equipo": "Newcastle",
+      "escudo": "https://media.api-sports.io/football/teams/34.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 11
     },
     {
       "jugador": "Pedro Neto",
@@ -128,15 +152,7 @@
       "escudo": "https://media.api-sports.io/football/teams/49.png",
       "goles": 3,
       "penaltis": 0,
-      "pj": 10
-    },
-    {
-      "jugador": "K. Dewsbury-Hall",
-      "equipo": "Everton",
-      "escudo": "https://media.api-sports.io/football/teams/45.png",
-      "goles": 3,
-      "penaltis": 0,
-      "pj": 10
+      "pj": 11
     },
     {
       "jugador": "K. Havertz",
@@ -144,23 +160,7 @@
       "escudo": "https://media.api-sports.io/football/teams/42.png",
       "goles": 3,
       "penaltis": 0,
-      "pj": 10
-    },
-    {
-      "jugador": "K. Schade",
-      "equipo": "Brentford",
-      "escudo": "https://media.api-sports.io/football/teams/55.png",
-      "goles": 3,
-      "penaltis": 0,
-      "pj": 10
-    },
-    {
-      "jugador": "M. Ødegaard",
-      "equipo": "Arsenal",
-      "escudo": "https://media.api-sports.io/football/teams/42.png",
-      "goles": 3,
-      "penaltis": 0,
-      "pj": 10
+      "pj": 11
     }
   ],
   "tarjetas": [
@@ -173,92 +173,92 @@
     {
       "equipo": "Newcastle",
       "escudo": "https://media.api-sports.io/football/teams/34.png",
-      "amarillas": 28,
+      "amarillas": 31,
       "rojas": 1
+    },
+    {
+      "equipo": "Brighton",
+      "escudo": "https://media.api-sports.io/football/teams/51.png",
+      "amarillas": 27,
+      "rojas": 2
     },
     {
       "equipo": "Sunderland",
       "escudo": "https://media.api-sports.io/football/teams/746.png",
-      "amarillas": 22,
+      "amarillas": 24,
       "rojas": 3
     },
     {
       "equipo": "Hull City",
       "escudo": "https://media.api-sports.io/football/teams/64.png",
-      "amarillas": 30,
+      "amarillas": 32,
       "rojas": 0
     },
     {
       "equipo": "Liverpool",
       "escudo": "https://media.api-sports.io/football/teams/40.png",
-      "amarillas": 27,
+      "amarillas": 28,
       "rojas": 1
     },
     {
       "equipo": "Bournemouth",
       "escudo": "https://media.api-sports.io/football/teams/35.png",
-      "amarillas": 27,
+      "amarillas": 28,
       "rojas": 0
-    },
-    {
-      "equipo": "Brighton",
-      "escudo": "https://media.api-sports.io/football/teams/51.png",
-      "amarillas": 24,
-      "rojas": 1
     },
     {
       "equipo": "Manchester United",
       "escudo": "https://media.api-sports.io/football/teams/33.png",
+      "amarillas": 22,
+      "rojas": 2
+    },
+    {
+      "equipo": "Nottingham Forest",
+      "escudo": "https://media.api-sports.io/football/teams/65.png",
+      "amarillas": 27,
+      "rojas": 0
+    },
+    {
+      "equipo": "Aston Villa",
+      "escudo": "https://media.api-sports.io/football/teams/66.png",
       "amarillas": 22,
       "rojas": 1
     },
     {
       "equipo": "Chelsea",
       "escudo": "https://media.api-sports.io/football/teams/49.png",
-      "amarillas": 21,
-      "rojas": 1
-    },
-    {
-      "equipo": "Nottingham Forest",
-      "escudo": "https://media.api-sports.io/football/teams/65.png",
-      "amarillas": 24,
-      "rojas": 0
-    },
-    {
-      "equipo": "Aston Villa",
-      "escudo": "https://media.api-sports.io/football/teams/66.png",
-      "amarillas": 20,
-      "rojas": 1
-    },
-    {
-      "equipo": "Ipswich",
-      "escudo": "https://media.api-sports.io/football/teams/57.png",
-      "amarillas": 20,
+      "amarillas": 22,
       "rojas": 1
     },
     {
       "equipo": "Fulham",
       "escudo": "https://media.api-sports.io/football/teams/36.png",
-      "amarillas": 19,
+      "amarillas": 22,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ipswich",
+      "escudo": "https://media.api-sports.io/football/teams/57.png",
+      "amarillas": 22,
+      "rojas": 1
+    },
+    {
+      "equipo": "Tottenham",
+      "escudo": "https://media.api-sports.io/football/teams/47.png",
+      "amarillas": 21,
       "rojas": 1
     },
     {
       "equipo": "Crystal Palace",
       "escudo": "https://media.api-sports.io/football/teams/52.png",
-      "amarillas": 15,
+      "amarillas": 17,
       "rojas": 2
     },
     {
       "equipo": "Leeds",
       "escudo": "https://media.api-sports.io/football/teams/63.png",
-      "amarillas": 20,
+      "amarillas": 23,
       "rojas": 0
-    },
-    {
-      "equipo": "Tottenham",
-      "escudo": "https://media.api-sports.io/football/teams/47.png",
-      "amarillas": 17,
-      "rojas": 1
     },
     {
       "equipo": "Everton",
@@ -267,23 +267,23 @@
       "rojas": 0
     },
     {
-      "equipo": "Manchester City",
-      "escudo": "https://media.api-sports.io/football/teams/50.png",
-      "amarillas": 13,
-      "rojas": 1
-    },
-    {
       "equipo": "Arsenal",
       "escudo": "https://media.api-sports.io/football/teams/42.png",
-      "amarillas": 14,
+      "amarillas": 17,
       "rojas": 0
+    },
+    {
+      "equipo": "Manchester City",
+      "escudo": "https://media.api-sports.io/football/teams/50.png",
+      "amarillas": 14,
+      "rojas": 1
     },
     {
       "equipo": "Coventry",
       "escudo": "https://media.api-sports.io/football/teams/1346.png",
-      "amarillas": 11,
+      "amarillas": 13,
       "rojas": 1
     }
   ],
-  "fecha": "2026-11-21"
+  "fecha": "2026-11-23"
 }

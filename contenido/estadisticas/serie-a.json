@@ -1,0 +1,289 @@
+{
+  "etiqueta": "Serie A",
+  "competicion": "Serie A",
+  "goleadores": [
+    {
+      "jugador": "D. Malen",
+      "equipo": "AS Roma",
+      "escudo": "https://media.api-sports.io/football/teams/497.png",
+      "goles": 12,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Gustavo Varela",
+      "equipo": "Monza",
+      "escudo": "https://media.api-sports.io/football/teams/1579.png",
+      "goles": 9,
+      "penaltis": 2,
+      "pj": 10
+    },
+    {
+      "jugador": "A. Raimondo",
+      "equipo": "Frosinone",
+      "escudo": "https://media.api-sports.io/football/teams/512.png",
+      "goles": 8,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "N. Krstović",
+      "equipo": "Atalanta",
+      "escudo": "https://media.api-sports.io/football/teams/499.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "T. Noslin",
+      "equipo": "Lazio",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "M. Thuram",
+      "equipo": "Inter de Milán",
+      "escudo": "https://media.api-sports.io/football/teams/505.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "F. Esposito",
+      "equipo": "Inter de Milán",
+      "escudo": "https://media.api-sports.io/football/teams/505.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "M. Osmajić",
+      "equipo": "Genoa",
+      "escudo": "https://media.api-sports.io/football/teams/495.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "A. Cissè",
+      "equipo": "Milan",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 9
+    },
+    {
+      "jugador": "A. Rabiot",
+      "equipo": "Milan",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "C. Pulišić",
+      "equipo": "Milan",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 9
+    },
+    {
+      "jugador": "D. Frattesi",
+      "equipo": "Lazio",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "T. Douvikas",
+      "equipo": "Como",
+      "escudo": "https://media.api-sports.io/football/teams/895.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "Rodrigo Mora",
+      "equipo": "AS Roma",
+      "escudo": "https://media.api-sports.io/football/teams/497.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "G. Calò",
+      "equipo": "Frosinone",
+      "escudo": "https://media.api-sports.io/football/teams/512.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 12
+    },
+    {
+      "jugador": "D. Maldini",
+      "equipo": "Cagliari",
+      "escudo": "https://media.api-sports.io/football/teams/490.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 12
+    },
+    {
+      "jugador": "Diego Moreira",
+      "equipo": "Milan",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 8
+    },
+    {
+      "jugador": "G. Isaksen",
+      "equipo": "Lazio",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "Mateo Pellegrino",
+      "equipo": "Fiorentina",
+      "escudo": "https://media.api-sports.io/football/teams/502.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Franco Mastantuono",
+      "equipo": "Fiorentina",
+      "escudo": "https://media.api-sports.io/football/teams/502.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 11
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Monza",
+      "escudo": "https://media.api-sports.io/football/teams/1579.png",
+      "amarillas": 23,
+      "rojas": 2
+    },
+    {
+      "equipo": "Genoa",
+      "escudo": "https://media.api-sports.io/football/teams/495.png",
+      "amarillas": 24,
+      "rojas": 1
+    },
+    {
+      "equipo": "Lecce",
+      "escudo": "https://media.api-sports.io/football/teams/867.png",
+      "amarillas": 24,
+      "rojas": 1
+    },
+    {
+      "equipo": "Cagliari",
+      "escudo": "https://media.api-sports.io/football/teams/490.png",
+      "amarillas": 19,
+      "rojas": 2
+    },
+    {
+      "equipo": "Fiorentina",
+      "escudo": "https://media.api-sports.io/football/teams/502.png",
+      "amarillas": 25,
+      "rojas": 0
+    },
+    {
+      "equipo": "Bologna",
+      "escudo": "https://media.api-sports.io/football/teams/500.png",
+      "amarillas": 24,
+      "rojas": 0
+    },
+    {
+      "equipo": "Frosinone",
+      "escudo": "https://media.api-sports.io/football/teams/512.png",
+      "amarillas": 24,
+      "rojas": 0
+    },
+    {
+      "equipo": "Venezia",
+      "escudo": "https://media.api-sports.io/football/teams/517.png",
+      "amarillas": 23,
+      "rojas": 0
+    },
+    {
+      "equipo": "Milan",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "amarillas": 22,
+      "rojas": 0
+    },
+    {
+      "equipo": "AS Roma",
+      "escudo": "https://media.api-sports.io/football/teams/497.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Parma",
+      "escudo": "https://media.api-sports.io/football/teams/523.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Udinese",
+      "escudo": "https://media.api-sports.io/football/teams/494.png",
+      "amarillas": 21,
+      "rojas": 0
+    },
+    {
+      "equipo": "Nápoles",
+      "escudo": "https://media.api-sports.io/football/teams/492.png",
+      "amarillas": 14,
+      "rojas": 2
+    },
+    {
+      "equipo": "Atalanta",
+      "escudo": "https://media.api-sports.io/football/teams/499.png",
+      "amarillas": 13,
+      "rojas": 2
+    },
+    {
+      "equipo": "Juventus",
+      "escudo": "https://media.api-sports.io/football/teams/496.png",
+      "amarillas": 16,
+      "rojas": 1
+    },
+    {
+      "equipo": "Sassuolo",
+      "escudo": "https://media.api-sports.io/football/teams/488.png",
+      "amarillas": 16,
+      "rojas": 1
+    },
+    {
+      "equipo": "Lazio",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "amarillas": 18,
+      "rojas": 0
+    },
+    {
+      "equipo": "Inter de Milán",
+      "escudo": "https://media.api-sports.io/football/teams/505.png",
+      "amarillas": 16,
+      "rojas": 0
+    },
+    {
+      "equipo": "Como",
+      "escudo": "https://media.api-sports.io/football/teams/895.png",
+      "amarillas": 12,
+      "rojas": 0
+    },
+    {
+      "equipo": "Torino",
+      "escudo": "https://media.api-sports.io/football/teams/503.png",
+      "amarillas": 12,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-23"
+}
