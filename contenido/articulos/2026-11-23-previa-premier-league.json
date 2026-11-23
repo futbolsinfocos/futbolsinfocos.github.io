@@ -1,0 +1,310 @@
+{
+  "slug": "2026-11-23-previa-premier-league",
+  "tipo": "previa",
+  "fecha": "2026-11-23",
+  "etiqueta": "Premier League",
+  "competicion": "Premier League",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Brentford busca en casa frenar al Everton, que llega con tres victorias seguidas",
+  "entradilla": "Séptimo contra décimo en la jornada 11 de la Premier League. El Everton llega con tres triunfos seguidos y el Brentford necesita sumar en su campo para no alejarse de la mitad alta.",
+  "cuerpo_markdown": "La jornada 11 de la Premier League tiene un único partido hoy. Arsenal lidera con 28 puntos y nueve victorias en 11 partidos, seguido de Brighton y Manchester City con 22. El Everton es séptimo con 16 puntos y el Brentford décimo con 14. Ninguno de los dos está en zona de ascenso ni de descenso.\n\n## Claves de la jornada\n\n- Solo hay un partido hoy en la Premier League.\n- Everton y Brentford han jugado los mismos 10 partidos y los separan dos puntos.\n- El Arsenal lidera con 28 puntos tras 11 jornadas.\n\n## Brentford - Everton\n\n<p class=\"ficha\"><b>21:00</b> · Gtech Community Stadium (London) · Jornada 11 · Árbitro: Craig Pawson</p><p class=\"forma\"><span class=\"eq\">Brentford</span><span class=\"fP\" title=\"1-2 vs Liverpool\">P</span><span class=\"fE\" title=\"1-1 vs Hull City\">E</span><span class=\"fP\" title=\"2-3 vs Sunderland\">P</span><span class=\"fG\" title=\"2-0 vs Nottingham Forest\">G</span><span class=\"fP\" title=\"0-2 vs Brighton\">P</span><br><span class=\"eq\">Everton</span><span class=\"fP\" title=\"0-2 vs Chelsea\">P</span><span class=\"fP\" title=\"0-2 vs Arsenal\">P</span><span class=\"fG\" title=\"3-1 vs Newcastle\">G</span><span class=\"fG\" title=\"1-0 vs Newcastle\">G</span><span class=\"fG\" title=\"3-1 vs Coventry\">G</span></p>\n\nSéptimo contra décimo, con dos puntos de diferencia. El Brentford es fuerte en su estadio y el Everton llega con mejor racha, pero fuera de casa ha ganado solo una vez en cinco partidos.\n\n[Leer la previa completa →](../previas/2026-11-23-brentford-everton.html)",
+  "texto_instagram": "El Brentford recibe al Everton hoy en la jornada 11 de la Premier League. El local ha sumado 10 de sus 14 puntos en casa. El Everton llega con tres victorias seguidas, pero fuera solo ha ganado una vez en cinco partidos. ⚽ Brentford - Everton, lunes 23 de noviembre, 21:00, Gtech Community Stadium.",
+  "hashtags": [
+    "#PremierLeague",
+    "#Brentford",
+    "#Everton"
+  ],
+  "imagenes_web": [
+    "img/2026-11-23/2026-11-23-previa-premier-league.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-23/2026-11-23-previa-premier-league.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1557469,
+      "fecha": "2026-11-23T21:00:00+01:00",
+      "estadio": "Gtech Community Stadium",
+      "ciudad": "London",
+      "jornada": "Regular Season - 11",
+      "arbitro": "Craig Pawson",
+      "local": "Brentford",
+      "visitante": "Everton",
+      "escudo_local": "https://media.api-sports.io/football/teams/55.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/45.png",
+      "contexto": {
+        "local": {
+          "pos": 10,
+          "pts": 14,
+          "pj": 10,
+          "pg": 3,
+          "pe": 5,
+          "pp": 2,
+          "gf": 16,
+          "gc": 11,
+          "dg": 5,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 1,
+            "pp": 1,
+            "gf": 10,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Brighton",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Nottingham Forest",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "Sunderland",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "League Cup"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Hull City",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Liverpool",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 7,
+          "pts": 16,
+          "pj": 10,
+          "pg": 4,
+          "pe": 4,
+          "pp": 2,
+          "gf": 12,
+          "gc": 10,
+          "dg": 2,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 3,
+            "pp": 1,
+            "gf": 4,
+            "gc": 5
+          },
+          "goleador": {
+            "jugador": "T. Barry",
+            "goles": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-06",
+              "rival": "Coventry",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Newcastle",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Newcastle",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "League Cup"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Arsenal",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Chelsea",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-04-11",
+          "competicion": "Premier League",
+          "resultado": "Brentford 2-2 Everton"
+        },
+        {
+          "fecha": "2026-01-04",
+          "competicion": "Premier League",
+          "resultado": "Everton 2-4 Brentford"
+        },
+        {
+          "fecha": "2025-02-26",
+          "competicion": "Premier League",
+          "resultado": "Brentford 1-1 Everton"
+        },
+        {
+          "fecha": "2024-11-23",
+          "competicion": "Premier League",
+          "resultado": "Everton 0-0 Brentford"
+        },
+        {
+          "fecha": "2024-04-27",
+          "competicion": "Premier League",
+          "resultado": "Everton 1-0 Brentford"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Brentford": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Brighton",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Nottingham Forest",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "Sunderland",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "League Cup"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Hull City",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Liverpool",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      }
+    ],
+    "Everton": [
+      {
+        "fecha": "2026-11-06",
+        "rival": "Coventry",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Newcastle",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Newcastle",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "League Cup"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Arsenal",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Chelsea",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1557469,
+      "slug": "2026-11-23-brentford-everton",
+      "titular": "Brentford busca en casa frenar al Everton, que llega con tres victorias seguidas",
+      "entradilla": "Séptimo contra décimo, con dos puntos de diferencia. El Brentford es fuerte en su estadio y el Everton llega con mejor racha, pero fuera de casa ha ganado solo una vez en cinco partidos.",
+      "parrafos": [
+        "El Brentford recibe al Everton el lunes 23 de noviembre a las 21:00, en el Gtech Community Stadium de Londres, por la jornada 11. El árbitro será Craig Pawson. Brentford tiene 14 puntos y Everton 16, con el mismo número de partidos disputados.",
+        "El Brentford es un equipo de casa. Ha ganado tres de sus cinco partidos en el Gtech, con diez goles a favor y solo tres en contra, y ha sumado 10 de sus 14 puntos ahí. Su última derrota en liga fue en Brighton (0-2), el 8 de noviembre. Antes, ganó al Nottingham Forest en casa (2-0) y perdió ante el Liverpool (1-2).",
+        "El Everton llega con tres victorias seguidas, dos en liga, ante Coventry en casa (3-1) y Newcastle fuera (1-0), y una en la Copa de la Liga ante el mismo Newcastle (3-1). Fuera tiene una victoria, tres empates y una derrota, con cuatro goles a favor y cinco en contra. Su máximo goleador es T. Barry, con seis tantos. Antes de esa racha perdió en casa ante el Chelsea (0-2) y en Arsenal (0-2)."
+      ],
+      "precedente": "El último cruce fue el 11 de abril de 2026, con empate 2-2 en Londres. Antes, el Brentford ganó 4-2 en Goodison Park en enero.",
+      "el_dato": "El Brentford ha sumado 10 de sus 14 puntos jugando en casa.",
+      "claves": [
+        {
+          "titulo": "Fuerza en casa",
+          "texto": "El Brentford ha ganado tres de sus cinco partidos en el Gtech y solo ha recibido tres goles."
+        },
+        {
+          "titulo": "Racha del Everton",
+          "texto": "Tres victorias seguidas, dos de ellas en liga, con Barry como máximo goleador con seis tantos."
+        },
+        {
+          "titulo": "Fuera, lo peor del Everton",
+          "texto": "Solo una victoria fuera en cinco partidos, con cinco goles encajados."
+        }
+      ]
+    }
+  ]
+}
