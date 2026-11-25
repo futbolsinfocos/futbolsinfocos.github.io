@@ -1,104 +1,4 @@
 {
-  "2026-11-24": [
-    {
-      "etiqueta": "Champions League",
-      "competicion": "Champions League",
-      "grupo": "internacional",
-      "prioridad": 3,
-      "partidos": [
-        {
-          "id": 1635641,
-          "fecha": "2026-11-24T18:45:00+01:00",
-          "estadio": "Aspmyra Stadion",
-          "jornada": "League Stage - 5",
-          "local": "Bodo/Glimt",
-          "visitante": "Lask Linz",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635667,
-          "fecha": "2026-11-24T18:45:00+01:00",
-          "estadio": "Rams Park",
-          "jornada": "League Stage - 5",
-          "local": "Galatasaray",
-          "visitante": "Aston Villa",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635611,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": "Emirates Stadium",
-          "jornada": "League Stage - 5",
-          "local": "Arsenal",
-          "visitante": "Borussia Dortmund",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635649,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": "Stadio Giuseppe Sinigaglia",
-          "jornada": "League Stage - 5",
-          "local": "Como",
-          "visitante": "AEK Athens FC",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635663,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": "De Kuip",
-          "jornada": "League Stage - 5",
-          "local": "Feyenoord",
-          "visitante": "Oporto",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635692,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": "Etihad Stadium",
-          "jornada": "League Stage - 5",
-          "local": "Manchester City",
-          "visitante": "Nápoles",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635713,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": "Red Bull Arena",
-          "jornada": "League Stage - 5",
-          "local": "RB Leipzig",
-          "visitante": "Lens",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635715,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": null,
-          "jornada": "League Stage - 5",
-          "local": "Real Madrid",
-          "visitante": "PSV Eindhoven",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635731,
-          "fecha": "2026-11-24T21:00:00+01:00",
-          "estadio": null,
-          "jornada": "League Stage - 5",
-          "local": "Slovan Bratislava",
-          "visitante": "Real Betis",
-          "goles_local": null,
-          "goles_visitante": null
-        }
-      ]
-    }
-  ],
   "2026-11-25": [
     {
       "etiqueta": "Segunda Federación · Grupo 3",
@@ -270,5 +170,6 @@
         }
       ]
     }
-  ]
+  ],
+  "2026-11-26": []
 }
