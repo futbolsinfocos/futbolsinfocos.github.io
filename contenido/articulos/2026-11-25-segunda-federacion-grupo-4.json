@@ -1,0 +1,672 @@
+{
+  "slug": "2026-11-25-segunda-federacion-grupo-4",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Recreativo Huelva gana 1-2 al Sevilla Atlético y consolida el liderato",
+  "entradilla": "A. Alonso y A. Marin firmaron los goles del Recreativo Huelva en el Estadio Jesús Navas. El líder suma 27 puntos y saca seis al segundo; el filial sevillista cae al 13.º puesto.",
+  "cuerpo_markdown": "El Recreativo Huelva ganó 1-2 en el Estadio Jesus Navas al Sevilla Atlético en la Jornada 11 de Segunda Federación, Grupo 4, y sigue líder con 27 puntos, seis más que Xerez, Estepona y Don Benito, empatados a 21. El filial sevillista, con 14 puntos, baja un puesto y cae al 13.º.\n\n## Sevilla Atlético 1-2 Recreativo Huelva\n\nA. Alonso adelantó al Recreativo Huelva en el minuto 14. I. Munoz empató para el Sevilla Atlético en el 34, pero A. Marin firmó el 1-2 definitivo en el 50, nada más arrancar la segunda parte.\n\nEl conjunto onubense se mantiene primero con 27 puntos, ocho victorias, tres empates y una sola derrota en 12 partidos, y presenta la mejor diferencia de goles del grupo: 30 a favor y 9 en contra (+21). El Sevilla Atlético baja del 12.º al 13.º puesto con 14 puntos, empatado con el Marbella y tres por encima de Las Palmas B.\n\n## Así queda la clasificación\n\nEl Recreativo Huelva manda con 27 puntos. Le siguen Xerez, Estepona y Don Benito con 21, a seis del líder, y por detrás Ciudad de Lucena, Linares Deportivo y Badajoz, con 20. El Real Betis B, octavo, suma 19 con un partido menos. En la parte baja, Tamaraceite es colista con 6 puntos, por detrás de Antoniano (9), Sanluqueño (10) y Las Palmas B (11).",
+  "texto_instagram": "⚽ El Recreativo Huelva gana en el Jesús Navas y amplía su liderato: 27 puntos, seis más que sus perseguidores. 🔝\n\nSevilla Atlético 1-2 Recreativo Huelva: A. Alonso (14'), I. Munoz (34'), A. Marin (50') 📊",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo4",
+    "#Recreativo",
+    "#Recre",
+    "#SevillaAtlético",
+    "#Fútbol"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-4-1.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-4-2.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-4-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573043,
+      "fecha": "2026-11-25T18:00:00+01:00",
+      "estadio": "Estadio Jesus Navas",
+      "ciudad": "Sevilla",
+      "arbitro": null,
+      "jornada": "Group 4 - 11",
+      "liga_id": 878,
+      "id_local": 730,
+      "id_visitante": 9410,
+      "local": "Sevilla Atlético",
+      "visitante": "Recreativo Huelva",
+      "escudo_local": "https://media.api-sports.io/football/teams/730.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9410.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 14,
+          "equipo": "Recreativo Huelva",
+          "jugador": "A. Alonso",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 34,
+          "equipo": "Sevilla Atlético",
+          "jugador": "I. Munoz",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 50,
+          "equipo": "Recreativo Huelva",
+          "jugador": "A. Marin",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Recreativo Huelva",
+      "pts": 27,
+      "pj": 12,
+      "dg": 21,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 30,
+      "gc": 9,
+      "forma": "WWDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9410.png",
+      "equipo_id": 9410,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 20,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Xerez",
+      "pts": 21,
+      "pj": 12,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 7,
+      "forma": "WWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9770.png",
+      "equipo_id": 9770,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Estepona",
+      "pts": 21,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 26,
+      "gc": 18,
+      "forma": "WWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15358.png",
+      "equipo_id": 15358,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 18,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Don Benito",
+      "pts": 21,
+      "pj": 12,
+      "dg": 4,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 19,
+      "gc": 15,
+      "forma": "DLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5259.png",
+      "equipo_id": 5259,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Ciudad de Lucena",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 21,
+      "gc": 15,
+      "forma": "DLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9756.png",
+      "equipo_id": 9756,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Linares Deportivo",
+      "pts": 20,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 18,
+      "gc": 14,
+      "forma": "WWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9398.png",
+      "equipo_id": 9398,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Badajoz",
+      "pts": 20,
+      "pj": 12,
+      "dg": -3,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 12,
+      "gc": 15,
+      "forma": "LWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9382.png",
+      "equipo_id": 9382,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Real Betis B",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 14,
+      "gc": 8,
+      "forma": "DWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9765.png",
+      "equipo_id": 9765,
+      "casa": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 2,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Puente Genil",
+      "pts": 15,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9764.png",
+      "equipo_id": 9764,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Mijas Las Lagunas",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 21,
+      "gc": 21,
+      "forma": "LLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22569.png",
+      "equipo_id": 22569,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Central",
+      "pts": 15,
+      "pj": 12,
+      "dg": -6,
+      "pg": 5,
+      "pe": 0,
+      "pp": 7,
+      "gf": 13,
+      "gc": 19,
+      "forma": "LLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24723.png",
+      "equipo_id": 24723,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Marbella",
+      "pts": 14,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 9,
+      "gc": 11,
+      "forma": "DWWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5267.png",
+      "equipo_id": 5267,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 1,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Sevilla Atlético",
+      "pts": 14,
+      "pj": 12,
+      "dg": -3,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 19,
+      "gc": 22,
+      "forma": "LLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/730.png",
+      "equipo_id": 730,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tenerife B",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 4,
+      "pe": 1,
+      "pp": 6,
+      "gf": 14,
+      "gc": 17,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9802.png",
+      "equipo_id": 9802,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Las Palmas B",
+      "pts": 11,
+      "pj": 12,
+      "dg": -9,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 12,
+      "gc": 21,
+      "forma": "WWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9574.png",
+      "equipo_id": 9574,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Sanluqueño",
+      "pts": 10,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9601.png",
+      "equipo_id": 9601,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Antoniano",
+      "pts": 9,
+      "pj": 12,
+      "dg": -10,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 23,
+      "forma": "WLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/7522.png",
+      "equipo_id": 7522,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Tamaraceite",
+      "pts": 6,
+      "pj": 12,
+      "dg": -17,
+      "pg": 2,
+      "pe": 0,
+      "pp": 10,
+      "gf": 9,
+      "gc": 26,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9415.png",
+      "equipo_id": 9415,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 16
+      }
+    }
+  ],
+  "movimientos": {
+    "Recreativo Huelva": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Sevilla Atlético": {
+      "antes": 12,
+      "ahora": 13,
+      "cambio": "baja 1 puesto"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573043,
+    "titular": "El Recreativo Huelva gana 1-2 en el Jesús Navas y saca seis puntos al segundo",
+    "entradilla": "Los goles de A. Alonso y A. Marin dan al líder la victoria ante el Sevilla Atlético. El filial sevillista baja al 13.º puesto.",
+    "parrafos": [
+      "El Recreativo Huelva venció 1-2 al Sevilla Atlético en el Estadio Jesus Navas, en la Jornada 11 de Segunda Federación, Grupo 4. El triunfo deja al conjunto onubense con 27 puntos, líder con seis de ventaja sobre Xerez, Estepona y Don Benito.",
+      "A. Alonso abrió el marcador para el Recreativo en el minuto 14. El Sevilla Atlético igualó en el 34 con un gol de I. Munoz, y así se llegó al descanso.",
+      "El segundo tiempo trajo el gol decisivo pronto: A. Marin firmó el 1-2 en el minuto 50, resultado que ya no se movió.",
+      "El Recreativo Huelva suma ocho victorias, tres empates y una derrota en 12 partidos. Es el equipo más goleador del grupo, con 30 tantos, y el menos goleado, con 9 en contra.",
+      "El Sevilla Atlético baja del 12.º al 13.º puesto y se queda con 14 puntos, empatado con el Marbella y tres por encima de Las Palmas B, 15.º."
+    ],
+    "el_dato": "El Recreativo Huelva presenta una diferencia de goles de +21: 30 a favor y solo 9 en contra en 12 jornadas.",
+    "slug": "2026-11-25-sevilla-atletico-recreativo-huelva"
+  }
+}

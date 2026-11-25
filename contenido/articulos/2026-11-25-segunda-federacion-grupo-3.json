@@ -1,0 +1,665 @@
+{
+  "slug": "2026-11-25-segunda-federacion-grupo-3",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Intercity tumba al Real Murcia B con dos goles en el 89 y el 90 y sube al décimo puesto",
+  "entradilla": "J. Delgado Quintana y O. Plano resolvieron en los dos últimos minutos un partido que llegaba sin goles. El Intercity escala cuatro puestos y el filial murciano sigue colista.",
+  "cuerpo_markdown": "El Intercity se llevó el único partido disputado este miércoles en el Grupo 3 de Segunda Federación con un final fulgurante: 2-0 al Real Murcia B con goles en el 89 y en el 90. La victoria le sube del 14.º al 10.º puesto, con 16 puntos. El filial murciano sigue último, con 8.\n\n## Intercity 2-0 Real Murcia B\n\nEl marcador no se movió hasta el minuto 89 en el Camp Municipal Antonio Solana. Entonces marcó J. Delgado Quintana y, en el 90, O. Plano firmó el 2-0 definitivo. Dos goles en dos minutos para decidir un partido que se encaminaba al empate.\n\nEl Intercity sube cuatro puestos, del 14.º al 10.º, y suma 16 puntos (4 victorias, 4 empates y 4 derrotas), a ocho del líder. Encadena dos partidos sin perder. El Real Murcia B se mantiene en el 18.º y último lugar con 8 puntos, empatado con la Peña Deportiva y con la peor diferencia de goles del grupo (-14).\n\n## Así queda la clasificación\n\nLa Deportiva Minera lidera con 24 puntos, uno más que el Ucam Murcia (23) y dos más que el Castellón B (22). Completan la zona alta La Nucía (20) y un trío empatado a 19: Castellonense, Atlético Baleares y Lorca Deportiva. El Intercity, décimo con 16, queda a tres puntos del quinto puesto. Abajo, el Elche B suma 12, el Valencia B 9 y cierran la tabla la Peña Deportiva y el Real Murcia B, ambos con 8.",
+  "texto_instagram": "⚽ El Intercity resolvió en los dos últimos minutos ante el Real Murcia B y sube del 14.º al 10.º puesto. El filial murciano sigue colista 📉\n\nIntercity 2-0 Real Murcia B: J. Delgado Quintana (89'), O. Plano (90') 🔥",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#2RFEF",
+    "#Grupo3",
+    "#Intercity",
+    "#RealMurciaB",
+    "#FutbolModesto"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-3-1.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-3-2.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572698,
+      "fecha": "2026-11-25T20:00:00+01:00",
+      "estadio": "Camp Municipal Antonio Solana",
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 7",
+      "liga_id": 877,
+      "id_local": 8160,
+      "id_visitante": 9820,
+      "local": "Intercity",
+      "visitante": "Real Murcia B",
+      "escudo_local": "https://media.api-sports.io/football/teams/8160.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9820.png",
+      "goles_local": 2,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 89,
+          "equipo": "Intercity",
+          "jugador": "J. Delgado Quintana",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Intercity",
+          "jugador": "O. Plano",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Deportiva Minera",
+      "pts": 24,
+      "pj": 12,
+      "dg": 6,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 17,
+      "gc": 11,
+      "forma": "DWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9811.png",
+      "equipo_id": 9811,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ucam Murcia",
+      "pts": 23,
+      "pj": 12,
+      "dg": 12,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 24,
+      "gc": 12,
+      "forma": "DWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/800.png",
+      "equipo_id": 800,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Castellón B",
+      "pts": 22,
+      "pj": 12,
+      "dg": 11,
+      "pg": 7,
+      "pe": 1,
+      "pp": 4,
+      "gf": 25,
+      "gc": 14,
+      "forma": "DLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17588.png",
+      "equipo_id": 17588,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "La Nucía",
+      "pts": 20,
+      "pj": 12,
+      "dg": 2,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 18,
+      "gc": 16,
+      "forma": "WDDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9393.png",
+      "equipo_id": 9393,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Castellonense",
+      "pts": 19,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 20,
+      "gc": 15,
+      "forma": "DDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22138.png",
+      "equipo_id": 22138,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Atlético Baleares",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 21,
+      "gc": 17,
+      "forma": "WWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9381.png",
+      "equipo_id": 9381,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Lorca Deportiva",
+      "pts": 19,
+      "pj": 12,
+      "dg": 4,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 16,
+      "gc": 12,
+      "forma": "WWDWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9400.png",
+      "equipo_id": 9400,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Cieza",
+      "pts": 18,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 12,
+      "forma": "LDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20277.png",
+      "equipo_id": 20277,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Alcoyano",
+      "pts": 18,
+      "pj": 12,
+      "dg": 1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "DWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9686.png",
+      "equipo_id": 9686,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Intercity",
+      "pts": 16,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 17,
+      "gc": 18,
+      "forma": "WLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/8160.png",
+      "equipo_id": 8160,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Poblense",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 10,
+      "gc": 14,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5273.png",
+      "equipo_id": 5273,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Yeclano",
+      "pts": 15,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 11,
+      "gc": 11,
+      "forma": "DWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5283.png",
+      "equipo_id": 5283,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Mallorca B",
+      "pts": 15,
+      "pj": 12,
+      "dg": -2,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9783.png",
+      "equipo_id": 9783,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Orihuela",
+      "pts": 14,
+      "pj": 12,
+      "dg": -6,
+      "pg": 3,
+      "pe": 5,
+      "pp": 4,
+      "gf": 10,
+      "gc": 16,
+      "forma": "LDDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9404.png",
+      "equipo_id": 9404,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Elche B",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 15,
+      "gc": 25,
+      "forma": "DLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9691.png",
+      "equipo_id": 9691,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Valencia B",
+      "pts": 9,
+      "pj": 12,
+      "dg": -7,
+      "pg": 1,
+      "pe": 6,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "DDLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9594.png",
+      "equipo_id": 9594,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Peña Deportiva",
+      "pts": 8,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 16,
+      "forma": "LDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9405.png",
+      "equipo_id": 9405,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Real Murcia B",
+      "pts": 8,
+      "pj": 12,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 23,
+      "forma": "LLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9820.png",
+      "equipo_id": 9820,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 14
+      }
+    }
+  ],
+  "movimientos": {
+    "Intercity": {
+      "antes": 14,
+      "ahora": 10,
+      "cambio": "sube 4 puestos"
+    },
+    "Real Murcia B": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572698,
+    "titular": "El Intercity gana en el 89 y el 90 al Real Murcia B y sube cuatro puestos",
+    "entradilla": "J. Delgado Quintana y O. Plano marcaron en los dos últimos minutos para el 2-0. El Intercity pasa a ser décimo y el Real Murcia B sigue último.",
+    "parrafos": [
+      "El Intercity derrotó 2-0 al Real Murcia B en el Camp Municipal Antonio Solana con dos goles en los minutos finales. El triunfo le permite subir del 14.º al 10.º puesto de la clasificación del Grupo 3 de Segunda Federación.",
+      "El partido llegó sin goles al minuto 89. Ahí J. Delgado Quintana abrió el marcador para el Intercity.",
+      "Sin tiempo para la reacción visitante, O. Plano hizo el 2-0 en el minuto 90 y cerró el encuentro.",
+      "El Intercity suma 16 puntos en 12 partidos, con 4 victorias, 4 empates y 4 derrotas, y encadena dos encuentros sin perder. Está a ocho puntos del líder, la Deportiva Minera, y a tres del quinto puesto.",
+      "El Real Murcia B se mantiene 18.º y último con 8 puntos, los mismos que la Peña Deportiva y uno menos que el Valencia B. Acumula 8 derrotas en 12 jornadas y la peor diferencia de goles del grupo, -14."
+    ],
+    "el_dato": "Los dos goles del Intercity llegaron en un intervalo de dos minutos: el 89 y el 90.",
+    "slug": "2026-11-25-intercity-real-murcia-b"
+  }
+}

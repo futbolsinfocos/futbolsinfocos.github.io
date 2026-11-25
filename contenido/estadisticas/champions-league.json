@@ -3,12 +3,20 @@
   "competicion": "Champions League",
   "goleadores": [
     {
+      "jugador": "Kylian Mbappé",
+      "equipo": "Real Madrid",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 5
+    },
+    {
       "jugador": "T. Douvikas",
       "equipo": "Como",
       "escudo": "https://media.api-sports.io/football/teams/895.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 4
+      "pj": 5
     },
     {
       "jugador": "E. Haaland",
@@ -16,7 +24,7 @@
       "escudo": "https://media.api-sports.io/football/teams/50.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 3
+      "pj": 4
     },
     {
       "jugador": "N. Tresoldi",
@@ -51,25 +59,17 @@
       "pj": 4
     },
     {
-      "jugador": "Kylian Mbappé",
-      "equipo": "Real Madrid",
-      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "jugador": "A. Batrakov",
+      "equipo": "Galatasaray",
+      "escudo": "https://media.api-sports.io/football/teams/645.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 4
+      "pj": 5
     },
     {
       "jugador": "E. Demirović",
       "equipo": "VfB Stuttgart",
       "escudo": "https://media.api-sports.io/football/teams/172.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 4
-    },
-    {
-      "jugador": "A. Batrakov",
-      "equipo": "Galatasaray",
-      "escudo": "https://media.api-sports.io/football/teams/645.png",
       "goles": 4,
       "penaltis": 0,
       "pj": 4
@@ -91,20 +91,20 @@
       "pj": 6
     },
     {
-      "jugador": "S. Guirassy",
-      "equipo": "Borussia Dortmund",
-      "escudo": "https://media.api-sports.io/football/teams/165.png",
+      "jugador": "H. Kane",
+      "equipo": "Bayern de Múnich",
+      "escudo": "https://media.api-sports.io/football/teams/157.png",
       "goles": 4,
       "penaltis": 1,
       "pj": 4
     },
     {
-      "jugador": "H. Kane",
-      "equipo": "Bayern de Múnich",
-      "escudo": "https://media.api-sports.io/football/teams/157.png",
+      "jugador": "S. Guirassy",
+      "equipo": "Borussia Dortmund",
+      "escudo": "https://media.api-sports.io/football/teams/165.png",
       "goles": 4,
-      "penaltis": 2,
-      "pj": 4
+      "penaltis": 1,
+      "pj": 5
     },
     {
       "jugador": "D. Malen",
@@ -136,7 +136,7 @@
       "escudo": "https://media.api-sports.io/football/teams/895.png",
       "goles": 3,
       "penaltis": 0,
-      "pj": 4
+      "pj": 5
     },
     {
       "jugador": "Lamine Yamal",
@@ -179,7 +179,7 @@
     {
       "equipo": "Slovan Bratislava",
       "escudo": "https://media.api-sports.io/football/teams/656.png",
-      "amarillas": 19,
+      "amarillas": 20,
       "rojas": 0
     },
     {
@@ -187,6 +187,12 @@
       "escudo": "https://media.api-sports.io/football/teams/33.png",
       "amarillas": 10,
       "rojas": 2
+    },
+    {
+      "equipo": "AEK Athens FC",
+      "escudo": "https://media.api-sports.io/football/teams/575.png",
+      "amarillas": 12,
+      "rojas": 1
     },
     {
       "equipo": "Nápoles",
@@ -207,14 +213,20 @@
       "rojas": 0
     },
     {
-      "equipo": "AEK Athens FC",
-      "escudo": "https://media.api-sports.io/football/teams/575.png",
-      "amarillas": 9,
-      "rojas": 1
-    },
-    {
       "equipo": "Club Brugge KV",
       "escudo": "https://media.api-sports.io/football/teams/569.png",
+      "amarillas": 12,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lask Linz",
+      "escudo": "https://media.api-sports.io/football/teams/1026.png",
+      "amarillas": 12,
+      "rojas": 0
+    },
+    {
+      "equipo": "Shakhtar Donetsk",
+      "escudo": "https://media.api-sports.io/football/teams/550.png",
       "amarillas": 12,
       "rojas": 0
     },
@@ -225,8 +237,20 @@
       "rojas": 0
     },
     {
-      "equipo": "Lask Linz",
-      "escudo": "https://media.api-sports.io/football/teams/1026.png",
+      "equipo": "Galatasaray",
+      "escudo": "https://media.api-sports.io/football/teams/645.png",
+      "amarillas": 11,
+      "rojas": 0
+    },
+    {
+      "equipo": "Lens",
+      "escudo": "https://media.api-sports.io/football/teams/116.png",
+      "amarillas": 11,
+      "rojas": 0
+    },
+    {
+      "equipo": "RB Leipzig",
+      "escudo": "https://media.api-sports.io/football/teams/173.png",
       "amarillas": 11,
       "rojas": 0
     },
@@ -237,28 +261,22 @@
       "rojas": 0
     },
     {
-      "equipo": "Shakhtar Donetsk",
-      "escudo": "https://media.api-sports.io/football/teams/550.png",
+      "equipo": "Aston Villa",
+      "escudo": "https://media.api-sports.io/football/teams/66.png",
       "amarillas": 10,
       "rojas": 0
     },
     {
       "equipo": "Bayern de Múnich",
       "escudo": "https://media.api-sports.io/football/teams/157.png",
-      "amarillas": 6,
+      "amarillas": 7,
       "rojas": 1
     },
     {
       "equipo": "Bodo/Glimt",
       "escudo": "https://media.api-sports.io/football/teams/327.png",
-      "amarillas": 6,
+      "amarillas": 7,
       "rojas": 1
-    },
-    {
-      "equipo": "Galatasaray",
-      "escudo": "https://media.api-sports.io/football/teams/645.png",
-      "amarillas": 9,
-      "rojas": 0
     },
     {
       "equipo": "Lille",
@@ -267,8 +285,8 @@
       "rojas": 1
     },
     {
-      "equipo": "RB Leipzig",
-      "escudo": "https://media.api-sports.io/football/teams/173.png",
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
       "amarillas": 9,
       "rojas": 0
     },
@@ -285,6 +303,30 @@
       "rojas": 0
     },
     {
+      "equipo": "Como",
+      "escudo": "https://media.api-sports.io/football/teams/895.png",
+      "amarillas": 8,
+      "rojas": 0
+    },
+    {
+      "equipo": "Feyenoord",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "amarillas": 8,
+      "rojas": 0
+    },
+    {
+      "equipo": "Manchester City",
+      "escudo": "https://media.api-sports.io/football/teams/50.png",
+      "amarillas": 8,
+      "rojas": 0
+    },
+    {
+      "equipo": "PSV Eindhoven",
+      "escudo": "https://media.api-sports.io/football/teams/197.png",
+      "amarillas": 8,
+      "rojas": 0
+    },
+    {
       "equipo": "Arsenal",
       "escudo": "https://media.api-sports.io/football/teams/42.png",
       "amarillas": 7,
@@ -293,24 +335,6 @@
     {
       "equipo": "Borussia Dortmund",
       "escudo": "https://media.api-sports.io/football/teams/165.png",
-      "amarillas": 7,
-      "rojas": 0
-    },
-    {
-      "equipo": "Lens",
-      "escudo": "https://media.api-sports.io/football/teams/116.png",
-      "amarillas": 7,
-      "rojas": 0
-    },
-    {
-      "equipo": "Manchester City",
-      "escudo": "https://media.api-sports.io/football/teams/50.png",
-      "amarillas": 7,
-      "rojas": 0
-    },
-    {
-      "equipo": "PSV Eindhoven",
-      "escudo": "https://media.api-sports.io/football/teams/197.png",
       "amarillas": 7,
       "rojas": 0
     },
@@ -327,9 +351,9 @@
       "rojas": 1
     },
     {
-      "equipo": "Aston Villa",
-      "escudo": "https://media.api-sports.io/football/teams/66.png",
-      "amarillas": 6,
+      "equipo": "Sporting de Portugal",
+      "escudo": "https://media.api-sports.io/football/teams/228.png",
+      "amarillas": 7,
       "rojas": 0
     },
     {
@@ -337,30 +361,6 @@
       "escudo": "https://media.api-sports.io/football/teams/530.png",
       "amarillas": 3,
       "rojas": 1
-    },
-    {
-      "equipo": "Como",
-      "escudo": "https://media.api-sports.io/football/teams/895.png",
-      "amarillas": 6,
-      "rojas": 0
-    },
-    {
-      "equipo": "Feyenoord",
-      "escudo": "https://media.api-sports.io/football/teams/209.png",
-      "amarillas": 6,
-      "rojas": 0
-    },
-    {
-      "equipo": "Oporto",
-      "escudo": "https://media.api-sports.io/football/teams/212.png",
-      "amarillas": 5,
-      "rojas": 0
-    },
-    {
-      "equipo": "Sporting de Portugal",
-      "escudo": "https://media.api-sports.io/football/teams/228.png",
-      "amarillas": 5,
-      "rojas": 0
     },
     {
       "equipo": "Barcelona",
@@ -381,5 +381,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-24"
+  "fecha": "2026-11-25"
 }

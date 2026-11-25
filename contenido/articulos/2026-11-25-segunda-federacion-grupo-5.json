@@ -1,0 +1,659 @@
+{
+  "slug": "2026-11-25-segunda-federacion-grupo-5",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Un gol de N. Garcia en el 89 da al Talavera el triunfo ante el Conquense",
+  "entradilla": "El CF Talavera venció 1-0 al Conquense en El Prado con un tanto de N. Garcia a un minuto del final y sube a la sexta plaza, empatado a 21 puntos con el tercero.",
+  "cuerpo_markdown": "El CF Talavera ganó 1-0 al Conquense en el Estadio El Prado, en un partido aplazado de la jornada 10, gracias a un gol de N. Garcia en el minuto 89. La victoria lleva al conjunto talaverano del séptimo al sexto puesto con 21 puntos, los mismos que el Conquense, que se mantiene tercero. Cuatro equipos comparten ahora esa cifra, a dos puntos del liderato que ocupan Numancia y SS Reyes con 23.\n\n## CF Talavera 1-0 Conquense\n\nN. Garcia resolvió el partido en el minuto 89 con el único gol de la noche. El Talavera suma su segunda victoria en tres partidos y mantiene su fortaleza en El Prado: cinco triunfos y un empate en seis encuentros como local, sin derrotas.\n\nCon 21 puntos, el CF Talavera sube del séptimo al sexto puesto, igualado con Conquense, A Madrid C y Salamanca UDS, aunque fuera de la zona de play-off por diferencia de goles. El Conquense se mantiene tercero con 21 puntos y corta una racha de dos partidos sin perder.\n\n## Así queda la clasificación\n\nNumancia lidera con 23 puntos, empatado con el SS Reyes, segundo. Por detrás, cuatro equipos con 21: Conquense, A Madrid C y Salamanca UDS ocupan del tercero al quinto, y el CF Talavera es sexto con los mismos puntos. El Real Valladolid B, séptimo, suma 18. En la parte baja, Albacete B (13) y Real Madrid C (12) marcan el inicio de la zona de descenso, con Real Ávila y Calvo Sotelo con 10 y Getafe B colista con 9, a cuatro puntos de Atlético Paso, decimotercero.",
+  "texto_instagram": "⚽ El CF Talavera tumbó al Conquense en El Prado con un gol de N. Garcia en el 89 y sube a la sexta plaza, empatado a 21 puntos con el tercero. 📈\n\nCF Talavera 1-0 Conquense: N. Garcia (89')",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Grupo5",
+    "#CFTalavera",
+    "#Conquense",
+    "#Talavera"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-5-1.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-5-2.jpg",
+    "img/2026-11-25/2026-11-25-segunda-federacion-grupo-5-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1573339,
+      "fecha": "2026-11-25T19:30:00+01:00",
+      "estadio": "Estadio El Prado",
+      "ciudad": "Talavera de la Reina",
+      "arbitro": null,
+      "jornada": "Group 5 - 10",
+      "liga_id": 879,
+      "id_local": 5253,
+      "id_visitante": 5257,
+      "local": "CF Talavera",
+      "visitante": "Conquense",
+      "escudo_local": "https://media.api-sports.io/football/teams/5253.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5257.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 89,
+          "equipo": "CF Talavera",
+          "jugador": "N. Garcia",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Numancia",
+      "pts": 23,
+      "pj": 12,
+      "dg": 12,
+      "pg": 6,
+      "pe": 5,
+      "pp": 1,
+      "gf": 19,
+      "gc": 7,
+      "forma": "WDWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/717.png",
+      "equipo_id": 717,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 8,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "SS Reyes",
+      "pts": 23,
+      "pj": 12,
+      "dg": 5,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 17,
+      "gc": 12,
+      "forma": "WDLWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9412.png",
+      "equipo_id": 9412,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Conquense",
+      "pts": 21,
+      "pj": 12,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 24,
+      "gc": 15,
+      "forma": "LLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5257.png",
+      "equipo_id": 5257,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "A Madrid C",
+      "pts": 21,
+      "pj": 12,
+      "dg": 5,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 21,
+      "gc": 16,
+      "forma": "LWDWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/26543.png",
+      "equipo_id": 26543,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Salamanca UDS",
+      "pts": 21,
+      "pj": 12,
+      "dg": 5,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 18,
+      "gc": 13,
+      "forma": "DDWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9588.png",
+      "equipo_id": 9588,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 3,
+        "pp": 0,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "CF Talavera",
+      "pts": 21,
+      "pj": 12,
+      "dg": 2,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 15,
+      "gc": 13,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5253.png",
+      "equipo_id": 5253,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Real Valladolid B",
+      "pts": 18,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 24,
+      "gc": 19,
+      "forma": "LDLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9587.png",
+      "equipo_id": 9587,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Navalcarnero",
+      "pts": 17,
+      "pj": 12,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 20,
+      "gc": 19,
+      "forma": "LDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5271.png",
+      "equipo_id": 5271,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Guadalajara",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 25,
+      "gc": 23,
+      "forma": "WLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9900.png",
+      "equipo_id": 9900,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 17,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Gimnástica Segoviana",
+      "pts": 16,
+      "pj": 12,
+      "dg": 2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 16,
+      "forma": "WWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9387.png",
+      "equipo_id": 9387,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Tordesillas",
+      "pts": 13,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 20,
+      "gc": 20,
+      "forma": "LWDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9724.png",
+      "equipo_id": 9724,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "RSD Alcalá",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 19,
+      "gc": 21,
+      "forma": "WLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9714.png",
+      "equipo_id": 9714,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Atlético Paso",
+      "pts": 13,
+      "pj": 12,
+      "dg": -2,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 15,
+      "gc": 17,
+      "forma": "WLDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9791.png",
+      "equipo_id": 9791,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Albacete B",
+      "pts": 13,
+      "pj": 12,
+      "dg": -15,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 13,
+      "gc": 28,
+      "forma": "LDWLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9895.png",
+      "equipo_id": 9895,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Real Madrid C",
+      "pts": 12,
+      "pj": 12,
+      "dg": -2,
+      "pg": 2,
+      "pe": 6,
+      "pp": 4,
+      "gf": 6,
+      "gc": 8,
+      "forma": "LDWWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22142.png",
+      "equipo_id": 22142,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 1,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Real Ávila",
+      "pts": 10,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 10,
+      "gc": 20,
+      "forma": "WLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9736.png",
+      "equipo_id": 9736,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Calvo Sotelo",
+      "pts": 10,
+      "pj": 12,
+      "dg": -11,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 12,
+      "gc": 23,
+      "forma": "DWLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9899.png",
+      "equipo_id": 9899,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Getafe B",
+      "pts": 9,
+      "pj": 12,
+      "dg": -6,
+      "pg": 1,
+      "pe": 6,
+      "pp": 5,
+      "gf": 15,
+      "gc": 21,
+      "forma": "LDWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9572.png",
+      "equipo_id": 9572,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Conquense": {
+      "antes": 3,
+      "ahora": 3,
+      "cambio": "se mantiene"
+    },
+    "CF Talavera": {
+      "antes": 7,
+      "ahora": 6,
+      "cambio": "sube 1 puesto"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1573339,
+    "titular": "N. Garcia firma en el 89 la victoria del Talavera ante el Conquense",
+    "entradilla": "El CF Talavera ganó 1-0 al Conquense en El Prado y sube a la sexta plaza. Ambos equipos quedan igualados a 21 puntos.",
+    "parrafos": [
+      "El CF Talavera derrotó 1-0 al Conquense en el Estadio El Prado, en un encuentro de la jornada 10 de Segunda Federación, Grupo 5. El triunfo permite a los talaveranos subir del séptimo al sexto puesto.",
+      "El marcador no se movió hasta el minuto 89, cuando N. Garcia anotó el único gol del partido.",
+      "Con este resultado, el CF Talavera alcanza los 21 puntos y suma su segunda victoria en los últimos tres partidos. En casa mantiene un balance de cinco victorias y un empate, sin conocer la derrota.",
+      "El Conquense se mantiene tercero con 21 puntos, en zona de play-off, a dos del liderato que comparten Numancia y SS Reyes con 23. Su derrota corta una racha de dos partidos sin perder.",
+      "La tabla queda muy apretada: Conquense, A Madrid C, Salamanca UDS y CF Talavera suman 21 puntos, y solo la diferencia de goles deja fuera del play-off al conjunto talaverano."
+    ],
+    "el_dato": "El CF Talavera suma cinco victorias y un empate en seis partidos en El Prado: sigue invicto como local.",
+    "slug": "2026-11-25-cf-talavera-conquense"
+  }
+}
