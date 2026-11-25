@@ -1,0 +1,294 @@
+{
+  "slug": "2026-11-25-previa-segunda-federacion-grupo-5",
+  "tipo": "previa",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 5",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Conquense puede ser líder en El Prado ante un Talavera invicto en casa",
+  "entradilla": "El partido pendiente de la jornada 10 decide si el Conquense supera a Numancia y SS Reyes. Una victoria le daría 24 puntos, uno más que ambos. Enfrente, un CF Talavera que no ha perdido en su estadio.",
+  "cuerpo_markdown": "El Grupo 5 de Segunda Federación tiene a Numancia y SS Reyes empatados a 23 puntos en cabeza, con 12 partidos jugados. Conquense y CF Talavera llevan uno menos y lo recuperan hoy. El Conquense, tercero con 21, saltaría al liderato si gana. El Talavera, séptimo con 18, alcanzaría los 21 de la zona de play-off, donde hoy están empatados Conquense, A Madrid C y Salamanca UDS.\n\n## Claves de la jornada\n\n- Una victoria del Conquense lo haría líder con 24 puntos, uno más que Numancia y SS Reyes.\n- El CF Talavera suma cuatro victorias y un empate en cinco partidos en casa.\n- El Conquense es el segundo equipo más goleador del grupo con 24 tantos, solo uno menos que el Guadalajara.\n\n## CF Talavera - Conquense\n\n<p class=\"ficha\"><b>19:30</b> · Estadio El Prado (Talavera de la Reina) · Jornada 10</p><p class=\"forma\"><span class=\"eq\">CF Talavera</span><span class=\"fE\" title=\"0-0 vs Numancia\">E</span><span class=\"fG\" title=\"2-1 vs Salamanca UDS\">G</span><span class=\"fP\" title=\"0-1 vs A Madrid C\">P</span><span class=\"fP\" title=\"1-4 vs Calvo Sotelo\">P</span><span class=\"fG\" title=\"2-1 vs Atlético Tordesillas\">G</span><br><span class=\"eq\">Conquense</span><span class=\"fG\" title=\"2-0 vs Real Madrid C\">G</span><span class=\"fP\" title=\"0-3 vs Castellón\">P</span><span class=\"fE\" title=\"2-2 vs RSD Alcalá\">E</span><span class=\"fG\" title=\"3-1 vs Guadalajara\">G</span><span class=\"fP\" title=\"1-2 vs Real Ávila\">P</span></p>\n\nEl tercero puede saltar a lo más alto con un triunfo en el partido pendiente. El Talavera, séptimo, se juega meterse en la pelea del play-off.\n\n[Leer la previa completa →](../previas/2026-11-25-cf-talavera-conquense.html)",
+  "texto_instagram": "⚽ El Conquense puede ser líder del Grupo 5 de Segunda Federación esta noche. Si gana en El Prado, sumará 24 puntos, uno más que Numancia y SS Reyes. Enfrente tendrá a un CF Talavera que no ha perdido en casa: cuatro victorias y un empate. Los dos últimos precedentes acabaron 1-0 para el equipo local.\n\nCF Talavera - Conquense · 19:30 · Estadio El Prado",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#CFTalavera",
+    "#Conquense",
+    "#Grupo5",
+    "#2RFEF"
+  ],
+  "imagenes_web": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-5.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573339,
+      "fecha": "2026-11-25T19:30:00+01:00",
+      "estadio": "Estadio El Prado",
+      "ciudad": "Talavera de la Reina",
+      "jornada": "Group 5 - 10",
+      "arbitro": null,
+      "local": "CF Talavera",
+      "visitante": "Conquense",
+      "escudo_local": "https://media.api-sports.io/football/teams/5253.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/5257.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 18,
+          "pj": 11,
+          "pg": 5,
+          "pe": 3,
+          "pp": 3,
+          "gf": 14,
+          "gc": 13,
+          "dg": 1,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 1,
+            "pp": 0,
+            "gf": 8,
+            "gc": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Atlético Tordesillas",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Calvo Sotelo",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "A Madrid C",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Salamanca UDS",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Numancia",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 3,
+          "pts": 21,
+          "pj": 11,
+          "pg": 6,
+          "pe": 3,
+          "pp": 2,
+          "gf": 24,
+          "gc": 14,
+          "dg": 10,
+          "zona": "playoff",
+          "fuera": {
+            "pj": 5,
+            "pg": 3,
+            "pe": 0,
+            "pp": 2,
+            "gf": 10,
+            "gc": 7
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Real Ávila",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Guadalajara",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "RSD Alcalá",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 5"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Castellón",
+              "campo": "casa",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Real Madrid C",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 5"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-03-30",
+          "competicion": "Segunda Federación · Grupo 5",
+          "resultado": "Conquense 1-0 CF Talavera"
+        },
+        {
+          "fecha": "2024-11-16",
+          "competicion": "Segunda Federación · Grupo 5",
+          "resultado": "CF Talavera 1-0 Conquense"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Conquense": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Real Ávila",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Guadalajara",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "RSD Alcalá",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Castellón",
+        "campo": "casa",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Real Madrid C",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ],
+    "CF Talavera": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Atlético Tordesillas",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Calvo Sotelo",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "A Madrid C",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Salamanca UDS",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 5"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Numancia",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 5"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573339,
+      "slug": "2026-11-25-cf-talavera-conquense",
+      "titular": "El Conquense busca el liderato en El Prado, donde el Talavera no ha perdido",
+      "entradilla": "El tercero puede saltar a lo más alto con un triunfo en el partido pendiente. El Talavera, séptimo, se juega meterse en la pelea del play-off.",
+      "parrafos": [
+        "CF Talavera y Conquense disputan hoy a las 19:30 en el Estadio El Prado de Talavera de la Reina el partido pendiente de la jornada 10. Hay mucho en juego. Si gana, el Conquense, tercero con 21 puntos, pasaría a 24 y superaría a Numancia y SS Reyes, empatados a 23 en cabeza. Si gana el CF Talavera, séptimo con 18, igualaría a 21 puntos al grupo de play-off.",
+        "El CF Talavera es otro equipo en su estadio. Allí suma cuatro victorias y un empate en cinco partidos, con 8 goles a favor y 4 en contra. Fuera, en cambio, solo ha ganado uno de seis. Su racha lo confirma: ganó en casa al Salamanca UDS (2-1) y al Atlético Tordesillas (2-1), y perdió en sus visitas al A Madrid C (0-1) y al Calvo Sotelo (1-4). Su diferencia de goles total es de apenas +1, con 14 marcados y 13 encajados.",
+        "El Conquense tiene más pegada. Ha marcado 24 goles, el segundo registro del grupo, y su diferencia de +10 es la segunda mejor de la tabla. A domicilio ha ganado tres de cinco partidos, con 10 goles a favor y 7 en contra, pero también ha perdido los otros dos. La última derrota fue el pasado domingo en el campo del Real Ávila (1-2). Antes había ganado al Guadalajara (3-1) y empatado con el RSD Alcalá (2-2), ambos en casa.",
+        "El duelo enfrenta a la mejor versión local del Talavera con un Conquense que llega de tropezar fuera ante un equipo en descenso. Los tres puntos de diferencia entre ambos pueden desaparecer o duplicarse en noventa minutos."
+      ],
+      "precedente": "El último enfrentamiento, el 30 de marzo de 2025, terminó con victoria del Conquense por 1-0 en su campo. En noviembre de 2024 el Talavera ganó en El Prado por el mismo marcador.",
+      "el_dato": "El CF Talavera no ha perdido en casa esta temporada: cuatro victorias y un empate en cinco partidos.",
+      "claves": [
+        {
+          "titulo": "Liderato en juego",
+          "texto": "Con una victoria, el Conquense sumaría 24 puntos, uno más que Numancia y SS Reyes."
+        },
+        {
+          "titulo": "Fortín en El Prado",
+          "texto": "El Talavera ha encajado solo 4 goles en cinco partidos como local."
+        },
+        {
+          "titulo": "Pegada visitante",
+          "texto": "El Conquense promedia más de dos goles por partido, con 24 tantos en 11 encuentros."
+        }
+      ]
+    }
+  ]
+}

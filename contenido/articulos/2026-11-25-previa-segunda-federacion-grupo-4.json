@@ -1,0 +1,309 @@
+{
+  "slug": "2026-11-25-previa-segunda-federacion-grupo-4",
+  "tipo": "previa",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El líder Recreativo Huelva visita a un Sevilla Atlético invicto en casa",
+  "entradilla": "El Recreativo Huelva, primero con 24 puntos, juega en el Estadio Jesús Navas ante el Sevilla Atlético, duodécimo, en un partido aplazado de la jornada 11. Los onubenses pueden abrir hueco con sus perseguidores, que tienen un partido más.",
+  "cuerpo_markdown": "El Recreativo Huelva lidera el Grupo 4 con 24 puntos y un partido menos que Xerez, Estepona y Don Benito, empatados a 21. Con una victoria en Sevilla dejaría la ventaja en seis puntos. El Sevilla Atlético, duodécimo con 14 y también con un partido pendiente, está a cinco puntos de la quinta plaza y a ocho del descenso marcado por Las Palmas B, decimoquinto.\n\n## Claves de la jornada\n\n- El Recreativo Huelva tiene la mejor diferencia de goles del grupo: +20, con solo 8 tantos encajados en 11 partidos.\n- El Sevilla Atlético no ha perdido en casa: dos victorias y tres empates en cinco partidos.\n- El Recreativo llega de golear 7-0 al Badajoz, su último partido de Liga.\n\n## Sevilla Atlético - Recreativo Huelva\n\n<p class=\"ficha\"><b>18:00</b> · Estadio Jesus Navas (Sevilla) · Jornada 11</p><p class=\"forma\"><span class=\"eq\">Sevilla Atlético</span><span class=\"fE\" title=\"3-3 vs Antoniano\">E</span><span class=\"fG\" title=\"2-0 vs Tenerife B\">G</span><span class=\"fE\" title=\"1-1 vs Puente Genil\">E</span><span class=\"fE\" title=\"3-3 vs Linares Deportivo\">E</span><span class=\"fP\" title=\"0-4 vs Estepona\">P</span><br><span class=\"eq\">Recreativo Huelva</span><span class=\"fP\" title=\"2-3 vs Rayo Vallecano\">P</span><span class=\"fG\" title=\"2-0 vs Real Betis B\">G</span><span class=\"fE\" title=\"1-1 vs Mijas Las Lagunas\">E</span><span class=\"fP\" title=\"0-1 vs Sestao River\">P</span><span class=\"fG\" title=\"7-0 vs Badajoz\">G</span></p>\n\nEl líder puede escaparse a seis puntos de sus perseguidores si gana en el Estadio Jesús Navas. Enfrente está un Sevilla Atlético que no ha perdido en casa y que viene de encajar cuatro goles en Estepona.\n\n[Leer la previa completa →](../previas/2026-11-25-sevilla-atletico-recreativo-huelva.html)",
+  "texto_instagram": "⚽ El líder sale a Sevilla. El Recreativo Huelva (1º, 24 puntos) visita al Sevilla Atlético (12º, 14) tras golear 7-0 al Badajoz. Si gana, se va a seis puntos de Xerez, Estepona y Don Benito. Enfrente, un filial invicto en casa (2 victorias y 3 empates) que no pierde ante el Recre desde 2019.\n\nSegunda Federación · Grupo 4\n🕕 18:00 Sevilla Atlético - Recreativo Huelva (Estadio Jesús Navas)",
+  "hashtags": [
+    "#SegundaFederacion",
+    "#SevillaAtletico",
+    "#RecreativoHuelva",
+    "#Recre",
+    "#Grupo4"
+  ],
+  "imagenes_web": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573043,
+      "fecha": "2026-11-25T18:00:00+01:00",
+      "estadio": "Estadio Jesus Navas",
+      "ciudad": "Sevilla",
+      "jornada": "Group 4 - 11",
+      "arbitro": null,
+      "local": "Sevilla Atlético",
+      "visitante": "Recreativo Huelva",
+      "escudo_local": "https://media.api-sports.io/football/teams/730.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9410.png",
+      "contexto": {
+        "local": {
+          "pos": 12,
+          "pts": 14,
+          "pj": 11,
+          "pg": 3,
+          "pe": 5,
+          "pp": 3,
+          "gf": 18,
+          "gc": 20,
+          "dg": -2,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 3,
+            "pp": 0,
+            "gf": 10,
+            "gc": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Estepona",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Linares Deportivo",
+              "campo": "fuera",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Puente Genil",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Tenerife B",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Antoniano",
+              "campo": "fuera",
+              "marcador": "3-3",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 1,
+          "pts": 24,
+          "pj": 11,
+          "pg": 7,
+          "pe": 3,
+          "pp": 1,
+          "gf": 28,
+          "gc": 8,
+          "dg": 20,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 2,
+            "pp": 1,
+            "gf": 8,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Badajoz",
+              "campo": "casa",
+              "marcador": "7-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Sestao River",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Copa Federacion"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Mijas Las Lagunas",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Real Betis B",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Rayo Vallecano",
+              "campo": "casa",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-04-11",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Sevilla Atlético 2-0 Recreativo Huelva"
+        },
+        {
+          "fecha": "2024-09-13",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Recreativo Huelva 2-2 Sevilla Atlético"
+        },
+        {
+          "fecha": "2023-04-09",
+          "competicion": "Segunda Federación · Grupo 4",
+          "resultado": "Sevilla Atlético 0-0 Recreativo Huelva"
+        },
+        {
+          "fecha": "2022-11-27",
+          "competicion": "Segunda Federación · Grupo 4",
+          "resultado": "Recreativo Huelva 1-1 Sevilla Atlético"
+        },
+        {
+          "fecha": "2019-12-07",
+          "competicion": "Primera Federación · Grupo 4",
+          "resultado": "Sevilla Atlético 1-3 Recreativo Huelva"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Recreativo Huelva": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Badajoz",
+        "campo": "casa",
+        "marcador": "7-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Sestao River",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Copa Federacion"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Mijas Las Lagunas",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Real Betis B",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Rayo Vallecano",
+        "campo": "casa",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      }
+    ],
+    "Sevilla Atlético": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Estepona",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Linares Deportivo",
+        "campo": "fuera",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Puente Genil",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Tenerife B",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Antoniano",
+        "campo": "fuera",
+        "marcador": "3-3",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573043,
+      "slug": "2026-11-25-sevilla-atletico-recreativo-huelva",
+      "titular": "El Recreativo, tras el 7-0 al Badajoz, pone a prueba la imbatibilidad del filial sevillista",
+      "entradilla": "El líder puede escaparse a seis puntos de sus perseguidores si gana en el Estadio Jesús Navas. Enfrente está un Sevilla Atlético que no ha perdido en casa y que viene de encajar cuatro goles en Estepona.",
+      "parrafos": [
+        "El Sevilla Atlético recibe hoy, a las 18:00, al Recreativo Huelva en el Estadio Jesús Navas, en un partido de la jornada 11 del Grupo 4 de Segunda Federación. Los onubenses, líderes con 24 puntos, pueden dejar a seis a Xerez, Estepona y Don Benito, que suman 21 con un partido más.",
+        "El filial sevillista es duodécimo con 14 puntos: tres victorias, cinco empates y tres derrotas. Su fuerza está en casa, donde sigue invicto con dos triunfos y tres empates, 10 goles a favor y 5 en contra. Fuera la cifra cambia: 15 tantos encajados en seis salidas. Llega del 0-4 en Estepona, su peor resultado reciente, y solo ha ganado uno de sus últimos cinco partidos de Liga, el 2-0 al Tenerife B. Antes encadenó tres empates, dos de ellos 3-3.",
+        "El Recreativo Huelva es el equipo más sólido del grupo: siete victorias, tres empates y una sola derrota, con 28 goles marcados y 8 recibidos. Su rendimiento lejos de casa es más discreto que en su estadio, donde suma 20 goles a favor y 2 en contra: fuera ha ganado dos, empatado dos y perdido uno, con 8 tantos a favor y 6 en contra. En Liga viene de golear 7-0 al Badajoz y de ganar 2-0 en el campo del Real Betis B. Sus dos derrotas recientes fueron en copa, ante el Sestao River y el Rayo Vallecano.",
+        "La distancia entre ambos es de diez puntos. El Sevilla Atlético está a seis de la zona alta, que marca el Real Betis B con 19 desde la octava plaza, y a ocho de Las Palmas B, decimoquinto."
+      ],
+      "precedente": "El último enfrentamiento lo ganó el Sevilla Atlético por 2-0 en abril de 2025, en Primera Federación. El Recreativo no gana al filial desde 2019, con cuatro partidos seguidos sin victoria ante él.",
+      "el_dato": "El Recreativo Huelva ha encajado 8 goles en 11 partidos; el Sevilla Atlético recibió la mitad de esa cifra, cuatro, solo en su última salida a Estepona.",
+      "claves": [
+        {
+          "titulo": "Fortín sevillista",
+          "texto": "El Sevilla Atlético no ha perdido ninguno de sus cinco partidos en casa (2 victorias y 3 empates)."
+        },
+        {
+          "titulo": "El líder más sólido",
+          "texto": "El Recreativo Huelva tiene una diferencia de goles de +20, la mejor del grupo."
+        },
+        {
+          "titulo": "Precedentes recientes",
+          "texto": "Los cuatro últimos enfrentamientos se saldaron con una victoria sevillista y tres empates."
+        }
+      ]
+    }
+  ]
+}

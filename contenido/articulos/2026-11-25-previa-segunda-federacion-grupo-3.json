@@ -1,0 +1,283 @@
+{
+  "slug": "2026-11-25-previa-segunda-federacion-grupo-3",
+  "tipo": "previa",
+  "fecha": "2026-11-25",
+  "etiqueta": "Segunda Federación · Grupo 3",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Intercity y Real Murcia B, dos equipos en crisis en un partido pendiente",
+  "entradilla": "El Intercity, que aún no ha ganado en casa, recibe al colista Real Murcia B, que encadena tres derrotas sin marcar. Es el partido pendiente de la jornada 7 del Grupo 3 de Segunda Federación.",
+  "cuerpo_markdown": "Es el único partido del día en el Grupo 3. Ambos equipos tienen un encuentro menos que el resto, con 11 disputados. El Intercity es 14º con 13 puntos. El Real Murcia B cierra la tabla con 8, empatado con la Peña Deportiva y a uno del Valencia B. Una victoria local llevaría al Intercity a 16 puntos, los mismos que el Poblense, décimo. Una victoria visitante sacaría al filial murciano del último puesto.\n\n## Claves de la jornada\n\n- El Intercity no ha ganado ninguno de sus cinco partidos en casa: tres empates y dos derrotas.\n- El Real Murcia B suma tres derrotas seguidas sin marcar un gol: 0-3, 0-1 y 0-2.\n- Cinco puntos separan al Intercity, 14º, del Real Murcia B, colista.\n\n## Intercity - Real Murcia B\n\n<p class=\"ficha\"><b>20:00</b> · Camp Municipal Antonio Solana · Jornada 7</p><p class=\"forma\"><span class=\"eq\">Intercity</span><span class=\"fP\" title=\"0-2 vs Castellonense\">P</span><span class=\"fG\" title=\"4-1 vs La Nucía\">G</span><span class=\"fE\" title=\"2-2 vs Elche B\">E</span><span class=\"fP\" title=\"1-4 vs Alcoyano\">P</span><span class=\"fP\" title=\"0-1 vs Poblense\">P</span><br><span class=\"eq\">Real Murcia B</span><span class=\"fG\" title=\"3-2 vs Lorca Deportiva\">G</span><span class=\"fE\" title=\"1-1 vs Alcoyano\">E</span><span class=\"fP\" title=\"0-2 vs Deportiva Minera\">P</span><span class=\"fP\" title=\"0-1 vs Ucam Murcia\">P</span><span class=\"fP\" title=\"0-3 vs Atlético Baleares\">P</span></p>\n\nEl Intercity, aún sin ganar como local, recibe al Real Murcia B, último con 8 puntos y tres derrotas seguidas sin marcar. Al filial le va el último puesto; al local, alejarse de la zona baja.\n\n[Leer la previa completa →](../previas/2026-11-25-intercity-real-murcia-b.html)",
+  "texto_instagram": "⚽ Partido pendiente de la jornada 7 en el Grupo 3 de Segunda Federación. El Intercity (14º, 13 pts) aún no ha ganado en casa: tres empates y dos derrotas en cinco partidos. Recibe al Real Murcia B, colista con 8 puntos, que suma tres derrotas seguidas sin marcar. Al filial una victoria le sacaría del último puesto.\n\n🕗 20.00 · Intercity - Real Murcia B (Camp Municipal Antonio Solana)",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Intercity",
+    "#RealMurciaB",
+    "#Grupo3"
+  ],
+  "imagenes_web": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-3.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-25/2026-11-25-previa-segunda-federacion-grupo-3.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1572698,
+      "fecha": "2026-11-25T20:00:00+01:00",
+      "estadio": "Camp Municipal Antonio Solana",
+      "ciudad": null,
+      "jornada": "Group 3 - 7",
+      "arbitro": null,
+      "local": "Intercity",
+      "visitante": "Real Murcia B",
+      "escudo_local": "https://media.api-sports.io/football/teams/8160.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9820.png",
+      "contexto": {
+        "local": {
+          "pos": 14,
+          "pts": 13,
+          "pj": 11,
+          "pg": 3,
+          "pe": 4,
+          "pp": 4,
+          "gf": 15,
+          "gc": 18,
+          "dg": -3,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 3,
+            "pp": 2,
+            "gf": 5,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Poblense",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Alcoyano",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Elche B",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "La Nucía",
+              "campo": "fuera",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Castellonense",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 18,
+          "pts": 8,
+          "pj": 11,
+          "pg": 2,
+          "pe": 2,
+          "pp": 7,
+          "gf": 9,
+          "gc": 21,
+          "dg": -12,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 1,
+            "pp": 3,
+            "gf": 4,
+            "gc": 12
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Atlético Baleares",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Ucam Murcia",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Deportiva Minera",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Alcoyano",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Lorca Deportiva",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 3"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Real Murcia B": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Atlético Baleares",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Ucam Murcia",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Deportiva Minera",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Alcoyano",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Lorca Deportiva",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ],
+    "Intercity": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Poblense",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Alcoyano",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Elche B",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "La Nucía",
+        "campo": "fuera",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Castellonense",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 3"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1572698,
+      "slug": "2026-11-25-intercity-real-murcia-b",
+      "titular": "El Intercity busca su primera victoria en casa ante un colista sin gol",
+      "entradilla": "El Intercity, aún sin ganar como local, recibe al Real Murcia B, último con 8 puntos y tres derrotas seguidas sin marcar. Al filial le va el último puesto; al local, alejarse de la zona baja.",
+      "parrafos": [
+        "El Intercity y el Real Murcia B juegan este miércoles a las 20.00 en el Camp Municipal Antonio Solana. Es el partido pendiente de la jornada 7 del Grupo 3 de Segunda Federación. Los dos llegan con 11 partidos disputados, uno menos que el resto, y con una mala racha.",
+        "El Intercity es 14º con 13 puntos: tres victorias, cuatro empates y cuatro derrotas, con 15 goles a favor y 18 en contra. Su problema está en casa. En cinco partidos como local no ha ganado ninguno: tres empates y dos derrotas, con solo cinco goles marcados. Fuera ha logrado sus tres victorias. Llega tras dos derrotas seguidas, 0-1 ante el Poblense en casa y 1-4 en Alcoy. En sus últimos cinco partidos solo ganó uno, el 4-1 en La Nucía.",
+        "El Real Murcia B está peor. Es último con 8 puntos, dos victorias y siete derrotas, y tiene la peor diferencia de goles del grupo: 9 a favor y 21 en contra. Lleva tres derrotas seguidas sin marcar, ante el Atlético Baleares (0-3), el Ucam Murcia (0-1) y la Deportiva Minera (0-2). Su última victoria fue el 3-2 ante el Lorca Deportiva del 25 de octubre. Fuera de casa suma una victoria, un empate y tres derrotas, con 12 goles encajados en cinco partidos.",
+        "En la tabla, cinco puntos separan a ambos. Si gana el Intercity, se pondrá con 16 puntos, los mismos que el Poblense, décimo. Si gana el Real Murcia B, llegará a 11, superará a la Peña Deportiva y al Valencia B y dejará el último puesto."
+      ],
+      "precedente": "",
+      "el_dato": "El Intercity no ha ganado ninguno de sus cinco partidos en casa esta temporada.",
+      "claves": [
+        {
+          "titulo": "Local sin victorias",
+          "texto": "El Intercity tiene un balance en casa de tres empates y dos derrotas, con 5 goles a favor y 8 en contra."
+        },
+        {
+          "titulo": "Tres partidos sin gol",
+          "texto": "El Real Murcia B ha perdido sus tres últimos partidos sin marcar y ha encajado seis goles."
+        },
+        {
+          "titulo": "Salir del fondo",
+          "texto": "Con una victoria, el Real Murcia B pasaría de 8 a 11 puntos y dejaría el último puesto."
+        }
+      ]
+    }
+  ]
+}
