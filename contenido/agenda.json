@@ -1,175 +1,239 @@
 {
-  "2026-11-25": [
+  "2026-11-26": [],
+  "2026-11-27": [
     {
-      "etiqueta": "Segunda Federación · Grupo 3",
-      "competicion": "Segunda Federación",
+      "etiqueta": "Primera Federación · Grupo 1",
+      "competicion": "Primera Federación",
       "grupo": "espana",
       "prioridad": 1,
       "partidos": [
         {
-          "id": 1572698,
-          "fecha": "2026-11-25T20:00:00+01:00",
-          "estadio": "Camp Municipal Antonio Solana",
-          "jornada": "Group 3 - 7",
-          "local": "Intercity",
-          "visitante": "Real Murcia B",
+          "id": 1570846,
+          "fecha": "2026-11-27T19:00:00+01:00",
+          "estadio": "Lezama Facilities",
+          "jornada": "Group 1 - 14",
+          "local": "Athletic Club B",
+          "visitante": "Cultural Leonesa",
           "goles_local": null,
           "goles_visitante": null
         }
       ]
     },
     {
-      "etiqueta": "Segunda Federación · Grupo 4",
-      "competicion": "Segunda Federación",
+      "etiqueta": "Primera Federación · Grupo 2",
+      "competicion": "Primera Federación",
       "grupo": "espana",
       "prioridad": 1,
       "partidos": [
         {
-          "id": 1573043,
-          "fecha": "2026-11-25T18:00:00+01:00",
-          "estadio": "Estadio Jesus Navas",
-          "jornada": "Group 4 - 11",
-          "local": "Sevilla Atlético",
-          "visitante": "Recreativo Huelva",
+          "id": 1571230,
+          "fecha": "2026-11-27T21:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 14",
+          "local": "Hércules",
+          "visitante": "Antequera",
           "goles_local": null,
           "goles_visitante": null
         }
       ]
     },
     {
-      "etiqueta": "Segunda Federación · Grupo 5",
-      "competicion": "Segunda Federación",
-      "grupo": "espana",
-      "prioridad": 1,
-      "partidos": [
-        {
-          "id": 1573339,
-          "fecha": "2026-11-25T19:30:00+01:00",
-          "estadio": "Estadio El Prado",
-          "jornada": "Group 5 - 10",
-          "local": "CF Talavera",
-          "visitante": "Conquense",
-          "goles_local": null,
-          "goles_visitante": null
-        }
-      ]
-    },
-    {
-      "etiqueta": "Tercera Federación · Grupo 10",
+      "etiqueta": "Tercera Federación · Grupo 12",
       "competicion": "Tercera Federación",
       "grupo": "espana",
       "prioridad": 2,
       "partidos": [
         {
-          "id": 1615513,
-          "fecha": "2026-11-25T19:30:00+01:00",
+          "id": 1616182,
+          "fecha": "2026-11-27T22:00:00+01:00",
           "estadio": null,
-          "jornada": "Group 10 - 7",
-          "local": "Utrera",
-          "visitante": "Córdoba B",
+          "jornada": "Group 12 - 13",
+          "local": "Real Unión de Tenerife",
+          "visitante": "Anaza",
           "goles_local": null,
           "goles_visitante": null
         }
       ]
     },
     {
-      "etiqueta": "Champions League",
-      "competicion": "Champions League",
+      "etiqueta": "Tercera Federación · Grupo 3",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613428,
+          "fecha": "2026-11-27T20:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Revilla",
+          "visitante": "Velarde",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 6",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614344,
+          "fecha": "2026-11-27T19:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Ontinyent 1931",
+          "visitante": "Torrent",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Bundesliga",
+      "competicion": "Bundesliga",
       "grupo": "internacional",
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1635718,
-          "fecha": "2026-11-25T18:45:00+01:00",
-          "estadio": "Baku Olympic Stadium",
-          "jornada": "League Stage - 5",
-          "local": "Sabah FA",
-          "visitante": "Barcelona",
+          "id": 1575237,
+          "fecha": "2026-11-27T20:30:00+01:00",
+          "estadio": "Weser-Stadion",
+          "jornada": "Regular Season - 11",
+          "local": "Werder Bremen",
+          "visitante": "Borussia Mönchengladbach",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "Eredivisie",
+      "competicion": "Eredivisie",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635728,
-          "fecha": "2026-11-25T18:45:00+01:00",
-          "estadio": "Fortuna Arena",
-          "jornada": "League Stage - 5",
-          "local": "Slavia Praha",
-          "visitante": "Villarreal",
+          "id": 1552238,
+          "fecha": "2026-11-27T20:00:00+01:00",
+          "estadio": "Hitachi Capital Mobility Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "Groningen",
+          "visitante": "Willem B",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "LaLiga EA Sports",
+      "competicion": "LaLiga EA Sports",
+      "grupo": "espana",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635625,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": "Metropolitano Stadium",
-          "jornada": "League Stage - 5",
-          "local": "Atlético de Madrid",
-          "visitante": "Viking",
+          "id": 1570468,
+          "fecha": "2026-11-27T21:00:00+01:00",
+          "estadio": "Estadio Ciudad de Valencia",
+          "jornada": "Regular Season - 14",
+          "local": "Levante",
+          "visitante": "Racing de Santander",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "LaLiga Hypermotion",
+      "competicion": "LaLiga Hypermotion",
+      "grupo": "espana",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635642,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": "Jan Breydel Stadion",
-          "jornada": "League Stage - 5",
-          "local": "Club Brugge KV",
-          "visitante": "Liverpool",
+          "id": 1570043,
+          "fecha": "2026-11-27T20:30:00+01:00",
+          "estadio": "Municipal de Butarque",
+          "jornada": "Regular Season - 16",
+          "local": "Leganés",
+          "visitante": "Sabadell",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "Liga Portugal",
+      "competicion": "Liga Portugal",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635673,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": null,
-          "jornada": "League Stage - 5",
-          "local": "Inter de Milán",
-          "visitante": "VfB Stuttgart",
+          "id": 1575551,
+          "fecha": "2026-11-27T21:15:00+01:00",
+          "estadio": "Estádio do Marítimo",
+          "jornada": "Regular Season - 12",
+          "local": "Maritimo",
+          "visitante": "Nacional",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "Ligue 1",
+      "competicion": "Ligue 1",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635682,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": "Stade Pierre-Mauroy",
-          "jornada": "League Stage - 5",
-          "local": "Lille",
-          "visitante": "Bayern de Múnich",
+          "id": 1552830,
+          "fecha": "2026-11-27T20:45:00+01:00",
+          "estadio": "Stade Francis-Le-Blé",
+          "jornada": "Regular Season - 12",
+          "local": "Stade Brestois 29",
+          "visitante": "Paris FC",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "Premier League",
+      "competicion": "Premier League",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635703,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": "Parc des Princes",
-          "jornada": "League Stage - 5",
-          "local": "PSG",
-          "visitante": "AS Roma",
+          "id": 1557485,
+          "fecha": "2026-11-27T21:00:00+01:00",
+          "estadio": "City Ground",
+          "jornada": "Regular Season - 12",
+          "local": "Nottingham Forest",
+          "visitante": "Chelsea",
           "goles_local": null,
           "goles_visitante": null
-        },
+        }
+      ]
+    },
+    {
+      "etiqueta": "Serie A",
+      "competicion": "Serie A",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
         {
-          "id": 1635724,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": "Stamford Bridge",
-          "jornada": "League Stage - 5",
-          "local": "Shakhtar Donetsk",
-          "visitante": "Fenerbahçe",
-          "goles_local": null,
-          "goles_visitante": null
-        },
-        {
-          "id": 1635735,
-          "fecha": "2026-11-25T21:00:00+01:00",
-          "estadio": null,
-          "jornada": "League Stage - 5",
-          "local": "Sporting de Portugal",
-          "visitante": "Manchester United",
+          "id": 1550216,
+          "fecha": "2026-11-27T20:45:00+01:00",
+          "estadio": "Stadio Pier Luigi Penzo",
+          "jornada": "Regular Season - 13",
+          "local": "Venezia",
+          "visitante": "Bologna",
           "goles_local": null,
           "goles_visitante": null
         }
       ]
     }
-  ],
-  "2026-11-26": []
+  ]
 }
