@@ -1,0 +1,315 @@
+{
+  "slug": "2026-11-27-previa-ligue-1",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Ligue 1",
+  "competicion": "Ligue 1",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Brest recibe al Paris FC, segundo, en la única cita de la Ligue 1 de hoy",
+  "entradilla": "Solo hay un partido hoy en la Ligue 1: el Brest, sexto y en playoff, recibe al Paris FC, segundo y en zona de ascenso. Los de Ajorque llegan a cinco puntos de distancia.",
+  "cuerpo_markdown": "La jornada 12 se reduce a un único encuentro, a las 20:45 en el Stade Francis-Le-Blé. El PSG lidera con 26 puntos y el Paris FC ocupa la segunda plaza con 23, tres por detrás del líder. El Brest, con 18, está sexto dentro de la zona de playoff, y el Lille, tercero con 21, es el equipo más cercano a ambos.\n\n## Claves de la jornada\n\n- Paris FC, segundo con 23 puntos y a tres del PSG\n- Brest, sexto con 18 puntos y a cinco del Paris FC\n- Paris FC gana 5 de sus 6 partidos en casa, pero solo 2 de 5 fuera\n\n## Stade Brestois 29 - Paris FC\n\n<p class=\"ficha\"><b>20:45</b> · Stade Francis-Le-Blé (Brest) · Jornada 12 · Árbitro: Ruddy Buquet</p><p class=\"forma\"><span class=\"eq\">Stade Brestois 29</span><span class=\"fE\" title=\"1-1 vs Lille\">E</span><span class=\"fP\" title=\"1-2 vs Nice\">P</span><span class=\"fG\" title=\"2-0 vs Lorient\">G</span><span class=\"fG\" title=\"2-0 vs Olympique de Lyon\">G</span><span class=\"fG\" title=\"1-0 vs Strasbourg\">G</span><br><span class=\"eq\">Paris FC</span><span class=\"fG\" title=\"4-3 vs Rennes\">G</span><span class=\"fP\" title=\"1-2 vs Lens\">P</span><span class=\"fG\" title=\"3-1 vs Monaco\">G</span><span class=\"fG\" title=\"1-0 vs Auxerre\">G</span><span class=\"fG\" title=\"4-0 vs Angers\">G</span></p>\n\nEl Paris FC, segundo, busca seguir arriba en Brest. El Brest, sexto, quiere confirmar su plaza en el playoff ante un rival que solo ha ganado 2 de sus 5 partidos a domicilio.\n\n[Leer la previa completa →](../previas/2026-11-27-stade-brestois-29-paris-fc.html)",
+  "texto_instagram": "Solo hay un partido hoy en la Ligue 1. El Brest, sexto y en playoff con 18 puntos, recibe al Paris FC, segundo con 23. El Paris FC llega con 4 victorias en sus últimos 5 partidos y Sinayoko suma 9 goles. ⚽\n\n20:45 Stade Brestois 29 - Paris FC",
+  "hashtags": [
+    "#Ligue1",
+    "#StadeBrestois29",
+    "#ParisFC",
+    "#Ligue1Uber"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-ligue-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-ligue-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1552830,
+      "fecha": "2026-11-27T20:45:00+01:00",
+      "estadio": "Stade Francis-Le-Blé",
+      "ciudad": "Brest",
+      "jornada": "Regular Season - 12",
+      "arbitro": "Ruddy Buquet",
+      "local": "Stade Brestois 29",
+      "visitante": "Paris FC",
+      "escudo_local": "https://media.api-sports.io/football/teams/106.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/114.png",
+      "contexto": {
+        "local": {
+          "pos": 6,
+          "pts": 18,
+          "pj": 11,
+          "pg": 5,
+          "pe": 3,
+          "pp": 3,
+          "gf": 19,
+          "gc": 12,
+          "dg": 7,
+          "zona": "playoff",
+          "casa": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 10,
+            "gc": 6
+          },
+          "goleador": {
+            "jugador": "L. Ajorque",
+            "goles": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Strasbourg",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Olympique de Lyon",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Lorient",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-23",
+              "rival": "Nice",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Lille",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Ligue 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 2,
+          "pts": 23,
+          "pj": 11,
+          "pg": 7,
+          "pe": 2,
+          "pp": 2,
+          "gf": 21,
+          "gc": 10,
+          "dg": 11,
+          "zona": "ascenso",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 1,
+            "pp": 2,
+            "gf": 5,
+            "gc": 5
+          },
+          "goleador": {
+            "jugador": "L. Sinayoko",
+            "goles": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Angers",
+              "campo": "casa",
+              "marcador": "4-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Auxerre",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Monaco",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Lens",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Ligue 1"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Rennes",
+              "campo": "casa",
+              "marcador": "4-3",
+              "resultado": "G",
+              "competicion": "Ligue 1"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-05-03",
+          "competicion": "Ligue 1",
+          "resultado": "Paris FC 4-0 Stade Brestois 29"
+        },
+        {
+          "fecha": "2025-09-14",
+          "competicion": "Ligue 1",
+          "resultado": "Stade Brestois 29 1-2 Paris FC"
+        },
+        {
+          "fecha": "2019-01-21",
+          "competicion": "Ligue 2",
+          "resultado": "Paris FC 0-1 Stade Brestois 29"
+        },
+        {
+          "fecha": "2018-08-10",
+          "competicion": "Ligue 2",
+          "resultado": "Stade Brestois 29 1-1 Paris FC"
+        },
+        {
+          "fecha": "2018-02-24",
+          "competicion": "Ligue 2",
+          "resultado": "Paris FC 0-1 Stade Brestois 29"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Stade Brestois 29": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Strasbourg",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Olympique de Lyon",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Lorient",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-23",
+        "rival": "Nice",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Lille",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Ligue 1"
+      }
+    ],
+    "Paris FC": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Angers",
+        "campo": "casa",
+        "marcador": "4-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Auxerre",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Monaco",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Lens",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Ligue 1"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Rennes",
+        "campo": "casa",
+        "marcador": "4-3",
+        "resultado": "G",
+        "competicion": "Ligue 1"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1552830,
+      "slug": "2026-11-27-stade-brestois-29-paris-fc",
+      "titular": "El Paris FC visita Brest con 4 victorias en sus últimos 5 partidos",
+      "entradilla": "El Paris FC, segundo, busca seguir arriba en Brest. El Brest, sexto, quiere confirmar su plaza en el playoff ante un rival que solo ha ganado 2 de sus 5 partidos a domicilio.",
+      "parrafos": [
+        "El Brest recibe al Paris FC hoy a las 20:45 en el Stade Francis-Le-Blé, de Brest, en partido de la jornada 12 de la Ligue 1. Arbitra Ruddy Buquet. Los locales están sextos con 18 puntos y en zona de playoff. Los visitantes son segundos con 23 y en zona de ascenso.",
+        "El Brest llega con 5 victorias, 3 empates y 3 derrotas, y 19 goles a favor. En casa tiene un balance de 2 victorias, 1 empate y 2 derrotas, con 10 goles marcados y 6 recibidos. Su última racha dice que ganó en Estrasburgo (1-0) y al Lyon (2-0), perdió ante el Nice (1-2) y empató en Lille (1-1). Lidera el ataque local Ajorque, con 5 goles.",
+        "El Paris FC llega con 7 victorias, 2 empates y 2 derrotas, y 21 goles a favor. Fuera de casa ha ganado 2 partidos, empatado 1 y perdido 2, con 5 goles marcados y 5 recibidos. Su racha reciente: victoria 4-0 ante el Angers, 1-0 en Auxerre, 3-1 ante el Mónaco, derrota 1-2 en Lens y triunfo 4-3 ante el Rennes. Su goleador, Sinayoko, suma 9 tantos."
+      ],
+      "precedente": "El último enfrentamiento, en la Ligue 1 del 3 de mayo de 2026, lo ganó el Paris FC por 4-0 jugando como local. En septiembre de 2025 el Paris FC ganó 2-1 en Brest.",
+      "el_dato": "Sinayoko ha marcado 9 de los 21 goles del Paris FC esta temporada.",
+      "claves": [
+        {
+          "titulo": "Ventaja en la tabla",
+          "texto": "El Paris FC está a cinco puntos del Brest y a tres del líder PSG."
+        },
+        {
+          "titulo": "Contraste fuera y casa",
+          "texto": "El Paris FC gana fuera 2 de 5 partidos, frente a 5 de 6 en casa."
+        },
+        {
+          "titulo": "Goleador de referencia",
+          "texto": "Sinayoko, con 9 goles, es el hombre que llega en mejor forma al partido."
+        }
+      ]
+    }
+  ]
+}

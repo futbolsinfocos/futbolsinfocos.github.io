@@ -1,0 +1,293 @@
+{
+  "slug": "2026-11-27-previa-tercera-federacion-grupo-3",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Revilla recibe a Velarde con el playoff en juego y una racha de cinco victorias",
+  "entradilla": "Revilla, segundo con 27 puntos, recibe al Velarde, decimocuarto, en la única cita de la jornada 13 del Grupo 3 de Tercera Federación. El local llega con cinco victorias seguidas.",
+  "cuerpo_markdown": "La jornada 13 del Grupo 3 deja al Tropezón líder con 29 puntos, por delante de un Revilla que aspira al ascenso y de un bloque de playoff que se junta entre 24 y 27 puntos. Abajo, Castro, Solares y Barquereño ocupan el descenso con 8 o 9 puntos. Solo hay un partido programado para hoy.\n\n## Claves de la jornada\n\n- Revilla suma cinco victorias seguidas, la última por 2-0 en Sámano\n- Velarde solo ha ganado una vez fuera de casa en la temporada\n- Velarde ocupa el puesto 14 con 10 puntos, a cuatro del descenso\n\n## Revilla - Velarde\n\n<p class=\"ficha\"><b>20:30</b> · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Revilla</span><span class=\"fG\" title=\"3-1 vs Barquereño\">G</span><span class=\"fE\" title=\"1-1 vs Vimenor\">E</span><span class=\"fG\" title=\"3-0 vs Guarnizo\">G</span><span class=\"fG\" title=\"3-1 vs Cayón\">G</span><span class=\"fG\" title=\"2-0 vs Sámano\">G</span><br><span class=\"eq\">Velarde</span><span class=\"fE\" title=\"0-0 vs Torina\">E</span><span class=\"fP\" title=\"1-4 vs Bezana\">P</span><span class=\"fE\" title=\"1-1 vs Laredo\">E</span><span class=\"fE\" title=\"1-1 vs Selaya\">E</span><span class=\"fG\" title=\"1-0 vs Solares\">G</span></p>\n\nRevilla, segundo y en zona de playoff, recibe a un Velarde que solo suma 10 puntos. El local intenta prolongar una racha de cinco triunfos.\n\n[Leer la previa completa →](../previas/2026-11-27-revilla-velarde.html)",
+  "texto_instagram": "Revilla recibe al Velarde en la jornada 13 del Grupo 3. El local, segundo con 27 puntos, llega con cinco victorias seguidas. El Velarde, decimocuarto, solo ha ganado una vez fuera. ⚽\n\nPartido de hoy:\n20:30 Revilla - Velarde",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Revilla",
+    "#Velarde",
+    "#Jornada13"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-3.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-3.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1613428,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 3 - 13",
+      "arbitro": null,
+      "local": "Revilla",
+      "visitante": "Velarde",
+      "escudo_local": "https://media.api-sports.io/football/teams/15337.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20451.png",
+      "contexto": {
+        "local": {
+          "pos": 2,
+          "pts": 27,
+          "pj": 12,
+          "pg": 8,
+          "pe": 3,
+          "pp": 1,
+          "gf": 28,
+          "gc": 13,
+          "dg": 15,
+          "zona": "playoff",
+          "casa": {
+            "pj": 6,
+            "pg": 3,
+            "pe": 3,
+            "pp": 0,
+            "gf": 15,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Sámano",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Cayón",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Guarnizo",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-30",
+              "rival": "Vimenor",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Barquereño",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 3"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 14,
+          "pts": 10,
+          "pj": 12,
+          "pg": 2,
+          "pe": 4,
+          "pp": 6,
+          "gf": 9,
+          "gc": 20,
+          "dg": -11,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 1,
+            "pe": 1,
+            "pp": 4,
+            "gf": 6,
+            "gc": 14
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Solares",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Selaya",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Laredo",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Bezana",
+              "campo": "fuera",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 3"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Torina",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 3"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2024-04-13",
+          "competicion": "Tercera Federación · Grupo 3",
+          "resultado": "Revilla 4-0 Velarde"
+        },
+        {
+          "fecha": "2023-11-25",
+          "competicion": "Tercera Federación · Grupo 3",
+          "resultado": "Velarde 2-3 Revilla"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Velarde": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Solares",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Selaya",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Laredo",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Bezana",
+        "campo": "fuera",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Torina",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 3"
+      }
+    ],
+    "Revilla": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Sámano",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Cayón",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Guarnizo",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-30",
+        "rival": "Vimenor",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 3"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Barquereño",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 3"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1613428,
+      "slug": "2026-11-27-revilla-velarde",
+      "titular": "Revilla busca cerrar su mejor racha ante un Velarde que apenas gana",
+      "entradilla": "Revilla, segundo y en zona de playoff, recibe a un Velarde que solo suma 10 puntos. El local intenta prolongar una racha de cinco triunfos.",
+      "parrafos": [
+        "El partido se juega este viernes 27 de noviembre a las 20:30, en la jornada 13 del Grupo 3 de Tercera Federación. El estadio y el árbitro todavía no figuran en los datos.",
+        "Revilla llega segundo con 27 puntos, a dos del Tropezón, tras ocho victorias en 12 partidos. En casa ha ganado tres veces y empatado otras tres, sin derrotas, con 15 goles a favor. Su última victoria fue un 2-0 en Sámano, y el máximo goleador del equipo no figura en los datos.",
+        "Velarde ocupa el puesto 14 con 10 puntos y una diferencia de -11. Fuera ha ganado una vez, empatado una y perdido cuatro, con seis goles a favor y catorce en contra. Llega de un 1-4 ante Bezana y de empatar en casa con el Torina en su última jornada anterior.",
+        "La distancia en la tabla es amplia, pero el Velarde ha empatado cuatro de sus últimos cinco partidos fuera de casa. Revilla, en cambio, necesita sumar para no perder terreno en la zona de playoff."
+      ],
+      "precedente": "El último enfrentamiento fue el 13 de abril de 2024, con victoria de Revilla por 4-0 en la Tercera Federación.",
+      "el_dato": "Revilla no ha perdido en casa esta temporada: tres victorias y tres empates en seis partidos.",
+      "claves": [
+        {
+          "titulo": "Racha local",
+          "texto": "Revilla ha ganado sus cinco últimos partidos, con 11 goles a favor en ese tramo."
+        },
+        {
+          "titulo": "Velarde fuera",
+          "texto": "Velarde ha ganado una vez fuera de casa y ha perdido cuatro de sus seis desplazamientos."
+        },
+        {
+          "titulo": "Precedente favorable",
+          "texto": "Revilla ganó 4-0 en el último duelo entre ambos, en abril de 2024."
+        }
+      ]
+    }
+  ]
+}

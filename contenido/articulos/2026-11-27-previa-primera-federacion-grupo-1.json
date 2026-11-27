@@ -1,0 +1,309 @@
+{
+  "slug": "2026-11-27-previa-primera-federacion-grupo-1",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Athletic Club B busca el play-off ante una Cultural Leonesa sin gol lejos de León",
+  "entradilla": "El filial rojiblanco, octavo, está a dos puntos del play-off y recibe en Lezama a una Cultural Leonesa que suma solo dos goles en siete salidas ligueras.",
+  "cuerpo_markdown": "La jornada 14 del Grupo 1 de Primera Federación arranca este viernes en Lezama. El Athletic Club B (8º, 19 puntos) persigue la zona de play-off, que cierra el Pontevedra con 21. La Cultural Leonesa (14ª, 16 puntos) mantiene un colchón de tres puntos sobre el descenso, marcado por el Zamora con 13. Arriba, el Lugo lidera con 31 puntos, cuatro más que la UD Logroñés.\n\n## Claves de la jornada\n\n- La Cultural Leonesa ha marcado 2 goles en 7 partidos de liga fuera de casa.\n- El Athletic Club B ganó los dos últimos enfrentamientos: 3-1 en León y 2-0 en Lezama.\n- Solo tres puntos separan al octavo, el Athletic Club B, del decimocuarto, la Cultural Leonesa.\n\n## Athletic Club B - Cultural Leonesa\n\n<p class=\"ficha\"><b>19:00</b> · Lezama Facilities · Jornada 14</p><p class=\"forma\"><span class=\"eq\">Athletic Club B</span><span class=\"fP\" title=\"1-2 vs Unionistas de Salamanca\">P</span><span class=\"fG\" title=\"3-1 vs Cacereño\">G</span><span class=\"fP\" title=\"0-2 vs Mérida AD\">P</span><span class=\"fE\" title=\"0-0 vs Racing de Ferrol\">E</span><span class=\"fG\" title=\"1-0 vs Mirandés\">G</span><br><span class=\"eq\">Cultural Leonesa</span><span class=\"fG\" title=\"1-0 vs Gimnástica Segoviana\">G</span><span class=\"fP\" title=\"0-1 vs UD Ourense\">P</span><span class=\"fE\" title=\"1-1 vs Ponferradina\">E</span><span class=\"fP\" title=\"0-1 vs Real Unión\">P</span><span class=\"fG\" title=\"2-0 vs Zamora\">G</span></p>\n\nUna victoria en Lezama acercaría al filial a la zona noble. La Cultural Leonesa necesita puntuar fuera para no mirar al descenso.\n\n[Leer la previa completa →](../previas/2026-11-27-athletic-club-b-cultural-leonesa.html)",
+  "texto_instagram": "⚽ Primera Federación · Grupo 1, jornada 14. El Athletic Club B, octavo con 19 puntos, está a dos del play-off y recibe a la Cultural Leonesa, 14ª con 16. Los leoneses solo han marcado 2 goles en 7 salidas ligueras, y el filial ganó los dos últimos enfrentamientos (3-1 y 2-0).\n\n🕖 19:00 · Athletic Club B - Cultural Leonesa (Lezama)",
+  "hashtags": [
+    "#PrimeraFederacion",
+    "#AthleticClubB",
+    "#CulturalLeonesa",
+    "#Lezama",
+    "#Grupo1"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-primera-federacion-grupo-1.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-primera-federacion-grupo-1.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570846,
+      "fecha": "2026-11-27T19:00:00+01:00",
+      "estadio": "Lezama Facilities",
+      "ciudad": "Lezama",
+      "jornada": "Group 1 - 14",
+      "arbitro": null,
+      "local": "Athletic Club B",
+      "visitante": "Cultural Leonesa",
+      "escudo_local": "https://media.api-sports.io/football/teams/9579.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/725.png",
+      "contexto": {
+        "local": {
+          "pos": 8,
+          "pts": 19,
+          "pj": 13,
+          "pg": 5,
+          "pe": 4,
+          "pp": 4,
+          "gf": 18,
+          "gc": 15,
+          "dg": 3,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 3,
+            "pp": 1,
+            "gf": 8,
+            "gc": 7
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Mirandés",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Racing de Ferrol",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Mérida AD",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Cacereño",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Unionistas de Salamanca",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 1"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 14,
+          "pts": 16,
+          "pj": 13,
+          "pg": 4,
+          "pe": 4,
+          "pp": 5,
+          "gf": 13,
+          "gc": 12,
+          "dg": 1,
+          "zona": "",
+          "fuera": {
+            "pj": 7,
+            "pg": 1,
+            "pe": 2,
+            "pp": 4,
+            "gf": 2,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Zamora",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Real Unión",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Ponferradina",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "UD Ourense",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 1"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Gimnástica Segoviana",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-04-26",
+          "competicion": "Primera Federación · Grupo 1",
+          "resultado": "Athletic Club B 2-0 Cultural Leonesa"
+        },
+        {
+          "fecha": "2024-11-23",
+          "competicion": "Primera Federación · Grupo 1",
+          "resultado": "Cultural Leonesa 1-3 Athletic Club B"
+        },
+        {
+          "fecha": "2022-01-25",
+          "competicion": "Primera Federación · Grupo 1",
+          "resultado": "Athletic Club B 1-2 Cultural Leonesa"
+        },
+        {
+          "fecha": "2021-09-12",
+          "competicion": "Primera Federación · Grupo 1",
+          "resultado": "Cultural Leonesa 2-1 Athletic Club B"
+        },
+        {
+          "fecha": "2020-01-26",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Athletic Club B 1-0 Cultural Leonesa"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Athletic Club B": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Mirandés",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Racing de Ferrol",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Mérida AD",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Cacereño",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Unionistas de Salamanca",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 1"
+      }
+    ],
+    "Cultural Leonesa": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Zamora",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Real Unión",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Ponferradina",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "UD Ourense",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 1"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Gimnástica Segoviana",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570846,
+      "slug": "2026-11-27-athletic-club-b-cultural-leonesa",
+      "titular": "El Athletic Club B, a dos puntos del play-off, mide la sequía visitante de la Cultural",
+      "entradilla": "Una victoria en Lezama acercaría al filial a la zona noble. La Cultural Leonesa necesita puntuar fuera para no mirar al descenso.",
+      "parrafos": [
+        "El Athletic Club B y la Cultural Leonesa se enfrentan este viernes a las 19:00 en las instalaciones de Lezama, en la jornada 14 del Grupo 1 de Primera Federación. Tres puntos separan a ambos en la tabla y el choque decide en qué parte de la clasificación se instala cada uno.",
+        "El filial llega octavo, con 19 puntos (5 victorias, 4 empates y 4 derrotas) y 18 goles a favor. Viene de ganar 1-0 en el campo del Mirandés, tras un 0-0 en casa ante el Racing de Ferrol. En Lezama es un equipo difícil de batir: una sola derrota en seis partidos, aunque también solo dos victorias, con tres empates.",
+        "La Cultural Leonesa es decimocuarta, con 16 puntos. Ganó 2-0 al Zamora en su último partido, pero su problema está lejos de León: una victoria, dos empates y cuatro derrotas fuera, con apenas 2 goles marcados en siete salidas. Sus dos últimos desplazamientos ligueros terminaron con derrota por 0-1, ante el Real Unión y la UD Ourense, colista.",
+        "En la tabla, el Athletic Club B tiene el play-off a dos puntos, los que le saca el Pontevedra, quinto. La Cultural mantiene tres puntos de margen sobre el Zamora, primer equipo en puestos de descenso."
+      ],
+      "precedente": "El Athletic Club B ganó 2-0 en Lezama el 26 de abril de 2025. Fue su segunda victoria seguida ante la Cultural, tras el 1-3 en León de noviembre de 2024.",
+      "el_dato": "La Cultural Leonesa solo ha marcado 2 goles en 7 partidos de liga como visitante.",
+      "claves": [
+        {
+          "titulo": "Lezama, terreno seguro",
+          "texto": "El Athletic Club B solo ha perdido uno de sus seis partidos en casa."
+        },
+        {
+          "titulo": "Sequía lejos de León",
+          "texto": "La Cultural Leonesa encadena dos derrotas ligueras fuera por 0-1."
+        },
+        {
+          "titulo": "Dominio reciente rojiblanco",
+          "texto": "El filial ganó los dos últimos duelos, con un global de 5-1."
+        }
+      ]
+    }
+  ]
+}

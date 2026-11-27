@@ -1,0 +1,293 @@
+{
+  "slug": "2026-11-27-previa-laliga-hypermotion",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Leganés y Sabadell se juegan un partido de medio tramo sin margen en la mitad baja",
+  "entradilla": "Leganés recibe al Sabadell en Butarque con ambos equipos a un punto del tramo central de la tabla. El local llega con dos victorias seguidas y el visitante, con tres empates en sus últimos cinco partidos.",
+  "cuerpo_markdown": "La jornada 16 de LaLiga Hypermotion deja al Leganés (15º, 18 puntos) y al Sabadell (14º, 19) separados por un solo punto y lejos de cualquier zona de ascenso o descenso. Ambos están fuera de la pelea directa por el play-off y del descenso, con la cola a ocho puntos por abajo del Leganés en el caso del Ceuta, que marca el fondo de la tabla con 5 puntos.\n\n## Claves de la jornada\n\n- Solo un punto separa a Leganés y Sabadell en la tabla\n- El Leganés gana en casa menos de lo que gana fuera en su racha reciente\n- El Sabadell acumula cinco partidos sin perder de 2026-11\n\n## Leganés - Sabadell\n\n<p class=\"ficha\"><b>20:30</b> · Municipal de Butarque (Leganes) · Jornada 16 · Árbitro: Jose Antonio Sanchez Villalobos</p><p class=\"forma\"><span class=\"eq\">Leganés</span><span class=\"fP\" title=\"3-4 vs Valladolid\">P</span><span class=\"fP\" title=\"1-3 vs Albacete\">P</span><span class=\"fG\" title=\"1-0 vs Trival Valderas\">G</span><span class=\"fG\" title=\"3-1 vs Burgos\">G</span><span class=\"fG\" title=\"3-1 vs FC Andorra\">G</span><br><span class=\"eq\">Sabadell</span><span class=\"fP\" title=\"1-2 vs Albacete\">P</span><span class=\"fE\" title=\"0-0 vs Real Sociedad B\">E</span><span class=\"fP\" title=\"0-2 vs Eldense\">P</span><span class=\"fG\" title=\"3-0 vs Utebo\">G</span><span class=\"fE\" title=\"1-1 vs Granada CF\">E</span></p>\n\nUn triunfo acerca a cualquiera de los dos a la zona de play-off. Ninguno de los dos se ha separado del empate en sus últimas salidas.\n\n[Leer la previa completa →](../previas/2026-11-27-leganes-sabadell.html)",
+  "texto_instagram": "Leganés y Sabadell se enfrentan hoy en Butarque (20:30) con solo un punto de diferencia en la tabla. ⚽ El local llega con dos victorias seguidas y el visitante con siete empates en la temporada.\n\nJornada 16, LaLiga Hypermotion\nLeganés - Sabadell: viernes, 20:30 (Butarque)",
+  "hashtags": [
+    "#LaLigaHypermotion",
+    "#Leganés",
+    "#Sabadell",
+    "#Jornada16"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-laliga-hypermotion.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-laliga-hypermotion.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570043,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": "Municipal de Butarque",
+      "ciudad": "Leganes",
+      "jornada": "Regular Season - 16",
+      "arbitro": "Jose Antonio Sanchez Villalobos",
+      "local": "Leganés",
+      "visitante": "Sabadell",
+      "escudo_local": "https://media.api-sports.io/football/teams/537.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9593.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 18,
+          "pj": 15,
+          "pg": 5,
+          "pe": 3,
+          "pp": 7,
+          "gf": 17,
+          "gc": 25,
+          "dg": -8,
+          "zona": "",
+          "casa": {
+            "pj": 7,
+            "pg": 3,
+            "pe": 1,
+            "pp": 3,
+            "gf": 9,
+            "gc": 10
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-20",
+              "rival": "FC Andorra",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-13",
+              "rival": "Burgos",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-10",
+              "rival": "Trival Valderas",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Albacete",
+              "campo": "casa",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-02",
+              "rival": "Valladolid",
+              "campo": "fuera",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 14,
+          "pts": 19,
+          "pj": 15,
+          "pg": 4,
+          "pe": 7,
+          "pp": 4,
+          "gf": 13,
+          "gc": 14,
+          "dg": -1,
+          "zona": "",
+          "fuera": {
+            "pj": 8,
+            "pg": 1,
+            "pe": 3,
+            "pp": 4,
+            "gf": 4,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Granada CF",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-18",
+              "rival": "Utebo",
+              "campo": "fuera",
+              "marcador": "3-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Eldense",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-11-09",
+              "rival": "Real Sociedad B",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda División"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Albacete",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda División"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2021-04-04",
+          "competicion": "Segunda División",
+          "resultado": "Leganés 2-1 Sabadell"
+        },
+        {
+          "fecha": "2020-10-29",
+          "competicion": "Segunda División",
+          "resultado": "Sabadell 1-0 Leganés"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Leganés": [
+      {
+        "fecha": "2026-11-20",
+        "rival": "FC Andorra",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-13",
+        "rival": "Burgos",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-10",
+        "rival": "Trival Valderas",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Albacete",
+        "campo": "casa",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-02",
+        "rival": "Valladolid",
+        "campo": "fuera",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      }
+    ],
+    "Sabadell": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Granada CF",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-18",
+        "rival": "Utebo",
+        "campo": "fuera",
+        "marcador": "3-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Eldense",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-11-09",
+        "rival": "Real Sociedad B",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda División"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Albacete",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda División"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570043,
+      "slug": "2026-11-27-leganes-sabadell",
+      "titular": "Leganés y Sabadell miden su momento en la mitad de la tabla",
+      "entradilla": "Un triunfo acerca a cualquiera de los dos a la zona de play-off. Ninguno de los dos se ha separado del empate en sus últimas salidas.",
+      "parrafos": [
+        "El Leganés recibe al Sabadell este viernes a las 20:30 en el Municipal de Butarque, en la jornada 16 de LaLiga Hypermotion. El árbitro será Jose Antonio Sanchez Villalobos.",
+        "El local es 15º con 18 puntos y 5 victorias. En casa ha ganado tres de siete partidos y ha perdido tres. Llega con dos triunfos seguidos, ante Burgos y en Andorra, aunque antes había encadenado dos derrotas. Su máximo goleador no figura en los datos.",
+        "El visitante es 14º con 19 puntos y siete empates. Fuera ha ganado solo una vez en ocho salidas, con cuatro derrotas. Su última racha dice E-P-E-V-P: un empate en casa ante el Granada CF y una derrota en Eldense. Es el equipo con más empates de la zona media.",
+        "En la tabla, ambos están a cuatro puntos del play-off, que ocupa el Mallorca con 24 puntos. Ninguno está en la zona de descenso, pero el Leganés tiene la peor diferencia de goles de los dos, con -8 frente al -1 del Sabadell."
+      ],
+      "precedente": "El último enfrentamiento en los datos fue en la jornada de Segunda División de abril de 2021, con victoria del Leganés por 2-1.",
+      "el_dato": "El Sabadell es el equipo con más empates de la zona media de la tabla, con 7 en 15 partidos.",
+      "claves": [
+        {
+          "titulo": "Diferencia de goles",
+          "texto": "El Leganés tiene -8 en diferencia de goles, la peor de los dos equipos, con 25 goles encajados."
+        },
+        {
+          "titulo": "Fuera del Sabadell",
+          "texto": "El Sabadell ha ganado solo una vez a domicilio en ocho salidas."
+        },
+        {
+          "titulo": "Local sin ritmo",
+          "texto": "El Leganés ha ganado tres de sus siete partidos en Butarque."
+        }
+      ]
+    }
+  ]
+}
