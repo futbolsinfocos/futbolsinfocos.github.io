@@ -88,7 +88,7 @@
       "escudo": "https://media.api-sports.io/football/teams/797.png",
       "goles": 6,
       "penaltis": 1,
-      "pj": 12
+      "pj": 13
     },
     {
       "jugador": "J. Bellingham",
@@ -112,7 +112,7 @@
       "escudo": "https://media.api-sports.io/football/teams/539.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 11
+      "pj": 12
     },
     {
       "jugador": "Adrián Niño Heredia",
@@ -201,16 +201,16 @@
       "rojas": 3
     },
     {
+      "equipo": "Elche",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "amarillas": 34,
+      "rojas": 1
+    },
+    {
       "equipo": "Real Sociedad",
       "escudo": "https://media.api-sports.io/football/teams/548.png",
       "amarillas": 28,
       "rojas": 3
-    },
-    {
-      "equipo": "Elche",
-      "escudo": "https://media.api-sports.io/football/teams/797.png",
-      "amarillas": 33,
-      "rojas": 1
     },
     {
       "equipo": "Racing de Santander",
@@ -281,9 +281,9 @@
     {
       "equipo": "Levante",
       "escudo": "https://media.api-sports.io/football/teams/539.png",
-      "amarillas": 19,
+      "amarillas": 24,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-23"
+  "fecha": "2026-11-27"
 }

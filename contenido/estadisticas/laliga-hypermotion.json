@@ -8,7 +8,7 @@
       "escudo": "https://media.api-sports.io/football/teams/723.png",
       "goles": 9,
       "penaltis": 0,
-      "pj": 14
+      "pj": 15
     },
     {
       "jugador": "A. Marin",
@@ -107,6 +107,14 @@
       "pj": 12
     },
     {
+      "jugador": "Sergio Arribas",
+      "equipo": "Almería",
+      "escudo": "https://media.api-sports.io/football/teams/723.png",
+      "goles": 5,
+      "penaltis": 2,
+      "pj": 12
+    },
+    {
       "jugador": "Eder García",
       "equipo": "Córdoba",
       "escudo": "https://media.api-sports.io/football/teams/713.png",
@@ -131,6 +139,14 @@
       "pj": 14
     },
     {
+      "jugador": "Jordi Escobar",
+      "equipo": "AD Ceuta FC",
+      "escudo": "https://media.api-sports.io/football/teams/10139.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 15
+    },
+    {
       "jugador": "Álex Forés",
       "equipo": "Burgos",
       "escudo": "https://media.api-sports.io/football/teams/9580.png",
@@ -139,28 +155,12 @@
       "pj": 15
     },
     {
-      "jugador": "Jordi Escobar",
+      "jugador": "Carlos Hernández",
       "equipo": "AD Ceuta FC",
       "escudo": "https://media.api-sports.io/football/teams/10139.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 14
-    },
-    {
-      "jugador": "Álvaro Morata",
-      "equipo": "Leganés",
-      "escudo": "https://media.api-sports.io/football/teams/537.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 11
-    },
-    {
-      "jugador": "A. Jakobsen",
-      "equipo": "Castellón",
-      "escudo": "https://media.api-sports.io/football/teams/5254.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 11
+      "pj": 15
     }
   ],
   "tarjetas": [
@@ -279,16 +279,16 @@
       "rojas": 2
     },
     {
+      "equipo": "Almería",
+      "escudo": "https://media.api-sports.io/football/teams/723.png",
+      "amarillas": 31,
+      "rojas": 1
+    },
+    {
       "equipo": "Eibar",
       "escudo": "https://media.api-sports.io/football/teams/545.png",
       "amarillas": 28,
       "rojas": 2
-    },
-    {
-      "equipo": "Almería",
-      "escudo": "https://media.api-sports.io/football/teams/723.png",
-      "amarillas": 28,
-      "rojas": 1
     },
     {
       "equipo": "Granada CF",
@@ -297,5 +297,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-23"
+  "fecha": "2026-11-27"
 }

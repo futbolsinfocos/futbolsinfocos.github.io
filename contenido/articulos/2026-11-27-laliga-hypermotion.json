@@ -1,0 +1,786 @@
+{
+  "slug": "2026-11-27-laliga-hypermotion",
+  "fecha": "2026-11-27",
+  "etiqueta": "LaLiga Hypermotion",
+  "competicion": "LaLiga Hypermotion",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Leganés y Sabadell empatan a cero en Butarque y el Sabadell sube dos puestos",
+  "entradilla": "El Leganés no pasó del 0-0 ante el Sabadell en la Jornada 16. El Sabadell sube al puesto 12 y el Leganés se mantiene en el 15.",
+  "cuerpo_markdown": "El Leganés y el Sabadell se repartieron los puntos en Butarque tras un 0-0 sin goles en la Jornada 16. El Sabadell suma su punto número 20 y sube al puesto 12, dos posiciones más que antes de la jornada. El Leganés, con 19 puntos, se mantiene en el puesto 15.\n\n## Leganés 0-0 Sabadell\n\nEl marcador se quedó en blanco en Butarque. El Leganés tuvo 9 tiros, con 2 a puerta, y el Sabadell 12, con 3 a puerta. Los locales tuvieron el 55% de posesión y cinco córners, por nueve del conjunto visitante. El Leganés vio cuatro tarjetas amarillas y el Sabadell dos. Ninguno de los dos equipos registró expulsiones ni penaltis fallados. Para el Leganés, el empate le deja con 19 puntos en el puesto 15, a seis del descenso y a cinco del play-off. Para el Sabadell, el punto le permite subir al 12 con 20 puntos, a cuatro del play-off y a 15 del ascenso.\n\n## Así queda la clasificación\n\nAlmería encabeza la tabla con 35 puntos, por delante de Castellón con 33, y ambos ocupan la zona de ascenso. La zona de play-off la forman Girona, Granada, Burgos y Mallorca, esta última en el puesto 6 con 24 puntos. Eibar, séptimo con 24, queda fuera de zona. En la parte baja, Real Sociedad B y Albacete están en el descenso con 13 puntos, Andorra tiene 11 y el AD Ceuta FC es último con 5.",
+  "texto_instagram": "El Leganés y el Sabadell empataron 0-0 en Butarque en la Jornada 16. El Sabadell sube al puesto 12 y el Leganés se mantiene en el 15 ⚽\n\nLeganés 0-0 Sabadell: sin goles en el marcador. El Sabadell sube al 12 con 20 puntos y el Leganés se queda en el 15 con 19 🟨",
+  "hashtags": [
+    "#SegundaDivisión",
+    "#LaLigaHypermotion",
+    "#Leganés",
+    "#Sabadell",
+    "#Jornada16"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-laliga-hypermotion-1.jpg",
+    "img/2026-11-27/2026-11-27-laliga-hypermotion-2.jpg",
+    "img/2026-11-27/2026-11-27-laliga-hypermotion-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570043,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": "Municipal de Butarque",
+      "ciudad": "Leganes",
+      "arbitro": "Jose Antonio Sanchez Villalobos",
+      "jornada": "Regular Season - 16",
+      "liga_id": 141,
+      "id_local": 537,
+      "id_visitante": 9593,
+      "local": "Leganés",
+      "visitante": "Sabadell",
+      "escudo_local": "https://media.api-sports.io/football/teams/537.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9593.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "55%",
+          "tiros": 9,
+          "a_puerta": 2,
+          "corners": 5,
+          "faltas": 9,
+          "fueras_juego": 3,
+          "amarillas": 4,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "45%",
+          "tiros": 12,
+          "a_puerta": 3,
+          "corners": 9,
+          "faltas": 16,
+          "fueras_juego": 3,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Almería",
+      "pts": 35,
+      "pj": 15,
+      "dg": 16,
+      "pg": 11,
+      "pe": 2,
+      "pp": 2,
+      "gf": 29,
+      "gc": 13,
+      "forma": "WWWDD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/723.png",
+      "equipo_id": 723,
+      "casa": {
+        "pj": 7,
+        "pg": 6,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 5,
+        "pe": 1,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Castellón",
+      "pts": 33,
+      "pj": 14,
+      "dg": 21,
+      "pg": 10,
+      "pe": 3,
+      "pp": 1,
+      "gf": 26,
+      "gc": 5,
+      "forma": "WWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/5254.png",
+      "equipo_id": 5254,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 14,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 6,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Girona",
+      "pts": 27,
+      "pj": 15,
+      "dg": 12,
+      "pg": 8,
+      "pe": 3,
+      "pp": 4,
+      "gf": 26,
+      "gc": 14,
+      "forma": "WWLLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/547.png",
+      "equipo_id": 547,
+      "casa": {
+        "pj": 9,
+        "pg": 5,
+        "pe": 2,
+        "pp": 2,
+        "gf": 18,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Granada CF",
+      "pts": 27,
+      "pj": 14,
+      "dg": 7,
+      "pg": 8,
+      "pe": 3,
+      "pp": 3,
+      "gf": 22,
+      "gc": 15,
+      "forma": "DWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/715.png",
+      "equipo_id": 715,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Burgos",
+      "pts": 27,
+      "pj": 15,
+      "dg": 4,
+      "pg": 8,
+      "pe": 3,
+      "pp": 4,
+      "gf": 21,
+      "gc": 17,
+      "forma": "WLWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9580.png",
+      "equipo_id": 9580,
+      "casa": {
+        "pj": 9,
+        "pg": 6,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Mallorca",
+      "pts": 24,
+      "pj": 14,
+      "dg": 8,
+      "pg": 6,
+      "pe": 6,
+      "pp": 2,
+      "gf": 18,
+      "gc": 10,
+      "forma": "DDWDD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/798.png",
+      "equipo_id": 798,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 5,
+        "pp": 1,
+        "gf": 3,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Eibar",
+      "pts": 24,
+      "pj": 14,
+      "dg": 6,
+      "pg": 7,
+      "pe": 3,
+      "pp": 4,
+      "gf": 23,
+      "gc": 17,
+      "forma": "LDDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/545.png",
+      "equipo_id": 545,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 0,
+        "pp": 3,
+        "gf": 12,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Córdoba",
+      "pts": 23,
+      "pj": 15,
+      "dg": 3,
+      "pg": 7,
+      "pe": 2,
+      "pp": 6,
+      "gf": 28,
+      "gc": 25,
+      "forma": "WDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/713.png",
+      "equipo_id": 713,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 14,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Las Palmas",
+      "pts": 23,
+      "pj": 15,
+      "dg": -1,
+      "pg": 7,
+      "pe": 2,
+      "pp": 6,
+      "gf": 21,
+      "gc": 22,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/534.png",
+      "equipo_id": 534,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 0,
+        "pp": 4,
+        "gf": 13,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Sporting de Gijón",
+      "pts": 23,
+      "pj": 15,
+      "dg": -3,
+      "pg": 7,
+      "pe": 2,
+      "pp": 6,
+      "gf": 16,
+      "gc": 19,
+      "forma": "LDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/731.png",
+      "equipo_id": 731,
+      "casa": {
+        "pj": 8,
+        "pg": 3,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Oviedo",
+      "pts": 21,
+      "pj": 15,
+      "dg": -1,
+      "pg": 6,
+      "pe": 3,
+      "pp": 6,
+      "gf": 20,
+      "gc": 21,
+      "forma": "LLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/718.png",
+      "equipo_id": 718,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Sabadell",
+      "pts": 20,
+      "pj": 16,
+      "dg": -1,
+      "pg": 4,
+      "pe": 8,
+      "pp": 4,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9593.png",
+      "equipo_id": 9593,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 9,
+        "pg": 1,
+        "pe": 4,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Valladolid",
+      "pts": 19,
+      "pj": 15,
+      "dg": 1,
+      "pg": 5,
+      "pe": 4,
+      "pp": 6,
+      "gf": 23,
+      "gc": 22,
+      "forma": "DLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/720.png",
+      "equipo_id": 720,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 0,
+        "pp": 3,
+        "gf": 15,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 4,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Tenerife",
+      "pts": 19,
+      "pj": 14,
+      "dg": 0,
+      "pg": 4,
+      "pe": 7,
+      "pp": 3,
+      "gf": 17,
+      "gc": 17,
+      "forma": "DWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/719.png",
+      "equipo_id": 719,
+      "casa": {
+        "pj": 8,
+        "pg": 3,
+        "pe": 4,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Leganés",
+      "pts": 19,
+      "pj": 16,
+      "dg": -8,
+      "pg": 5,
+      "pe": 4,
+      "pp": 7,
+      "gf": 17,
+      "gc": 25,
+      "forma": "DWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/537.png",
+      "equipo_id": 537,
+      "casa": {
+        "pj": 8,
+        "pg": 3,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 8,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Eldense",
+      "pts": 17,
+      "pj": 15,
+      "dg": -6,
+      "pg": 5,
+      "pe": 2,
+      "pp": 8,
+      "gf": 15,
+      "gc": 21,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9692.png",
+      "equipo_id": 9692,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 0,
+        "pp": 6,
+        "gf": 4,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Cádiz",
+      "pts": 14,
+      "pj": 15,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 7,
+      "gf": 20,
+      "gc": 19,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/724.png",
+      "equipo_id": 724,
+      "casa": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 10,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 10,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Celta de Vigo B",
+      "pts": 14,
+      "pj": 15,
+      "dg": -7,
+      "pg": 3,
+      "pe": 5,
+      "pp": 7,
+      "gf": 20,
+      "gc": 27,
+      "forma": "DLLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9571.png",
+      "equipo_id": 9571,
+      "casa": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 4,
+        "pp": 2,
+        "gf": 14,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Real Sociedad B",
+      "pts": 13,
+      "pj": 15,
+      "dg": -10,
+      "pg": 3,
+      "pe": 4,
+      "pp": 8,
+      "gf": 17,
+      "gc": 27,
+      "forma": "LDDWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9585.png",
+      "equipo_id": 9585,
+      "casa": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 2,
+        "pp": 5,
+        "gf": 8,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Albacete",
+      "pts": 13,
+      "pj": 15,
+      "dg": -11,
+      "pg": 4,
+      "pe": 1,
+      "pp": 10,
+      "gf": 14,
+      "gc": 25,
+      "forma": "LWWWW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/722.png",
+      "equipo_id": 722,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 1,
+        "pp": 6,
+        "gf": 6,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 21,
+      "equipo": "FC Andorra",
+      "pts": 11,
+      "pj": 14,
+      "dg": -8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 9,
+      "gf": 19,
+      "gc": 27,
+      "forma": "LLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/8157.png",
+      "equipo_id": 8157,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 0,
+        "pp": 5,
+        "gf": 11,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 22,
+      "equipo": "AD Ceuta FC",
+      "pts": 5,
+      "pj": 15,
+      "dg": -23,
+      "pg": 1,
+      "pe": 2,
+      "pp": 12,
+      "gf": 12,
+      "gc": 35,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/10139.png",
+      "equipo_id": 10139,
+      "casa": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 1,
+        "pp": 6,
+        "gf": 8,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 1,
+        "pp": 6,
+        "gf": 4,
+        "gc": 20
+      }
+    }
+  ],
+  "movimientos": {
+    "Sabadell": {
+      "antes": 14,
+      "ahora": 12,
+      "cambio": "sube 2 puestos"
+    },
+    "Leganés": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  }
+}

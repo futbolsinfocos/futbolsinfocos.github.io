@@ -27,17 +27,17 @@
       "pj": 11
     },
     {
-      "jugador": "N. Jackson",
-      "equipo": "Aston Villa",
-      "escudo": "https://media.api-sports.io/football/teams/66.png",
-      "goles": 6,
-      "penaltis": 0,
-      "pj": 10
-    },
-    {
       "jugador": "T. Barry",
       "equipo": "Everton",
       "escudo": "https://media.api-sports.io/football/teams/45.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "N. Jackson",
+      "equipo": "Aston Villa",
+      "escudo": "https://media.api-sports.io/football/teams/66.png",
       "goles": 6,
       "penaltis": 0,
       "pj": 10
@@ -80,6 +80,14 @@
       "escudo": "https://media.api-sports.io/football/teams/63.png",
       "goles": 5,
       "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "K. Lewis-Potter",
+      "equipo": "Brentford",
+      "escudo": "https://media.api-sports.io/football/teams/55.png",
+      "goles": 4,
+      "penaltis": 0,
       "pj": 11
     },
     {
@@ -153,14 +161,6 @@
       "goles": 3,
       "penaltis": 0,
       "pj": 11
-    },
-    {
-      "jugador": "K. Havertz",
-      "equipo": "Arsenal",
-      "escudo": "https://media.api-sports.io/football/teams/42.png",
-      "goles": 3,
-      "penaltis": 0,
-      "pj": 11
     }
   ],
   "tarjetas": [
@@ -201,6 +201,18 @@
       "rojas": 1
     },
     {
+      "equipo": "Chelsea",
+      "escudo": "https://media.api-sports.io/football/teams/49.png",
+      "amarillas": 26,
+      "rojas": 1
+    },
+    {
+      "equipo": "Nottingham Forest",
+      "escudo": "https://media.api-sports.io/football/teams/65.png",
+      "amarillas": 29,
+      "rojas": 0
+    },
+    {
       "equipo": "Bournemouth",
       "escudo": "https://media.api-sports.io/football/teams/35.png",
       "amarillas": 28,
@@ -213,20 +225,8 @@
       "rojas": 2
     },
     {
-      "equipo": "Nottingham Forest",
-      "escudo": "https://media.api-sports.io/football/teams/65.png",
-      "amarillas": 27,
-      "rojas": 0
-    },
-    {
       "equipo": "Aston Villa",
       "escudo": "https://media.api-sports.io/football/teams/66.png",
-      "amarillas": 22,
-      "rojas": 1
-    },
-    {
-      "equipo": "Chelsea",
-      "escudo": "https://media.api-sports.io/football/teams/49.png",
       "amarillas": 22,
       "rojas": 1
     },
@@ -255,15 +255,15 @@
       "rojas": 2
     },
     {
+      "equipo": "Everton",
+      "escudo": "https://media.api-sports.io/football/teams/45.png",
+      "amarillas": 20,
+      "rojas": 1
+    },
+    {
       "equipo": "Leeds",
       "escudo": "https://media.api-sports.io/football/teams/63.png",
       "amarillas": 23,
-      "rojas": 0
-    },
-    {
-      "equipo": "Everton",
-      "escudo": "https://media.api-sports.io/football/teams/45.png",
-      "amarillas": 19,
       "rojas": 0
     },
     {
@@ -285,5 +285,5 @@
       "rojas": 1
     }
   ],
-  "fecha": "2026-11-23"
+  "fecha": "2026-11-27"
 }

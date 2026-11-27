@@ -1,0 +1,277 @@
+{
+  "etiqueta": "Liga Portugal",
+  "competicion": "Liga Portugal",
+  "goleadores": [
+    {
+      "jugador": "V. Pavlidis",
+      "equipo": "Benfica",
+      "escudo": "https://media.api-sports.io/football/teams/211.png",
+      "goles": 11,
+      "penaltis": 3,
+      "pj": 11
+    },
+    {
+      "jugador": "L. Suárez",
+      "equipo": "Sporting de Portugal",
+      "escudo": "https://media.api-sports.io/football/teams/228.png",
+      "goles": 9,
+      "penaltis": 2,
+      "pj": 11
+    },
+    {
+      "jugador": "G. Prestianni",
+      "equipo": "Benfica",
+      "escudo": "https://media.api-sports.io/football/teams/211.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Borja Sainz",
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Pau Victor",
+      "equipo": "SC Braga",
+      "escudo": "https://media.api-sports.io/football/teams/217.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "André Clóvis",
+      "equipo": "Academico Viseu",
+      "escudo": "https://media.api-sports.io/football/teams/238.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "L. Antonetti",
+      "equipo": "Estrela",
+      "escudo": "https://media.api-sports.io/football/teams/15130.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Barbero",
+      "equipo": "Arouca",
+      "escudo": "https://media.api-sports.io/football/teams/240.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Gabri Veiga",
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "Gonçalo Paciência",
+      "equipo": "Santa Clara",
+      "escudo": "https://media.api-sports.io/football/teams/227.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 9
+    },
+    {
+      "jugador": "G. Koutsias",
+      "equipo": "Famalicao",
+      "escudo": "https://media.api-sports.io/football/teams/242.png",
+      "goles": 5,
+      "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "A. Marcus",
+      "equipo": "Estrela",
+      "escudo": "https://media.api-sports.io/football/teams/15130.png",
+      "goles": 4,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "André Silva",
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "I. Stoica",
+      "equipo": "Estrela",
+      "escudo": "https://media.api-sports.io/football/teams/15130.png",
+      "goles": 4,
+      "penaltis": 1,
+      "pj": 11
+    },
+    {
+      "jugador": "S. Messeguem",
+      "equipo": "Academico Viseu",
+      "escudo": "https://media.api-sports.io/football/teams/238.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Flávio Gonçalves",
+      "equipo": "Sporting de Portugal",
+      "escudo": "https://media.api-sports.io/football/teams/228.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "N. John",
+      "equipo": "Moreirense",
+      "escudo": "https://media.api-sports.io/football/teams/215.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "João Guilherme",
+      "equipo": "Academico Viseu",
+      "escudo": "https://media.api-sports.io/football/teams/238.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "Vivaldo Semedo",
+      "equipo": "Alverca",
+      "escudo": "https://media.api-sports.io/football/teams/4724.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "Victor Mow Froholdt",
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 10
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Santa Clara",
+      "escudo": "https://media.api-sports.io/football/teams/227.png",
+      "amarillas": 34,
+      "rojas": 3
+    },
+    {
+      "equipo": "Arouca",
+      "escudo": "https://media.api-sports.io/football/teams/240.png",
+      "amarillas": 31,
+      "rojas": 2
+    },
+    {
+      "equipo": "Alverca",
+      "escudo": "https://media.api-sports.io/football/teams/4724.png",
+      "amarillas": 26,
+      "rojas": 3
+    },
+    {
+      "equipo": "Academico Viseu",
+      "escudo": "https://media.api-sports.io/football/teams/238.png",
+      "amarillas": 32,
+      "rojas": 0
+    },
+    {
+      "equipo": "Vitória SC",
+      "escudo": "https://media.api-sports.io/football/teams/224.png",
+      "amarillas": 29,
+      "rojas": 1
+    },
+    {
+      "equipo": "Rio Ave",
+      "escudo": "https://media.api-sports.io/football/teams/226.png",
+      "amarillas": 22,
+      "rojas": 3
+    },
+    {
+      "equipo": "Benfica",
+      "escudo": "https://media.api-sports.io/football/teams/211.png",
+      "amarillas": 24,
+      "rojas": 2
+    },
+    {
+      "equipo": "Famalicao",
+      "escudo": "https://media.api-sports.io/football/teams/242.png",
+      "amarillas": 24,
+      "rojas": 2
+    },
+    {
+      "equipo": "Casa Pia",
+      "escudo": "https://media.api-sports.io/football/teams/4716.png",
+      "amarillas": 23,
+      "rojas": 2
+    },
+    {
+      "equipo": "Estoril",
+      "escudo": "https://media.api-sports.io/football/teams/230.png",
+      "amarillas": 22,
+      "rojas": 2
+    },
+    {
+      "equipo": "Sporting de Portugal",
+      "escudo": "https://media.api-sports.io/football/teams/228.png",
+      "amarillas": 23,
+      "rojas": 1
+    },
+    {
+      "equipo": "GIL Vicente",
+      "escudo": "https://media.api-sports.io/football/teams/762.png",
+      "amarillas": 22,
+      "rojas": 1
+    },
+    {
+      "equipo": "Moreirense",
+      "escudo": "https://media.api-sports.io/football/teams/215.png",
+      "amarillas": 22,
+      "rojas": 1
+    },
+    {
+      "equipo": "SC Braga",
+      "escudo": "https://media.api-sports.io/football/teams/217.png",
+      "amarillas": 25,
+      "rojas": 0
+    },
+    {
+      "equipo": "Estrela",
+      "escudo": "https://media.api-sports.io/football/teams/15130.png",
+      "amarillas": 24,
+      "rojas": 0
+    },
+    {
+      "equipo": "Nacional",
+      "escudo": "https://media.api-sports.io/football/teams/225.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Maritimo",
+      "escudo": "https://media.api-sports.io/football/teams/214.png",
+      "amarillas": 20,
+      "rojas": 0
+    },
+    {
+      "equipo": "Oporto",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "amarillas": 14,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-27"
+}

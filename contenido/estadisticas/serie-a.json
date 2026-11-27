@@ -14,9 +14,9 @@
       "jugador": "Gustavo Varela",
       "equipo": "Monza",
       "escudo": "https://media.api-sports.io/football/teams/1579.png",
-      "goles": 9,
-      "penaltis": 2,
-      "pj": 10
+      "goles": 11,
+      "penaltis": 3,
+      "pj": 11
     },
     {
       "jugador": "A. Raimondo",
@@ -152,7 +152,7 @@
       "escudo": "https://media.api-sports.io/football/teams/502.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 11
+      "pj": 12
     },
     {
       "jugador": "Franco Mastantuono",
@@ -160,7 +160,7 @@
       "escudo": "https://media.api-sports.io/football/teams/502.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 11
+      "pj": 12
     }
   ],
   "tarjetas": [
@@ -285,5 +285,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-23"
+  "fecha": "2026-11-27"
 }

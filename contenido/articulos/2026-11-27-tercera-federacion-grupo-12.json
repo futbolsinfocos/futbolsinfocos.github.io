@@ -1,0 +1,651 @@
+{
+  "slug": "2026-11-27-tercera-federacion-grupo-12",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Real Unión de Tenerife y el Anaza empatan 1-1 en la Jornada 13 de Tercera Federación",
+  "entradilla": "El Real Unión de Tenerife se adelantó con el gol del 37 y el Anaza igualó en el 74. Con el empate, el conjunto local sigue cuarto con 26 puntos y el visitante, decimoquinto con 12.",
+  "cuerpo_markdown": "La Jornada 13 del Grupo 12 de Tercera Federación se resuelve con un empate 1-1 entre el Real Unión de Tenerife y el Anaza. Es el único partido de la jornada en los datos disponibles. Ninguno de los dos equipos cambia de posición tras el resultado.\n\n## Real Unión de Tenerife 1-1 Anaza\n\nEl Real Unión de Tenerife marcó en el minuto 37 y el Anaza empató en el 74. No hubo expulsiones ni penaltis fallados. El Tenerife se mantiene cuarto con 26 puntos, a tres del líder, y el Anaza se mantiene decimoquinto con 12 puntos.\n\n## Así queda la clasificación\n\nLa UD San Fernando lidera con 29 puntos, por delante de Panadería Pulido, San Miguel y el Real Unión de Tenerife, que empatan a 26 en la segunda, tercera y cuarta posición. Unión Sur Yaiza es quinto con 20 puntos. En la parte baja, Playas Sotavento ocupa la posición 16 con 7 puntos, Laguna de Duero es 17 con 6 y Villaverde Norte cierra la tabla con 5 puntos, 24 menos que el líder.",
+  "texto_instagram": "⚽ Jornada 13 en Tercera Federación, Grupo 12: el Real Unión de Tenerife y el Anaza empatan 1-1. Los tinerfeños se quedan cuartos con 26 puntos. 🏆\n\nReal Unión de Tenerife 1-1 Anaza\nGoles: Real Unión de Tenerife (min 37), Anaza (min 74) ⚽",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Tercera",
+    "#RealUniondeTenerife",
+    "#Anaza",
+    "#Jornada13",
+    "#Grupo12"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-12-1.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-12-2.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-12-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1616182,
+      "fecha": "2026-11-27T22:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 12 - 13",
+      "liga_id": 450,
+      "id_local": 20375,
+      "id_visitante": 28113,
+      "local": "Real Unión de Tenerife",
+      "visitante": "Anaza",
+      "escudo_local": "https://media.api-sports.io/football/teams/20375.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28113.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 37,
+          "equipo": "Real Unión de Tenerife",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 74,
+          "equipo": "Anaza",
+          "jugador": null,
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "UD San Fernando",
+      "pts": 29,
+      "pj": 12,
+      "dg": 19,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 26,
+      "gc": 7,
+      "forma": "WDWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9804.png",
+      "equipo_id": 9804,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Panadería Pulido",
+      "pts": 26,
+      "pj": 12,
+      "dg": 18,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 34,
+      "gc": 16,
+      "forma": "LWWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9800.png",
+      "equipo_id": 9800,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 25,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "San Miguel",
+      "pts": 26,
+      "pj": 12,
+      "dg": 15,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 25,
+      "gc": 10,
+      "forma": "WDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/27623.png",
+      "equipo_id": 27623,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 20,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Unión de Tenerife",
+      "pts": 26,
+      "pj": 12,
+      "dg": 8,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 18,
+      "gc": 10,
+      "forma": "WWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20375.png",
+      "equipo_id": 20375,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Unión Sur Yaiza",
+      "pts": 20,
+      "pj": 12,
+      "dg": 7,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 20,
+      "gc": 13,
+      "forma": "DWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/17605.png",
+      "equipo_id": 17605,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Las Palmas C",
+      "pts": 19,
+      "pj": 12,
+      "dg": 7,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 23,
+      "gc": 16,
+      "forma": "LWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9798.png",
+      "equipo_id": 9798,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 15,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Marino",
+      "pts": 16,
+      "pj": 12,
+      "dg": 5,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 20,
+      "gc": 15,
+      "forma": "LDDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9799.png",
+      "equipo_id": 9799,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Los Llanos",
+      "pts": 16,
+      "pj": 11,
+      "dg": 3,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 16,
+      "gc": 13,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24611.png",
+      "equipo_id": 24611,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 13,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Mensajero",
+      "pts": 16,
+      "pj": 12,
+      "dg": -4,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 20,
+      "forma": "WLDLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5269.png",
+      "equipo_id": 5269,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Estrella",
+      "pts": 16,
+      "pj": 12,
+      "dg": -6,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 14,
+      "gc": 20,
+      "forma": "WLWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20275.png",
+      "equipo_id": 20275,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 6,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Tenerife C",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 17,
+      "gc": 16,
+      "forma": "LDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/26851.png",
+      "equipo_id": 26851,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "San Bartolomé",
+      "pts": 13,
+      "pj": 12,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 17,
+      "gc": 20,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22148.png",
+      "equipo_id": 22148,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Lanzarote",
+      "pts": 13,
+      "pj": 12,
+      "dg": -3,
+      "pg": 2,
+      "pe": 7,
+      "pp": 3,
+      "gf": 12,
+      "gc": 15,
+      "forma": "DLDDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9797.png",
+      "equipo_id": 9797,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Villa Santa Brígida",
+      "pts": 13,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 18,
+      "forma": "WLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9807.png",
+      "equipo_id": 9807,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Anaza",
+      "pts": 12,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 23,
+      "forma": "WLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28113.png",
+      "equipo_id": 28113,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Playas Sotavento",
+      "pts": 7,
+      "pj": 12,
+      "dg": -18,
+      "pg": 1,
+      "pe": 4,
+      "pp": 7,
+      "gf": 10,
+      "gc": 28,
+      "forma": "LWLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/25036.png",
+      "equipo_id": 25036,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Laguna de Duero",
+      "pts": 6,
+      "pj": 12,
+      "dg": -13,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 14,
+      "gc": 27,
+      "forma": "LWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22143.png",
+      "equipo_id": 22143,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Villaverde Norte",
+      "pts": 5,
+      "pj": 12,
+      "dg": -19,
+      "pg": 1,
+      "pe": 2,
+      "pp": 9,
+      "gf": 8,
+      "gc": 27,
+      "forma": "LLWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28114.png",
+      "equipo_id": 28114,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 21
+      }
+    }
+  ],
+  "movimientos": {
+    "Real Unión de Tenerife": {
+      "antes": 4,
+      "ahora": 4,
+      "cambio": "se mantiene"
+    },
+    "Anaza": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  }
+}

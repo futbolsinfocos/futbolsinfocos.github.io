@@ -1,0 +1,682 @@
+{
+  "slug": "2026-11-27-liga-portugal",
+  "fecha": "2026-11-27",
+  "etiqueta": "Liga Portugal",
+  "competicion": "Liga Portugal",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Nacional gana 2-1 en Funchal y sube al 13.º; el Maritimo cae al 15.º con diez hombres",
+  "entradilla": "Nacional se impuso al Maritimo por 1-2 en el Estádio do Marítimo gracias a los goles de Song Min-kyu y Markus Jensen. El equipo de Funchal descontó en el 90 y vio la roja de Romain Correia en el 89.",
+  "cuerpo_markdown": "Nacional se llevó los tres puntos del Estádio do Marítimo en la duodécima jornada de la Liga Portugal con un 2-1 ante el Maritimo. Los goles de Song Min-kyu, en el 36, y Markus Jensen, en el 51, dieron la victoria a los visitantes, que escalan del 16.º al 13.º puesto según la tabla. El Maritimo descontó con gol de Samuel Bamba en el 90 y cae al 15.º puesto.\n\n## Maritimo 1-2 Nacional\n\nNacional se adelantó en el 36 con gol de Song Min-kyu y amplió la ventaja en el 51 con tanto de Markus Jensen. Samuel Bamba marcó para el Maritimo en el 90, y en el 89 Romain Correia fue expulsado por el equipo local. Según las estadísticas, el Maritimo tuvo la posesión (59%) y lanzó 14 tiros, con 4 a puerta, frente a 8 tiros y 4 a puerta del Nacional, que tuvo el 41% de posesión. El resultado deja al Nacional en el 13.º puesto con 10 puntos, tras subir tres posiciones, y al Maritimo en el 15.º con 8 puntos, tras bajar uno.\n\n## Así queda la clasificación\n\nEl Oporto lidera con 33 puntos tras 11 jornadas, con cinco victorias seguidas, por delante del Benfica, segundo con 28, y del Sporting de Portugal, tercero con 24. Los cinco primeros son los que marca la zona de ascenso en la tabla. En la parte baja, el Casa Pia (16.º, 8 puntos) y el Rio Ave (17.º, 7 puntos) ocupan la zona de descenso, y el Estoril es el último con 2 puntos, con cinco derrotas consecutivas.",
+  "texto_instagram": "⚽ Nacional gana 2-1 al Maritimo en Funchal y sube al 13.º puesto. Los visitantes se llevan la victoria con goles de Song Min-kyu y Markus Jensen.\n\nLiga Portugal\nMaritimo 1-2 Nacional: Song Min-kyu (36'), Markus Jensen (51') para el Nacional; Samuel Bamba (90') para el Maritimo. Expulsado Romain Correia (89') en el Maritimo. 🟥",
+  "hashtags": [
+    "#LigaPortugal",
+    "#Nacional",
+    "#Maritimo",
+    "#Futbol"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-liga-portugal-1.jpg",
+    "img/2026-11-27/2026-11-27-liga-portugal-2.jpg",
+    "img/2026-11-27/2026-11-27-liga-portugal-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1575551,
+      "fecha": "2026-11-27T21:15:00+01:00",
+      "estadio": "Estádio do Marítimo",
+      "ciudad": "Funchal",
+      "arbitro": "Miguel Andre Monteiro Fonseca",
+      "jornada": "Regular Season - 12",
+      "liga_id": 94,
+      "id_local": 214,
+      "id_visitante": 225,
+      "local": "Maritimo",
+      "visitante": "Nacional",
+      "escudo_local": "https://media.api-sports.io/football/teams/214.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/225.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 36,
+          "equipo": "Nacional",
+          "jugador": "Song Min-kyu",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 51,
+          "equipo": "Nacional",
+          "jugador": "Markus Jensen",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Maritimo",
+          "jugador": "Samuel Bamba",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 89,
+          "equipo": "Maritimo",
+          "jugador": "Romain Correia"
+        }
+      ],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "59%",
+          "tiros": 14,
+          "a_puerta": 4,
+          "corners": 9,
+          "faltas": 18,
+          "fueras_juego": 1,
+          "amarillas": 5,
+          "rojas": 1
+        },
+        "visitante": {
+          "posesion": "41%",
+          "tiros": 8,
+          "a_puerta": 4,
+          "corners": 1,
+          "faltas": 11,
+          "fueras_juego": 0,
+          "amarillas": 5,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Oporto",
+      "pts": 33,
+      "pj": 11,
+      "dg": 22,
+      "pg": 11,
+      "pe": 0,
+      "pp": 0,
+      "gf": 27,
+      "gc": 5,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/212.png",
+      "equipo_id": 212,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 13,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 14,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Benfica",
+      "pts": 28,
+      "pj": 11,
+      "dg": 20,
+      "pg": 9,
+      "pe": 1,
+      "pp": 1,
+      "gf": 30,
+      "gc": 10,
+      "forma": "WWWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/211.png",
+      "equipo_id": 211,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 20,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Sporting de Portugal",
+      "pts": 24,
+      "pj": 11,
+      "dg": 13,
+      "pg": 7,
+      "pe": 3,
+      "pp": 1,
+      "gf": 24,
+      "gc": 11,
+      "forma": "WWLWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/228.png",
+      "equipo_id": 228,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Santa Clara",
+      "pts": 21,
+      "pj": 11,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 16,
+      "gc": 8,
+      "forma": "LWLWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/227.png",
+      "equipo_id": 227,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Arouca",
+      "pts": 20,
+      "pj": 11,
+      "dg": 5,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 13,
+      "gc": 8,
+      "forma": "LWWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/240.png",
+      "equipo_id": 240,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 9,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Academico Viseu",
+      "pts": 20,
+      "pj": 11,
+      "dg": 2,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 15,
+      "gc": 13,
+      "forma": "LWWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/238.png",
+      "equipo_id": 238,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "GIL Vicente",
+      "pts": 18,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 10,
+      "gc": 8,
+      "forma": "WDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/762.png",
+      "equipo_id": 762,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 6,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "SC Braga",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "forma": "WWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/217.png",
+      "equipo_id": 217,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Moreirense",
+      "pts": 14,
+      "pj": 11,
+      "dg": -5,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 13,
+      "gc": 18,
+      "forma": "LWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/215.png",
+      "equipo_id": 215,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Famalicao",
+      "pts": 13,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 14,
+      "forma": "WLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/242.png",
+      "equipo_id": 242,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Alverca",
+      "pts": 12,
+      "pj": 11,
+      "dg": -1,
+      "pg": 3,
+      "pe": 3,
+      "pp": 5,
+      "gf": 14,
+      "gc": 15,
+      "forma": "DLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4724.png",
+      "equipo_id": 4724,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Estrela",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5,
+      "pg": 2,
+      "pe": 4,
+      "pp": 5,
+      "gf": 17,
+      "gc": 22,
+      "forma": "LLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15130.png",
+      "equipo_id": 15130,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Nacional",
+      "pts": 10,
+      "pj": 11,
+      "dg": -8,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 11,
+      "gc": 19,
+      "forma": "WLWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/225.png",
+      "equipo_id": 225,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Vitória SC",
+      "pts": 9,
+      "pj": 11,
+      "dg": -1,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/224.png",
+      "equipo_id": 224,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Maritimo",
+      "pts": 8,
+      "pj": 10,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 6,
+      "gf": 9,
+      "gc": 21,
+      "forma": "LLLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/214.png",
+      "equipo_id": 214,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Casa Pia",
+      "pts": 8,
+      "pj": 11,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 6,
+      "gc": 20,
+      "forma": "DLWLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/4716.png",
+      "equipo_id": 4716,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 1,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Rio Ave",
+      "pts": 7,
+      "pj": 11,
+      "dg": -15,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 9,
+      "gc": 24,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/226.png",
+      "equipo_id": 226,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Estoril",
+      "pts": 2,
+      "pj": 10,
+      "dg": -14,
+      "pg": 0,
+      "pe": 2,
+      "pp": 8,
+      "gf": 5,
+      "gc": 19,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/230.png",
+      "equipo_id": 230,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 0,
+        "pp": 5,
+        "gf": 2,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Nacional": {
+      "antes": 16,
+      "ahora": 13,
+      "cambio": "sube 3 puestos"
+    },
+    "Maritimo": {
+      "antes": 14,
+      "ahora": 15,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}

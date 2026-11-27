@@ -1,0 +1,670 @@
+{
+  "slug": "2026-11-27-eredivisie",
+  "fecha": "2026-11-27",
+  "etiqueta": "Eredivisie",
+  "competicion": "Eredivisie",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Groningen y Willem B se reparten los puntos con un gol en el descuento",
+  "entradilla": "El Groningen empató 1-1 ante el Willem B con un gol de Thom Van Bergen en el minuto 90. Los dos equipos se quedan donde estaban en la tabla.",
+  "cuerpo_markdown": "Jornada 14 de la Eredivisie con un solo partido en la jornada: el Groningen y el Willem B empataron 1-1 en el Hitachi Capital Mobility Stadion.\n\n## Groningen 1-1 Willem B\n\nEl Willem B se adelantó en el minuto 38 con gol de Calvin Twigt. El Groningen igualó en el minuto 90, en el descuento, con un tanto de Thom Van Bergen. El partido lo dirigió Richard Martens. El local tuvo el balón el 64% del tiempo y disparó 31 veces, 9 de ellas a puerta, frente a 8 tiros y 4 a puerta del visitante. El Willem B recibió tres tarjetas amarillas. Ninguno de los dos equipos cambió de puesto: el Groningen sigue décimo con 16 puntos y el Willem B, decimoctavo con 4.\n\n## Así queda la clasificación\n\nEl PSV Eindhoven lidera la Eredivisie con 29 puntos, por delante del Ajax (28) y el Twente (27), todos en zona de ascenso. El AZ Alkmaar (26), el Feyenoord (25), el Heerenveen (24) y el Fortuna Sittard (23) completan la zona de playoff. En la parte baja, el Telstar (10) y el ADO Den Haag (9) ocupan los puestos de descenso, a 1 y 0 puntos del Willem B, que cierra la tabla con 4 puntos y una diferencia de goles de -30.",
+  "texto_instagram": "Un solo partido en la Eredivisie: empate en el descuento ⚽\n\nGroningen 1-1 Willem B\nGoles: Calvin Twigt (Willem B, 38'), Thom Van Bergen (Groningen, 90')\n\n#Eredivisie",
+  "hashtags": [
+    "#Eredivisie",
+    "#Groningen",
+    "#WillemII",
+    "#Futbol"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-eredivisie-1.jpg",
+    "img/2026-11-27/2026-11-27-eredivisie-2.jpg",
+    "img/2026-11-27/2026-11-27-eredivisie-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1552238,
+      "fecha": "2026-11-27T20:00:00+01:00",
+      "estadio": "Hitachi Capital Mobility Stadion",
+      "ciudad": "Groningen",
+      "arbitro": "Richard Martens",
+      "jornada": "Regular Season - 14",
+      "liga_id": 88,
+      "id_local": 202,
+      "id_visitante": 195,
+      "local": "Groningen",
+      "visitante": "Willem B",
+      "escudo_local": "https://media.api-sports.io/football/teams/202.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/195.png",
+      "goles_local": 1,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 38,
+          "equipo": "Willem B",
+          "jugador": "Calvin Twigt",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Groningen",
+          "jugador": "Thom Van Bergen",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "64%",
+          "tiros": 31,
+          "a_puerta": 9,
+          "corners": 6,
+          "faltas": 11,
+          "fueras_juego": 2,
+          "amarillas": 0,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "36%",
+          "tiros": 8,
+          "a_puerta": 4,
+          "corners": 1,
+          "faltas": 15,
+          "fueras_juego": 0,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "PSV Eindhoven",
+      "pts": 29,
+      "pj": 13,
+      "dg": 28,
+      "pg": 9,
+      "pe": 2,
+      "pp": 2,
+      "gf": 44,
+      "gc": 16,
+      "forma": "WWWDL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/197.png",
+      "equipo_id": 197,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 21,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 23,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Ajax",
+      "pts": 28,
+      "pj": 13,
+      "dg": 20,
+      "pg": 8,
+      "pe": 4,
+      "pp": 1,
+      "gf": 35,
+      "gc": 15,
+      "forma": "WDWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/194.png",
+      "equipo_id": 194,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 15,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 20,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Twente",
+      "pts": 27,
+      "pj": 13,
+      "dg": 19,
+      "pg": 8,
+      "pe": 3,
+      "pp": 2,
+      "gf": 32,
+      "gc": 13,
+      "forma": "WDWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/415.png",
+      "equipo_id": 415,
+      "casa": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 18,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "AZ Alkmaar",
+      "pts": 26,
+      "pj": 13,
+      "dg": 12,
+      "pg": 8,
+      "pe": 2,
+      "pp": 3,
+      "gf": 29,
+      "gc": 17,
+      "forma": "WWLLD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/201.png",
+      "equipo_id": 201,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 16,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Feyenoord",
+      "pts": 25,
+      "pj": 13,
+      "dg": 18,
+      "pg": 7,
+      "pe": 4,
+      "pp": 2,
+      "gf": 38,
+      "gc": 20,
+      "forma": "LLDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "equipo_id": 209,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 14,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 24,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Heerenveen",
+      "pts": 24,
+      "pj": 13,
+      "dg": 10,
+      "pg": 7,
+      "pe": 3,
+      "pp": 3,
+      "gf": 27,
+      "gc": 17,
+      "forma": "WWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/210.png",
+      "equipo_id": 210,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Fortuna Sittard",
+      "pts": 23,
+      "pj": 13,
+      "dg": 1,
+      "pg": 6,
+      "pe": 5,
+      "pp": 2,
+      "gf": 21,
+      "gc": 20,
+      "forma": "WDDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/205.png",
+      "equipo_id": 205,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 3,
+        "pp": 0,
+        "gf": 13,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Cambuur",
+      "pts": 18,
+      "pj": 13,
+      "dg": -1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 5,
+      "gf": 28,
+      "gc": 29,
+      "forma": "WLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/420.png",
+      "equipo_id": 420,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 14,
+        "gc": 20
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "GO Ahead Eagles",
+      "pts": 17,
+      "pj": 13,
+      "dg": -4,
+      "pg": 4,
+      "pe": 5,
+      "pp": 4,
+      "gf": 24,
+      "gc": 28,
+      "forma": "LWLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/410.png",
+      "equipo_id": 410,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 10,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Groningen",
+      "pts": 16,
+      "pj": 14,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 6,
+      "gf": 31,
+      "gc": 32,
+      "forma": "DLLLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/202.png",
+      "equipo_id": 202,
+      "casa": {
+        "pj": 8,
+        "pg": 2,
+        "pe": 2,
+        "pp": 4,
+        "gf": 15,
+        "gc": 18
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 16,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "PEC Zwolle",
+      "pts": 15,
+      "pj": 13,
+      "dg": -9,
+      "pg": 4,
+      "pe": 3,
+      "pp": 6,
+      "gf": 16,
+      "gc": 25,
+      "forma": "WDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/193.png",
+      "equipo_id": 193,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 10,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "NEC Nijmegen",
+      "pts": 14,
+      "pj": 13,
+      "dg": -4,
+      "pg": 3,
+      "pe": 5,
+      "pp": 5,
+      "gf": 21,
+      "gc": 25,
+      "forma": "LWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/413.png",
+      "equipo_id": 413,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 10,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Excelsior",
+      "pts": 14,
+      "pj": 13,
+      "dg": -12,
+      "pg": 4,
+      "pe": 2,
+      "pp": 7,
+      "gf": 19,
+      "gc": 31,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/196.png",
+      "equipo_id": 196,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 5,
+        "gc": 20
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 14,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Sparta Rotterdam",
+      "pts": 12,
+      "pj": 13,
+      "dg": -12,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 22,
+      "gc": 34,
+      "forma": "LLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/426.png",
+      "equipo_id": 426,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 10,
+        "gc": 19
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 12,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Utrecht",
+      "pts": 12,
+      "pj": 13,
+      "dg": -14,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 23,
+      "gc": 37,
+      "forma": "LLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/207.png",
+      "equipo_id": 207,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 13,
+        "gc": 21
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Telstar",
+      "pts": 10,
+      "pj": 13,
+      "dg": -9,
+      "pg": 2,
+      "pe": 4,
+      "pp": 7,
+      "gf": 19,
+      "gc": 28,
+      "forma": "LDWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/427.png",
+      "equipo_id": 427,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 13,
+        "gc": 20
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "ADO Den Haag",
+      "pts": 9,
+      "pj": 13,
+      "dg": -12,
+      "pg": 2,
+      "pe": 3,
+      "pp": 8,
+      "gf": 16,
+      "gc": 28,
+      "forma": "LWLLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/198.png",
+      "equipo_id": 198,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 11,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 5,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Willem B",
+      "pts": 4,
+      "pj": 14,
+      "dg": -30,
+      "pg": 0,
+      "pe": 4,
+      "pp": 10,
+      "gf": 13,
+      "gc": 43,
+      "forma": "DLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/195.png",
+      "equipo_id": 195,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 17
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 0,
+        "pe": 2,
+        "pp": 6,
+        "gf": 8,
+        "gc": 26
+      }
+    }
+  ],
+  "movimientos": {
+    "Groningen": {
+      "antes": 10,
+      "ahora": 10,
+      "cambio": "se mantiene"
+    },
+    "Willem B": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

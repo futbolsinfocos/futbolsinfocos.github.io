@@ -6,16 +6,24 @@
       "jugador": "N. Füllkrug",
       "equipo": "Werder Bremen",
       "escudo": "https://media.api-sports.io/football/teams/162.png",
-      "goles": 9,
+      "goles": 10,
       "penaltis": 3,
-      "pj": 9
+      "pj": 10
     },
     {
       "jugador": "P. Schick",
       "equipo": "Bayer Leverkusen",
       "escudo": "https://media.api-sports.io/football/teams/168.png",
-      "goles": 8,
+      "goles": 9,
       "penaltis": 0,
+      "pj": 10
+    },
+    {
+      "jugador": "M. Gregoritsch",
+      "equipo": "FC Augsburg",
+      "escudo": "https://media.api-sports.io/football/teams/170.png",
+      "goles": 7,
+      "penaltis": 1,
       "pj": 9
     },
     {
@@ -24,7 +32,7 @@
       "escudo": "https://media.api-sports.io/football/teams/157.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
       "jugador": "Y. Ebnoutalib",
@@ -32,7 +40,15 @@
       "escudo": "https://media.api-sports.io/football/teams/169.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
+    },
+    {
+      "jugador": "J. Burkardt",
+      "equipo": "Eintracht Frankfurt",
+      "escudo": "https://media.api-sports.io/football/teams/169.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 10
     },
     {
       "jugador": "P. Tietz",
@@ -40,7 +56,15 @@
       "escudo": "https://media.api-sports.io/football/teams/164.png",
       "goles": 6,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
+    },
+    {
+      "jugador": "Rômulo",
+      "equipo": "RB Leipzig",
+      "escudo": "https://media.api-sports.io/football/teams/173.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 8
     },
     {
       "jugador": "C. Nkunku",
@@ -48,15 +72,15 @@
       "escudo": "https://media.api-sports.io/football/teams/173.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 7
+      "pj": 8
     },
     {
-      "jugador": "J. Burkardt",
-      "equipo": "Eintracht Frankfurt",
-      "escudo": "https://media.api-sports.io/football/teams/169.png",
+      "jugador": "I. Matanović",
+      "equipo": "SC Freiburg",
+      "escudo": "https://media.api-sports.io/football/teams/160.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
       "jugador": "E. Demirović",
@@ -64,7 +88,15 @@
       "escudo": "https://media.api-sports.io/football/teams/172.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
+    },
+    {
+      "jugador": "F. Nmecha",
+      "equipo": "Borussia Dortmund",
+      "escudo": "https://media.api-sports.io/football/teams/165.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 10
     },
     {
       "jugador": "Y. Suzuki",
@@ -72,23 +104,15 @@
       "escudo": "https://media.api-sports.io/football/teams/160.png",
       "goles": 5,
       "penaltis": 0,
-      "pj": 8
+      "pj": 9
     },
     {
-      "jugador": "Rômulo",
+      "jugador": "A. Nusa",
       "equipo": "RB Leipzig",
       "escudo": "https://media.api-sports.io/football/teams/173.png",
       "goles": 5,
-      "penaltis": 0,
-      "pj": 7
-    },
-    {
-      "jugador": "M. Gregoritsch",
-      "equipo": "FC Augsburg",
-      "escudo": "https://media.api-sports.io/football/teams/170.png",
-      "goles": 5,
-      "penaltis": 1,
-      "pj": 8
+      "penaltis": 2,
+      "pj": 10
     },
     {
       "jugador": "M. Krattenmacher",
@@ -96,15 +120,7 @@
       "escudo": "https://media.api-sports.io/football/teams/1660.png",
       "goles": 4,
       "penaltis": 0,
-      "pj": 9
-    },
-    {
-      "jugador": "I. Matanović",
-      "equipo": "SC Freiburg",
-      "escudo": "https://media.api-sports.io/football/teams/160.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
       "jugador": "L. Díaz",
@@ -115,28 +131,20 @@
       "pj": 6
     },
     {
-      "jugador": "F. Nmecha",
-      "equipo": "Borussia Dortmund",
-      "escudo": "https://media.api-sports.io/football/teams/165.png",
-      "goles": 4,
-      "penaltis": 0,
-      "pj": 9
-    },
-    {
       "jugador": "H. Kane",
       "equipo": "Bayern de Múnich",
       "escudo": "https://media.api-sports.io/football/teams/157.png",
       "goles": 4,
       "penaltis": 1,
-      "pj": 9
+      "pj": 10
     },
     {
-      "jugador": "A. Nusa",
+      "jugador": "T. Gomis",
       "equipo": "RB Leipzig",
       "escudo": "https://media.api-sports.io/football/teams/173.png",
-      "goles": 4,
-      "penaltis": 1,
-      "pj": 9
+      "goles": 3,
+      "penaltis": 0,
+      "pj": 10
     },
     {
       "jugador": "A. Caci",
@@ -144,20 +152,12 @@
       "escudo": "https://media.api-sports.io/football/teams/164.png",
       "goles": 3,
       "penaltis": 0,
-      "pj": 9
+      "pj": 10
     },
     {
       "jugador": "I. Maza",
       "equipo": "Bayer Leverkusen",
       "escudo": "https://media.api-sports.io/football/teams/168.png",
-      "goles": 3,
-      "penaltis": 0,
-      "pj": 9
-    },
-    {
-      "jugador": "T. Gomis",
-      "equipo": "RB Leipzig",
-      "escudo": "https://media.api-sports.io/football/teams/173.png",
       "goles": 3,
       "penaltis": 0,
       "pj": 9
@@ -167,13 +167,37 @@
     {
       "equipo": "Borussia Mönchengladbach",
       "escudo": "https://media.api-sports.io/football/teams/163.png",
-      "amarillas": 27,
+      "amarillas": 32,
       "rojas": 2
     },
     {
       "equipo": "Union Berlin",
       "escudo": "https://media.api-sports.io/football/teams/182.png",
+      "amarillas": 26,
+      "rojas": 1
+    },
+    {
+      "equipo": "1899 Hoffenheim",
+      "escudo": "https://media.api-sports.io/football/teams/167.png",
+      "amarillas": 19,
+      "rojas": 3
+    },
+    {
+      "equipo": "Eintracht Frankfurt",
+      "escudo": "https://media.api-sports.io/football/teams/169.png",
       "amarillas": 24,
+      "rojas": 1
+    },
+    {
+      "equipo": "FSV Mainz 05",
+      "escudo": "https://media.api-sports.io/football/teams/164.png",
+      "amarillas": 23,
+      "rojas": 1
+    },
+    {
+      "equipo": "SC Freiburg",
+      "escudo": "https://media.api-sports.io/football/teams/160.png",
+      "amarillas": 22,
       "rojas": 1
     },
     {
@@ -183,51 +207,33 @@
       "rojas": 0
     },
     {
-      "equipo": "Eintracht Frankfurt",
-      "escudo": "https://media.api-sports.io/football/teams/169.png",
-      "amarillas": 21,
-      "rojas": 1
-    },
-    {
-      "equipo": "1899 Hoffenheim",
-      "escudo": "https://media.api-sports.io/football/teams/167.png",
-      "amarillas": 17,
-      "rojas": 2
-    },
-    {
-      "equipo": "FSV Mainz 05",
-      "escudo": "https://media.api-sports.io/football/teams/164.png",
-      "amarillas": 20,
-      "rojas": 1
-    },
-    {
       "equipo": "Bayer Leverkusen",
       "escudo": "https://media.api-sports.io/football/teams/168.png",
-      "amarillas": 22,
+      "amarillas": 24,
       "rojas": 0
     },
     {
       "equipo": "Borussia Dortmund",
       "escudo": "https://media.api-sports.io/football/teams/165.png",
-      "amarillas": 19,
-      "rojas": 1
-    },
-    {
-      "equipo": "SC Freiburg",
-      "escudo": "https://media.api-sports.io/football/teams/160.png",
-      "amarillas": 19,
+      "amarillas": 20,
       "rojas": 1
     },
     {
       "equipo": "FC Augsburg",
       "escudo": "https://media.api-sports.io/football/teams/170.png",
-      "amarillas": 13,
-      "rojas": 1
+      "amarillas": 14,
+      "rojas": 2
     },
     {
       "equipo": "Hamburger SV",
       "escudo": "https://media.api-sports.io/football/teams/175.png",
-      "amarillas": 16,
+      "amarillas": 19,
+      "rojas": 0
+    },
+    {
+      "equipo": "Werder Bremen",
+      "escudo": "https://media.api-sports.io/football/teams/162.png",
+      "amarillas": 17,
       "rojas": 0
     },
     {
@@ -249,15 +255,9 @@
       "rojas": 0
     },
     {
-      "equipo": "Werder Bremen",
-      "escudo": "https://media.api-sports.io/football/teams/162.png",
-      "amarillas": 14,
-      "rojas": 0
-    },
-    {
       "equipo": "VfB Stuttgart",
       "escudo": "https://media.api-sports.io/football/teams/172.png",
-      "amarillas": 12,
+      "amarillas": 13,
       "rojas": 0
     },
     {
@@ -269,9 +269,9 @@
     {
       "equipo": "RB Leipzig",
       "escudo": "https://media.api-sports.io/football/teams/173.png",
-      "amarillas": 8,
+      "amarillas": 10,
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-20"
+  "fecha": "2026-11-27"
 }

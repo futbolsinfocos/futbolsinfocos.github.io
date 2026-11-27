@@ -1,0 +1,747 @@
+{
+  "slug": "2026-11-27-laliga-ea-sports",
+  "fecha": "2026-11-27",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "El Racing gana 3-1 al Levante con dos goles de Pablo García y sube al sexto puesto",
+  "entradilla": "Pablo García marcó en el 66 y en el 90, y el Racing de Santander sube al sexto puesto. El Levante, con dos derrotas seguidas, se queda en el 15º.",
+  "cuerpo_markdown": "El Racing de Santander ganó 3-1 al Levante en el Estadio Ciudad de Valencia y sube del 7º al 6º puesto de la clasificación, con 20 puntos. El partido lo decidió un gol en el 66 de Pablo García, un tanto de Yassir Zabiri en el 81 y otro de Pablo García en el descuento, en el 90. El Levante había marcado en el 42 con Iván Romero.\n\n## Levante 1-3 Racing de Santander\n\nIván Romero adelantó al Levante en el 42, pero el Racing le dio la vuelta con los goles de Pablo García en el 66, Yassir Zabiri en el 81 y de nuevo Pablo García en el 90, en el descuento. Las estadísticas dicen que el Levante tuvo más posesión (56%) y más tiros (23 frente a 15), pero solo tiró tres veces a puerta; el Racing hizo ocho remates a puerta. Con esta victoria, el Racing suma su tercera victoria consecutiva y se coloca sexto con 20 puntos, en zona de ascenso según la tabla. El Levante, con 12 puntos y 14 partidos jugados, se mantiene en el 15º puesto tras perder los dos últimos encuentros.\n\n## Así queda la clasificación\n\nEl Barcelona encabeza la clasificación con 36 puntos, por delante del Real Madrid (33) y el Atlético de Madrid (31). El Racing, sexto con 20 puntos, está a dos puntos del Real Sociedad, quinto con 22, y a uno del Sevilla, séptimo con 19. En la parte baja, el Getafe ocupa el 18º puesto con 12 puntos, en zona de descenso, igual que el Elche (19º, 11 puntos) y el Málaga (20º, 5 puntos). El Levante, con 12 puntos, iguala al Getafe pero está en el 15º puesto por diferencia de goles.",
+  "texto_instagram": "⚽ El Racing de Santander gana 3-1 al Levante y sube al 6º puesto. Pablo García marcó dos goles, en el 66 y en el 90 🔥\n\nLevante 1-3 Racing de Santander\nLevante: Iván Romero (42)\nRacing de Santander: Pablo García (66, 90), Yassir Zabiri (81) 📊",
+  "hashtags": [
+    "#LaLiga",
+    "#Racing",
+    "#Levante",
+    "#Jornada14",
+    "#Fútbol"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-laliga-ea-sports-1.jpg",
+    "img/2026-11-27/2026-11-27-laliga-ea-sports-2.jpg",
+    "img/2026-11-27/2026-11-27-laliga-ea-sports-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570468,
+      "fecha": "2026-11-27T21:00:00+01:00",
+      "estadio": "Estadio Ciudad de Valencia",
+      "ciudad": "Valencia",
+      "arbitro": "Miguel Sesma Espinosa",
+      "jornada": "Regular Season - 14",
+      "liga_id": 140,
+      "id_local": 539,
+      "id_visitante": 4665,
+      "local": "Levante",
+      "visitante": "Racing de Santander",
+      "escudo_local": "https://media.api-sports.io/football/teams/539.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/4665.png",
+      "goles_local": 1,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 42,
+          "equipo": "Levante",
+          "jugador": "Iván Romero",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 66,
+          "equipo": "Racing de Santander",
+          "jugador": "Pablo García",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 81,
+          "equipo": "Racing de Santander",
+          "jugador": "Yassir Zabiri",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Racing de Santander",
+          "jugador": "Pablo García",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "56%",
+          "tiros": 23,
+          "a_puerta": 3,
+          "corners": 9,
+          "faltas": 16,
+          "fueras_juego": 2,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "44%",
+          "tiros": 15,
+          "a_puerta": 8,
+          "corners": 5,
+          "faltas": 11,
+          "fueras_juego": 0,
+          "amarillas": 2,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Barcelona",
+      "pts": 36,
+      "pj": 13,
+      "dg": 36,
+      "pg": 12,
+      "pe": 0,
+      "pp": 1,
+      "gf": 51,
+      "gc": 15,
+      "forma": "WWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/529.png",
+      "equipo_id": 529,
+      "casa": {
+        "pj": 7,
+        "pg": 6,
+        "pe": 0,
+        "pp": 1,
+        "gf": 27,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 24,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Real Madrid",
+      "pts": 33,
+      "pj": 13,
+      "dg": 22,
+      "pg": 11,
+      "pe": 0,
+      "pp": 2,
+      "gf": 33,
+      "gc": 11,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/541.png",
+      "equipo_id": 541,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 19,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 0,
+        "pp": 2,
+        "gf": 14,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Atlético de Madrid",
+      "pts": 31,
+      "pj": 13,
+      "dg": 16,
+      "pg": 10,
+      "pe": 1,
+      "pp": 2,
+      "gf": 26,
+      "gc": 10,
+      "forma": "WLWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/530.png",
+      "equipo_id": 530,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 6,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Betis",
+      "pts": 27,
+      "pj": 13,
+      "dg": 5,
+      "pg": 8,
+      "pe": 3,
+      "pp": 2,
+      "gf": 21,
+      "gc": 16,
+      "forma": "DWWDL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/543.png",
+      "equipo_id": 543,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Real Sociedad",
+      "pts": 22,
+      "pj": 13,
+      "dg": 0,
+      "pg": 7,
+      "pe": 1,
+      "pp": 5,
+      "gf": 23,
+      "gc": 23,
+      "forma": "LWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/548.png",
+      "equipo_id": 548,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 15,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Racing de Santander",
+      "pts": 20,
+      "pj": 14,
+      "dg": -10,
+      "pg": 6,
+      "pe": 2,
+      "pp": 6,
+      "gf": 23,
+      "gc": 33,
+      "forma": "WWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/4665.png",
+      "equipo_id": 4665,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 14,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 0,
+        "pp": 5,
+        "gf": 9,
+        "gc": 20
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Sevilla",
+      "pts": 19,
+      "pj": 13,
+      "dg": -2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 18,
+      "gc": 20,
+      "forma": "DDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/536.png",
+      "equipo_id": 536,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Athletic Club",
+      "pts": 16,
+      "pj": 12,
+      "dg": 3,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 12,
+      "forma": "LDWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/531.png",
+      "equipo_id": 531,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Alavés",
+      "pts": 16,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 18,
+      "gc": 18,
+      "forma": "WDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/542.png",
+      "equipo_id": 542,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Villarreal",
+      "pts": 15,
+      "pj": 13,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 6,
+      "gf": 19,
+      "gc": 18,
+      "forma": "LWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/533.png",
+      "equipo_id": 533,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 11,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Espanyol",
+      "pts": 15,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 3,
+      "pp": 6,
+      "gf": 14,
+      "gc": 14,
+      "forma": "WDWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/540.png",
+      "equipo_id": 540,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Deportivo de La Coruña",
+      "pts": 15,
+      "pj": 13,
+      "dg": -1,
+      "pg": 3,
+      "pe": 6,
+      "pp": 4,
+      "gf": 16,
+      "gc": 17,
+      "forma": "LDWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/544.png",
+      "equipo_id": 544,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Osasuna",
+      "pts": 15,
+      "pj": 13,
+      "dg": -10,
+      "pg": 4,
+      "pe": 3,
+      "pp": 6,
+      "gf": 13,
+      "gc": 23,
+      "forma": "WDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/727.png",
+      "equipo_id": 727,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 7,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Celta de Vigo",
+      "pts": 13,
+      "pj": 13,
+      "dg": -1,
+      "pg": 2,
+      "pe": 7,
+      "pp": 4,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LDLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/538.png",
+      "equipo_id": 538,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Levante",
+      "pts": 12,
+      "pj": 14,
+      "dg": -7,
+      "pg": 2,
+      "pe": 6,
+      "pp": 6,
+      "gf": 18,
+      "gc": 25,
+      "forma": "LDDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/539.png",
+      "equipo_id": 539,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 15,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 4,
+        "pp": 3,
+        "gf": 3,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Rayo Vallecano",
+      "pts": 12,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 3,
+      "pp": 6,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/728.png",
+      "equipo_id": 728,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Valencia",
+      "pts": 12,
+      "pj": 13,
+      "dg": -11,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 9,
+      "gc": 20,
+      "forma": "WLWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/532.png",
+      "equipo_id": 532,
+      "casa": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 3,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Getafe",
+      "pts": 12,
+      "pj": 13,
+      "dg": -13,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 21,
+      "forma": "LLWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/546.png",
+      "equipo_id": 546,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 0,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Elche",
+      "pts": 11,
+      "pj": 13,
+      "dg": -6,
+      "pg": 2,
+      "pe": 5,
+      "pp": 6,
+      "gf": 15,
+      "gc": 21,
+      "forma": "DLLWD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/797.png",
+      "equipo_id": 797,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 4,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Málaga",
+      "pts": 5,
+      "pj": 13,
+      "dg": -15,
+      "pg": 0,
+      "pe": 5,
+      "pp": 8,
+      "gf": 9,
+      "gc": 24,
+      "forma": "LLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/535.png",
+      "equipo_id": 535,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 2,
+        "pp": 5,
+        "gf": 3,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Racing de Santander": {
+      "antes": 7,
+      "ahora": 6,
+      "cambio": "sube 1 puesto"
+    },
+    "Levante": {
+      "antes": 15,
+      "ahora": 15,
+      "cambio": "se mantiene"
+    }
+  }
+}

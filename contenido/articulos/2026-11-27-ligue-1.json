@@ -1,0 +1,664 @@
+{
+  "slug": "2026-11-27-ligue-1",
+  "fecha": "2026-11-27",
+  "etiqueta": "Ligue 1",
+  "competicion": "Ligue 1",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Brest gana 1-0 al Paris FC con un gol de Zogbe y sube al tercer puesto",
+  "entradilla": "Un tanto de Luck Zogbe en el minuto 21 da la victoria al Stade Brestois 29 sobre el Paris FC. El Brest sube tres puestos y se coloca tercero, mientras el Paris FC se mantiene segundo.",
+  "cuerpo_markdown": "Una sola jornada en la Ligue 1 con un único partido, y el Brest se impuso por la mínima. Luck Zogbe marcó en el 21 y el 1-0 bastó para que el Stade Brestois 29 subiera tres puestos en la clasificación, del sexto al tercero.\n\n## Brest 1-0 Paris FC\n\nLuck Zogbe marcó en el minuto 21 y dio al Brest su única victoria de la jornada, que lo deja con 21 puntos en 12 partidos. El Brest sube del puesto 6 al 3 según la clasificación y ya suma tres victorias seguidas en su racha, con una derrota en el último encuentro. El Paris FC tuvo más balón (67%) y más remates (18 por 17) y acabó con 8 tiros a puerta frente a los 3 del Brest, pero no logró marcar. El Paris FC se mantiene segundo con 23 puntos.\n\n## Así queda la clasificación\n\nEl PSG lidera con 26 puntos, por delante del Paris FC (23) y del Stade Brestois 29 (21), los tres en la zona de ascenso. Lille y Lyon, con 21 y 20 puntos, ocupan el cuarto y quinto puesto. En la parte baja, el Strasbourg (10 puntos) está en descenso en el puesto 16, por delante del Angers (8) y del Le Havre, último con 2 puntos.",
+  "texto_instagram": "⚽ El Brest vence 1-0 al Paris FC y sube al tercer puesto de la Ligue 1. 🔝\n\nBrest 1-0 Paris FC\n⚽ Luck Zogbe (21')\n\n#Ligue1 #Brest #ParisFC",
+  "hashtags": [
+    "#Ligue1",
+    "#Brest",
+    "#ParisFC",
+    "#Futbol"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-ligue-1-1.jpg",
+    "img/2026-11-27/2026-11-27-ligue-1-2.jpg",
+    "img/2026-11-27/2026-11-27-ligue-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1552830,
+      "fecha": "2026-11-27T20:45:00+01:00",
+      "estadio": "Stade Francis-Le-Blé",
+      "ciudad": "Brest",
+      "arbitro": "Ruddy Buquet",
+      "jornada": "Regular Season - 12",
+      "liga_id": 61,
+      "id_local": 106,
+      "id_visitante": 114,
+      "local": "Stade Brestois 29",
+      "visitante": "Paris FC",
+      "escudo_local": "https://media.api-sports.io/football/teams/106.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/114.png",
+      "goles_local": 1,
+      "goles_visitante": 0,
+      "goleadores": [
+        {
+          "min": 21,
+          "equipo": "Stade Brestois 29",
+          "jugador": "Luck Zogbe",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "33%",
+          "tiros": 17,
+          "a_puerta": 3,
+          "corners": 3,
+          "faltas": 9,
+          "fueras_juego": 1,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "67%",
+          "tiros": 18,
+          "a_puerta": 8,
+          "corners": 5,
+          "faltas": 14,
+          "fueras_juego": 4,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "PSG",
+      "pts": 26,
+      "pj": 11,
+      "dg": 13,
+      "pg": 8,
+      "pe": 2,
+      "pp": 1,
+      "gf": 25,
+      "gc": 12,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/85.png",
+      "equipo_id": 85,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 7,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 2,
+        "pp": 0,
+        "gf": 18,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Paris FC",
+      "pts": 23,
+      "pj": 12,
+      "dg": 10,
+      "pg": 7,
+      "pe": 2,
+      "pp": 3,
+      "gf": 21,
+      "gc": 11,
+      "forma": "LWWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/114.png",
+      "equipo_id": 114,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 16,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Stade Brestois 29",
+      "pts": 21,
+      "pj": 12,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 20,
+      "gc": 12,
+      "forma": "WWWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/106.png",
+      "equipo_id": 106,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Lille",
+      "pts": 21,
+      "pj": 11,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 14,
+      "gc": 8,
+      "forma": "LWWDD",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/79.png",
+      "equipo_id": 79,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Olympique de Lyon",
+      "pts": 20,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 2,
+      "pp": 3,
+      "gf": 16,
+      "gc": 9,
+      "forma": "WLWLW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/80.png",
+      "equipo_id": 80,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Olympique de Marsella",
+      "pts": 18,
+      "pj": 11,
+      "dg": 7,
+      "pg": 6,
+      "pe": 0,
+      "pp": 5,
+      "gf": 24,
+      "gc": 17,
+      "forma": "LWWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/81.png",
+      "equipo_id": 81,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 15,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Nice",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 17,
+      "gc": 15,
+      "forma": "LWWWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/84.png",
+      "equipo_id": 84,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Monaco",
+      "pts": 17,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 14,
+      "gc": 12,
+      "forma": "DDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/91.png",
+      "equipo_id": 91,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Rennes",
+      "pts": 17,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 4,
+      "gf": 22,
+      "gc": 22,
+      "forma": "DLLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/94.png",
+      "equipo_id": 94,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 14,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Lorient",
+      "pts": 16,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 10,
+      "gc": 9,
+      "forma": "DWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/97.png",
+      "equipo_id": 97,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 4,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Lens",
+      "pts": 14,
+      "pj": 11,
+      "dg": 2,
+      "pg": 4,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 16,
+      "forma": "DLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/116.png",
+      "equipo_id": 116,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Toulouse",
+      "pts": 14,
+      "pj": 11,
+      "dg": 1,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 16,
+      "gc": 15,
+      "forma": "DWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/96.png",
+      "equipo_id": 96,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Le Mans",
+      "pts": 11,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 15,
+      "gc": 21,
+      "forma": "WDLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1298.png",
+      "equipo_id": 1298,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Estac Troyes",
+      "pts": 11,
+      "pj": 11,
+      "dg": -8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 10,
+      "gc": 18,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/110.png",
+      "equipo_id": 110,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Auxerre",
+      "pts": 11,
+      "pj": 11,
+      "dg": -11,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 14,
+      "gc": 25,
+      "forma": "DLLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/108.png",
+      "equipo_id": 108,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 19
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Strasbourg",
+      "pts": 10,
+      "pj": 11,
+      "dg": -5,
+      "pg": 3,
+      "pe": 1,
+      "pp": 7,
+      "gf": 18,
+      "gc": 23,
+      "forma": "LLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/95.png",
+      "equipo_id": 95,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 9,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Angers",
+      "pts": 8,
+      "pj": 11,
+      "dg": -14,
+      "pg": 2,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 23,
+      "forma": "LLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/77.png",
+      "equipo_id": 77,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Le Havre",
+      "pts": 2,
+      "pj": 11,
+      "dg": -15,
+      "pg": 0,
+      "pe": 2,
+      "pp": 9,
+      "gf": 10,
+      "gc": 25,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/111.png",
+      "equipo_id": 111,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 3,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Paris FC": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Stade Brestois 29": {
+      "antes": 6,
+      "ahora": 3,
+      "cambio": "sube 3 puestos"
+    }
+  }
+}

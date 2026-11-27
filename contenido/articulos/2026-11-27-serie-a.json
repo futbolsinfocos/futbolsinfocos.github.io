@@ -1,0 +1,720 @@
+{
+  "slug": "2026-11-27-serie-a",
+  "fecha": "2026-11-27",
+  "etiqueta": "Serie A",
+  "competicion": "Serie A",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Venezia y Bologna empatan 0-0 en el Penzo y ambos suben un puesto",
+  "entradilla": "Venezia y Bologna empataron sin goles en el Penzo. Los dos suben un puesto en la clasificación, pero el Venezia sigue en zona de descenso, en la 19ª posición.",
+  "cuerpo_markdown": "La jornada 13 de la Serie A se queda en Venecia, donde el Venezia y el Bologna no pasaron del 0-0. Ningún equipo marcó y ambos ganan un puesto tras la jornada: el Bologna es octavo con 19 puntos y el Venezia, 19º con 7.\n\n## Venezia 0-0 Bologna\n\nEl partido se quedó sin goles ni expulsiones ni penaltis fallados. El Bologna tuvo más posesión (56% frente al 44%) y más tiros a puerta (6 por 5), mientras que el Venezia lanzó 14 tiros y tuvo 3 córners por 6 del Bologna. Con el empate, el Bologna sube del 9º al 8º puesto y suma 19 puntos. El Venezia sube del 20º al 19º, con 7 puntos, todavía en zona de descenso.\n\n## Así queda la clasificación\n\nLa Lazio encabeza la tabla con 32 puntos, por delante de la Roma (30) y el Inter (29). El Milan (27) y el Como (26) completan los puestos de ascenso directo. La Juventus, sexta con 21 puntos, marca el play-off, a dos puntos del Bologna. En la parte baja, el Sassuolo es 18º con 8 puntos, el Venezia 19º con 7 y el Udinese 20º con 6, en zona de descenso.",
+  "texto_instagram": "⚽ Venezia 0-0 Bologna en la jornada 13 de la Serie A. Ningún gol, pero el Bologna sube al 8º puesto y el Venezia al 19º, todavía en descenso. 🏟️\n\nVenezia 0-0 Bologna (Penzo). Sin goles. El Bologna sube al 8º con 19 puntos y el Venezia al 19º con 7.",
+  "hashtags": [
+    "#SerieA",
+    "#Venezia",
+    "#Bologna"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-serie-a-1.jpg",
+    "img/2026-11-27/2026-11-27-serie-a-2.jpg",
+    "img/2026-11-27/2026-11-27-serie-a-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1550216,
+      "fecha": "2026-11-27T20:45:00+01:00",
+      "estadio": "Stadio Pier Luigi Penzo",
+      "ciudad": "Venice",
+      "arbitro": "Andrea Colombo",
+      "jornada": "Regular Season - 13",
+      "liga_id": 135,
+      "id_local": 517,
+      "id_visitante": 500,
+      "local": "Venezia",
+      "visitante": "Bologna",
+      "escudo_local": "https://media.api-sports.io/football/teams/517.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/500.png",
+      "goles_local": 0,
+      "goles_visitante": 0,
+      "goleadores": [],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "44%",
+          "tiros": 14,
+          "a_puerta": 5,
+          "corners": 3,
+          "faltas": 11,
+          "fueras_juego": 4,
+          "amarillas": 3,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "56%",
+          "tiros": 13,
+          "a_puerta": 6,
+          "corners": 6,
+          "faltas": 11,
+          "fueras_juego": 1,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Lazio",
+      "pts": 32,
+      "pj": 12,
+      "dg": 19,
+      "pg": 10,
+      "pe": 2,
+      "pp": 0,
+      "gf": 28,
+      "gc": 9,
+      "forma": "WDWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/487.png",
+      "equipo_id": 487,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 13,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 15,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "AS Roma",
+      "pts": 30,
+      "pj": 12,
+      "dg": 25,
+      "pg": 9,
+      "pe": 3,
+      "pp": 0,
+      "gf": 36,
+      "gc": 11,
+      "forma": "WWWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/497.png",
+      "equipo_id": 497,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 17,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 19,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Inter de Milán",
+      "pts": 29,
+      "pj": 12,
+      "dg": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 32,
+      "gc": 17,
+      "forma": "DWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/505.png",
+      "equipo_id": 505,
+      "casa": {
+        "pj": 6,
+        "pg": 6,
+        "pe": 0,
+        "pp": 0,
+        "gf": 19,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Milan",
+      "pts": 27,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 3,
+      "pp": 1,
+      "gf": 28,
+      "gc": 14,
+      "forma": "WWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/489.png",
+      "equipo_id": 489,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 18,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Como",
+      "pts": 26,
+      "pj": 12,
+      "dg": 10,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 20,
+      "gc": 10,
+      "forma": "WLWWW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/895.png",
+      "equipo_id": 895,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Juventus",
+      "pts": 21,
+      "pj": 12,
+      "dg": 7,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 19,
+      "gc": 12,
+      "forma": "WDWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/496.png",
+      "equipo_id": 496,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Frosinone",
+      "pts": 20,
+      "pj": 12,
+      "dg": 5,
+      "pg": 6,
+      "pe": 2,
+      "pp": 4,
+      "gf": 25,
+      "gc": 20,
+      "forma": "LLWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/512.png",
+      "equipo_id": 512,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 16,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Bologna",
+      "pts": 19,
+      "pj": 13,
+      "dg": 2,
+      "pg": 5,
+      "pe": 4,
+      "pp": 4,
+      "gf": 17,
+      "gc": 15,
+      "forma": "DDWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/500.png",
+      "equipo_id": 500,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Nápoles",
+      "pts": 18,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 19,
+      "gc": 14,
+      "forma": "WDLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/492.png",
+      "equipo_id": 492,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Genoa",
+      "pts": 16,
+      "pj": 12,
+      "dg": -3,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 13,
+      "gc": 16,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/495.png",
+      "equipo_id": 495,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 5,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Cagliari",
+      "pts": 16,
+      "pj": 12,
+      "dg": -7,
+      "pg": 5,
+      "pe": 1,
+      "pp": 6,
+      "gf": 10,
+      "gc": 17,
+      "forma": "LWLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/490.png",
+      "equipo_id": 490,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 3,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Atalanta",
+      "pts": 15,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 21,
+      "gc": 24,
+      "forma": "DWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/499.png",
+      "equipo_id": 499,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 15,
+        "gc": 15
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Torino",
+      "pts": 14,
+      "pj": 12,
+      "dg": -3,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 18,
+      "forma": "LDLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/503.png",
+      "equipo_id": 503,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Monza",
+      "pts": 10,
+      "pj": 12,
+      "dg": -5,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 20,
+      "gc": 25,
+      "forma": "WLLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1579.png",
+      "equipo_id": 1579,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 8,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Lecce",
+      "pts": 10,
+      "pj": 12,
+      "dg": -13,
+      "pg": 3,
+      "pe": 1,
+      "pp": 8,
+      "gf": 12,
+      "gc": 25,
+      "forma": "LDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/867.png",
+      "equipo_id": 867,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Fiorentina",
+      "pts": 9,
+      "pj": 12,
+      "dg": -11,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 17,
+      "gc": 28,
+      "forma": "LDWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/502.png",
+      "equipo_id": 502,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 10,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Parma",
+      "pts": 8,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 10,
+      "gc": 22,
+      "forma": "LLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/523.png",
+      "equipo_id": 523,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 2,
+        "pp": 4,
+        "gf": 5,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Sassuolo",
+      "pts": 8,
+      "pj": 12,
+      "dg": -15,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 16,
+      "gc": 31,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/488.png",
+      "equipo_id": 488,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 6,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Venezia",
+      "pts": 7,
+      "pj": 13,
+      "dg": -17,
+      "pg": 2,
+      "pe": 1,
+      "pp": 10,
+      "gf": 8,
+      "gc": 25,
+      "forma": "DLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/517.png",
+      "equipo_id": 517,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 3,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Udinese",
+      "pts": 6,
+      "pj": 12,
+      "dg": -13,
+      "pg": 1,
+      "pe": 3,
+      "pp": 8,
+      "gf": 13,
+      "gc": 26,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/494.png",
+      "equipo_id": 494,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 4,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Bologna": {
+      "antes": 9,
+      "ahora": 8,
+      "cambio": "sube 1 puesto"
+    },
+    "Venezia": {
+      "antes": 20,
+      "ahora": 19,
+      "cambio": "sube 1 puesto"
+    }
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "slug": "2026-11-27-tercera-federacion-grupo-3",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 3",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Velarde gana 0-2 en Revilla y sube cuatro puestos hasta el décimo",
+  "entradilla": "El Velarde se impone por 0-2 en el campo del Revilla con goles de Toki y C. Macias. El equipo visitante escala del puesto 14 al 10 de la clasificación.",
+  "cuerpo_markdown": "El Velarde se llevó los tres puntos del campo del Revilla tras ganar por 0-2 en la Jornada 13 del Grupo 3 de Tercera Federación. Con este resultado, el conjunto visitante sube cuatro puestos y se sitúa décimo con 13 puntos.\n\n## Revilla 0-2 Velarde\n\nEl Velarde marcó en dos ocasiones. Toki abrió el marcador en el minuto 32 y C. Macias cerró el resultado en el 75. No hubo expulsiones ni penaltis fallados. El Revilla se mantiene en la segunda posición con 27 puntos, dentro de la zona de playoff, mientras que el Velarde sube del puesto 14 al 10 con 13 puntos.\n\n## Así queda la clasificación\n\nEl Tropezón encabeza la tabla con 29 puntos y ocupa la zona de ascenso. Le siguen el Revilla, con 27 puntos, y el Vimenor, con 26; ambos están en zona de playoff, al igual que el Laredo (25) y el Cayón (24). En la parte baja, el Castro (9 puntos), el Solares (9) y el Barquereño (8) ocupan la zona de descenso. El Velarde queda décimo con 13 puntos.",
+  "texto_instagram": "⚽ El Velarde gana 0-2 en el campo del Revilla y sube al décimo puesto. 🔝\n\nRevilla 0-2 Velarde\nGoles: Toki (32'), C. Macias (75') ⚽\n\n#TerceraFederación #Velarde #Revilla",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Velarde",
+    "#Revilla",
+    "#Grupo3"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-3-1.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-3-2.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-3-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1613428,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 3 - 13",
+      "liga_id": 441,
+      "id_local": 15337,
+      "id_visitante": 20451,
+      "local": "Revilla",
+      "visitante": "Velarde",
+      "escudo_local": "https://media.api-sports.io/football/teams/15337.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/20451.png",
+      "goles_local": 0,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 32,
+          "equipo": "Velarde",
+          "jugador": "Toki",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 75,
+          "equipo": "Velarde",
+          "jugador": "C. Macias",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Tropezón",
+      "pts": 29,
+      "pj": 12,
+      "dg": 15,
+      "pg": 9,
+      "pe": 2,
+      "pp": 1,
+      "gf": 23,
+      "gc": 8,
+      "forma": "WLWWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9651.png",
+      "equipo_id": 9651,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 12,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Revilla",
+      "pts": 27,
+      "pj": 13,
+      "dg": 13,
+      "pg": 8,
+      "pe": 3,
+      "pp": 2,
+      "gf": 28,
+      "gc": 15,
+      "forma": "LWWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15337.png",
+      "equipo_id": 15337,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 15,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 13,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Vimenor",
+      "pts": 26,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 2,
+      "pp": 2,
+      "gf": 21,
+      "gc": 7,
+      "forma": "WWWDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9652.png",
+      "equipo_id": 9652,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Laredo",
+      "pts": 25,
+      "pj": 12,
+      "dg": 14,
+      "pg": 8,
+      "pe": 1,
+      "pp": 3,
+      "gf": 24,
+      "gc": 10,
+      "forma": "WWDLL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9394.png",
+      "equipo_id": 9394,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Cayón",
+      "pts": 24,
+      "pj": 12,
+      "dg": 8,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 15,
+      "gc": 7,
+      "forma": "DLWWW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/15339.png",
+      "equipo_id": 15339,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 10,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Sámano",
+      "pts": 22,
+      "pj": 12,
+      "dg": 14,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 25,
+      "gc": 11,
+      "forma": "LWWWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9648.png",
+      "equipo_id": 9648,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 13,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Bezana",
+      "pts": 21,
+      "pj": 12,
+      "dg": 6,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 21,
+      "gc": 15,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9639.png",
+      "equipo_id": 9639,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Atlético Mineros",
+      "pts": 17,
+      "pj": 12,
+      "dg": -5,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 18,
+      "gc": 23,
+      "forma": "DWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22132.png",
+      "equipo_id": 22132,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Torina",
+      "pts": 16,
+      "pj": 12,
+      "dg": 4,
+      "pg": 3,
+      "pe": 7,
+      "pp": 2,
+      "gf": 13,
+      "gc": 9,
+      "forma": "LLDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9650.png",
+      "equipo_id": 9650,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Velarde",
+      "pts": 13,
+      "pj": 13,
+      "dg": -9,
+      "pg": 3,
+      "pe": 4,
+      "pp": 6,
+      "gf": 11,
+      "gc": 20,
+      "forma": "WWDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/20451.png",
+      "equipo_id": 20451,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 3,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Atlético Albericia",
+      "pts": 11,
+      "pj": 12,
+      "dg": -4,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 15,
+      "gc": 19,
+      "forma": "LWDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9637.png",
+      "equipo_id": 9637,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 11,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Guarnizo",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 13,
+      "gc": 20,
+      "forma": "LWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9642.png",
+      "equipo_id": 9642,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Selaya",
+      "pts": 11,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 9,
+      "gc": 19,
+      "forma": "WDLLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9645.png",
+      "equipo_id": 9645,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 3,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Escobedo",
+      "pts": 10,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 11,
+      "gc": 19,
+      "forma": "WLLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9386.png",
+      "equipo_id": 9386,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 6,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Naval Reinosa",
+      "pts": 10,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 14,
+      "gc": 26,
+      "forma": "DWDLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28098.png",
+      "equipo_id": 28098,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Castro",
+      "pts": 9,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 21,
+      "forma": "DLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/15336.png",
+      "equipo_id": 15336,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 6,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Solares",
+      "pts": 9,
+      "pj": 12,
+      "dg": -9,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 8,
+      "gc": 17,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9647.png",
+      "equipo_id": 9647,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Barquereño",
+      "pts": 8,
+      "pj": 12,
+      "dg": -16,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 25,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/8152.png",
+      "equipo_id": 8152,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 13
+      }
+    }
+  ],
+  "movimientos": {
+    "Revilla": {
+      "antes": 2,
+      "ahora": 2,
+      "cambio": "se mantiene"
+    },
+    "Velarde": {
+      "antes": 14,
+      "ahora": 10,
+      "cambio": "sube 4 puestos"
+    }
+  }
+}

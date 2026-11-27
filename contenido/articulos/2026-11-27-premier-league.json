@@ -1,0 +1,753 @@
+{
+  "slug": "2026-11-27-premier-league",
+  "fecha": "2026-11-27",
+  "etiqueta": "Premier League",
+  "competicion": "Premier League",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Nottingham Forest gana 3-2 al Chelsea y sale de la zona de descenso",
+  "entradilla": "El Forest remonta un 0-1 con goles de Gibbs-White, de penalti y en el 72, y sube tres puestos hasta el 17. Emegha marca dos goles para el Chelsea, que se mantiene octavo.",
+  "cuerpo_markdown": "Nottingham Forest y Chelsea firmaron el partido más goleador de la jornada de la Premier League: 3-2 en City Ground en la Jornada 12. Con el resultado, el Forest deja los puestos de descenso y sube al 17 con 9 puntos, mientras el Chelsea se mantiene octavo con 16.\n\n## Nottingham Forest 3-2 Chelsea\n\nIgor Jesus abrió el marcador en el minuto 5 para el Forest. Emanuel Emegha empató en el 54 y Morgan Gibbs-White marcó de penalti en el 51 y, tras el empate, otra vez en el 72 para dar la ventaja definitiva a los locales. Emegha volvió a marcar en el 89 y dejó el 3-2 final en el marcador. Los locales dispararon 10 veces con 7 a puerta, frente a 9 tiros y 3 a puerta del Chelsea, que tuvo el 64% de posesión. Con este resultado, el Forest sube del 20 al 17 y el Chelsea mantiene la octava plaza.\n\n## Así queda la clasificación\n\nEl Arsenal lidera con 28 puntos y el Brighton es segundo con 22, igual que el Manchester City, tercero. El Liverpool cierra la zona de ascenso con 21 puntos. En la parte baja, el Sunderland (18.º) y el Manchester United (19.º) ocupan los puestos de descenso con 9 y 8 puntos, respectivamente, y el Crystal Palace es último con 7 puntos.",
+  "texto_instagram": "⚽ Nottingham Forest 3-2 Chelsea. Los locales salen de la zona de descenso y el Chelsea se mantiene octavo.\n\nNottingham Forest 3-2 Chelsea\nIgor Jesus (5'), Gibbs-White (51', penalti y 72'). Emegha (54' y 89') para el Chelsea.\n\n📊 Tabla: el Forest sube al 17 con 9 puntos. El Chelsea, octavo con 16.",
+  "hashtags": [
+    "#PremierLeague",
+    "#NottinghamForest",
+    "#Chelsea",
+    "#Jornada12",
+    "#Futbol"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-premier-league-1.jpg",
+    "img/2026-11-27/2026-11-27-premier-league-2.jpg",
+    "img/2026-11-27/2026-11-27-premier-league-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1557485,
+      "fecha": "2026-11-27T21:00:00+01:00",
+      "estadio": "City Ground",
+      "ciudad": "Nottingham",
+      "arbitro": "Andrew Madley",
+      "jornada": "Regular Season - 12",
+      "liga_id": 39,
+      "id_local": 65,
+      "id_visitante": 49,
+      "local": "Nottingham Forest",
+      "visitante": "Chelsea",
+      "escudo_local": "https://media.api-sports.io/football/teams/65.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/49.png",
+      "goles_local": 3,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 5,
+          "equipo": "Nottingham Forest",
+          "jugador": "Igor Jesus",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 51,
+          "equipo": "Nottingham Forest",
+          "jugador": "Morgan Gibbs-White",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 54,
+          "equipo": "Chelsea",
+          "jugador": "Emanuel Emegha",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 72,
+          "equipo": "Nottingham Forest",
+          "jugador": "Morgan Gibbs-White",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 89,
+          "equipo": "Chelsea",
+          "jugador": "Emanuel Emegha",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "36%",
+          "tiros": 10,
+          "a_puerta": 7,
+          "corners": 1,
+          "faltas": 15,
+          "fueras_juego": 1,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "64%",
+          "tiros": 9,
+          "a_puerta": 3,
+          "corners": 2,
+          "faltas": 11,
+          "fueras_juego": 0,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Arsenal",
+      "pts": 28,
+      "pj": 11,
+      "dg": 10,
+      "pg": 9,
+      "pe": 1,
+      "pp": 1,
+      "gf": 17,
+      "gc": 7,
+      "forma": "DWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/42.png",
+      "equipo_id": 42,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 10,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Brighton",
+      "pts": 22,
+      "pj": 11,
+      "dg": 17,
+      "pg": 7,
+      "pe": 1,
+      "pp": 3,
+      "gf": 26,
+      "gc": 9,
+      "forma": "LWWLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/51.png",
+      "equipo_id": 51,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 15,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 11,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Manchester City",
+      "pts": 22,
+      "pj": 11,
+      "dg": 8,
+      "pg": 7,
+      "pe": 1,
+      "pp": 3,
+      "gf": 22,
+      "gc": 14,
+      "forma": "DLLLW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/50.png",
+      "equipo_id": 50,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Liverpool",
+      "pts": 21,
+      "pj": 11,
+      "dg": 8,
+      "pg": 6,
+      "pe": 3,
+      "pp": 2,
+      "gf": 18,
+      "gc": 10,
+      "forma": "WWLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/40.png",
+      "equipo_id": 40,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Bournemouth",
+      "pts": 18,
+      "pj": 11,
+      "dg": 4,
+      "pg": 5,
+      "pe": 3,
+      "pp": 3,
+      "gf": 18,
+      "gc": 14,
+      "forma": "WWWWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/35.png",
+      "equipo_id": 35,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Brentford",
+      "pts": 17,
+      "pj": 11,
+      "dg": 9,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 20,
+      "gc": 11,
+      "forma": "WLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/55.png",
+      "equipo_id": 55,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 14,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Leeds",
+      "pts": 17,
+      "pj": 11,
+      "dg": 5,
+      "pg": 4,
+      "pe": 5,
+      "pp": 2,
+      "gf": 14,
+      "gc": 9,
+      "forma": "WWLDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/63.png",
+      "equipo_id": 63,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 3,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Chelsea",
+      "pts": 16,
+      "pj": 11,
+      "dg": 0,
+      "pg": 5,
+      "pe": 1,
+      "pp": 5,
+      "gf": 20,
+      "gc": 20,
+      "forma": "LLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/49.png",
+      "equipo_id": 49,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 14,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 6,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Everton",
+      "pts": 16,
+      "pj": 11,
+      "dg": -2,
+      "pg": 4,
+      "pe": 4,
+      "pp": 3,
+      "gf": 12,
+      "gc": 14,
+      "forma": "LWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/45.png",
+      "equipo_id": 45,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Tottenham",
+      "pts": 15,
+      "pj": 11,
+      "dg": 1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 4,
+      "gf": 12,
+      "gc": 11,
+      "forma": "WLWWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/47.png",
+      "equipo_id": 47,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Hull City",
+      "pts": 14,
+      "pj": 11,
+      "dg": 2,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 13,
+      "gc": 11,
+      "forma": "WLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/64.png",
+      "equipo_id": 64,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Aston Villa",
+      "pts": 14,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 5,
+      "pp": 3,
+      "gf": 14,
+      "gc": 17,
+      "forma": "DDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/66.png",
+      "equipo_id": 66,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Newcastle",
+      "pts": 13,
+      "pj": 11,
+      "dg": -3,
+      "pg": 3,
+      "pe": 4,
+      "pp": 4,
+      "gf": 15,
+      "gc": 18,
+      "forma": "DDLWL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/34.png",
+      "equipo_id": 34,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 8,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Coventry",
+      "pts": 12,
+      "pj": 11,
+      "dg": -8,
+      "pg": 4,
+      "pe": 0,
+      "pp": 7,
+      "gf": 13,
+      "gc": 21,
+      "forma": "WLWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1346.png",
+      "equipo_id": 1346,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 3,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Fulham",
+      "pts": 11,
+      "pj": 11,
+      "dg": -2,
+      "pg": 2,
+      "pe": 5,
+      "pp": 4,
+      "gf": 11,
+      "gc": 13,
+      "forma": "DDDWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/36.png",
+      "equipo_id": 36,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 4,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Ipswich",
+      "pts": 11,
+      "pj": 11,
+      "dg": -7,
+      "pg": 3,
+      "pe": 2,
+      "pp": 6,
+      "gf": 15,
+      "gc": 22,
+      "forma": "LLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/57.png",
+      "equipo_id": 57,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 9,
+        "gc": 15
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Nottingham Forest",
+      "pts": 9,
+      "pj": 11,
+      "dg": -6,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 9,
+      "gc": 15,
+      "forma": "LWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/65.png",
+      "equipo_id": 65,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 3,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Sunderland",
+      "pts": 9,
+      "pj": 11,
+      "dg": -9,
+      "pg": 2,
+      "pe": 3,
+      "pp": 6,
+      "gf": 8,
+      "gc": 17,
+      "forma": "DWLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/746.png",
+      "equipo_id": 746,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 2,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 6,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Manchester United",
+      "pts": 8,
+      "pj": 11,
+      "dg": -9,
+      "pg": 1,
+      "pe": 5,
+      "pp": 5,
+      "gf": 14,
+      "gc": 23,
+      "forma": "LDLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/33.png",
+      "equipo_id": 33,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 10,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 4,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "Crystal Palace",
+      "pts": 7,
+      "pj": 11,
+      "dg": -15,
+      "pg": 2,
+      "pe": 1,
+      "pp": 8,
+      "gf": 12,
+      "gc": 27,
+      "forma": "LLLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/52.png",
+      "equipo_id": 52,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 14
+      }
+    }
+  ],
+  "movimientos": {
+    "Chelsea": {
+      "antes": 8,
+      "ahora": 8,
+      "cambio": "se mantiene"
+    },
+    "Nottingham Forest": {
+      "antes": 20,
+      "ahora": 17,
+      "cambio": "sube 3 puestos"
+    }
+  }
+}

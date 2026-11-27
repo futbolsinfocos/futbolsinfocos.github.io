@@ -1,0 +1,695 @@
+{
+  "slug": "2026-11-27-bundesliga",
+  "fecha": "2026-11-27",
+  "etiqueta": "Bundesliga",
+  "competicion": "Bundesliga",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Werder Bremen y Borussia Mönchengladbach empatan 3-3, con gol de Füllkrug en el 90",
+  "entradilla": "El Werder Bremen igualó 3-3 con el Borussia Mönchengladbach en el Weser-Stadion. Füllkrug marcó en el minuto 90 y el Gladbach sigue en el puesto 18, en zona de descenso.",
+  "cuerpo_markdown": "La única jornada con partido en esta crónica termina con un empate 3-3 en Bremen. El Gladbach se adelantó con un penalti de Kevin Diks en el 27 y con dos goles de Franck Honorat, en el 46 y el 78. El Werder respondió con dos tantos de Eren Dinkci, en el 38 y el 85, y el empate lo firmó Niclas Füllkrug en el minuto 90.\n\n## Werder Bremen 3-3 Borussia Mönchengladbach\n\nEl Werder Bremen empató 3-3 en el Weser-Stadion con un gol de Niclas Füllkrug en el minuto 90. Eren Dinkci marcó en el 38 y en el 85. Kevin Diks adelantó al Gladbach de penalti en el 27 y Franck Honorat anotó en el 46 y en el 78. Ningún equipo vio una expulsión ni falló un penalti. El resultado deja al Werder en el sexto puesto con 19 puntos, sin cambios en la tabla. El Gladbach se queda en el puesto 18 con 5 puntos, también sin cambios.\n\nEn cifras, el local tuvo el 59% de posesión, 20 tiros y 8 a puerta. El visitante tuvo el 41%, 20 tiros y 6 a puerta.\n\n## Así queda la clasificación\n\nEl Borussia Dortmund lidera la Bundesliga con 24 puntos, por delante del Bayern de Múnich y del SC Freiburg, con 22 cada uno. El Werder Bremen ocupa el sexto puesto con 19 puntos. En la parte baja, el Gladbach tiene 5 puntos y está en el puesto 18, a dos puntos del Union Berlín (17.º, con 7) y a dos del Schalke 04 (16.º, con 7).",
+  "texto_instagram": "Werder Bremen y Borussia Mönchengladbach empatan 3-3 en Bremen, con gol de Füllkrug en el 90. ⚽\n\nWerder Bremen 3-3 Borussia Mönchengladbach: Dinkci (38, 85) y Füllkrug (90) para el Bremen. Diks (penalti, 27) y Honorat (46, 78) para el Gladbach. 🟢",
+  "hashtags": [
+    "#Bundesliga",
+    "#WerderBremen",
+    "#Gladbach",
+    "#Fútbol",
+    "#Jornada11"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-bundesliga-1.jpg",
+    "img/2026-11-27/2026-11-27-bundesliga-2.jpg",
+    "img/2026-11-27/2026-11-27-bundesliga-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1575237,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": "Weser-Stadion",
+      "ciudad": "Bremen",
+      "arbitro": "Felix Zwayer",
+      "jornada": "Regular Season - 11",
+      "liga_id": 78,
+      "id_local": 162,
+      "id_visitante": 163,
+      "local": "Werder Bremen",
+      "visitante": "Borussia Mönchengladbach",
+      "escudo_local": "https://media.api-sports.io/football/teams/162.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/163.png",
+      "goles_local": 3,
+      "goles_visitante": 3,
+      "goleadores": [
+        {
+          "min": 27,
+          "equipo": "Borussia Mönchengladbach",
+          "jugador": "Kevin Diks",
+          "tipo": "Penalty"
+        },
+        {
+          "min": 38,
+          "equipo": "Werder Bremen",
+          "jugador": "Eren Dinkci",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 46,
+          "equipo": "Borussia Mönchengladbach",
+          "jugador": "Franck Honorat",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 78,
+          "equipo": "Borussia Mönchengladbach",
+          "jugador": "Franck Honorat",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 85,
+          "equipo": "Werder Bremen",
+          "jugador": "Eren Dinkci",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 90,
+          "equipo": "Werder Bremen",
+          "jugador": "Niclas Füllkrug",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": {
+        "local": {
+          "posesion": "59%",
+          "tiros": 20,
+          "a_puerta": 8,
+          "corners": 7,
+          "faltas": 10,
+          "fueras_juego": 3,
+          "amarillas": 2,
+          "rojas": 0
+        },
+        "visitante": {
+          "posesion": "41%",
+          "tiros": 20,
+          "a_puerta": 6,
+          "corners": 4,
+          "faltas": 11,
+          "fueras_juego": 2,
+          "amarillas": 3,
+          "rojas": 0
+        }
+      }
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Borussia Dortmund",
+      "pts": 24,
+      "pj": 10,
+      "dg": 10,
+      "pg": 7,
+      "pe": 3,
+      "pp": 0,
+      "gf": 17,
+      "gc": 7,
+      "forma": "WWDWD",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/165.png",
+      "equipo_id": 165,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Bayern de Múnich",
+      "pts": 22,
+      "pj": 10,
+      "dg": 20,
+      "pg": 6,
+      "pe": 4,
+      "pp": 0,
+      "gf": 30,
+      "gc": 10,
+      "forma": "DWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/157.png",
+      "equipo_id": 157,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 21,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 9,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "SC Freiburg",
+      "pts": 22,
+      "pj": 10,
+      "dg": 11,
+      "pg": 7,
+      "pe": 1,
+      "pp": 2,
+      "gf": 21,
+      "gc": 10,
+      "forma": "WWWLL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/160.png",
+      "equipo_id": 160,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 7,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "RB Leipzig",
+      "pts": 21,
+      "pj": 10,
+      "dg": 18,
+      "pg": 7,
+      "pe": 0,
+      "pp": 3,
+      "gf": 32,
+      "gc": 14,
+      "forma": "WWWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/173.png",
+      "equipo_id": 173,
+      "casa": {
+        "pj": 5,
+        "pg": 5,
+        "pe": 0,
+        "pp": 0,
+        "gf": 23,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 0,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Bayer Leverkusen",
+      "pts": 19,
+      "pj": 10,
+      "dg": 7,
+      "pg": 6,
+      "pe": 1,
+      "pp": 3,
+      "gf": 24,
+      "gc": 17,
+      "forma": "WWLLW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/168.png",
+      "equipo_id": 168,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 0,
+        "pp": 1,
+        "gf": 14,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Werder Bremen",
+      "pts": 19,
+      "pj": 11,
+      "dg": 6,
+      "pg": 5,
+      "pe": 4,
+      "pp": 2,
+      "gf": 24,
+      "gc": 18,
+      "forma": "DWLWW",
+      "zona": "otra",
+      "escudo": "https://media.api-sports.io/football/teams/162.png",
+      "equipo_id": 162,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 17,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Eintracht Frankfurt",
+      "pts": 15,
+      "pj": 10,
+      "dg": -4,
+      "pg": 4,
+      "pe": 3,
+      "pp": 3,
+      "gf": 16,
+      "gc": 20,
+      "forma": "WDWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/169.png",
+      "equipo_id": 169,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 8,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "VfB Stuttgart",
+      "pts": 13,
+      "pj": 10,
+      "dg": 0,
+      "pg": 4,
+      "pe": 1,
+      "pp": 5,
+      "gf": 15,
+      "gc": 15,
+      "forma": "DWWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/172.png",
+      "equipo_id": 172,
+      "casa": {
+        "pj": 4,
+        "pg": 2,
+        "pe": 0,
+        "pp": 2,
+        "gf": 7,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "SV Elversberg",
+      "pts": 13,
+      "pj": 10,
+      "dg": -2,
+      "pg": 4,
+      "pe": 1,
+      "pp": 5,
+      "gf": 17,
+      "gc": 19,
+      "forma": "LLWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/1660.png",
+      "equipo_id": 1660,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "FC Augsburg",
+      "pts": 12,
+      "pj": 10,
+      "dg": 2,
+      "pg": 3,
+      "pe": 3,
+      "pp": 4,
+      "gf": 23,
+      "gc": 21,
+      "forma": "WLLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/170.png",
+      "equipo_id": 170,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 1,
+        "pe": 0,
+        "pp": 3,
+        "gf": 11,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "1899 Hoffenheim",
+      "pts": 12,
+      "pj": 10,
+      "dg": -2,
+      "pg": 4,
+      "pe": 0,
+      "pp": 6,
+      "gf": 16,
+      "gc": 18,
+      "forma": "LWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/167.png",
+      "equipo_id": 167,
+      "casa": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 0,
+        "pp": 4,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Hamburger SV",
+      "pts": 12,
+      "pj": 10,
+      "dg": -14,
+      "pg": 4,
+      "pe": 0,
+      "pp": 6,
+      "gf": 10,
+      "gc": 24,
+      "forma": "LWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/175.png",
+      "equipo_id": 175,
+      "casa": {
+        "pj": 4,
+        "pg": 3,
+        "pe": 0,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 0,
+        "pp": 5,
+        "gf": 4,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "FSV Mainz 05",
+      "pts": 10,
+      "pj": 10,
+      "dg": -3,
+      "pg": 3,
+      "pe": 1,
+      "pp": 6,
+      "gf": 19,
+      "gc": 22,
+      "forma": "LLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/164.png",
+      "equipo_id": 164,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 3,
+        "pe": 0,
+        "pp": 2,
+        "gf": 12,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "1. FC Köln",
+      "pts": 10,
+      "pj": 10,
+      "dg": -4,
+      "pg": 2,
+      "pe": 4,
+      "pp": 4,
+      "gf": 11,
+      "gc": 15,
+      "forma": "DLDDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/192.png",
+      "equipo_id": 192,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "SC Paderborn 07",
+      "pts": 10,
+      "pj": 10,
+      "dg": -7,
+      "pg": 2,
+      "pe": 4,
+      "pp": 4,
+      "gf": 8,
+      "gc": 15,
+      "forma": "LDDWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/185.png",
+      "equipo_id": 185,
+      "casa": {
+        "pj": 5,
+        "pg": 2,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 2,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "FC Schalke 04",
+      "pts": 7,
+      "pj": 10,
+      "dg": -6,
+      "pg": 1,
+      "pe": 4,
+      "pp": 5,
+      "gf": 5,
+      "gc": 11,
+      "forma": "DLLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/174.png",
+      "equipo_id": 174,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 3,
+        "pp": 2,
+        "gf": 0,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Union Berlin",
+      "pts": 7,
+      "pj": 10,
+      "dg": -18,
+      "pg": 1,
+      "pe": 4,
+      "pp": 5,
+      "gf": 8,
+      "gc": 26,
+      "forma": "LLDDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/182.png",
+      "equipo_id": 182,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 7,
+        "gc": 12
+      },
+      "fuera": {
+        "pj": 4,
+        "pg": 0,
+        "pe": 1,
+        "pp": 3,
+        "gf": 1,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Borussia Mönchengladbach",
+      "pts": 5,
+      "pj": 11,
+      "dg": -14,
+      "pg": 1,
+      "pe": 2,
+      "pp": 8,
+      "gf": 15,
+      "gc": 29,
+      "forma": "DLLDW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/163.png",
+      "equipo_id": 163,
+      "casa": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 8,
+        "gc": 18
+      }
+    }
+  ],
+  "movimientos": {
+    "Werder Bremen": {
+      "antes": 6,
+      "ahora": 6,
+      "cambio": "se mantiene"
+    },
+    "Borussia Mönchengladbach": {
+      "antes": 18,
+      "ahora": 18,
+      "cambio": "se mantiene"
+    }
+  }
+}

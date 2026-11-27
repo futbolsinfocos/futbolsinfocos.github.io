@@ -1,0 +1,277 @@
+{
+  "etiqueta": "Eredivisie",
+  "competicion": "Eredivisie",
+  "goleadores": [
+    {
+      "jugador": "S. Mijnans",
+      "equipo": "PSV Eindhoven",
+      "escudo": "https://media.api-sports.io/football/teams/197.png",
+      "goles": 9,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "S. Tengstedt",
+      "equipo": "GO Ahead Eagles",
+      "escudo": "https://media.api-sports.io/football/teams/410.png",
+      "goles": 9,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "B. Willumsson",
+      "equipo": "Groningen",
+      "escudo": "https://media.api-sports.io/football/teams/202.png",
+      "goles": 9,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "T. van Bergen",
+      "equipo": "Groningen",
+      "escudo": "https://media.api-sports.io/football/teams/202.png",
+      "goles": 9,
+      "penaltis": 1,
+      "pj": 13
+    },
+    {
+      "jugador": "W. Weghorst",
+      "equipo": "Twente",
+      "escudo": "https://media.api-sports.io/football/teams/415.png",
+      "goles": 9,
+      "penaltis": 3,
+      "pj": 13
+    },
+    {
+      "jugador": "M. Zonneveld",
+      "equipo": "Sparta Rotterdam",
+      "escudo": "https://media.api-sports.io/football/teams/426.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "G. Til",
+      "equipo": "PSV Eindhoven",
+      "escudo": "https://media.api-sports.io/football/teams/197.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "A. Hadj-Moussa",
+      "equipo": "Feyenoord",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "T. Arokodare",
+      "equipo": "Ajax",
+      "escudo": "https://media.api-sports.io/football/teams/194.png",
+      "goles": 7,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "J. Trenskow",
+      "equipo": "Heerenveen",
+      "escudo": "https://media.api-sports.io/football/teams/210.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "I. Hamache",
+      "equipo": "Cambuur",
+      "escudo": "https://media.api-sports.io/football/teams/420.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "R. Daal",
+      "equipo": "AZ Alkmaar",
+      "escudo": "https://media.api-sports.io/football/teams/201.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "R. El Arguioui",
+      "equipo": "Cambuur",
+      "escudo": "https://media.api-sports.io/football/teams/420.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 13
+    },
+    {
+      "jugador": "J. Brandt",
+      "equipo": "Ajax",
+      "escudo": "https://media.api-sports.io/football/teams/194.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "N. Binder",
+      "equipo": "Cambuur",
+      "escudo": "https://media.api-sports.io/football/teams/420.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 11
+    },
+    {
+      "jugador": "A. Descotte",
+      "equipo": "Fortuna Sittard",
+      "escudo": "https://media.api-sports.io/football/teams/205.png",
+      "goles": 6,
+      "penaltis": 0,
+      "pj": 12
+    },
+    {
+      "jugador": "Nacho Ferri",
+      "equipo": "Feyenoord",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "goles": 6,
+      "penaltis": 1,
+      "pj": 12
+    },
+    {
+      "jugador": "Artem Stepanov",
+      "equipo": "Utrecht",
+      "escudo": "https://media.api-sports.io/football/teams/207.png",
+      "goles": 6,
+      "penaltis": 1,
+      "pj": 10
+    },
+    {
+      "jugador": "M. Meerdink",
+      "equipo": "AZ Alkmaar",
+      "escudo": "https://media.api-sports.io/football/teams/201.png",
+      "goles": 6,
+      "penaltis": 2,
+      "pj": 13
+    },
+    {
+      "jugador": "G. Zechiël",
+      "equipo": "Feyenoord",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "goles": 5,
+      "penaltis": 0,
+      "pj": 13
+    }
+  ],
+  "tarjetas": [
+    {
+      "equipo": "Cambuur",
+      "escudo": "https://media.api-sports.io/football/teams/420.png",
+      "amarillas": 26,
+      "rojas": 1
+    },
+    {
+      "equipo": "Ajax",
+      "escudo": "https://media.api-sports.io/football/teams/194.png",
+      "amarillas": 28,
+      "rojas": 0
+    },
+    {
+      "equipo": "ADO Den Haag",
+      "escudo": "https://media.api-sports.io/football/teams/198.png",
+      "amarillas": 21,
+      "rojas": 2
+    },
+    {
+      "equipo": "Sparta Rotterdam",
+      "escudo": "https://media.api-sports.io/football/teams/426.png",
+      "amarillas": 24,
+      "rojas": 1
+    },
+    {
+      "equipo": "Utrecht",
+      "escudo": "https://media.api-sports.io/football/teams/207.png",
+      "amarillas": 27,
+      "rojas": 0
+    },
+    {
+      "equipo": "PSV Eindhoven",
+      "escudo": "https://media.api-sports.io/football/teams/197.png",
+      "amarillas": 23,
+      "rojas": 1
+    },
+    {
+      "equipo": "Willem B",
+      "escudo": "https://media.api-sports.io/football/teams/195.png",
+      "amarillas": 21,
+      "rojas": 1
+    },
+    {
+      "equipo": "Fortuna Sittard",
+      "escudo": "https://media.api-sports.io/football/teams/205.png",
+      "amarillas": 20,
+      "rojas": 1
+    },
+    {
+      "equipo": "Groningen",
+      "escudo": "https://media.api-sports.io/football/teams/202.png",
+      "amarillas": 17,
+      "rojas": 2
+    },
+    {
+      "equipo": "NEC Nijmegen",
+      "escudo": "https://media.api-sports.io/football/teams/413.png",
+      "amarillas": 21,
+      "rojas": 0
+    },
+    {
+      "equipo": "PEC Zwolle",
+      "escudo": "https://media.api-sports.io/football/teams/193.png",
+      "amarillas": 18,
+      "rojas": 1
+    },
+    {
+      "equipo": "Excelsior",
+      "escudo": "https://media.api-sports.io/football/teams/196.png",
+      "amarillas": 17,
+      "rojas": 1
+    },
+    {
+      "equipo": "Telstar",
+      "escudo": "https://media.api-sports.io/football/teams/427.png",
+      "amarillas": 17,
+      "rojas": 1
+    },
+    {
+      "equipo": "AZ Alkmaar",
+      "escudo": "https://media.api-sports.io/football/teams/201.png",
+      "amarillas": 18,
+      "rojas": 0
+    },
+    {
+      "equipo": "Heerenveen",
+      "escudo": "https://media.api-sports.io/football/teams/210.png",
+      "amarillas": 17,
+      "rojas": 0
+    },
+    {
+      "equipo": "Twente",
+      "escudo": "https://media.api-sports.io/football/teams/415.png",
+      "amarillas": 14,
+      "rojas": 1
+    },
+    {
+      "equipo": "Feyenoord",
+      "escudo": "https://media.api-sports.io/football/teams/209.png",
+      "amarillas": 15,
+      "rojas": 0
+    },
+    {
+      "equipo": "GO Ahead Eagles",
+      "escudo": "https://media.api-sports.io/football/teams/410.png",
+      "amarillas": 12,
+      "rojas": 0
+    }
+  ],
+  "fecha": "2026-11-27"
+}

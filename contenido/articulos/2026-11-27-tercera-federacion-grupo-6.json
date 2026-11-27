@@ -1,0 +1,656 @@
+{
+  "slug": "2026-11-27-tercera-federacion-grupo-6",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 6",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Ontinyent 1931 gana 2-1 al Torrent y sube al octavo puesto",
+  "entradilla": "Dos goles de la segunda mitad dan al Ontinyent 1931 su victoria ante el Torrent, que había encajado la derrota en sus cuatro partidos anteriores.",
+  "cuerpo_markdown": "El Ontinyent 1931 se impuso 2-1 al Torrent en la Jornada 13 de Tercera Federación, Grupo 6. Giner marcó para el Torrent en el 26, y P. Sanchis (52) y Juanan (67) dieron la victoria local. Con el triunfo, el Ontinyent sube tres puestos, del 11 al 8, con 17 puntos.\n\n## Ontinyent 1931 2-1 Torrent\n\nEl Ontinyent 1931 remontó el gol de Giner con dos tantos en la segunda parte: P. Sanchis en el 52 y Juanan en el 67. Es su segunda victoria seguida y la tercera de sus últimos cinco partidos, con la racha de la clasificación en WWLLW. El Ontinyent sube del puesto 11 al 8 y se coloca a un punto del playoff. El Torrent pierde el partido tras la racha de LLLLW y cae del 9 al 10, con 16 puntos.\n\n## Así queda la clasificación\n\nEl Villarreal C lidera con 27 puntos, por delante del Levante B (25), que ocupa la segunda plaza, ambos en zona de ascenso o playoff. La zona de playoff va del segundo al quinto puesto, y el Vall de Uxó es quinto con 18 puntos, a uno del Ontinyent. En la parte baja, el Torrellano ocupa la posición 16, en descenso, con 11 puntos. Utiel (17º) y SC Torrevieja (18º) completan la zona de descenso con 10 puntos cada uno.",
+  "texto_instagram": "Ontinyent 1931 gana 2-1 al Torrent y sube al octavo puesto 🟢 La victoria le permite subir del 11 al 8 en la clasificación. ⚽\nOntinyent 1931 2-1 Torrent\nTorrent: F. Giner (26')\nOntinyent 1931: P. Sanchis (52'), Juanan (67')",
+  "hashtags": [
+    "#TerceraFederacion",
+    "#Ontinyent1931",
+    "#Torrent",
+    "#Jornada13",
+    "#TerceraRFEF"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-6-1.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-6-2.jpg",
+    "img/2026-11-27/2026-11-27-tercera-federacion-grupo-6-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1614344,
+      "fecha": "2026-11-27T19:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 6 - 13",
+      "liga_id": 444,
+      "id_local": 22139,
+      "id_visitante": 15348,
+      "local": "Ontinyent 1931",
+      "visitante": "Torrent",
+      "escudo_local": "https://media.api-sports.io/football/teams/22139.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15348.png",
+      "goles_local": 2,
+      "goles_visitante": 1,
+      "goleadores": [
+        {
+          "min": 26,
+          "equipo": "Torrent",
+          "jugador": "F. Giner",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 52,
+          "equipo": "Ontinyent 1931",
+          "jugador": "P. Sanchis",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 67,
+          "equipo": "Ontinyent 1931",
+          "jugador": "Juanan",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Villarreal C",
+      "pts": 27,
+      "pj": 12,
+      "dg": 8,
+      "pg": 9,
+      "pe": 0,
+      "pp": 3,
+      "gf": 18,
+      "gc": 10,
+      "forma": "WLLWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9702.png",
+      "equipo_id": 9702,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 8,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 10,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Levante B",
+      "pts": 25,
+      "pj": 12,
+      "dg": 14,
+      "pg": 7,
+      "pe": 4,
+      "pp": 1,
+      "gf": 18,
+      "gc": 4,
+      "forma": "WWDDW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9591.png",
+      "equipo_id": 9591,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 3,
+        "pp": 0,
+        "gf": 9,
+        "gc": 2
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 2
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Hércules B",
+      "pts": 21,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 6,
+      "pp": 1,
+      "gf": 18,
+      "gc": 12,
+      "forma": "DDWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9693.png",
+      "equipo_id": 9693,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 4,
+        "pp": 0,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Crevillente",
+      "pts": 20,
+      "pj": 12,
+      "dg": 6,
+      "pg": 5,
+      "pe": 5,
+      "pp": 2,
+      "gf": 20,
+      "gc": 14,
+      "forma": "WWWDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9690.png",
+      "equipo_id": 9690,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 10,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Vall de Uxó",
+      "pts": 18,
+      "pj": 12,
+      "dg": 7,
+      "pg": 4,
+      "pe": 6,
+      "pp": 2,
+      "gf": 16,
+      "gc": 9,
+      "forma": "DWDLL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24779.png",
+      "equipo_id": 24779,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Acero",
+      "pts": 18,
+      "pj": 12,
+      "dg": 3,
+      "pg": 4,
+      "pe": 6,
+      "pp": 2,
+      "gf": 12,
+      "gc": 9,
+      "forma": "WLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9685.png",
+      "equipo_id": 9685,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 5,
+        "gc": 3
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Saguntino",
+      "pts": 18,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 18,
+      "gc": 18,
+      "forma": "DWWLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9699.png",
+      "equipo_id": 9699,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 12,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Ontinyent 1931",
+      "pts": 17,
+      "pj": 13,
+      "dg": 1,
+      "pg": 5,
+      "pe": 2,
+      "pp": 6,
+      "gf": 18,
+      "gc": 17,
+      "forma": "WWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22139.png",
+      "equipo_id": 22139,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Buñol",
+      "pts": 17,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 3,
+      "gf": 13,
+      "gc": 14,
+      "forma": "DDWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15524.png",
+      "equipo_id": 15524,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Torrent",
+      "pts": 16,
+      "pj": 13,
+      "dg": -1,
+      "pg": 5,
+      "pe": 1,
+      "pp": 7,
+      "gf": 17,
+      "gc": 18,
+      "forma": "LLLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/15348.png",
+      "equipo_id": 15348,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Roda",
+      "pts": 16,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 4,
+      "gf": 16,
+      "gc": 17,
+      "forma": "DWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9684.png",
+      "equipo_id": 9684,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 10,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 6,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Eldense B",
+      "pts": 13,
+      "pj": 12,
+      "dg": 0,
+      "pg": 3,
+      "pe": 4,
+      "pp": 5,
+      "gf": 11,
+      "gc": 11,
+      "forma": "LLWLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/28103.png",
+      "equipo_id": 28103,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 9,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 3,
+        "pp": 3,
+        "gf": 2,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Atzeneta",
+      "pts": 12,
+      "pj": 12,
+      "dg": -3,
+      "pg": 2,
+      "pe": 6,
+      "pp": 4,
+      "gf": 14,
+      "gc": 17,
+      "forma": "LLWDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9688.png",
+      "equipo_id": 9688,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Jove Español",
+      "pts": 11,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 5,
+      "pp": 5,
+      "gf": 13,
+      "gc": 20,
+      "forma": "DLLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9694.png",
+      "equipo_id": 9694,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Soneja",
+      "pts": 11,
+      "pj": 12,
+      "dg": -8,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 11,
+      "gc": 19,
+      "forma": "LWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/22140.png",
+      "equipo_id": 22140,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 6,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Torrellano",
+      "pts": 11,
+      "pj": 12,
+      "dg": -10,
+      "pg": 3,
+      "pe": 2,
+      "pp": 7,
+      "gf": 12,
+      "gc": 22,
+      "forma": "LLWLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/17559.png",
+      "equipo_id": 17559,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 0,
+        "pp": 4,
+        "gf": 7,
+        "gc": 14
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Utiel",
+      "pts": 10,
+      "pj": 12,
+      "dg": -6,
+      "pg": 1,
+      "pe": 7,
+      "pp": 4,
+      "gf": 10,
+      "gc": 16,
+      "forma": "DDWDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/22141.png",
+      "equipo_id": 22141,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 4,
+        "pp": 2,
+        "gf": 5,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "SC Torrevieja",
+      "pts": 10,
+      "pj": 12,
+      "dg": -8,
+      "pg": 2,
+      "pe": 4,
+      "pp": 6,
+      "gf": 10,
+      "gc": 18,
+      "forma": "DDLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/28104.png",
+      "equipo_id": 28104,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 3,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 4,
+        "gc": 11
+      }
+    }
+  ],
+  "movimientos": {
+    "Ontinyent 1931": {
+      "antes": 11,
+      "ahora": 8,
+      "cambio": "sube 3 puestos"
+    },
+    "Torrent": {
+      "antes": 9,
+      "ahora": 10,
+      "cambio": "baja 1 puesto"
+    }
+  }
+}
