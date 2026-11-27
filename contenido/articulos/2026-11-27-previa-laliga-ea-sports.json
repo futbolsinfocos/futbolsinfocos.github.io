@@ -1,0 +1,315 @@
+{
+  "slug": "2026-11-27-previa-laliga-ea-sports",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "LaLiga EA Sports",
+  "competicion": "LaLiga EA Sports",
+  "grupo": "espana",
+  "prioridad": 3,
+  "titular": "Levante y Racing se citan en Orriols con 12 y 17 puntos y ninguno en zona de salvación segura",
+  "entradilla": "Levante recibe al Racing de Santander en la Jornada 14 de LaLiga EA Sports. Es el único partido de la jornada de hoy y lo juegan dos equipos que no están en zona de descenso, pero tampoco en puestos europeos.",
+  "cuerpo_markdown": "## Claves de la jornada\n\n- Solo hay un partido hoy en LaLiga EA Sports, a las 21:00 en Valencia\n- Levante es 15º con 12 puntos y el Racing 7º con 17\n- Racing de Santander y Levante se enfrentaron por última vez en octubre de 2024 en Segunda División\n\n## Levante - Racing de Santander\n\n<p class=\"ficha\"><b>21:00</b> · Estadio Ciudad de Valencia · Jornada 14 · Árbitro: Miguel Sesma Espinosa</p><p class=\"forma\"><span class=\"eq\">Levante</span><span class=\"fP\" title=\"1-2 vs Real Sociedad\">P</span><span class=\"fP\" title=\"0-2 vs Atlético de Madrid\">P</span><span class=\"fE\" title=\"0-0 vs Celta de Vigo\">E</span><span class=\"fG\" title=\"2-1 vs Tarancón\">G</span><span class=\"fE\" title=\"1-1 vs Elche\">E</span><br><span class=\"eq\">Racing de Santander</span><span class=\"fG\" title=\"2-1 vs Espanyol\">G</span><span class=\"fG\" title=\"2-0 vs Ribadesella CF\">G</span><span class=\"fP\" title=\"0-3 vs Real Madrid\">P</span><span class=\"fG\" title=\"2-1 vs Málaga\">G</span><span class=\"fG\" title=\"3-2 vs Real Sociedad\">G</span></p>\n\nLevante busca romper una racha de dos derrotas en liga, y el Racing quiere mantenerse en la zona alta, con el 7º puesto y 17 puntos en juego.\n\n[Leer la previa completa →](../previas/2026-11-27-levante-racing-de-santander.html)",
+  "texto_instagram": "Hoy solo hay un partido en LaLiga EA Sports: el Levante recibe al Racing de Santander a las 21:00 en Valencia, en la Jornada 14. El Racing, 7º con 17 puntos, llega con tres victorias en sus últimos cinco partidos. El Levante, 15º con 12, busca sumar en casa, donde ha marcado 14 goles. ⚽\n\nLevante - Racing de Santander, 21:00 (Estadio Ciudad de Valencia)",
+  "hashtags": [
+    "#LaLiga",
+    "#Levante",
+    "#Racing",
+    "#Jornada14"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-laliga-ea-sports.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-laliga-ea-sports.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1570468,
+      "fecha": "2026-11-27T21:00:00+01:00",
+      "estadio": "Estadio Ciudad de Valencia",
+      "ciudad": "Valencia",
+      "jornada": "Regular Season - 14",
+      "arbitro": "Miguel Sesma Espinosa",
+      "local": "Levante",
+      "visitante": "Racing de Santander",
+      "escudo_local": "https://media.api-sports.io/football/teams/539.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/4665.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 12,
+          "pj": 13,
+          "pg": 2,
+          "pe": 6,
+          "pp": 5,
+          "gf": 17,
+          "gc": 22,
+          "dg": -5,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 2,
+            "pp": 2,
+            "gf": 14,
+            "gc": 13
+          },
+          "goleador": {
+            "jugador": "Brugui",
+            "goles": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-23",
+              "rival": "Elche",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-11-12",
+              "rival": "Tarancón",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Celta de Vigo",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Atlético de Madrid",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Real Sociedad",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "La Liga"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 7,
+          "pts": 17,
+          "pj": 13,
+          "pg": 5,
+          "pe": 2,
+          "pp": 6,
+          "gf": 20,
+          "gc": 32,
+          "dg": -12,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 1,
+            "pe": 0,
+            "pp": 5,
+            "gf": 6,
+            "gc": 19
+          },
+          "goleador": {
+            "jugador": "M. Zabiri",
+            "goles": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Real Sociedad",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Málaga",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Real Madrid",
+              "campo": "casa",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "La Liga"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Ribadesella CF",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Espanyol",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "La Liga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-04-06",
+          "competicion": "Segunda División",
+          "resultado": "Levante 3-1 Racing de Santander"
+        },
+        {
+          "fecha": "2024-10-13",
+          "competicion": "Segunda División",
+          "resultado": "Racing de Santander 1-0 Levante"
+        },
+        {
+          "fecha": "2024-04-20",
+          "competicion": "Segunda División",
+          "resultado": "Racing de Santander 0-0 Levante"
+        },
+        {
+          "fecha": "2023-11-20",
+          "competicion": "Segunda División",
+          "resultado": "Levante 2-4 Racing de Santander"
+        },
+        {
+          "fecha": "2023-03-25",
+          "competicion": "Segunda División",
+          "resultado": "Racing de Santander 0-1 Levante"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Levante": [
+      {
+        "fecha": "2026-11-23",
+        "rival": "Elche",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-11-12",
+        "rival": "Tarancón",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Celta de Vigo",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Atlético de Madrid",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Real Sociedad",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "La Liga"
+      }
+    ],
+    "Racing de Santander": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Real Sociedad",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Málaga",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Real Madrid",
+        "campo": "casa",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "La Liga"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Ribadesella CF",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Espanyol",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "La Liga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1570468,
+      "slug": "2026-11-27-levante-racing-de-santander",
+      "titular": "Levante y Racing se miden con cinco puntos de diferencia y dos caminos opuestos",
+      "entradilla": "Levante busca romper una racha de dos derrotas en liga, y el Racing quiere mantenerse en la zona alta, con el 7º puesto y 17 puntos en juego.",
+      "parrafos": [
+        "El Levante recibe al Racing de Santander hoy, a las 21:00, en el Estadio Ciudad de Valencia, en la Jornada 14 de LaLiga EA Sports. Arbitra Miguel Sesma Espinosa.",
+        "El Levante llega 15º con 12 puntos y un balance de dos victorias, seis empates y cinco derrotas. En casa ha ganado dos y empatado dos, con 14 goles a favor pero 13 en contra. Su última jornada fue un empate 1-1 ante el Elche, y antes encadenó dos derrotas ante el Atlético y la Real Sociedad. Brugui, con cinco goles, es su principal referencia.",
+        "El Racing es 7º con 17 puntos, cinco victorias, dos empates y seis derrotas. Fuera ha ganado solo una vez en seis partidos, con seis goles a favor y 19 en contra. Llega con tres victorias en sus últimos cinco partidos, incluida la del último fin de semana ante la Real Sociedad por 3-2. M. Zabiri, con 11 goles, es el máximo goleador del equipo visitante."
+      ],
+      "precedente": "El último enfrentamiento fue en abril de 2025, en Segunda División, con victoria local por 3-1.",
+      "el_dato": "El Racing marca 6 goles fuera de casa en seis partidos, y Zabiri ha firmado 11 de los 20 goles del equipo.",
+      "claves": [
+        {
+          "titulo": "Contraste casa y fuera",
+          "texto": "El Levante suma 14 goles en casa y solo tres a domicilio."
+        },
+        {
+          "titulo": "Racha visitante",
+          "texto": "El Racing ha ganado tres de sus últimos cinco partidos."
+        },
+        {
+          "titulo": "Distancia en la tabla",
+          "texto": "Cinco puntos separan a ambos equipos en la clasificación."
+        }
+      ]
+    }
+  ]
+}

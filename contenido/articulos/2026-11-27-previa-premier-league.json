@@ -1,0 +1,312 @@
+{
+  "slug": "2026-11-27-previa-premier-league",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Premier League",
+  "competicion": "Premier League",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Forest y Chelsea miran la zona baja desde posiciones distintas",
+  "entradilla": "Nottingham Forest recibe al Chelsea en la única cita de la jornada 12 de la Premier League. Los locales, 17º con 9 puntos, están a un punto del Manchester United y sin ganar en casa desde el 7 de noviembre; los visitantes, 8º con 16, buscan seguir pegados a la parte alta.",
+  "cuerpo_markdown": "La jornada 12 llega con el Arsenal líder con 28 puntos y el Brighton y el Manchester City a 22. En la mitad de la tabla hay siete equipos entre los 9 y los 16 puntos, separados por poco. Forest y Sunderland empatan a 9 puntos en la zona baja, mientras el Manchester United (8) y el Crystal Palace (7) ocupan los dos últimos puestos.\n\n## Claves de la jornada\n\n- Un solo partido en la jornada 12: Nottingham Forest - Chelsea, viernes a las 21:00\n- Forest suma 9 puntos y Chelsea 16: siete de distancia entre ambos\n- El Manchester United (8) y el Crystal Palace (7) son los únicos equipos por debajo de Forest\n\n## Nottingham Forest - Chelsea\n\n<p class=\"ficha\"><b>21:00</b> · City Ground (Nottingham) · Jornada 12 · Árbitro: Andrew Madley</p><p class=\"forma\"><span class=\"eq\">Nottingham Forest</span><span class=\"fP\" title=\"0-1 vs Arsenal\">P</span><span class=\"fE\" title=\"1-1 vs Ipswich\">E</span><span class=\"fP\" title=\"0-2 vs Brentford\">P</span><span class=\"fG\" title=\"3-1 vs Manchester City\">G</span><span class=\"fP\" title=\"0-2 vs Bournemouth\">P</span><br><span class=\"eq\">Chelsea</span><span class=\"fP\" title=\"0-2 vs Tottenham\">P</span><span class=\"fE\" title=\"1-1 vs Liverpool\">E</span><span class=\"fG\" title=\"2-0 vs Manchester United\">G</span><span class=\"fP\" title=\"0-1 vs Sunderland\">P</span><span class=\"fP\" title=\"1-4 vs Leeds\">P</span></p>\n\nForest, 17º con 9 puntos, busca salir de la zona de peligro ante un Chelsea 8º con 16 puntos que llega de perder dos de sus últimos tres partidos fuera de casa.\n\n[Leer la previa completa →](../previas/2026-11-27-nottingham-forest-chelsea.html)",
+  "texto_instagram": "Forest recibe al Chelsea en la única cita de la jornada 12 de la Premier League. Forest, 17º con 9 puntos, busca salir de la zona baja. El Chelsea, 8º con 16, llega con dos derrotas en sus tres últimos partidos fuera de casa. 🔴⚪ Viernes 27 de noviembre, 21:00: Nottingham Forest - Chelsea, City Ground.",
+  "hashtags": [
+    "#PremierLeague",
+    "#NottinghamForest",
+    "#Chelsea",
+    "#JornadaCompleta"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-premier-league.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-premier-league.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1557485,
+      "fecha": "2026-11-27T21:00:00+01:00",
+      "estadio": "City Ground",
+      "ciudad": "Nottingham",
+      "jornada": "Regular Season - 12",
+      "arbitro": "Andrew Madley",
+      "local": "Nottingham Forest",
+      "visitante": "Chelsea",
+      "escudo_local": "https://media.api-sports.io/football/teams/65.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/49.png",
+      "contexto": {
+        "local": {
+          "pos": 17,
+          "pts": 9,
+          "pj": 11,
+          "pg": 2,
+          "pe": 3,
+          "pp": 6,
+          "gf": 9,
+          "gc": 15,
+          "dg": -6,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 1,
+            "pp": 3,
+            "gf": 3,
+            "gc": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Bournemouth",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Manchester City",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Brentford",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-23",
+              "rival": "Ipswich",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Arsenal",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Premier League"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 8,
+          "pts": 16,
+          "pj": 11,
+          "pg": 5,
+          "pe": 1,
+          "pp": 5,
+          "gf": 20,
+          "gc": 20,
+          "dg": 0,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 2,
+            "pe": 0,
+            "pp": 3,
+            "gf": 6,
+            "gc": 8
+          },
+          "goleador": {
+            "jugador": "João Pedro",
+            "goles": 5
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Leeds",
+              "campo": "casa",
+              "marcador": "1-4",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Sunderland",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Manchester United",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Premier League"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "Liverpool",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "League Cup"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Tottenham",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Premier League"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-05-04",
+          "competicion": "Premier League",
+          "resultado": "Chelsea 1-3 Nottingham Forest"
+        },
+        {
+          "fecha": "2025-10-18",
+          "competicion": "Premier League",
+          "resultado": "Nottingham Forest 0-3 Chelsea"
+        },
+        {
+          "fecha": "2025-05-25",
+          "competicion": "Premier League",
+          "resultado": "Nottingham Forest 0-1 Chelsea"
+        },
+        {
+          "fecha": "2024-10-06",
+          "competicion": "Premier League",
+          "resultado": "Chelsea 1-1 Nottingham Forest"
+        },
+        {
+          "fecha": "2024-05-11",
+          "competicion": "Premier League",
+          "resultado": "Nottingham Forest 2-3 Chelsea"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Nottingham Forest": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Bournemouth",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Manchester City",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Brentford",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-23",
+        "rival": "Ipswich",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Arsenal",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Premier League"
+      }
+    ],
+    "Chelsea": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Leeds",
+        "campo": "casa",
+        "marcador": "1-4",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Sunderland",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Manchester United",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Premier League"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "Liverpool",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "League Cup"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Tottenham",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Premier League"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1557485,
+      "slug": "2026-11-27-nottingham-forest-chelsea",
+      "titular": "Forest recibe al Chelsea con dos equipos que llegan a la mitad de la tabla por caminos opuestos",
+      "entradilla": "Forest, 17º con 9 puntos, busca salir de la zona de peligro ante un Chelsea 8º con 16 puntos que llega de perder dos de sus últimos tres partidos fuera de casa.",
+      "parrafos": [
+        "El viernes 27 de noviembre a las 21:00, en el City Ground de Nottingham, Forest y Chelsea se juegan algo más que tres puntos. Arbitra Andrew Madley, en la jornada 12 de la Premier League.",
+        "Forest llega con 9 puntos, 2 victorias, 3 empates y 6 derrotas. Su racha reciente es LWLDL: perdió sus dos últimos partidos, en Brentford y en Bournemouth, tras un 3-1 al Manchester City en casa. En su estadio ha ganado 1 de 5 partidos, con 3 goles a favor y 4 en contra. Su peor cifra es la defensiva: 15 goles encajados en la liga.",
+        "El Chelsea suma 16 puntos, con 5 victorias, 1 empate y 5 derrotas. Fuera de casa ha ganado 2 de sus 5 partidos, con 6 goles a favor y 8 en contra. Llega con LLWLW: perdió en casa contra el Leeds (1-4) y en Sunderland (0-1), y su única victoria reciente es un 2-0 al Manchester United. Su máximo goleador es João Pedro, con 5 goles, y el equipo empata a 20 goles a favor y en contra, con diferencia cero.",
+        "En la tabla, el Chelsea está a cinco puntos del Liverpool, cuarto, y Forest a un punto del Manchester United, 19º. El partido puede dejar a los dos equipos en posiciones muy distintas antes del final de noviembre."
+      ],
+      "precedente": "En el último enfrentamiento, el 4 de mayo de 2026 en Stamford Bridge, Forest ganó 3-1 al Chelsea. En el historial de los últimos cinco partidos, el Chelsea ha ganado tres, con un empate y una victoria de Forest.",
+      "el_dato": "El Chelsea ha ganado 3 de sus últimos 5 enfrentamientos ante Forest, pero Forest ganó el último en Stamford Bridge.",
+      "claves": [
+        {
+          "titulo": "Racha del Forest",
+          "texto": "Forest suma una victoria en sus últimos cinco partidos, por 3-1 al Manchester City el 7 de noviembre."
+        },
+        {
+          "titulo": "Visitante con pólvora",
+          "texto": "João Pedro lidera al Chelsea con 5 goles en la liga."
+        },
+        {
+          "titulo": "Defensa en cuestión",
+          "texto": "Forest ha encajado 15 goles en 11 partidos, la cifra más alta de su zona media-baja."
+        }
+      ]
+    }
+  ]
+}

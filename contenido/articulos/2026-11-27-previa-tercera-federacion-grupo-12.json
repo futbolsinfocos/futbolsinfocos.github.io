@@ -1,0 +1,282 @@
+{
+  "slug": "2026-11-27-previa-tercera-federacion-grupo-12",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 12",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "El Real Unión de Tenerife recibe al Anaza, último de los de su zona en goles, con 8 puntos de ventaja",
+  "entradilla": "Solo hay un partido hoy en el Grupo 12 de Tercera Federación: el Real Unión de Tenerife, cuarto con 26 puntos, recibe al Anaza, decimoquinto con 12. Los locales llegan con cuatro victorias en casa y ninguna derrota.",
+  "cuerpo_markdown": "La jornada 13 del Grupo 12 tiene un único partido. El liderato lo ocupa el UD San Fernando con 29 puntos, por delante de Panadería Pulido y San Miguel, empatados a 26. El Real Unión de Tenerife está a tres puntos del primero. En la zona baja, el Anaza ocupa el puesto 15 con 12 puntos, a dos del penúltimo, Playas Sotavento, y con una diferencia de goles de -10.\n\n## Claves de la jornada\n\n- Solo un partido en la jornada 13 del Grupo 12\n- El Real Unión de Tenerife ha ganado sus cuatro últimos partidos en casa\n- El Anaza es el visitante con peor diferencia de goles de la zona alta de la tabla\n\n## Real Unión de Tenerife - Anaza\n\n<p class=\"ficha\"><b>22:00</b> · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Real Unión de Tenerife</span><span class=\"fG\" title=\"1-0 vs Estrella\">G</span><span class=\"fE\" title=\"1-1 vs Lanzarote\">E</span><span class=\"fG\" title=\"2-1 vs Villa Santa Brígida\">G</span><span class=\"fG\" title=\"2-1 vs Mensajero\">G</span><span class=\"fG\" title=\"1-0 vs Tenerife C\">G</span><br><span class=\"eq\">Anaza</span><span class=\"fG\" title=\"2-1 vs San Bartolomé\">G</span><span class=\"fP\" title=\"0-3 vs Las Palmas C\">P</span><span class=\"fP\" title=\"1-2 vs UD San Fernando\">P</span><span class=\"fP\" title=\"0-3 vs Los Llanos\">P</span><span class=\"fG\" title=\"3-2 vs Marino\">G</span></p>\n\nEl cuarto clasificado busca seguir a tres puntos del UD San Fernando. El Anaza, con 12 puntos y 15º, intenta salir de la zona baja.\n\n[Leer la previa completa →](../previas/2026-11-27-real-union-de-tenerife-anaza.html)",
+  "texto_instagram": "El Real Unión de Tenerife, cuarto con 26 puntos, recibe al Anaza, 15º con 12. Los locales no pierden en casa desde hace seis partidos. ⚽ Jornada 13 del Grupo 12: Real Unión de Tenerife - Anaza, 27 de noviembre, 22:00.",
+  "hashtags": [
+    "#TerceraFederación",
+    "#RealUniónDeTenerife",
+    "#Anaza",
+    "#Grupo12"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-12.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-12.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1616182,
+      "fecha": "2026-11-27T22:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 12 - 13",
+      "arbitro": null,
+      "local": "Real Unión de Tenerife",
+      "visitante": "Anaza",
+      "escudo_local": "https://media.api-sports.io/football/teams/20375.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/28113.png",
+      "contexto": {
+        "local": {
+          "pos": 4,
+          "pts": 26,
+          "pj": 12,
+          "pg": 8,
+          "pe": 2,
+          "pp": 2,
+          "gf": 18,
+          "gc": 10,
+          "dg": 8,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 4,
+            "pe": 2,
+            "pp": 0,
+            "gf": 8,
+            "gc": 3
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Tenerife C",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Mensajero",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Villa Santa Brígida",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Lanzarote",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Estrella",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 15,
+          "pts": 12,
+          "pj": 12,
+          "pg": 3,
+          "pe": 3,
+          "pp": 6,
+          "gf": 13,
+          "gc": 23,
+          "dg": -10,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 0,
+            "pe": 2,
+            "pp": 4,
+            "gf": 5,
+            "gc": 15
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-20",
+              "rival": "Marino",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Los Llanos",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "UD San Fernando",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Las Palmas C",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 12"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "San Bartolomé",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 12"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Anaza": [
+      {
+        "fecha": "2026-11-20",
+        "rival": "Marino",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Los Llanos",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "UD San Fernando",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Las Palmas C",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "San Bartolomé",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      }
+    ],
+    "Real Unión de Tenerife": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Tenerife C",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Mensajero",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Villa Santa Brígida",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Lanzarote",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 12"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Estrella",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 12"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1616182,
+      "slug": "2026-11-27-real-union-de-tenerife-anaza",
+      "titular": "El Real Unión de Tenerife quiere seguir pegado al liderato ante un Anaza que solo ha ganado fuera de casa en dos ocasiones",
+      "entradilla": "El cuarto clasificado busca seguir a tres puntos del UD San Fernando. El Anaza, con 12 puntos y 15º, intenta salir de la zona baja.",
+      "parrafos": [
+        "El Real Unión de Tenerife recibe al Anaza el 27 de noviembre a las 22:00, en la jornada 13 del Grupo 12. El partido no tiene estadio ni árbitro publicados en los datos.",
+        "El Real Unión de Tenerife llega cuarto, con 26 puntos y ocho victorias en 12 partidos. En casa tiene cuatro victorias y dos empates en seis partidos, sin derrotas. Su racha reciente es de cuatro triunfos seguidos, el último ante el Tenerife C por 1-0 a domingo, y la primera de sus rachas de cinco partidos sin perder en casa.",
+        "El Anaza llega 15º, con 12 puntos y diferencia de goles de -10. Fuera solo ha ganado 0 partidos en seis, con dos empates y cuatro derrotas. Su último resultado es la victoria por 3-2 ante el Marino, en casa.",
+        "En la tabla, el Real Unión de Tenerife está a tres puntos del UD San Fernando y a tres del tercer puesto. El Anaza, a 14 puntos del cuarto, tiene el ataque más discreto de la zona media, con 13 goles marcados."
+      ],
+      "precedente": "",
+      "el_dato": "El Anaza no ha ganado ninguno de sus seis partidos fuera de casa en la liga.",
+      "claves": [
+        {
+          "titulo": "Local invicto en casa",
+          "texto": "El Real Unión de Tenerife suma cuatro victorias y dos empates en seis partidos como local."
+        },
+        {
+          "titulo": "Visitante sin victorias fuera",
+          "texto": "El Anaza tiene cero victorias en seis partidos a domingo fuera de casa."
+        },
+        {
+          "titulo": "Ataque local en racha",
+          "texto": "El Real Unión de Tenerife ha marcado 18 goles en la temporada, el segundo ataque de la zona alta."
+        }
+      ]
+    }
+  ]
+}

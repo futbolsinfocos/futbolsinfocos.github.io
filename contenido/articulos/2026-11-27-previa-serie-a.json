@@ -1,0 +1,303 @@
+{
+  "slug": "2026-11-27-previa-serie-a",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Serie A",
+  "competicion": "Serie A",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "El Venezia recibe al Bologna, colista con seis puntos y cinco arriba del Bologna",
+  "entradilla": "Venezia y Bologna se miden en la Jornada 13 de Serie A. El local, colista con seis puntos, necesita cortar una racha de cinco derrotas; el visitante, noveno, llega cuarto en su racha.",
+  "cuerpo_markdown": "La parte baja de la tabla se aprieta. Venezia y Udinese, con seis puntos cada uno, ocupan los dos últimos puestos, en zona de descenso, mientras Sassuolo tiene ocho. Arriba, Lazio y Roma lideran con 32 y 30 puntos, por delante de Inter y Milan. El Bologna, con 18 puntos, está a tres de la zona europea de Como, quinto con 26.\n\n## Claves de la jornada\n\n- El Venezia suma dos victorias y dos empates en doce partidos y lleva cinco derrotas seguidas.\n- El Bologna ha ganado cuatro de sus últimos cinco partidos.\n- Venezia y Bologna se separan 12 puntos en la tabla.\n\n## Venezia - Bologna\n\n<p class=\"ficha\"><b>20:45</b> · Stadio Pier Luigi Penzo (Venice) · Jornada 13 · Árbitro: Andrea Colombo</p><p class=\"forma\"><span class=\"eq\">Venezia</span><span class=\"fP\" title=\"0-1 vs Genoa\">P</span><span class=\"fP\" title=\"0-2 vs Inter de Milán\">P</span><span class=\"fP\" title=\"0-1 vs Como\">P</span><span class=\"fG\" title=\"2-1 vs Udinese\">G</span><span class=\"fP\" title=\"0-4 vs Juventus\">P</span><br><span class=\"eq\">Bologna</span><span class=\"fG\" title=\"2-0 vs Cagliari\">G</span><span class=\"fG\" title=\"4-2 vs Milan\">G</span><span class=\"fG\" title=\"2-1 vs Monza\">G</span><span class=\"fG\" title=\"2-1 vs Parma\">G</span><span class=\"fE\" title=\"1-1 vs Udinese\">E</span></p>\n\nEl Venezia, colista con seis puntos, recibe al Bologna, noveno con 18. Para el local es una cita de supervivencia; para el visitante, de consolidación en la mitad alta.\n\n[Leer la previa completa →](../previas/2026-11-27-venezia-bologna.html)",
+  "texto_instagram": "El Venezia, colista con seis puntos, recibe al Bologna, noveno con 18, en la Jornada 13 de Serie A. El local ha perdido sus últimos cinco partidos. El visitante llega con cuatro victorias en cinco partidos.\n\nJueves 27 de noviembre\n20:45 Venezia - Bologna\n\n⚽",
+  "hashtags": [
+    "SerieA",
+    "Venezia",
+    "Bologna",
+    "Jornada13"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-serie-a.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-serie-a.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1550216,
+      "fecha": "2026-11-27T20:45:00+01:00",
+      "estadio": "Stadio Pier Luigi Penzo",
+      "ciudad": "Venice",
+      "jornada": "Regular Season - 13",
+      "arbitro": "Andrea Colombo",
+      "local": "Venezia",
+      "visitante": "Bologna",
+      "escudo_local": "https://media.api-sports.io/football/teams/517.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/500.png",
+      "contexto": {
+        "local": {
+          "pos": 20,
+          "pts": 6,
+          "pj": 12,
+          "pg": 2,
+          "pe": 0,
+          "pp": 10,
+          "gf": 8,
+          "gc": 25,
+          "dg": -17,
+          "zona": "descenso",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 0,
+            "pp": 4,
+            "gf": 5,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Juventus",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-11-06",
+              "rival": "Udinese",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Como",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "Inter de Milán",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Genoa",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Serie A"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 9,
+          "pts": 18,
+          "pj": 12,
+          "pg": 5,
+          "pe": 3,
+          "pp": 4,
+          "gf": 17,
+          "gc": 15,
+          "dg": 2,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 4,
+            "pe": 0,
+            "pp": 2,
+            "gf": 10,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Udinese",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Parma",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "Monza",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-28",
+              "rival": "Milan",
+              "campo": "fuera",
+              "marcador": "4-2",
+              "resultado": "G",
+              "competicion": "Serie A"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Cagliari",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Serie A"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2025-03-29",
+          "competicion": "Serie A",
+          "resultado": "Venezia 0-1 Bologna"
+        },
+        {
+          "fecha": "2024-11-30",
+          "competicion": "Serie A",
+          "resultado": "Bologna 3-0 Venezia"
+        },
+        {
+          "fecha": "2022-05-08",
+          "competicion": "Serie A",
+          "resultado": "Venezia 4-3 Bologna"
+        },
+        {
+          "fecha": "2021-11-21",
+          "competicion": "Serie A",
+          "resultado": "Bologna 0-1 Venezia"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Venezia": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Juventus",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-11-06",
+        "rival": "Udinese",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Como",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "Inter de Milán",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Genoa",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Serie A"
+      }
+    ],
+    "Bologna": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Udinese",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Parma",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "Monza",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-28",
+        "rival": "Milan",
+        "campo": "fuera",
+        "marcador": "4-2",
+        "resultado": "G",
+        "competicion": "Serie A"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Cagliari",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Serie A"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1550216,
+      "slug": "2026-11-27-venezia-bologna",
+      "titular": "El Venezia busca salir del último puesto ante un Bologna en racha",
+      "entradilla": "El Venezia, colista con seis puntos, recibe al Bologna, noveno con 18. Para el local es una cita de supervivencia; para el visitante, de consolidación en la mitad alta.",
+      "parrafos": [
+        "El Venezia recibe al Bologna el jueves 27 de noviembre a las 20:45, en el Stadio Pier Luigi Penzo de Venecia, en la Jornada 13. El local ocupa el puesto 20, último, con seis puntos, dos victorias y diez derrotas. Su única victoria reciente fue ante el Udinese, por 2-1, hace tres semanas.",
+        "El Venezia llega con cinco derrotas consecutivas, la última un 0-4 en Turín ante la Juventus. En casa ha ganado dos de seis partidos y ha recibido 11 goles. Su peor dato es el de los goles en contra: 25, la defensa más goleada del campeonato.",
+        "El Bologna llega en el puesto nueve, con 18 puntos y cuatro victorias seguidas en la Serie A, aunque la última jornada fue un empate 1-1 ante el Udinese. Fuera ha ganado cuatro de seis partidos. Su racha incluye victorias en Parma, en Milán ante el Milan (4-2) y en Cagliari (2-0).",
+        "En la tabla, el Bologna está a 12 puntos del Venezia y a nueve de la zona de ascenso del Milan, cuarto con 27. Una victoria en Venecia le dejaría a cuatro puntos de Como, quinto."
+      ],
+      "precedente": "El último enfrentamiento fue el 29 de marzo de 2025 en Venecia, con victoria del Bologna por 0-1. En noviembre de 2024, el Bologna ganó 3-0 en su estadio.",
+      "el_dato": "El Venezia ha encajado 25 goles en 12 partidos, el peor dato de la Serie A.",
+      "claves": [
+        {
+          "titulo": "Racha negativa local",
+          "texto": "El Venezia no gana desde la jornada 7 y acumula cinco derrotas seguidas."
+        },
+        {
+          "titulo": "Visitante con cuatro victorias",
+          "texto": "El Bologna ha ganado cuatro de sus seis partidos fuera de casa."
+        },
+        {
+          "titulo": "Defensa en cuestión",
+          "texto": "El Venezia ha recibido 14 goles en sus seis partidos como visitante."
+        }
+      ]
+    }
+  ]
+}

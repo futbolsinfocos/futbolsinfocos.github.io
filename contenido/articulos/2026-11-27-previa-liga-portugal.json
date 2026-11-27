@@ -1,0 +1,308 @@
+{
+  "slug": "2026-11-27-previa-liga-portugal",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Liga Portugal",
+  "competicion": "Liga Portugal",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Marítimo y Nacional se juegan en el Funchal una parte de la permanencia",
+  "entradilla": "El Marítimo, 15º con 8 puntos, recibe al Nacional, 13º con 10. Los dos están a poca distancia de la zona de descenso, que empieza en el 16º puesto.",
+  "cuerpo_markdown": "La Liga Portugal juega hoy un único partido de su jornada 12. Oporto lidera la clasificación con 33 puntos y once victorias en once partidos. Benfica es segundo con 28. En la otra mitad de la tabla, Casa Pia (16º), Rio Ave (17º) y Estoril (18º) ocupan la zona de descenso.\n\n## Claves de la jornada\n\n- Un solo partido en la jornada 12\n- Marítimo y Casa Pia empatan a 8 puntos\n- Nacional no ha ganado ninguno de sus cinco partidos fuera\n\n## Maritimo - Nacional\n\n<p class=\"ficha\"><b>21:15</b> · Estádio do Marítimo (Funchal) · Jornada 12 · Árbitro: Miguel Andre Monteiro Fonseca</p><p class=\"forma\"><span class=\"eq\">Maritimo</span><span class=\"fG\" title=\"2-1 vs Alcochetense\">G</span><span class=\"fP\" title=\"0-5 vs Vitória SC\">P</span><span class=\"fP\" title=\"1-2 vs Sporting de Portugal\">P</span><span class=\"fP\" title=\"0-2 vs Santa Clara\">P</span><span class=\"fE\" title=\"0-0 vs Chaves\">E</span><br><span class=\"eq\">Nacional</span><span class=\"fP\" title=\"2-3 vs Rio Ave\">P</span><span class=\"fP\" title=\"0-1 vs Sanjoanense\">P</span><span class=\"fG\" title=\"1-0 vs SC Braga\">G</span><span class=\"fP\" title=\"0-1 vs Arouca\">P</span><span class=\"fG\" title=\"1-0 vs Academico Viseu\">G</span></p>\n\nEl Marítimo, 15º y con 8 puntos, recibe al Nacional, 13º con 10. Los dos buscan sumar en una zona donde cada punto pesa.\n\n[Leer la previa completa →](../previas/2026-11-27-maritimo-nacional.html)",
+  "texto_instagram": "La Liga Portugal juega hoy un solo partido: el Marítimo recibe al Nacional en el Funchal. El local es 15º con 8 puntos y el visitante 13º con 10. El Nacional no ha ganado ninguno de sus cinco partidos fuera de casa. 🇵🇹\n\nHoy:\n21:15 Marítimo - Nacional (Estádio do Marítimo, Funchal)",
+  "hashtags": [
+    "#LigaPortugal",
+    "#Maritimo",
+    "#Nacional",
+    "#Previa"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-liga-portugal.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-liga-portugal.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1575551,
+      "fecha": "2026-11-27T21:15:00+01:00",
+      "estadio": "Estádio do Marítimo",
+      "ciudad": "Funchal",
+      "jornada": "Regular Season - 12",
+      "arbitro": "Miguel Andre Monteiro Fonseca",
+      "local": "Maritimo",
+      "visitante": "Nacional",
+      "escudo_local": "https://media.api-sports.io/football/teams/214.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/225.png",
+      "contexto": {
+        "local": {
+          "pos": 15,
+          "pts": 8,
+          "pj": 10,
+          "pg": 2,
+          "pe": 2,
+          "pp": 6,
+          "gf": 9,
+          "gc": 21,
+          "dg": -12,
+          "zona": "",
+          "casa": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 1,
+            "pp": 3,
+            "gf": 4,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Chaves",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Taça de Portugal"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Santa Clara",
+              "campo": "casa",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Primeira Liga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Sporting de Portugal",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Taça da Liga"
+            },
+            {
+              "fecha": "2026-10-23",
+              "rival": "Vitória SC",
+              "campo": "fuera",
+              "marcador": "0-5",
+              "resultado": "P",
+              "competicion": "Primeira Liga"
+            },
+            {
+              "fecha": "2026-10-18",
+              "rival": "Alcochetense",
+              "campo": "fuera",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Taça de Portugal"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 13,
+          "pts": 10,
+          "pj": 11,
+          "pg": 3,
+          "pe": 1,
+          "pp": 7,
+          "gf": 11,
+          "gc": 19,
+          "dg": -8,
+          "zona": "",
+          "fuera": {
+            "pj": 5,
+            "pg": 0,
+            "pe": 1,
+            "pp": 4,
+            "gf": 4,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-08",
+              "rival": "Academico Viseu",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Primeira Liga"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Arouca",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Primeira Liga"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "SC Braga",
+              "campo": "casa",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Primeira Liga"
+            },
+            {
+              "fecha": "2026-10-17",
+              "rival": "Sanjoanense",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Taça de Portugal"
+            },
+            {
+              "fecha": "2026-10-11",
+              "rival": "Rio Ave",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Primeira Liga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2024-01-21",
+          "competicion": "Segunda Liga",
+          "resultado": "Maritimo 3-1 Nacional"
+        },
+        {
+          "fecha": "2023-08-12",
+          "competicion": "Segunda Liga",
+          "resultado": "Nacional 1-2 Maritimo"
+        },
+        {
+          "fecha": "2021-03-12",
+          "competicion": "Primeira Liga",
+          "resultado": "Nacional 1-2 Maritimo"
+        },
+        {
+          "fecha": "2020-10-31",
+          "competicion": "Primeira Liga",
+          "resultado": "Maritimo 0-0 Nacional"
+        },
+        {
+          "fecha": "2019-03-31",
+          "competicion": "Primeira Liga",
+          "resultado": "Maritimo 3-2 Nacional"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Maritimo": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Chaves",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Taça de Portugal"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Santa Clara",
+        "campo": "casa",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Primeira Liga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Sporting de Portugal",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Taça da Liga"
+      },
+      {
+        "fecha": "2026-10-23",
+        "rival": "Vitória SC",
+        "campo": "fuera",
+        "marcador": "0-5",
+        "resultado": "P",
+        "competicion": "Primeira Liga"
+      },
+      {
+        "fecha": "2026-10-18",
+        "rival": "Alcochetense",
+        "campo": "fuera",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Taça de Portugal"
+      }
+    ],
+    "Nacional": [
+      {
+        "fecha": "2026-11-08",
+        "rival": "Academico Viseu",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Primeira Liga"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Arouca",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Primeira Liga"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "SC Braga",
+        "campo": "casa",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Primeira Liga"
+      },
+      {
+        "fecha": "2026-10-17",
+        "rival": "Sanjoanense",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Taça de Portugal"
+      },
+      {
+        "fecha": "2026-10-11",
+        "rival": "Rio Ave",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Primeira Liga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1575551,
+      "slug": "2026-11-27-maritimo-nacional",
+      "titular": "Marítimo y Nacional miden su crisis en el Funchal con la zona baja al acecho",
+      "entradilla": "El Marítimo, 15º y con 8 puntos, recibe al Nacional, 13º con 10. Los dos buscan sumar en una zona donde cada punto pesa.",
+      "parrafos": [
+        "Partido de la jornada 12 de la Liga Portugal, este jueves a las 21:15 en el Estádio do Marítimo, en Funchal. Arbitra Miguel Andre Monteiro Fonseca. El Marítimo ocupa el 15º puesto con 8 puntos en 10 partidos, igualado con el Casa Pia, que es 16º y ya está en la zona de descenso. El Nacional es 13º con 10 puntos en 11 partidos.",
+        "El Marítimo llega con 2 victorias, 2 empates y 6 derrotas, y una diferencia de goles de -12. En casa tiene 1 victoria, 1 empate y 3 derrotas, con 4 goles a favor y 9 en contra. Su último resultado fue un empate 0-0 con el Chaves en la Taça de Portugal, y en liga ha perdido tres de sus últimos cuatro partidos, incluido el 0-2 ante el Santa Clara en casa.",
+        "El Nacional suma 3 victorias, 1 empate y 7 derrotas, con 11 goles a favor y 19 en contra. Fuera de casa no ha ganado en sus cinco partidos: un empate y cuatro derrotas, con solo 4 goles marcados. En casa sí ha ganado dos de sus últimos partidos, ambos por 1-0 frente al Academico Viseu y al SC Braga. Su último partido fue una derrota 2-3 en el Rio Ave.",
+        "Para el Nacional, la visita al Funchal es una oportunidad para sumar fuera de casa tras una racha de resultados muy ajustados. Para el Marítimo, es la ocasión de salir de la franja de descenso y de cortar una racha de tres derrotas en cuatro partidos."
+      ],
+      "precedente": "El último enfrentamiento fue el 21 de enero de 2024, en Segunda Liga, y lo ganó el Marítimo 3-1.",
+      "el_dato": "El Nacional no ha ganado ninguno de sus cinco partidos fuera de casa en esta temporada.",
+      "claves": [
+        {
+          "titulo": "Dos puntos de diferencia",
+          "texto": "El Nacional (10 puntos) está a dos puntos del Casa Pia, que es 16º y en descenso."
+        },
+        {
+          "titulo": "Marítimo en casa",
+          "texto": "Ha ganado una vez en casa, con 4 goles a favor y 9 en contra."
+        },
+        {
+          "titulo": "Nacional sin victorias fuera",
+          "texto": "Solo ha marcado 4 goles en sus cinco partidos como visitante."
+        }
+      ]
+    }
+  ]
+}

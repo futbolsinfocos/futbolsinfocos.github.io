@@ -1,0 +1,278 @@
+{
+  "slug": "2026-11-27-previa-tercera-federacion-grupo-6",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Tercera Federación · Grupo 6",
+  "competicion": "Tercera Federación",
+  "grupo": "espana",
+  "prioridad": 2,
+  "titular": "Ontinyent y Torrent, dos equipos de mitad de tabla que llegan con rachas opuestas",
+  "entradilla": "Solo hay un partido hoy en el Grupo 6 de Tercera Federación: el Ontinyent 1931 recibe al Torrent en la Jornada 13. Ambos equipos están a cinco puntos de la zona de playoff y lejos del descenso.",
+  "cuerpo_markdown": "La Jornada 13 del Grupo 6 solo tiene un encuentro. Villarreal C lidera con 27 puntos, seguido de Levante B con 25. Los puestos de playoff van del segundo al quinto, con Vall de Uxó con 18 puntos. El descenso lo ocupan Torrellano, Utiel y SC Torrevieja, con 11, 10 y 10 puntos respectivamente.\n\n## Claves de la jornada\n\n- Solo un partido en la jornada del Grupo 6\n- Ontinyent y Torrent suman 14 y 16 puntos, respectivamente\n- Torrellano, Utiel y SC Torrevieja cierran la tabla en zona de descenso\n\n## Ontinyent 1931 - Torrent\n\n<p class=\"ficha\"><b>19:30</b> · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Ontinyent 1931</span><span class=\"fE\" title=\"2-2 vs Jove Español\">E</span><span class=\"fG\" title=\"3-1 vs Torrellano\">G</span><span class=\"fP\" title=\"0-1 vs Utiel\">P</span><span class=\"fP\" title=\"2-3 vs Atzeneta\">P</span><span class=\"fG\" title=\"1-0 vs Eldense B\">G</span><br><span class=\"eq\">Torrent</span><span class=\"fG\" title=\"2-0 vs Soneja\">G</span><span class=\"fG\" title=\"3-1 vs Roda\">G</span><span class=\"fP\" title=\"1-2 vs Saguntino\">P</span><span class=\"fP\" title=\"0-4 vs Vall de Uxó\">P</span><span class=\"fP\" title=\"0-1 vs Levante B\">P</span></p>\n\nOntinyent y Torrent se juegan el viernes mantenerse en la mitad de la tabla. El local es 11º con 14 puntos y el visitante 9º con 16.\n\n[Leer la previa completa →](../previas/2026-11-27-ontinyent-1931-torrent.html)",
+  "texto_instagram": "Solo hay un partido hoy en el Tercera Federación Grupo 6: el Ontinyent 1931 recibe al Torrent en la Jornada 13. Ambos llegan con 14 y 16 puntos, a cinco del playoff. 🟢\n\nHorario:\n19:30 Ontinyent 1931 - Torrent",
+  "hashtags": [
+    "#TerceraFederación",
+    "#Ontinyent",
+    "#Torrent",
+    "#Grupo6"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-6.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-tercera-federacion-grupo-6.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1614344,
+      "fecha": "2026-11-27T19:30:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 6 - 13",
+      "arbitro": null,
+      "local": "Ontinyent 1931",
+      "visitante": "Torrent",
+      "escudo_local": "https://media.api-sports.io/football/teams/22139.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/15348.png",
+      "contexto": {
+        "local": {
+          "pos": 11,
+          "pts": 14,
+          "pj": 12,
+          "pg": 4,
+          "pe": 2,
+          "pp": 6,
+          "gf": 16,
+          "gc": 16,
+          "dg": 0,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 1,
+            "pp": 3,
+            "gf": 9,
+            "gc": 8
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Eldense B",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Atzeneta",
+              "campo": "casa",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-11",
+              "rival": "Utiel",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Torrellano",
+              "campo": "fuera",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Jove Español",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Tercera Federación · Grupo 6"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 9,
+          "pts": 16,
+          "pj": 12,
+          "pg": 5,
+          "pe": 1,
+          "pp": 6,
+          "gf": 16,
+          "gc": 16,
+          "dg": 0,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 3,
+            "pe": 0,
+            "pp": 3,
+            "gf": 7,
+            "gc": 10
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Levante B",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-18",
+              "rival": "Vall de Uxó",
+              "campo": "fuera",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Saguntino",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Roda",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 6"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Soneja",
+              "campo": "fuera",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Tercera Federación · Grupo 6"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Ontinyent 1931": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Eldense B",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Atzeneta",
+        "campo": "casa",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-11",
+        "rival": "Utiel",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Torrellano",
+        "campo": "fuera",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Jove Español",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Tercera Federación · Grupo 6"
+      }
+    ],
+    "Torrent": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Levante B",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-18",
+        "rival": "Vall de Uxó",
+        "campo": "fuera",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Saguntino",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Roda",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 6"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Soneja",
+        "campo": "fuera",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Tercera Federación · Grupo 6"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1614344,
+      "slug": "2026-11-27-ontinyent-1931-torrent",
+      "titular": "El Ontinyent busca salir de la mitad baja ante un Torrent que llega con tres derrotas seguidas",
+      "entradilla": "Ontinyent y Torrent se juegan el viernes mantenerse en la mitad de la tabla. El local es 11º con 14 puntos y el visitante 9º con 16.",
+      "parrafos": [
+        "El Ontinyent 1931 recibe al Torrent este viernes a las 19:30, en el estadio y la ciudad que se indican en la ficha, en partido de la Jornada 13 del Grupo 6 de Tercera Federación.",
+        "El Ontinyent es undécimo con 14 puntos, tras 4 victorias, 2 empates y 6 derrotas. En casa ha ganado 2 de sus 6 partidos, con 9 goles a favor y 8 en contra. Su última racha tiene un triunfo en Eldense B y dos derrotas seguidas en casa, ante Utiel y Atzeneta.",
+        "El Torrent llega noveno con 16 puntos y tres derrotas consecutivas, la última 1-0 ante Levante B. Fuera ha ganado 3 de 6 partidos, con 7 goles a favor y 10 en contra. Su racha se completa con dos victorias en Roda y en Soneja, y la derrota 0-4 en Vall de Uxó.",
+        "Con dos puntos de diferencia en la tabla, el duelo enfrenta a dos equipos separados por cinco puntos del playoff y del descenso. Ninguno de los dos ha ganado en sus últimas tres salidas o visitas."
+      ],
+      "precedente": "",
+      "el_dato": "El Torrent ha perdido tres partidos seguidos, pero sigue con 16 puntos, mismos que el Torrent en goles a favor y en contra (16-16).",
+      "claves": [
+        {
+          "titulo": "Tres derrotas seguidas",
+          "texto": "El Torrent llega con tres derrotas consecutivas, la última 1-0 ante Levante B."
+        },
+        {
+          "titulo": "Ontinyent en casa",
+          "texto": "El local ha ganado 2 de sus 6 partidos en casa y ha perdido 3."
+        }
+      ]
+    }
+  ]
+}

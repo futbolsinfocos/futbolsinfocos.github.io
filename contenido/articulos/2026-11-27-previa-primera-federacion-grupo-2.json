@@ -1,0 +1,303 @@
+{
+  "slug": "2026-11-27-previa-primera-federacion-grupo-2",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Primera Federación · Grupo 2",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Hércules busca la zona de play-off ante un Antequera que no gana fuera",
+  "entradilla": "Hércules y Antequera abren la jornada 14 del Grupo 2 de Primera Federación este viernes a las 21:15 en Alicante. Los alicantinos, séptimos con 21 puntos, están a uno del play-off; el Antequera aún no ha ganado lejos de casa.",
+  "cuerpo_markdown": "El Hércules llega séptimo con 21 puntos, empatado con el Ibiza y a uno del FC Cartagena, quinto y último puesto de play-off con 22. El Antequera es undécimo con 17, a cuatro de su rival y a cinco de la promoción, en un tramo medio muy apretado en el que Atlético Madrid B, Antequera y Algeciras comparten esa puntuación. Arriba, el Zaragoza manda con 30 puntos.\n\n## Claves de la jornada\n\n- El Hércules suma cuatro jornadas de liga sin perder: dos victorias y dos empates.\n- El Antequera no ha ganado ninguno de sus seis partidos como visitante: tres empates y tres derrotas.\n- El último precedente, en febrero de 2026 en Alicante, terminó Hércules 0-1 Antequera.\n\n## Hércules - Antequera\n\n<p class=\"ficha\"><b>21:15</b> · Alicante · Jornada 14</p><p class=\"forma\"><span class=\"eq\">Hércules</span><span class=\"fP\" title=\"2-4 vs Nàstic de Tarragona\">P</span><span class=\"fG\" title=\"2-0 vs Rayo Majadahonda\">G</span><span class=\"fE\" title=\"2-2 vs Real Madrid Castilla\">E</span><span class=\"fE\" title=\"2-2 vs Villarreal B\">E</span><span class=\"fG\" title=\"1-0 vs Teruel\">G</span><br><span class=\"eq\">Antequera</span><span class=\"fG\" title=\"2-0 vs Águilas\">G</span><span class=\"fP\" title=\"0-1 vs Real Murcia\">P</span><span class=\"fG\" title=\"3-1 vs Rayo Majadahonda\">G</span><span class=\"fP\" title=\"1-2 vs Algeciras\">P</span><span class=\"fG\" title=\"2-1 vs Juventud Torremolinos\">G</span></p>\n\nLos alicantinos pueden entrar en puestos de promoción si ganan. El Antequera necesita su primer triunfo a domicilio para no descolgarse.\n\n[Leer la previa completa →](../previas/2026-11-27-hercules-antequera.html)",
+  "texto_instagram": "⚽ El Hércules, séptimo con 21 puntos, puede meterse en la zona de play-off si gana al Antequera. Llega con cuatro jornadas sin perder. El Antequera, undécimo con 17, aún no ha ganado fuera: tres empates y tres derrotas en seis salidas. El último precedente en Alicante acabó 0-1 para los andaluces.\n\nPrimera Federación · Grupo 2 · Jornada 14\nHércules - Antequera · 21:15",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#Hércules",
+    "#Antequera",
+    "#HérculesAntequera",
+    "#Grupo2"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-primera-federacion-grupo-2.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-primera-federacion-grupo-2.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1571230,
+      "fecha": "2026-11-27T21:15:00+01:00",
+      "estadio": null,
+      "ciudad": "Alicante",
+      "jornada": "Group 2 - 14",
+      "arbitro": null,
+      "local": "Hércules",
+      "visitante": "Antequera",
+      "escudo_local": "https://media.api-sports.io/football/teams/4666.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9742.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 21,
+          "pj": 13,
+          "pg": 6,
+          "pe": 3,
+          "pp": 4,
+          "gf": 15,
+          "gc": 15,
+          "dg": 0,
+          "zona": "",
+          "casa": {
+            "pj": 7,
+            "pg": 3,
+            "pe": 2,
+            "pp": 2,
+            "gf": 7,
+            "gc": 6
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-20",
+              "rival": "Teruel",
+              "campo": "fuera",
+              "marcador": "1-0",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Villarreal B",
+              "campo": "casa",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Real Madrid Castilla",
+              "campo": "fuera",
+              "marcador": "2-2",
+              "resultado": "E",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Rayo Majadahonda",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Nàstic de Tarragona",
+              "campo": "fuera",
+              "marcador": "2-4",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 2"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 11,
+          "pts": 17,
+          "pj": 13,
+          "pg": 4,
+          "pe": 5,
+          "pp": 4,
+          "gf": 20,
+          "gc": 18,
+          "dg": 2,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 0,
+            "pe": 3,
+            "pp": 3,
+            "gf": 8,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Juventud Torremolinos",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Algeciras",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Rayo Majadahonda",
+              "campo": "casa",
+              "marcador": "3-1",
+              "resultado": "G",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Real Murcia",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Primera Federación · Grupo 2"
+            },
+            {
+              "fecha": "2026-10-29",
+              "rival": "Águilas",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Copa del Rey"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-02-15",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Hércules 0-1 Antequera"
+        },
+        {
+          "fecha": "2025-11-02",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Antequera 1-1 Hércules"
+        },
+        {
+          "fecha": "2025-04-06",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Antequera 4-3 Hércules"
+        },
+        {
+          "fecha": "2024-10-06",
+          "competicion": "Primera Federación · Grupo 2",
+          "resultado": "Hércules 1-0 Antequera"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Antequera": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Juventud Torremolinos",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Algeciras",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Rayo Majadahonda",
+        "campo": "casa",
+        "marcador": "3-1",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Real Murcia",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-29",
+        "rival": "Águilas",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Copa del Rey"
+      }
+    ],
+    "Hércules": [
+      {
+        "fecha": "2026-11-20",
+        "rival": "Teruel",
+        "campo": "fuera",
+        "marcador": "1-0",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Villarreal B",
+        "campo": "casa",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Real Madrid Castilla",
+        "campo": "fuera",
+        "marcador": "2-2",
+        "resultado": "E",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Rayo Majadahonda",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Primera Federación · Grupo 2"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Nàstic de Tarragona",
+        "campo": "fuera",
+        "marcador": "2-4",
+        "resultado": "P",
+        "competicion": "Primera Federación · Grupo 2"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1571230,
+      "slug": "2026-11-27-hercules-antequera",
+      "titular": "El Hércules, a un punto del play-off, recibe al Antequera, sin victorias fuera",
+      "entradilla": "Los alicantinos pueden entrar en puestos de promoción si ganan. El Antequera necesita su primer triunfo a domicilio para no descolgarse.",
+      "parrafos": [
+        "El Hércules recibe al Antequera este viernes a las 21:15 en Alicante, en la jornada 14 del Grupo 2 de Primera Federación. Séptimo con 21 puntos, el equipo alicantino está a uno del FC Cartagena, quinto, y una victoria le acercaría a la zona de play-off. Le saca cuatro puntos a su rival.",
+        "El Hércules encadena cuatro partidos de liga sin perder. Ganó 1-0 en Teruel la última jornada, después de empatar 2-2 con el Villarreal B y con el Real Madrid Castilla y de vencer 2-0 al Rayo Majadahonda. La última derrota fue el 2-4 en Tarragona ante el Nàstic. Sus números son de equipo equilibrado: 15 goles a favor y 15 en contra. En casa suma tres victorias, dos empates y dos derrotas, con solo siete goles marcados en siete partidos.",
+        "El Antequera es undécimo con 17 puntos y su temporada tiene dos caras. En su campo ha ganado cuatro de siete partidos; fuera no ha ganado ninguno de seis, con tres empates, tres derrotas y 11 goles encajados. Viene de ganar 2-1 al Juventud Torremolinos, pero su última salida acabó en derrota por 1-2 en Algeciras. Es más goleador que su rival, con 20 tantos, aunque también ha recibido 18."
+      ],
+      "precedente": "El último enfrentamiento, el 15 de febrero de 2026 en Alicante, lo ganó el Antequera por 0-1. El Hércules no ha vencido en los tres últimos duelos entre ambos.",
+      "el_dato": "El Antequera es uno de los cinco equipos del grupo que aún no han ganado fuera de casa: 0 victorias en 6 salidas.",
+      "claves": [
+        {
+          "titulo": "Hércules, sin perder",
+          "texto": "Lleva cuatro jornadas de liga invicto, con dos victorias y dos empates."
+        },
+        {
+          "titulo": "Antequera, sin ganar fuera",
+          "texto": "Suma tres empates y tres derrotas en sus seis partidos como visitante."
+        },
+        {
+          "titulo": "Pocos goles en Alicante",
+          "texto": "El Hércules ha marcado siete goles y encajado seis en sus siete partidos en casa."
+        }
+      ]
+    }
+  ]
+}

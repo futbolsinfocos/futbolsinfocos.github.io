@@ -1,0 +1,311 @@
+{
+  "slug": "2026-11-27-previa-bundesliga",
+  "tipo": "previa",
+  "fecha": "2026-11-27",
+  "etiqueta": "Bundesliga",
+  "competicion": "Bundesliga",
+  "grupo": "internacional",
+  "prioridad": 3,
+  "titular": "Werder Bremen recibe al Gladbach, último, con 14 puntos de diferencia",
+  "entradilla": "La jornada 11 de la Bundesliga se cierra con un solo partido: el Werder Bremen, sexto con 18 puntos, recibe al Borussia Mönchengladbach, último con 4. La distancia en la tabla es de 14 puntos.",
+  "cuerpo_markdown": "El liderato es del Borussia Dortmund, con 24 puntos, por delante del Bayern de Múnich y del SC Freiburg, ambos con 22. En la zona baja, el Gladbach ocupa la posición 18 y el Schalke 04 y el Union Berlin, con 7 puntos cada uno, completan el descenso. El Werder, que ocupa el sexto puesto, es el único partido de la jornada en esta cita.\n\n## Claves de la jornada\n\n- Solo hay un partido en la jornada 11 de la Bundesliga, el de Bremen\n- El Gladbach es el peor equipo de la tabla, con 4 puntos y 8 derrotas en 10 jornadas\n- Werder y Gladbach están separados por 14 puntos\n\n## Werder Bremen - Borussia Mönchengladbach\n\n<p class=\"ficha\"><b>20:30</b> · Weser-Stadion (Bremen) · Jornada 11 · Árbitro: Felix Zwayer</p><p class=\"forma\"><span class=\"eq\">Werder Bremen</span><span class=\"fG\" title=\"3-2 vs FSV Mainz 05\">G</span><span class=\"fP\" title=\"2-3 vs Borussia Dortmund\">P</span><span class=\"fG\" title=\"2-0 vs 1899 Hoffenheim\">G</span><span class=\"fP\" title=\"0-1 vs VfB Stuttgart\">P</span><span class=\"fG\" title=\"4-0 vs Hamburger SV\">G</span><br><span class=\"eq\">Borussia Mönchengladbach</span><span class=\"fG\" title=\"3-2 vs VfB Stuttgart\">G</span><span class=\"fG\" title=\"2-0 vs Karlsruher SC\">G</span><span class=\"fE\" title=\"0-0 vs SC Paderborn 07\">E</span><span class=\"fP\" title=\"1-3 vs Hamburger SV\">P</span><span class=\"fP\" title=\"0-1 vs Borussia Dortmund\">P</span></p>\n\nEl Werder, sexto, puede sumar su quinto triunfo en diez jornadas ante un Gladbach que ocupa la última posición con 4 puntos. El Gladbach necesita ganar para salir del descenso.\n\n[Leer la previa completa →](../previas/2026-11-27-werder-bremen-borussia-monchengladbach.html)",
+  "texto_instagram": "El Werder Bremen (6º, 18 pts) recibe al Gladbach (18º, 4 pts) hoy en la jornada 11 de la Bundesliga. Los de Bremen ganan 4 de sus 5 partidos en casa. El Gladbach ha ganado solo una vez fuera. ⚽\n\nHoy: Werder Bremen - Borussia Mönchengladbach, 20:30 h, Weser-Stadion ⚽",
+  "hashtags": [
+    "#Bundesliga",
+    "#WerderBremen",
+    "#Gladbach",
+    "#Previa"
+  ],
+  "imagenes_web": [
+    "img/2026-11-27/2026-11-27-previa-bundesliga.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-27/2026-11-27-previa-bundesliga.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1575237,
+      "fecha": "2026-11-27T20:30:00+01:00",
+      "estadio": "Weser-Stadion",
+      "ciudad": "Bremen",
+      "jornada": "Regular Season - 11",
+      "arbitro": "Felix Zwayer",
+      "local": "Werder Bremen",
+      "visitante": "Borussia Mönchengladbach",
+      "escudo_local": "https://media.api-sports.io/football/teams/162.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/163.png",
+      "contexto": {
+        "local": {
+          "pos": 6,
+          "pts": 18,
+          "pj": 10,
+          "pg": 5,
+          "pe": 3,
+          "pp": 2,
+          "gf": 21,
+          "gc": 15,
+          "dg": 6,
+          "zona": "otra",
+          "casa": {
+            "pj": 5,
+            "pg": 4,
+            "pe": 1,
+            "pp": 0,
+            "gf": 14,
+            "gc": 5
+          },
+          "goleador": {
+            "jugador": "N. Füllkrug",
+            "goles": 10
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Hamburger SV",
+              "campo": "casa",
+              "marcador": "4-0",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "VfB Stuttgart",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "1899 Hoffenheim",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Borussia Dortmund",
+              "campo": "fuera",
+              "marcador": "2-3",
+              "resultado": "P",
+              "competicion": "DFB Pokal"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "FSV Mainz 05",
+              "campo": "fuera",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 18,
+          "pts": 4,
+          "pj": 10,
+          "pg": 1,
+          "pe": 1,
+          "pp": 8,
+          "gf": 12,
+          "gc": 26,
+          "dg": -14,
+          "zona": "descenso",
+          "fuera": {
+            "pj": 5,
+            "pg": 1,
+            "pe": 0,
+            "pp": 4,
+            "gf": 5,
+            "gc": 15
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-21",
+              "rival": "Borussia Dortmund",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-11-06",
+              "rival": "Hamburger SV",
+              "campo": "fuera",
+              "marcador": "1-3",
+              "resultado": "P",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-31",
+              "rival": "SC Paderborn 07",
+              "campo": "casa",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Bundesliga"
+            },
+            {
+              "fecha": "2026-10-27",
+              "rival": "Karlsruher SC",
+              "campo": "casa",
+              "marcador": "2-0",
+              "resultado": "G",
+              "competicion": "DFB Pokal"
+            },
+            {
+              "fecha": "2026-10-23",
+              "rival": "VfB Stuttgart",
+              "campo": "fuera",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Bundesliga"
+            }
+          ]
+        }
+      },
+      "historial": [
+        {
+          "fecha": "2026-01-31",
+          "competicion": "Bundesliga",
+          "resultado": "Werder Bremen 1-1 Borussia Mönchengladbach"
+        },
+        {
+          "fecha": "2025-09-14",
+          "competicion": "Bundesliga",
+          "resultado": "Borussia Mönchengladbach 0-4 Werder Bremen"
+        },
+        {
+          "fecha": "2025-03-15",
+          "competicion": "Bundesliga",
+          "resultado": "Werder Bremen 2-4 Borussia Mönchengladbach"
+        },
+        {
+          "fecha": "2024-11-03",
+          "competicion": "Bundesliga",
+          "resultado": "Borussia Mönchengladbach 4-1 Werder Bremen"
+        },
+        {
+          "fecha": "2024-05-04",
+          "competicion": "Bundesliga",
+          "resultado": "Werder Bremen 2-2 Borussia Monchengladbach"
+        }
+      ]
+    }
+  ],
+  "forma": {
+    "Werder Bremen": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Hamburger SV",
+        "campo": "casa",
+        "marcador": "4-0",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "VfB Stuttgart",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "1899 Hoffenheim",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Borussia Dortmund",
+        "campo": "fuera",
+        "marcador": "2-3",
+        "resultado": "P",
+        "competicion": "DFB Pokal"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "FSV Mainz 05",
+        "campo": "fuera",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      }
+    ],
+    "Borussia Mönchengladbach": [
+      {
+        "fecha": "2026-11-21",
+        "rival": "Borussia Dortmund",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-11-06",
+        "rival": "Hamburger SV",
+        "campo": "fuera",
+        "marcador": "1-3",
+        "resultado": "P",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-31",
+        "rival": "SC Paderborn 07",
+        "campo": "casa",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Bundesliga"
+      },
+      {
+        "fecha": "2026-10-27",
+        "rival": "Karlsruher SC",
+        "campo": "casa",
+        "marcador": "2-0",
+        "resultado": "G",
+        "competicion": "DFB Pokal"
+      },
+      {
+        "fecha": "2026-10-23",
+        "rival": "VfB Stuttgart",
+        "campo": "fuera",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Bundesliga"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1575237,
+      "slug": "2026-11-27-werder-bremen-borussia-monchengladbach",
+      "titular": "El Werder busca distanciarse del descenso con el Gladbach en el Weser-Stadion",
+      "entradilla": "El Werder, sexto, puede sumar su quinto triunfo en diez jornadas ante un Gladbach que ocupa la última posición con 4 puntos. El Gladbach necesita ganar para salir del descenso.",
+      "parrafos": [
+        "El partido se juega hoy, jueves 27 de noviembre, a las 20:30 en el Weser-Stadion de Bremen. Lo dirige Felix Zwayer. Es la jornada 11 de la Bundesliga.",
+        "El Werder llega con 18 puntos, 5 victorias, 3 empates y 2 derrotas. En casa es el mejor de su historia reciente en la liga, con 4 victorias y 1 empate en 5 partidos y 14 goles a favor. Su racha reciente dice G-P-G-P-G: venció 4-0 al Hamburger SV y 2-0 al Hoffenheim, y cayó 0-1 en Stuttgart. Füllkrug, con 10 goles, es el máximo goleador del equipo y de la liga en esta jornada.",
+        "El Gladbach llega con 1 victoria, 1 empate y 8 derrotas, y solo 12 goles marcados. Fuera ha ganado una vez en cinco partidos, 3-2 en Stuttgart, y su última salida dejó un 1-3 en el campo del Hamburger SV. En los últimos cinco partidos ha perdido tres, y la última fue un 0-1 ante el Dortmund en casa."
+      ],
+      "precedente": "El último enfrentamiento fue el 31 de enero de 2026, con empate 1-1 en Bremen.",
+      "el_dato": "El Gladbach ha marcado 5 goles en sus 5 partidos fuera y ha recibido 15.",
+      "claves": [
+        {
+          "titulo": "Ventaja en casa",
+          "texto": "El Werder ha ganado 4 de sus 5 partidos en el Weser-Stadion."
+        },
+        {
+          "titulo": "Füllkrug en racha",
+          "texto": "El delantero suma 10 goles en la liga y es el máximo goleador del Werder."
+        },
+        {
+          "titulo": "Gladbach fuera",
+          "texto": "El equipo visitante ha perdido 4 de sus 5 partidos a domicilio."
+        }
+      ]
+    }
+  ]
+}
