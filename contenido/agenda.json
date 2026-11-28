@@ -1,6 +1,5 @@
 {
-  "2026-11-26": [],
-  "2026-11-27": [
+  "2026-11-28": [
     {
       "etiqueta": "Primera Federación · Grupo 1",
       "competicion": "Primera Federación",
@@ -8,12 +7,72 @@
       "prioridad": 1,
       "partidos": [
         {
-          "id": 1570846,
-          "fecha": "2026-11-27T19:00:00+01:00",
-          "estadio": "Lezama Facilities",
+          "id": 1570847,
+          "fecha": "2026-11-28T13:00:00+01:00",
+          "estadio": "Estadio La Isla",
           "jornada": "Group 1 - 14",
-          "local": "Athletic Club B",
-          "visitante": "Cultural Leonesa",
+          "local": "CD Coria",
+          "visitante": "Ponferradina",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570853,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Estadio Las Gaunas",
+          "jornada": "Group 1 - 14",
+          "local": "UD Logroñés",
+          "visitante": "Barakaldo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570854,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Reina Sofia",
+          "jornada": "Group 1 - 14",
+          "local": "Unionistas de Salamanca",
+          "visitante": "Deportivo La Coruña B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570849,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Estadio Anxo Carro",
+          "jornada": "Group 1 - 14",
+          "local": "Lugo",
+          "visitante": "UD Ourense",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570852,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Stadium Gal",
+          "jornada": "Group 1 - 14",
+          "local": "Real Unión",
+          "visitante": "Arenas Getxo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570855,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Estadio Ruta de la Plata",
+          "jornada": "Group 1 - 14",
+          "local": "Zamora",
+          "visitante": "Pontevedra",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570848,
+          "fecha": "2026-11-28T21:00:00+01:00",
+          "estadio": "Estadio Francisco de la Hera",
+          "jornada": "Group 1 - 14",
+          "local": "Extremadura 1924",
+          "visitante": "Cacereño",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -26,12 +85,526 @@
       "prioridad": 1,
       "partidos": [
         {
-          "id": 1571230,
-          "fecha": "2026-11-27T21:15:00+01:00",
-          "estadio": null,
+          "id": 1571227,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Estadio Nuevo Mirador",
           "jornada": "Group 2 - 14",
-          "local": "Hércules",
-          "visitante": "Antequera",
+          "local": "Algeciras",
+          "visitante": "Huesca",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571231,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Nuevo Estadio de La Victoria",
+          "jornada": "Group 2 - 14",
+          "local": "Real Jaén",
+          "visitante": "Águilas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571235,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Estadi Municipal de Can Misses",
+          "jornada": "Group 2 - 14",
+          "local": "Ibiza",
+          "visitante": "Atlético Madrid B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571226,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Estadio Municipal de Santo Domingo",
+          "jornada": "Group 2 - 14",
+          "local": "Alcorcón",
+          "visitante": "Zaragoza",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571234,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Estadio Municipal El Pozuelo",
+          "jornada": "Group 2 - 14",
+          "local": "Juventud Torremolinos",
+          "visitante": "FC Cartagena",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571228,
+          "fecha": "2026-11-28T19:00:00+01:00",
+          "estadio": "Can Drago",
+          "jornada": "Group 2 - 14",
+          "local": "Europa Fc",
+          "visitante": "Villarreal B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 1",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1572141,
+          "fecha": "2026-11-28T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Basconia",
+          "visitante": "Sestao River",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572138,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": "Campo Municipal de Urritxe",
+          "jornada": "Group 1 - 13",
+          "local": "Amorebieta",
+          "visitante": "Llanera",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572144,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Eibar B",
+          "visitante": "Marino de Luanco",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572139,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Atlético Astorga",
+          "visitante": "Deportivo Alavés B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572140,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Arosa",
+          "visitante": "Real Oviedo B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572142,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Compostela",
+          "visitante": "Bergantiños",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572143,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Coruxo",
+          "visitante": "Gimnástica Torrelavega",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572145,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": "Estadio de O Couto",
+          "jornada": "Group 1 - 13",
+          "local": "Ourense CF",
+          "visitante": "Gernika",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572146,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Portugalete",
+          "visitante": "Racing Santander B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 2",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1572447,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Ebro",
+          "visitante": "Espanyol B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572450,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": "Municipal de Tarazona",
+          "jornada": "Group 2 - 13",
+          "local": "Calamocha",
+          "visitante": "Olot",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572444,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Arnedo",
+          "visitante": "Reddis",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572446,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": "Estadi Johan Cruyff",
+          "jornada": "Group 2 - 13",
+          "local": "Barcelona B",
+          "visitante": "Terrassa",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572449,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Peña Sport",
+          "visitante": "Osasuna B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 3",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1572757,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Real Murcia B",
+          "visitante": "Castellón B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572756,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Poblense",
+          "visitante": "Mallorca B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572758,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": "Campo de la Constitucion",
+          "jornada": "Group 3 - 13",
+          "local": "Yeclano",
+          "visitante": "Cieza",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572751,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": "Estadio Balear",
+          "jornada": "Group 3 - 13",
+          "local": "Atlético Baleares",
+          "visitante": "Orihuela",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572755,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "La Nucía",
+          "visitante": "Ucam Murcia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572750,
+          "fecha": "2026-11-28T20:00:00+01:00",
+          "estadio": "Estadio El Collao",
+          "jornada": "Group 3 - 13",
+          "local": "Alcoyano",
+          "visitante": "Lorca Deportiva",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 4",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1573058,
+          "fecha": "2026-11-28T19:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Badajoz",
+          "visitante": "Mijas Las Lagunas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573061,
+          "fecha": "2026-11-28T19:00:00+01:00",
+          "estadio": "Estadio El Palmar",
+          "jornada": "Group 4 - 13",
+          "local": "Sanluqueño",
+          "visitante": "Antoniano",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 5",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1573363,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Atlético Tordesillas",
+          "visitante": "Getafe B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573367,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Calvo Sotelo",
+          "visitante": "A Madrid C",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573368,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "RSD Alcalá",
+          "visitante": "Real Ávila",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573369,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "SS Reyes",
+          "visitante": "Navalcarnero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573362,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Real Madrid C",
+          "visitante": "Salamanca UDS",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573364,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": "Estadio La Albuera",
+          "jornada": "Group 5 - 13",
+          "local": "Gimnástica Segoviana",
+          "visitante": "CF Talavera",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573366,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Numancia",
+          "visitante": "Albacete B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 1",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1612811,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Pontevedra B",
+          "visitante": "Celtiga",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612819,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Somozas",
+          "visitante": "Alondras",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612818,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Silva",
+          "visitante": "Celta de Vigo C",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612815,
+          "fecha": "2026-11-28T20:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Lalin",
+          "visitante": "Boiro",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 10",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615568,
+          "fecha": "2026-11-28T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Ceuta B",
+          "visitante": "Portuense",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 11",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615873,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Cardassar",
+          "visitante": "PE Sant Jordi",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615875,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Manacor",
+          "visitante": "Porreres",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615872,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Binissalem",
+          "visitante": "Mercadal",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615876,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Migjorn",
+          "visitante": "Constància",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615877,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Platges Calvià",
+          "visitante": "Alcúdia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615879,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Sineu",
+          "visitante": "Santanyí",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -44,12 +617,428 @@
       "prioridad": 2,
       "partidos": [
         {
-          "id": 1616182,
-          "fecha": "2026-11-27T22:00:00+01:00",
+          "id": 1616178,
+          "fecha": "2026-11-28T12:00:00+01:00",
           "estadio": null,
           "jornada": "Group 12 - 13",
-          "local": "Real Unión de Tenerife",
-          "visitante": "Anaza",
+          "local": "Estrella",
+          "visitante": "Lanzarote",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616181,
+          "fecha": "2026-11-28T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Panadería Pulido",
+          "visitante": "Las Palmas C",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616184,
+          "fecha": "2026-11-28T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Playas Sotavento",
+          "visitante": "Mensajero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616185,
+          "fecha": "2026-11-28T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Unión Sur Yaiza",
+          "visitante": "Villa Santa Brígida",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616180,
+          "fecha": "2026-11-28T14:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Los Llanos",
+          "visitante": "Villaverde Norte",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616179,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Laguna de Duero",
+          "visitante": "Tenerife C",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 13",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1616491,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Santa Cruz",
+          "visitante": "Algar",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616488,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "SFC Minerva",
+          "visitante": "UCAM Murcia B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616484,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Alcantarilla",
+          "visitante": "Balsicas Atlético",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616487,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Mazarrón FC",
+          "visitante": "San Javier",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 14",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1616793,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Jaraíz",
+          "visitante": "Gévora",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616790,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Cabeza Buey",
+          "visitante": "Quintana",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616789,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Azuaga",
+          "visitante": "Plasencia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616791,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "CD Zafra",
+          "visitante": "Santa Amalia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616796,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Villafranca",
+          "visitante": "Moralo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616795,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Atlético Pueblonuevo",
+          "visitante": "Montijo",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 15",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617099,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Cortes",
+          "visitante": "Huarte",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617100,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": "Campo de Futbol Beitikuntzea",
+          "jornada": "Group 15 - 13",
+          "local": "Pamplona",
+          "visitante": "Cirbonero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617096,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Beti Kozkor",
+          "visitante": "Gazte Berriak",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617101,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Txantrea",
+          "visitante": "Aoiz",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617097,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Beti Onak",
+          "visitante": "Cantolagua",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617098,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Bidezarra",
+          "visitante": "Valle Egüés",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617095,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "San Juan",
+          "visitante": "Avance Ezcabarte",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 16",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617401,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Agoncillo",
+          "visitante": "La Calzada",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617402,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Alfaro",
+          "visitante": "San Marcial",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617405,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Calasancio",
+          "visitante": "Pradejón",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617409,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Yagüe",
+          "visitante": "Oyonesa",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 17",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617713,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": "Estadio El Alcoraz",
+          "jornada": "Group 17 - 13",
+          "local": "Huesca B",
+          "visitante": "Belchite 97",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 18",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1618018,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "San Clemente",
+          "visitante": "CD Villa",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618016,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "La Solana",
+          "visitante": "Villarrubia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618019,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Toledo",
+          "visitante": "Torrijos",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618020,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Villacañas",
+          "visitante": "Quintanar del Rey",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618014,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Manchego",
+          "visitante": "Tarancón",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618015,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Huracán Balazote",
+          "visitante": "Socuéllamos",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 2",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613125,
+          "fecha": "2026-11-28T15:45:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Praviano",
+          "visitante": "Astur",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613123,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "L'Entregu",
+          "visitante": "Ceares",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613121,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Langreo",
+          "visitante": "Mosconia",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -62,12 +1051,148 @@
       "prioridad": 2,
       "partidos": [
         {
-          "id": 1613428,
-          "fecha": "2026-11-27T20:30:00+01:00",
+          "id": 1613427,
+          "fecha": "2026-11-28T16:30:00+01:00",
           "estadio": null,
           "jornada": "Group 3 - 13",
-          "local": "Revilla",
-          "visitante": "Velarde",
+          "local": "Naval Reinosa",
+          "visitante": "Barquereño",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613424,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Atlético Mineros",
+          "visitante": "Laredo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613423,
+          "fecha": "2026-11-28T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Atlético Albericia",
+          "visitante": "Guarnizo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613431,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Tropezón",
+          "visitante": "Cayón",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 4",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613731,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Aurrerá Vitoria",
+          "visitante": "Derio",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613737,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Touring",
+          "visitante": "R. Union B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613733,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Erandio",
+          "visitante": "Aretxabaleta",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613734,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Leioa",
+          "visitante": "Santurtzi",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613736,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Sodupe",
+          "visitante": "Beasain",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 5",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614035,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Atlètic Lleida",
+          "visitante": "Vilassar Mar",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614037,
+          "fecha": "2026-11-28T17:45:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Vilanova",
+          "visitante": "San Cristóbal",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614038,
+          "fecha": "2026-11-28T18:15:00+01:00",
+          "estadio": "Nou Municipal de Cornella",
+          "jornada": "Group 5 - 13",
+          "local": "Cornellà",
+          "visitante": "Montañesa",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614043,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "San Juan Atletico de Montcada",
+          "visitante": "Badalona",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -80,12 +1205,156 @@
       "prioridad": 2,
       "partidos": [
         {
-          "id": 1614344,
-          "fecha": "2026-11-27T19:30:00+01:00",
+          "id": 1614343,
+          "fecha": "2026-11-28T12:00:00+01:00",
           "estadio": null,
           "jornada": "Group 6 - 13",
-          "local": "Ontinyent 1931",
-          "visitante": "Torrent",
+          "local": "Levante B",
+          "visitante": "Hércules B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614345,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Roda",
+          "visitante": "Acero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614348,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Utiel",
+          "visitante": "Torrellano",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 7",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614652,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Alcobendas Sport",
+          "visitante": "RC Alcobendas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614649,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Colonia Moscardó",
+          "visitante": "Trival Valderas",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 8",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614957,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Atlético Mansillés",
+          "visitante": "Burgos Promesas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614960,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Turégano",
+          "visitante": "Salamanca B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614954,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Bembibre",
+          "visitante": "UD Santa Marta",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614953,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Arandina",
+          "visitante": "Villaralbo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614959,
+          "fecha": "2026-11-28T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Cristo Atlético",
+          "visitante": "Almazán",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 9",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615266,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Motril",
+          "visitante": "Melilla",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615260,
+          "fecha": "2026-11-28T18:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Atletico de Marbella",
+          "visitante": "Alhaurino",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615265,
+          "fecha": "2026-11-28T19:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Málaga B",
+          "visitante": "Ciudad de Torredonjimeno",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -98,12 +1367,52 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1575237,
-          "fecha": "2026-11-27T20:30:00+01:00",
-          "estadio": "Weser-Stadion",
+          "id": 1575234,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": "MEWA Arena",
           "jornada": "Regular Season - 11",
-          "local": "Werder Bremen",
-          "visitante": "Borussia Mönchengladbach",
+          "local": "FSV Mainz 05",
+          "visitante": "Union Berlin",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575235,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": "Volksparkstadion",
+          "jornada": "Regular Season - 11",
+          "local": "Hamburger SV",
+          "visitante": "Bayern de Múnich",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575236,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": "RheinEnergieStadion",
+          "jornada": "Regular Season - 11",
+          "local": "1. FC Köln",
+          "visitante": "SV Elversberg",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575238,
+          "fecha": "2026-11-28T15:30:00+01:00",
+          "estadio": "Home Deluxe Arena",
+          "jornada": "Regular Season - 11",
+          "local": "SC Paderborn 07",
+          "visitante": "FC Schalke 04",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575231,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": "MHP Arena",
+          "jornada": "Regular Season - 11",
+          "local": "VfB Stuttgart",
+          "visitante": "Eintracht Frankfurt",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -116,12 +1425,32 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1552238,
-          "fecha": "2026-11-27T20:00:00+01:00",
-          "estadio": "Hitachi Capital Mobility Stadion",
+          "id": 1552236,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Van Donge & De Roo Stadion",
           "jornada": "Regular Season - 14",
-          "local": "Groningen",
-          "visitante": "Willem B",
+          "local": "Excelsior",
+          "visitante": "Telstar",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552240,
+          "fecha": "2026-11-28T18:45:00+01:00",
+          "estadio": "Philips Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "PSV Eindhoven",
+          "visitante": "GO Ahead Eagles",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552234,
+          "fecha": "2026-11-28T21:00:00+01:00",
+          "estadio": "Kooi Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "Cambuur",
+          "visitante": "Sparta Rotterdam",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -134,12 +1463,42 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1570468,
-          "fecha": "2026-11-27T21:00:00+01:00",
-          "estadio": "Estadio Ciudad de Valencia",
+          "id": 1570463,
+          "fecha": "2026-11-28T14:00:00+01:00",
+          "estadio": "Estadio de la Cartuja",
           "jornada": "Regular Season - 14",
-          "local": "Levante",
-          "visitante": "Racing de Santander",
+          "local": "Real Betis",
+          "visitante": "Rayo Vallecano",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570469,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": "La Rosaleda",
+          "jornada": "Regular Season - 14",
+          "local": "Málaga",
+          "visitante": "Athletic Club",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570466,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": "Estadio Manuel Martínez Valero",
+          "jornada": "Regular Season - 14",
+          "local": "Elche",
+          "visitante": "Atlético de Madrid",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570470,
+          "fecha": "2026-11-28T21:00:00+01:00",
+          "estadio": "Santiago Bernabéu Stadium",
+          "jornada": "Regular Season - 14",
+          "local": "Real Madrid",
+          "visitante": "Alavés",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -152,12 +1511,52 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1570043,
-          "fecha": "2026-11-27T20:30:00+01:00",
-          "estadio": "Municipal de Butarque",
+          "id": 1570042,
+          "fecha": "2026-11-28T14:00:00+01:00",
+          "estadio": "Gran Canaria",
           "jornada": "Regular Season - 16",
-          "local": "Leganés",
-          "visitante": "Sabadell",
+          "local": "Las Palmas",
+          "visitante": "FC Andorra",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570036,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": "Carlos Belmonte",
+          "jornada": "Regular Season - 16",
+          "local": "Albacete",
+          "visitante": "Tenerife",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570040,
+          "fecha": "2026-11-28T16:15:00+01:00",
+          "estadio": "Nuevo Pepico Amat",
+          "jornada": "Regular Season - 16",
+          "local": "Eldense",
+          "visitante": "Girona",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570039,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": "Ipurua Municipal Stadium",
+          "jornada": "Regular Season - 16",
+          "local": "Eibar",
+          "visitante": "Burgos",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570046,
+          "fecha": "2026-11-28T21:00:00+01:00",
+          "estadio": "Estadio José Zorrilla",
+          "jornada": "Regular Season - 16",
+          "local": "Valladolid",
+          "visitante": "Real Sociedad B",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -170,12 +1569,42 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1575551,
-          "fecha": "2026-11-27T21:15:00+01:00",
-          "estadio": "Estádio do Marítimo",
+          "id": 1575546,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Estádio Municipal de Arouca",
           "jornada": "Regular Season - 12",
-          "local": "Maritimo",
-          "visitante": "Nacional",
+          "local": "Arouca",
+          "visitante": "Rio Ave",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575552,
+          "fecha": "2026-11-28T16:30:00+01:00",
+          "estadio": "Parque Joaquim Almeida Freitas",
+          "jornada": "Regular Season - 12",
+          "local": "Moreirense",
+          "visitante": "Santa Clara",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575545,
+          "fecha": "2026-11-28T19:00:00+01:00",
+          "estadio": "Estadio do Fontelo",
+          "jornada": "Regular Season - 12",
+          "local": "Academico Viseu",
+          "visitante": "Alverca",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575553,
+          "fecha": "2026-11-28T21:30:00+01:00",
+          "estadio": "Estádio D. Afonso Henriques",
+          "jornada": "Regular Season - 12",
+          "local": "Vitória SC",
+          "visitante": "Estrela",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -188,12 +1617,52 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1552830,
-          "fecha": "2026-11-27T20:45:00+01:00",
-          "estadio": "Stade Francis-Le-Blé",
+          "id": 1552828,
+          "fecha": "2026-11-28T17:15:00+01:00",
+          "estadio": "Stade Raymond Kopa",
           "jornada": "Regular Season - 12",
-          "local": "Stade Brestois 29",
-          "visitante": "Paris FC",
+          "local": "Angers",
+          "visitante": "Lens",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552831,
+          "fecha": "2026-11-28T20:45:00+01:00",
+          "estadio": "Stade Océane",
+          "jornada": "Regular Season - 12",
+          "local": "Le Havre",
+          "visitante": "Strasbourg",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552832,
+          "fecha": "2026-11-28T20:45:00+01:00",
+          "estadio": "MMArena",
+          "jornada": "Regular Season - 12",
+          "local": "Le Mans",
+          "visitante": "Lille",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552834,
+          "fecha": "2026-11-28T20:45:00+01:00",
+          "estadio": "Allianz Riviera",
+          "jornada": "Regular Season - 12",
+          "local": "Nice",
+          "visitante": "Estac Troyes",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552835,
+          "fecha": "2026-11-28T20:45:00+01:00",
+          "estadio": "Parc des Princes",
+          "jornada": "Regular Season - 12",
+          "local": "PSG",
+          "visitante": "Lorient",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -206,12 +1675,32 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1557485,
-          "fecha": "2026-11-27T21:00:00+01:00",
-          "estadio": "City Ground",
+          "id": 1557483,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": "Elland Road",
           "jornada": "Regular Season - 12",
-          "local": "Nottingham Forest",
-          "visitante": "Chelsea",
+          "local": "Leeds",
+          "visitante": "Coventry",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557484,
+          "fecha": "2026-11-28T16:00:00+01:00",
+          "estadio": "Old Trafford",
+          "jornada": "Regular Season - 12",
+          "local": "Manchester United",
+          "visitante": "Brentford",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557482,
+          "fecha": "2026-11-28T18:30:00+01:00",
+          "estadio": "Portman Road Stadium",
+          "jornada": "Regular Season - 12",
+          "local": "Ipswich",
+          "visitante": "Aston Villa",
           "goles_local": null,
           "goles_visitante": null
         }
@@ -224,12 +1713,1660 @@
       "prioridad": 3,
       "partidos": [
         {
-          "id": 1550216,
-          "fecha": "2026-11-27T20:45:00+01:00",
-          "estadio": "Stadio Pier Luigi Penzo",
+          "id": 1550210,
+          "fecha": "2026-11-28T15:00:00+01:00",
+          "estadio": "PSC Arena",
           "jornada": "Regular Season - 13",
-          "local": "Venezia",
-          "visitante": "Bologna",
+          "local": "Frosinone",
+          "visitante": "Parma",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1550214,
+          "fecha": "2026-11-28T18:00:00+01:00",
+          "estadio": "Stadio Olimpico Grande Torino",
+          "jornada": "Regular Season - 13",
+          "local": "Torino",
+          "visitante": "Lazio",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1550211,
+          "fecha": "2026-11-28T20:45:00+01:00",
+          "estadio": "San Siro/Giuseppe Meazza",
+          "jornada": "Regular Season - 13",
+          "local": "Inter de Milán",
+          "visitante": "Genoa",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    }
+  ],
+  "2026-11-29": [
+    {
+      "etiqueta": "Primera Federación · Grupo 1",
+      "competicion": "Primera Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1570850,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": "Estadio Municipal da Malata",
+          "jornada": "Group 1 - 14",
+          "local": "Racing de Ferrol",
+          "visitante": "Mérida AD",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570851,
+          "fecha": "2026-11-29T18:15:00+01:00",
+          "estadio": "Estadio Roman Suarez Puerta",
+          "jornada": "Group 1 - 14",
+          "local": "Real Avilés",
+          "visitante": "Mirandés",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Primera Federación · Grupo 2",
+      "competicion": "Primera Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1571229,
+          "fecha": "2026-11-29T16:00:00+01:00",
+          "estadio": "Nou Estadi de Tarragona",
+          "jornada": "Group 2 - 14",
+          "local": "Nàstic de Tarragona",
+          "visitante": "Teruel",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571233,
+          "fecha": "2026-11-29T16:00:00+01:00",
+          "estadio": "Estadio Cerro del Espino",
+          "jornada": "Group 2 - 14",
+          "local": "Rayo Majadahonda",
+          "visitante": "Real Madrid Castilla",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1571232,
+          "fecha": "2026-11-29T20:30:00+01:00",
+          "estadio": "Estadio Enrique Roca",
+          "jornada": "Group 2 - 14",
+          "local": "Real Murcia",
+          "visitante": "Sant Andreu",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 2",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1572445,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Barbastro",
+          "visitante": "SD Logroñés",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572452,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "UD Logroñés B",
+          "visitante": "Náxara",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572451,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Tudelano",
+          "visitante": "Utebo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572448,
+          "fecha": "2026-11-29T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Manresa",
+          "visitante": "Girona B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 3",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1572753,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": "Camp Municipal Antonio Solana",
+          "jornada": "Group 3 - 13",
+          "local": "Intercity",
+          "visitante": "Peña Deportiva",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572754,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Deportiva Minera",
+          "visitante": "Valencia B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1572752,
+          "fecha": "2026-11-29T11:45:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Castellonense",
+          "visitante": "Elche B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 4",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1573062,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": "Estadio Jesus Navas",
+          "jornada": "Group 4 - 13",
+          "local": "Sevilla Atlético",
+          "visitante": "Don Benito",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573056,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Puente Genil",
+          "visitante": "Tenerife B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573059,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Las Palmas B",
+          "visitante": "Estepona",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573060,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": "Banus Football Center",
+          "jornada": "Group 4 - 13",
+          "local": "Marbella",
+          "visitante": "Recreativo Huelva",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573057,
+          "fecha": "2026-11-29T13:00:00+01:00",
+          "estadio": "Ciudad Deportiva Luis de Sol",
+          "jornada": "Group 4 - 13",
+          "local": "Real Betis B",
+          "visitante": "Atlético Central",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573063,
+          "fecha": "2026-11-29T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Tamaraceite",
+          "visitante": "Ciudad de Lucena",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573064,
+          "fecha": "2026-11-29T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Xerez",
+          "visitante": "Linares Deportivo",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Segunda Federación · Grupo 5",
+      "competicion": "Segunda Federación",
+      "grupo": "espana",
+      "prioridad": 1,
+      "partidos": [
+        {
+          "id": 1573365,
+          "fecha": "2026-11-29T11:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Guadalajara",
+          "visitante": "Atlético Paso",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1573370,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Real Valladolid B",
+          "visitante": "Conquense",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 1",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1612813,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Arenteiro",
+          "visitante": "Viveiro",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612812,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Antela",
+          "visitante": "Coruña",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612816,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Portonovo SD",
+          "visitante": "Villalbés",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612817,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Sarriana",
+          "visitante": "Atlético Arteixo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1612814,
+          "fecha": "2026-11-29T17:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 1 - 13",
+          "local": "Barco",
+          "visitante": "Estradense",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 10",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615566,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Cádiz B",
+          "visitante": "Betis C",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615567,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Utrera",
+          "visitante": "Xerez Deportivo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615569,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Conil",
+          "visitante": "Egabrense",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615570,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Córdoba B",
+          "visitante": "Sevilla C",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615571,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Dos Hermanas",
+          "visitante": "Chiclana",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615572,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Linense",
+          "visitante": "Bollullos",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615565,
+          "fecha": "2026-11-29T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Atlético Onubense",
+          "visitante": "Tomares",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615573,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 10 - 13",
+          "local": "Pozoblanco",
+          "visitante": "San Roque Lepe",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 11",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615874,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Formentera",
+          "visitante": "Inter Ibiza",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615878,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Ibiza Islas Pitiusas",
+          "visitante": "Llosetense",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615871,
+          "fecha": "2026-11-29T12:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 11 - 13",
+          "local": "Andratx",
+          "visitante": "Arenal",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 12",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1616177,
+          "fecha": "2026-11-29T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "Marino",
+          "visitante": "San Miguel",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616183,
+          "fecha": "2026-11-29T13:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 12 - 13",
+          "local": "UD San Fernando",
+          "visitante": "San Bartolomé",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 13",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1616490,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Atlético Pulpileño",
+          "visitante": "Olímpico Totana",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616483,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Águilas B",
+          "visitante": "Cartagena LU B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616486,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Cotillas CD",
+          "visitante": "Santomera",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616489,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Unión Molinense",
+          "visitante": "Los Garres",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616485,
+          "fecha": "2026-11-29T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 13 - 13",
+          "local": "Bala Azul",
+          "visitante": "Bullas Deportivo",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 14",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1616797,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Villanovense",
+          "visitante": "Puebla Calzada",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616794,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Jerez",
+          "visitante": "Llerenense",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1616792,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 14 - 13",
+          "local": "Guadiana",
+          "visitante": "Castuera",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 15",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617103,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Subiza",
+          "visitante": "Mutilvera",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617102,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 15 - 13",
+          "local": "Izarra",
+          "visitante": "Doneztebe FT",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 16",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617406,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Casalarreina",
+          "visitante": "Comillas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617403,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Anguiano",
+          "visitante": "River Ebro",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617404,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Calahorra",
+          "visitante": "Berceo",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617407,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Haro Deportivo",
+          "visitante": "Cenicero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617408,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 16 - 13",
+          "local": "Vianés",
+          "visitante": "Varea",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 17",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1617711,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Épila",
+          "visitante": "Cuarte",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617715,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Real Zaragoza B",
+          "visitante": "Ejea",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617709,
+          "fecha": "2026-11-29T12:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Binéfar",
+          "visitante": "Brea",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617714,
+          "fecha": "2026-11-29T15:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Robres",
+          "visitante": "Andorra CF",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617707,
+          "fecha": "2026-11-29T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Almudévar",
+          "visitante": "La Almunia",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617708,
+          "fecha": "2026-11-29T16:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Atlético Monzón",
+          "visitante": "Illueca",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617710,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Caspe",
+          "visitante": "CDJ Tamarite",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1617712,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 17 - 13",
+          "local": "Fraga",
+          "visitante": "CD Sietamo",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 18",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1618013,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Almansa",
+          "visitante": "Guadalajara B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618017,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Marchamalo",
+          "visitante": "Noblejas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1618021,
+          "fecha": "2026-11-29T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 18 - 13",
+          "local": "Villarrobledo",
+          "visitante": "Illescas",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 2",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613117,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Avilés Stadium",
+          "visitante": "Gijón Industrial",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613119,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Colunga",
+          "visitante": "Siero",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613120,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Sporting Gijón B",
+          "visitante": "Andes",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613122,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Lealtad",
+          "visitante": "Condal",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613124,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Llanes",
+          "visitante": "Covadonga",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613118,
+          "fecha": "2026-11-29T17:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 2 - 13",
+          "local": "Caudal",
+          "visitante": "San Martín",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 3",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613426,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Escobedo",
+          "visitante": "Vimenor",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613430,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Solares",
+          "visitante": "Torina",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613429,
+          "fecha": "2026-11-29T16:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Selaya",
+          "visitante": "Bezana",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613425,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 3 - 13",
+          "local": "Castro",
+          "visitante": "Sámano",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 4",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1613732,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": "Estadio Municipal de Ipurua",
+          "jornada": "Group 4 - 13",
+          "local": "Eibar C",
+          "visitante": "Pasaia KE",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613729,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Deportivo Alavés C",
+          "visitante": "Durango",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613730,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Amurrio Club",
+          "visitante": "Lagun Onak",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1613735,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 4 - 13",
+          "local": "Real Sociedad C",
+          "visitante": "San Ignacio",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 5",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614036,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Cerdanyola del Vallès",
+          "visitante": "Tona",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614039,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "L'Hospitalet",
+          "visitante": "Martinenc",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614042,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Pobla Mafumet",
+          "visitante": "Grama",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614040,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Mollerussa",
+          "visitante": "L'Escala",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614041,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 5 - 13",
+          "local": "Peralada",
+          "visitante": "Europa B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 6",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614347,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "SC Torrevieja",
+          "visitante": "Jove Español",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614341,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Buñol",
+          "visitante": "Soneja",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614346,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Saguntino",
+          "visitante": "Vall de Uxó",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614349,
+          "fecha": "2026-11-29T17:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Villarreal C",
+          "visitante": "Eldense B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614342,
+          "fecha": "2026-11-29T18:15:00+01:00",
+          "estadio": null,
+          "jornada": "Group 6 - 13",
+          "local": "Crevillente",
+          "visitante": "Atzeneta",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 7",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614647,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Torrejón",
+          "visitante": "Leganés B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614650,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Parla Escuela",
+          "visitante": "Las Rozas",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614654,
+          "fecha": "2026-11-29T11:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Villanueva Pardillo",
+          "visitante": "Rayo Vallecano B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614648,
+          "fecha": "2026-11-29T11:45:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Móstoles",
+          "visitante": "SS Reyes B",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614651,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": "Estadio Fernando Torres",
+          "jornada": "Group 7 - 13",
+          "local": "Fuenlabrada",
+          "visitante": "Galapagar",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614653,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Pozuelo Alarcón",
+          "visitante": "Real Aranjuez",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614655,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 7 - 13",
+          "local": "Unión Adarve",
+          "visitante": "Cala Pozuelo",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 8",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1614956,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "La Virgen del Camino",
+          "visitante": "Palencia CF",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614961,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": "Las Pistas del Helmantico",
+          "jornada": "Group 8 - 13",
+          "local": "Unionistas B",
+          "visitante": "Colegios Diocesanos",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614958,
+          "fecha": "2026-11-29T15:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Mirandés B",
+          "visitante": "Calasanz de Soria",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1614955,
+          "fecha": "2026-11-29T16:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 8 - 13",
+          "local": "Guijuelo",
+          "visitante": "Cultural Leonesa B",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Tercera Federación · Grupo 9",
+      "competicion": "Tercera Federación",
+      "grupo": "espana",
+      "prioridad": 2,
+      "partidos": [
+        {
+          "id": 1615264,
+          "fecha": "2026-11-29T11:00:00+01:00",
+          "estadio": "Ciudad Deportiva del Granada",
+          "jornada": "Group 9 - 13",
+          "local": "Granada B",
+          "visitante": "Mancha Real",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615259,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Almería B",
+          "visitante": "Arenas Armilla",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615262,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Cantoria",
+          "visitante": "Huétor Vega",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615267,
+          "fecha": "2026-11-29T12:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "UD San Pedro",
+          "visitante": "Malaga City",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615263,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Churriana Vega",
+          "visitante": "Marbelli",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1615261,
+          "fecha": "2026-11-29T18:00:00+01:00",
+          "estadio": null,
+          "jornada": "Group 9 - 13",
+          "local": "Atlético Porcuna",
+          "visitante": "Torre del Mar",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Bundesliga",
+      "competicion": "Bundesliga",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1575233,
+          "fecha": "2026-11-29T15:30:00+01:00",
+          "estadio": "Europa-Park-Stadion",
+          "jornada": "Regular Season - 11",
+          "local": "SC Freiburg",
+          "visitante": "RB Leipzig",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575232,
+          "fecha": "2026-11-29T17:30:00+01:00",
+          "estadio": "Prezero Arena",
+          "jornada": "Regular Season - 11",
+          "local": "1899 Hoffenheim",
+          "visitante": "FC Augsburg",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575230,
+          "fecha": "2026-11-29T19:30:00+01:00",
+          "estadio": "Signal Iduna Park",
+          "jornada": "Regular Season - 11",
+          "local": "Borussia Dortmund",
+          "visitante": "Bayer Leverkusen",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Eredivisie",
+      "competicion": "Eredivisie",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1552235,
+          "fecha": "2026-11-29T12:15:00+01:00",
+          "estadio": "Bingoal Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "ADO Den Haag",
+          "visitante": "Utrecht",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552237,
+          "fecha": "2026-11-29T14:30:00+01:00",
+          "estadio": "Stadion Feijenoord",
+          "jornada": "Regular Season - 14",
+          "local": "Feyenoord",
+          "visitante": "Ajax",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552241,
+          "fecha": "2026-11-29T14:30:00+01:00",
+          "estadio": "Fortuna Sittard Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "Fortuna Sittard",
+          "visitante": "Heerenveen",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552242,
+          "fecha": "2026-11-29T16:45:00+01:00",
+          "estadio": "MAC³PARK Stadion",
+          "jornada": "Regular Season - 14",
+          "local": "PEC Zwolle",
+          "visitante": "AZ Alkmaar",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552239,
+          "fecha": "2026-11-29T20:00:00+01:00",
+          "estadio": "Stadion de Goffert",
+          "jornada": "Regular Season - 14",
+          "local": "NEC Nijmegen",
+          "visitante": "Twente",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "LaLiga EA Sports",
+      "competicion": "LaLiga EA Sports",
+      "grupo": "espana",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1570472,
+          "fecha": "2026-11-29T14:00:00+01:00",
+          "estadio": "Estadio de Mestalla",
+          "jornada": "Regular Season - 14",
+          "local": "Valencia",
+          "visitante": "Osasuna",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570465,
+          "fecha": "2026-11-29T16:15:00+01:00",
+          "estadio": "Estadio de Riazor",
+          "jornada": "Regular Season - 14",
+          "local": "Deportivo de La Coruña",
+          "visitante": "Barcelona",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570464,
+          "fecha": "2026-11-29T18:30:00+01:00",
+          "estadio": "Municipal de Balaídos",
+          "jornada": "Regular Season - 14",
+          "local": "Celta de Vigo",
+          "visitante": "Villarreal",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570471,
+          "fecha": "2026-11-29T21:00:00+01:00",
+          "estadio": "Anoeta Stadium",
+          "jornada": "Regular Season - 14",
+          "local": "Real Sociedad",
+          "visitante": "Sevilla",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "LaLiga Hypermotion",
+      "competicion": "LaLiga Hypermotion",
+      "grupo": "espana",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1570041,
+          "fecha": "2026-11-29T14:00:00+01:00",
+          "estadio": "Nuevo Los Cármenes",
+          "jornada": "Regular Season - 16",
+          "local": "Granada CF",
+          "visitante": "AD Ceuta FC",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570044,
+          "fecha": "2026-11-29T16:15:00+01:00",
+          "estadio": "Estadi Mallorca Son Moix",
+          "jornada": "Regular Season - 16",
+          "local": "Mallorca",
+          "visitante": "Castellón",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570038,
+          "fecha": "2026-11-29T18:30:00+01:00",
+          "estadio": "Nuevo Mirandilla",
+          "jornada": "Regular Season - 16",
+          "local": "Cádiz",
+          "visitante": "Córdoba",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1570037,
+          "fecha": "2026-11-29T21:00:00+01:00",
+          "estadio": "UD Almería Stadium",
+          "jornada": "Regular Season - 16",
+          "local": "Almería",
+          "visitante": "Sporting de Gijón",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Liga Portugal",
+      "competicion": "Liga Portugal",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1575550,
+          "fecha": "2026-11-29T19:00:00+01:00",
+          "estadio": "Estadio Cidade de Barcelos",
+          "jornada": "Regular Season - 12",
+          "local": "GIL Vicente",
+          "visitante": "Estoril",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1575549,
+          "fecha": "2026-11-29T21:30:00+01:00",
+          "estadio": "Estádio do Dragão",
+          "jornada": "Regular Season - 12",
+          "local": "Oporto",
+          "visitante": "Sporting de Portugal",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Ligue 1",
+      "competicion": "Ligue 1",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1552829,
+          "fecha": "2026-11-29T15:00:00+01:00",
+          "estadio": "Stade de l'Abbé-Deschamps",
+          "jornada": "Regular Season - 12",
+          "local": "Auxerre",
+          "visitante": "Olympique de Marsella",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552836,
+          "fecha": "2026-11-29T17:15:00+01:00",
+          "estadio": "Stadium Municipal",
+          "jornada": "Regular Season - 12",
+          "local": "Toulouse",
+          "visitante": "Rennes",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1552833,
+          "fecha": "2026-11-29T20:45:00+01:00",
+          "estadio": "Groupama Stadium",
+          "jornada": "Regular Season - 12",
+          "local": "Olympique de Lyon",
+          "visitante": "Monaco",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Premier League",
+      "competicion": "Premier League",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1557480,
+          "fecha": "2026-11-29T13:00:00+01:00",
+          "estadio": "Hill Dickinson Stadium",
+          "jornada": "Regular Season - 12",
+          "local": "Everton",
+          "visitante": "Liverpool",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557478,
+          "fecha": "2026-11-29T15:05:00+01:00",
+          "estadio": "American Express Stadium",
+          "jornada": "Regular Season - 12",
+          "local": "Brighton",
+          "visitante": "Newcastle",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557479,
+          "fecha": "2026-11-29T15:05:00+01:00",
+          "estadio": "Selhurst Park",
+          "jornada": "Regular Season - 12",
+          "local": "Crystal Palace",
+          "visitante": "Hull City",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557481,
+          "fecha": "2026-11-29T15:05:00+01:00",
+          "estadio": "Craven Cottage",
+          "jornada": "Regular Season - 12",
+          "local": "Fulham",
+          "visitante": "Bournemouth",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557486,
+          "fecha": "2026-11-29T15:05:00+01:00",
+          "estadio": "Stadium of Light",
+          "jornada": "Regular Season - 12",
+          "local": "Sunderland",
+          "visitante": "Tottenham",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1557477,
+          "fecha": "2026-11-29T17:30:00+01:00",
+          "estadio": "Emirates Stadium",
+          "jornada": "Regular Season - 12",
+          "local": "Arsenal",
+          "visitante": "Manchester City",
+          "goles_local": null,
+          "goles_visitante": null
+        }
+      ]
+    },
+    {
+      "etiqueta": "Serie A",
+      "competicion": "Serie A",
+      "grupo": "internacional",
+      "prioridad": 3,
+      "partidos": [
+        {
+          "id": 1550215,
+          "fecha": "2026-11-29T12:30:00+01:00",
+          "estadio": "Bluenergy Stadium",
+          "jornada": "Regular Season - 13",
+          "local": "Udinese",
+          "visitante": "Fiorentina",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1550213,
+          "fecha": "2026-11-29T15:00:00+01:00",
+          "estadio": "Mapei Stadium – Città del Tricolore",
+          "jornada": "Regular Season - 13",
+          "local": "Sassuolo",
+          "visitante": "Nápoles",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1550207,
+          "fecha": "2026-11-29T18:00:00+01:00",
+          "estadio": "Stadio Olimpico",
+          "jornada": "Regular Season - 13",
+          "local": "AS Roma",
+          "visitante": "Monza",
+          "goles_local": null,
+          "goles_visitante": null
+        },
+        {
+          "id": 1550209,
+          "fecha": "2026-11-29T20:45:00+01:00",
+          "estadio": "Stadio Giuseppe Sinigaglia",
+          "jornada": "Regular Season - 13",
+          "local": "Como",
+          "visitante": "Juventus",
           "goles_local": null,
           "goles_visitante": null
         }
