@@ -58,6 +58,12 @@
       "rojas": 3
     },
     {
+      "equipo": "Cultural Leonesa",
+      "escudo": "https://media.api-sports.io/football/teams/725.png",
+      "amarillas": 36,
+      "rojas": 3
+    },
+    {
       "equipo": "Real Avilés",
       "escudo": "https://media.api-sports.io/football/teams/9632.png",
       "amarillas": 33,
@@ -94,12 +100,6 @@
       "rojas": 2
     },
     {
-      "equipo": "Cultural Leonesa",
-      "escudo": "https://media.api-sports.io/football/teams/725.png",
-      "amarillas": 32,
-      "rojas": 2
-    },
-    {
       "equipo": "Athletic Club B",
       "escudo": "https://media.api-sports.io/football/teams/9579.png",
       "amarillas": 28,
@@ -124,5 +124,5 @@
       "rojas": 0
     }
   ],
-  "fecha": "2026-11-27"
+  "fecha": "2026-11-28"
 }

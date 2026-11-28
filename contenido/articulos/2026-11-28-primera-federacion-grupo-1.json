@@ -1,0 +1,755 @@
+{
+  "slug": "2026-11-28-primera-federacion-grupo-1",
+  "fecha": "2026-11-28",
+  "etiqueta": "Primera Federación · Grupo 1",
+  "competicion": "Primera Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "La Ponferradina gana en Coria y sube cinco puestos ante un rival con tres expulsados",
+  "entradilla": "La Ponferradina venció 1-2 en el Estadio La Isla con goles de A. Molina y B. Valle. El CD Coria terminó con tres expulsados y cae al decimoquinto puesto.",
+  "cuerpo_markdown": "La Ponferradina fue la gran beneficiada de la jornada 14 en el Grupo 1 de Primera Federación. Ganó 1-2 en el campo del CD Coria y escaló del decimoquinto al décimo puesto, con 18 puntos y a tres del play-off. El Coria acabó el partido con tres expulsados y cae dos posiciones, hasta la decimoquinta plaza, con 16 puntos.\n\n## CD Coria 1-2 Ponferradina\n\nA. Molina adelantó a la Ponferradina en el minuto 27 y B. Valle amplió la ventaja en el 45, justo antes del descanso. Un gol en propia puerta de F. San Emeterio en el 50 recortó distancias para el CD Coria. J. Guzman vio la roja en el 66 y dejó a los locales con diez. B. Valle falló un penalti en el 72 que habría dado aire a los visitantes. En el 90, D. Morcillo y Rai Rosa también fueron expulsados.\n\nLa victoria impulsa a la Ponferradina cinco puestos, del 15º al 10º, con 18 puntos, a tres del quinto puesto. El CD Coria baja del 13º al 15º, con 16 puntos, tres por encima del descenso.\n\n## Así queda la clasificación\n\nEl Lugo lidera con 31 puntos, cuatro más que la UD Logroñés (27), segunda. La zona de play-off la completan el Athletic Club B (22), el Real Avilés (21) y el Racing de Ferrol (21). El Pontevedra, sexto, también suma 21 puntos y se queda fuera. Por abajo, Zamora, Deportivo La Coruña B y Unionistas de Salamanca, todos con 13, abren la zona de descenso, junto al Arenas Getxo (12) y la UD Ourense, colista con 8 puntos.",
+  "texto_instagram": "La Ponferradina asalta La Isla y sube cinco puestos, hasta el 10º ⚽ El CD Coria acabó con tres expulsados 🟥\n\nCD Coria 1-2 Ponferradina: A. Molina (27'), B. Valle (45'); F. San Emeterio (p.p., 50') para el Coria. Rojas: J. Guzman (66'), D. Morcillo (90') y Rai Rosa (90'). B. Valle falló un penalti (72') 📊",
+  "hashtags": [
+    "#PrimeraFederación",
+    "#Ponferradina",
+    "#CDCoria",
+    "#Grupo1",
+    "#Fútbol"
+  ],
+  "imagenes": [
+    "img/2026-11-28/2026-11-28-primera-federacion-grupo-1-1.jpg",
+    "img/2026-11-28/2026-11-28-primera-federacion-grupo-1-2.jpg",
+    "img/2026-11-28/2026-11-28-primera-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1570847,
+      "fecha": "2026-11-28T13:00:00+01:00",
+      "estadio": "Estadio La Isla",
+      "ciudad": "Coria",
+      "arbitro": null,
+      "jornada": "Group 1 - 14",
+      "liga_id": 435,
+      "id_local": 9827,
+      "id_visitante": 4907,
+      "local": "CD Coria",
+      "visitante": "Ponferradina",
+      "escudo_local": "https://media.api-sports.io/football/teams/9827.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/4907.png",
+      "goles_local": 1,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 27,
+          "equipo": "Ponferradina",
+          "jugador": "A. Molina",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Ponferradina",
+          "jugador": "B. Valle",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 50,
+          "equipo": "CD Coria",
+          "jugador": "F. San Emeterio",
+          "tipo": "Own Goal"
+        }
+      ],
+      "rojas": [
+        {
+          "min": 66,
+          "equipo": "CD Coria",
+          "jugador": "J. Guzman"
+        },
+        {
+          "min": 90,
+          "equipo": "CD Coria",
+          "jugador": "D. Morcillo"
+        },
+        {
+          "min": 90,
+          "equipo": "CD Coria",
+          "jugador": "Rai Rosa"
+        }
+      ],
+      "penaltis_fallados": [
+        {
+          "min": 72,
+          "equipo": "Ponferradina",
+          "jugador": "B. Valle"
+        }
+      ],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Lugo",
+      "pts": 31,
+      "pj": 13,
+      "dg": 10,
+      "pg": 10,
+      "pe": 1,
+      "pp": 2,
+      "gf": 22,
+      "gc": 12,
+      "forma": "WLWWL",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/716.png",
+      "equipo_id": 716,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 11,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 5,
+        "pe": 1,
+        "pp": 1,
+        "gf": 11,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "UD Logroñés",
+      "pts": 27,
+      "pj": 13,
+      "dg": 10,
+      "pg": 8,
+      "pe": 3,
+      "pp": 2,
+      "gf": 26,
+      "gc": 16,
+      "forma": "WDWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/5280.png",
+      "equipo_id": 5280,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 6,
+        "pe": 0,
+        "pp": 1,
+        "gf": 18,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Athletic Club B",
+      "pts": 22,
+      "pj": 14,
+      "dg": 4,
+      "pg": 6,
+      "pe": 4,
+      "pp": 4,
+      "gf": 19,
+      "gc": 15,
+      "forma": "WWDLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9579.png",
+      "equipo_id": 9579,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Avilés",
+      "pts": 21,
+      "pj": 13,
+      "dg": 9,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 27,
+      "gc": 18,
+      "forma": "WDWWL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9632.png",
+      "equipo_id": 9632,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 13,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 3,
+        "pp": 1,
+        "gf": 14,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Racing de Ferrol",
+      "pts": 21,
+      "pj": 13,
+      "dg": 2,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 13,
+      "gc": 11,
+      "forma": "WDLDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9409.png",
+      "equipo_id": 9409,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 1,
+        "pp": 1,
+        "gf": 8,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Pontevedra",
+      "pts": 21,
+      "pj": 13,
+      "dg": 1,
+      "pg": 6,
+      "pe": 3,
+      "pp": 4,
+      "gf": 16,
+      "gc": 15,
+      "forma": "LWWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9407.png",
+      "equipo_id": 9407,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 9,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Mérida AD",
+      "pts": 20,
+      "pj": 13,
+      "dg": 6,
+      "pg": 6,
+      "pe": 2,
+      "pp": 5,
+      "gf": 22,
+      "gc": 16,
+      "forma": "DWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/10140.png",
+      "equipo_id": 10140,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 10,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Mirandés",
+      "pts": 20,
+      "pj": 13,
+      "dg": 2,
+      "pg": 6,
+      "pe": 2,
+      "pp": 5,
+      "gf": 16,
+      "gc": 14,
+      "forma": "LWLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/799.png",
+      "equipo_id": 799,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 10,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Barakaldo",
+      "pts": 18,
+      "pj": 13,
+      "dg": 1,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 13,
+      "gc": 12,
+      "forma": "WDWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5251.png",
+      "equipo_id": 5251,
+      "casa": {
+        "pj": 8,
+        "pg": 4,
+        "pe": 4,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 0,
+        "pe": 2,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Ponferradina",
+      "pts": 18,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 10,
+      "gc": 10,
+      "forma": "WLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/4907.png",
+      "equipo_id": 4907,
+      "casa": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 5
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 4,
+        "pp": 1,
+        "gf": 5,
+        "gc": 5
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Cacereño",
+      "pts": 18,
+      "pj": 13,
+      "dg": -1,
+      "pg": 5,
+      "pe": 3,
+      "pp": 5,
+      "gf": 11,
+      "gc": 12,
+      "forma": "LWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9384.png",
+      "equipo_id": 9384,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 1,
+        "pp": 2,
+        "gf": 7,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 4,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Real Unión",
+      "pts": 17,
+      "pj": 13,
+      "dg": 1,
+      "pg": 4,
+      "pe": 5,
+      "pp": 4,
+      "gf": 21,
+      "gc": 20,
+      "forma": "DWLLW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9586.png",
+      "equipo_id": 9586,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 9,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Extremadura 1924",
+      "pts": 16,
+      "pj": 13,
+      "dg": 4,
+      "pg": 5,
+      "pe": 1,
+      "pp": 7,
+      "gf": 24,
+      "gc": 20,
+      "forma": "LLLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/24612.png",
+      "equipo_id": 24612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 0,
+        "pp": 4,
+        "gf": 16,
+        "gc": 13
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Cultural Leonesa",
+      "pts": 16,
+      "pj": 14,
+      "dg": 0,
+      "pg": 4,
+      "pe": 4,
+      "pp": 6,
+      "gf": 13,
+      "gc": 13,
+      "forma": "LWLDL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/725.png",
+      "equipo_id": 725,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 11,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 8,
+        "pg": 1,
+        "pe": 2,
+        "pp": 5,
+        "gf": 2,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "CD Coria",
+      "pts": 16,
+      "pj": 13,
+      "dg": -1,
+      "pg": 4,
+      "pe": 4,
+      "pp": 5,
+      "gf": 21,
+      "gc": 22,
+      "forma": "DWWLD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9827.png",
+      "equipo_id": 9827,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 13,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Zamora",
+      "pts": 13,
+      "pj": 13,
+      "dg": -4,
+      "pg": 3,
+      "pe": 4,
+      "pp": 6,
+      "gf": 13,
+      "gc": 17,
+      "forma": "LDLLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9418.png",
+      "equipo_id": 9418,
+      "casa": {
+        "pj": 7,
+        "pg": 1,
+        "pe": 3,
+        "pp": 3,
+        "gf": 9,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 4,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Deportivo La Coruña B",
+      "pts": 13,
+      "pj": 13,
+      "dg": -7,
+      "pg": 3,
+      "pe": 4,
+      "pp": 6,
+      "gf": 17,
+      "gc": 24,
+      "forma": "DDLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9610.png",
+      "equipo_id": 9610,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 10,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Unionistas de Salamanca",
+      "pts": 13,
+      "pj": 13,
+      "dg": -8,
+      "pg": 4,
+      "pe": 1,
+      "pp": 8,
+      "gf": 15,
+      "gc": 23,
+      "forma": "LLWLW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5281.png",
+      "equipo_id": 5281,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 11,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 0,
+        "pe": 1,
+        "pp": 6,
+        "gf": 4,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 19,
+      "equipo": "Arenas Getxo",
+      "pts": 12,
+      "pj": 13,
+      "dg": -14,
+      "pg": 3,
+      "pe": 3,
+      "pp": 7,
+      "gf": 13,
+      "gc": 27,
+      "forma": "LDWWW",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9578.png",
+      "equipo_id": 9578,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 7,
+        "gc": 13
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 6,
+        "gc": 14
+      }
+    },
+    {
+      "pos": 20,
+      "equipo": "UD Ourense",
+      "pts": 8,
+      "pj": 13,
+      "dg": -15,
+      "pg": 2,
+      "pe": 2,
+      "pp": 9,
+      "gf": 7,
+      "gc": 22,
+      "forma": "LLLWL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9617.png",
+      "equipo_id": 9617,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 1,
+        "pp": 4,
+        "gf": 5,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 2,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Ponferradina": {
+      "antes": 15,
+      "ahora": 10,
+      "cambio": "sube 5 puestos"
+    },
+    "CD Coria": {
+      "antes": 13,
+      "ahora": 15,
+      "cambio": "baja 2 puestos"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1570847,
+    "titular": "La Ponferradina gana 1-2 en Coria y sube al décimo puesto",
+    "entradilla": "Los goles de A. Molina y B. Valle dieron el triunfo a la Ponferradina en el Estadio La Isla. El CD Coria acabó con tres jugadores expulsados.",
+    "parrafos": [
+      "La Ponferradina ganó 1-2 al CD Coria en el Estadio La Isla en la jornada 14 del Grupo 1 de Primera Federación. El triunfo le permite subir cinco puestos, del decimoquinto al décimo, mientras que el Coria baja dos, hasta el decimoquinto.",
+      "A. Molina abrió el marcador en el minuto 27. B. Valle firmó el segundo en el 45, justo antes del descanso. El CD Coria recortó en el 50 gracias a un gol en propia puerta de F. San Emeterio.",
+      "El partido se torció para los locales en el 66, con la expulsión de J. Guzman. En el 72, B. Valle desperdició un penalti que habría ampliado la renta visitante. Ya en el 90, D. Morcillo y Rai Rosa también vieron la roja, y el Coria terminó con ocho.",
+      "La Ponferradina suma 18 puntos y se sitúa a tres del play-off, que marca el Racing de Ferrol con 21. El CD Coria se queda con 16 puntos, tres por encima de la zona de descenso."
+    ],
+    "el_dato": "Tres expulsados: el CD Coria terminó el partido con ocho jugadores tras las rojas de J. Guzman (66), D. Morcillo (90) y Rai Rosa (90).",
+    "slug": "2026-11-28-cd-coria-ponferradina"
+  }
+}

@@ -1,0 +1,682 @@
+{
+  "slug": "2026-11-28-segunda-federacion-grupo-1",
+  "fecha": "2026-11-28",
+  "etiqueta": "Segunda Federación · Grupo 1",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "El Sestao River empata en Basconia (2-2) y sigue líder con seis puntos de ventaja",
+  "entradilla": "El líder rescató un punto con un gol de Arzak en el 76 tras fallar un penalti en el 30. A. Torrico firmó un doblete para el Basconia, que sigue octavo.",
+  "cuerpo_markdown": "El único partido adelantado de la jornada 13 en el Grupo 1 de Segunda Federación terminó en tablas. El Basconia y el Sestao River empataron 2-2 en un duelo en el que el líder fue siempre a remolque: A. Torrico marcó dos veces para los locales y G. Zorrilla y A. Arzak igualaron en ambas ocasiones. El Sestao River, que falló un penalti en el minuto 30, suma 30 puntos y mantiene el primer puesto, ahora con seis de ventaja sobre el Deportivo Alavés B, que tiene un partido menos.\n\n## Basconia 2-2 Sestao River\n\nA. Torrico adelantó al Basconia en el minuto 9 y G. Zorrilla empató en el 16. En el 30, J. Castaneda falló un penalti para el Sestao River, y al filo del descanso, en el 45, Torrico firmó su doblete para devolver la ventaja a los locales. A. Arzak estableció el 2-2 definitivo en el minuto 76.\n\nEl Sestao River se mantiene líder con 30 puntos (9 victorias, 3 empates y 1 derrota) y corta una racha de dos triunfos seguidos. El Basconia sigue octavo con 18 puntos y suma su sexto empate de la temporada.\n\n## Así queda la clasificación\n\nEl Sestao River manda con 30 puntos, seis más que el Deportivo Alavés B (24), que tiene un partido menos. Completan la zona de play-off el Eibar B (22), el Real Oviedo B (21) y el Bergantiños (19), empatado a puntos con el Portugalete, sexto. El Basconia, octavo con 18, queda a un punto del play-off. En la parte baja, el Llanera (13) marca la zona de descenso a un punto del Racing Santander B (14); por detrás aparecen el Arosa (10), la Gimnástica Torrelavega (9), el Atlético Astorga (8) y el Marino de Luanco (8).",
+  "texto_instagram": "⚽ El Sestao River sigue líder tras empatar 2-2 en el campo del Basconia, con penalti fallado incluido, y ya saca seis puntos al Alavés B. Doblete de A. Torrico para los locales 🔥\n\nBasconia 2-2 Sestao River: A. Torrico (9, 45); G. Zorrilla (16), A. Arzak (76) 📊",
+  "hashtags": [
+    "#SegundaFederación",
+    "#2RFEF",
+    "#Basconia",
+    "#SestaoRiver",
+    "#Grupo1"
+  ],
+  "imagenes": [
+    "img/2026-11-28/2026-11-28-segunda-federacion-grupo-1-1.jpg",
+    "img/2026-11-28/2026-11-28-segunda-federacion-grupo-1-2.jpg",
+    "img/2026-11-28/2026-11-28-segunda-federacion-grupo-1-clasificacion.jpg"
+  ],
+  "partidos": [
+    {
+      "id": 1572141,
+      "fecha": "2026-11-28T12:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "arbitro": null,
+      "jornada": "Group 1 - 13",
+      "liga_id": 875,
+      "id_local": 9656,
+      "id_visitante": 9413,
+      "local": "Basconia",
+      "visitante": "Sestao River",
+      "escudo_local": "https://media.api-sports.io/football/teams/9656.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/9413.png",
+      "goles_local": 2,
+      "goles_visitante": 2,
+      "goleadores": [
+        {
+          "min": 9,
+          "equipo": "Basconia",
+          "jugador": "A. Torrico",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 16,
+          "equipo": "Sestao River",
+          "jugador": "G. Zorrilla",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 45,
+          "equipo": "Basconia",
+          "jugador": "A. Torrico",
+          "tipo": "Normal Goal"
+        },
+        {
+          "min": 76,
+          "equipo": "Sestao River",
+          "jugador": "A. Arzak",
+          "tipo": "Normal Goal"
+        }
+      ],
+      "rojas": [],
+      "penaltis_fallados": [
+        {
+          "min": 30,
+          "equipo": "Sestao River",
+          "jugador": "J. Castaneda"
+        }
+      ],
+      "estadisticas": null
+    }
+  ],
+  "clasificacion": [
+    {
+      "pos": 1,
+      "equipo": "Sestao River",
+      "pts": 30,
+      "pj": 13,
+      "dg": 12,
+      "pg": 9,
+      "pe": 3,
+      "pp": 1,
+      "gf": 19,
+      "gc": 7,
+      "forma": "DWDWW",
+      "zona": "ascenso",
+      "escudo": "https://media.api-sports.io/football/teams/9413.png",
+      "equipo_id": 9413,
+      "casa": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 1
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 9,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 2,
+      "equipo": "Deportivo Alavés B",
+      "pts": 24,
+      "pj": 12,
+      "dg": 10,
+      "pg": 7,
+      "pe": 3,
+      "pp": 2,
+      "gf": 25,
+      "gc": 15,
+      "forma": "DWLWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9582.png",
+      "equipo_id": 9582,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 10,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 5,
+        "pe": 0,
+        "pp": 1,
+        "gf": 15,
+        "gc": 6
+      }
+    },
+    {
+      "pos": 3,
+      "equipo": "Eibar B",
+      "pts": 22,
+      "pj": 12,
+      "dg": 10,
+      "pg": 6,
+      "pe": 4,
+      "pp": 2,
+      "gf": 22,
+      "gc": 12,
+      "forma": "DDWLW",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/24572.png",
+      "equipo_id": 24572,
+      "casa": {
+        "pj": 5,
+        "pg": 4,
+        "pe": 1,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 3,
+        "pp": 2,
+        "gf": 12,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 4,
+      "equipo": "Real Oviedo B",
+      "pts": 21,
+      "pj": 12,
+      "dg": -1,
+      "pg": 6,
+      "pe": 3,
+      "pp": 3,
+      "gf": 17,
+      "gc": 18,
+      "forma": "WWDWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9576.png",
+      "equipo_id": 9576,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 2,
+        "pp": 0,
+        "gf": 12,
+        "gc": 8
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 5,
+      "equipo": "Bergantiños",
+      "pts": 19,
+      "pj": 12,
+      "dg": 7,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 24,
+      "gc": 17,
+      "forma": "LDLDL",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9383.png",
+      "equipo_id": 9383,
+      "casa": {
+        "pj": 7,
+        "pg": 4,
+        "pe": 2,
+        "pp": 1,
+        "gf": 12,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 12,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 6,
+      "equipo": "Portugalete",
+      "pts": 19,
+      "pj": 12,
+      "dg": 5,
+      "pg": 5,
+      "pe": 4,
+      "pp": 3,
+      "gf": 19,
+      "gc": 14,
+      "forma": "LWWDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9408.png",
+      "equipo_id": 9408,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 3,
+        "pp": 1,
+        "gf": 9,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 10,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 7,
+      "equipo": "Compostela",
+      "pts": 18,
+      "pj": 12,
+      "dg": 3,
+      "pg": 5,
+      "pe": 3,
+      "pp": 4,
+      "gf": 14,
+      "gc": 11,
+      "forma": "DLWDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5256.png",
+      "equipo_id": 5256,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 2,
+        "pp": 1,
+        "gf": 7,
+        "gc": 4
+      }
+    },
+    {
+      "pos": 8,
+      "equipo": "Basconia",
+      "pts": 18,
+      "pj": 13,
+      "dg": 0,
+      "pg": 4,
+      "pe": 6,
+      "pp": 3,
+      "gf": 18,
+      "gc": 18,
+      "forma": "DWLWD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9656.png",
+      "equipo_id": 9656,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 4,
+        "pp": 1,
+        "gf": 12,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 9,
+      "equipo": "Amorebieta",
+      "pts": 17,
+      "pj": 12,
+      "dg": 0,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 14,
+      "gc": 14,
+      "forma": "LDLWW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9380.png",
+      "equipo_id": 9380,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 7,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 7,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 10,
+      "equipo": "Ourense CF",
+      "pts": 17,
+      "pj": 12,
+      "dg": -4,
+      "pg": 5,
+      "pe": 2,
+      "pp": 5,
+      "gf": 10,
+      "gc": 14,
+      "forma": "LWLDW",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9612.png",
+      "equipo_id": 9612,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 7
+      }
+    },
+    {
+      "pos": 11,
+      "equipo": "Gernika",
+      "pts": 15,
+      "pj": 12,
+      "dg": 7,
+      "pg": 3,
+      "pe": 6,
+      "pp": 3,
+      "gf": 19,
+      "gc": 12,
+      "forma": "WLDDD",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/5263.png",
+      "equipo_id": 5263,
+      "casa": {
+        "pj": 7,
+        "pg": 2,
+        "pe": 2,
+        "pp": 3,
+        "gf": 12,
+        "gc": 9
+      },
+      "fuera": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 4,
+        "pp": 0,
+        "gf": 7,
+        "gc": 3
+      }
+    },
+    {
+      "pos": 12,
+      "equipo": "Coruxo",
+      "pts": 15,
+      "pj": 12,
+      "dg": -1,
+      "pg": 4,
+      "pe": 3,
+      "pp": 5,
+      "gf": 13,
+      "gc": 14,
+      "forma": "WWDLL",
+      "zona": "",
+      "escudo": "https://media.api-sports.io/football/teams/9385.png",
+      "equipo_id": 9385,
+      "casa": {
+        "pj": 5,
+        "pg": 1,
+        "pe": 2,
+        "pp": 2,
+        "gf": 5,
+        "gc": 6
+      },
+      "fuera": {
+        "pj": 7,
+        "pg": 3,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 8
+      }
+    },
+    {
+      "pos": 13,
+      "equipo": "Racing Santander B",
+      "pts": 14,
+      "pj": 12,
+      "dg": -5,
+      "pg": 4,
+      "pe": 2,
+      "pp": 6,
+      "gf": 16,
+      "gc": 21,
+      "forma": "LWWWD",
+      "zona": "playoff",
+      "escudo": "https://media.api-sports.io/football/teams/9643.png",
+      "equipo_id": 9643,
+      "casa": {
+        "pj": 6,
+        "pg": 3,
+        "pe": 0,
+        "pp": 3,
+        "gf": 8,
+        "gc": 10
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 8,
+        "gc": 11
+      }
+    },
+    {
+      "pos": 14,
+      "equipo": "Llanera",
+      "pts": 13,
+      "pj": 12,
+      "dg": -8,
+      "pg": 4,
+      "pe": 1,
+      "pp": 7,
+      "gf": 19,
+      "gc": 27,
+      "forma": "WLWLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9627.png",
+      "equipo_id": 9627,
+      "casa": {
+        "pj": 6,
+        "pg": 4,
+        "pe": 0,
+        "pp": 2,
+        "gf": 14,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 5,
+        "gc": 16
+      }
+    },
+    {
+      "pos": 15,
+      "equipo": "Arosa",
+      "pts": 10,
+      "pj": 12,
+      "dg": -6,
+      "pg": 1,
+      "pe": 7,
+      "pp": 4,
+      "gf": 19,
+      "gc": 25,
+      "forma": "DDLDL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9605.png",
+      "equipo_id": 9605,
+      "casa": {
+        "pj": 6,
+        "pg": 1,
+        "pe": 2,
+        "pp": 3,
+        "gf": 11,
+        "gc": 16
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 5,
+        "pp": 1,
+        "gf": 8,
+        "gc": 9
+      }
+    },
+    {
+      "pos": 16,
+      "equipo": "Gimnástica Torrelavega",
+      "pts": 9,
+      "pj": 12,
+      "dg": -12,
+      "pg": 2,
+      "pe": 3,
+      "pp": 7,
+      "gf": 9,
+      "gc": 21,
+      "forma": "WLDLL",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/5264.png",
+      "equipo_id": 5264,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 5,
+        "gc": 11
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 2,
+        "pp": 4,
+        "gf": 4,
+        "gc": 10
+      }
+    },
+    {
+      "pos": 17,
+      "equipo": "Atlético Astorga",
+      "pts": 8,
+      "pj": 12,
+      "dg": -7,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 14,
+      "gc": 21,
+      "forma": "LDLLD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9723.png",
+      "equipo_id": 9723,
+      "casa": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 2,
+        "pp": 2,
+        "gf": 9,
+        "gc": 4
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 0,
+        "pp": 6,
+        "gf": 5,
+        "gc": 17
+      }
+    },
+    {
+      "pos": 18,
+      "equipo": "Marino de Luanco",
+      "pts": 8,
+      "pj": 12,
+      "dg": -10,
+      "pg": 2,
+      "pe": 2,
+      "pp": 8,
+      "gf": 9,
+      "gc": 19,
+      "forma": "LLLDD",
+      "zona": "descenso",
+      "escudo": "https://media.api-sports.io/football/teams/9401.png",
+      "equipo_id": 9401,
+      "casa": {
+        "pj": 6,
+        "pg": 0,
+        "pe": 1,
+        "pp": 5,
+        "gf": 1,
+        "gc": 7
+      },
+      "fuera": {
+        "pj": 6,
+        "pg": 2,
+        "pe": 1,
+        "pp": 3,
+        "gf": 8,
+        "gc": 12
+      }
+    }
+  ],
+  "movimientos": {
+    "Sestao River": {
+      "antes": 1,
+      "ahora": 1,
+      "cambio": "se mantiene"
+    },
+    "Basconia": {
+      "antes": 8,
+      "ahora": 8,
+      "cambio": "se mantiene"
+    }
+  },
+  "cronica_estrella": {
+    "partido_id": 1572141,
+    "titular": "El Sestao River salva un punto ante el Basconia y sigue líder con seis de margen",
+    "entradilla": "El conjunto verdinegro empató 2-2 tras ir dos veces por detrás y fallar un penalti. A. Torrico hizo los dos goles del Basconia.",
+    "parrafos": [
+      "El Basconia y el Sestao River empataron 2-2 en la jornada 13 del Grupo 1 de Segunda Federación. El líder suma 30 puntos y amplía a seis su ventaja sobre el Deportivo Alavés B, segundo con 24 y un partido menos.",
+      "A. Torrico abrió el marcador en el minuto 9. G. Zorrilla igualó en el 16, pero Torrico volvió a marcar en el 45 para firmar su doblete y mandar al Basconia por delante al descanso.",
+      "El Sestao River tuvo ocasión de empatar antes en el minuto 30, cuando J. Castaneda falló un penalti. El 2-2 definitivo llegó en el 76, obra de A. Arzak.",
+      "El Sestao River se mantiene primero con 9 victorias, 3 empates y 1 derrota, 19 goles a favor y solo 7 en contra. Llegaba con dos triunfos seguidos.",
+      "El Basconia sigue octavo con 18 puntos, a uno del play-off, con 18 goles a favor y 18 en contra. Es su sexto empate en 13 jornadas."
+    ],
+    "el_dato": "El Sestao River solo ha encajado 7 goles en 13 partidos, y dos de ellos fueron de A. Torrico en este encuentro.",
+    "slug": "2026-11-28-basconia-sestao-river"
+  }
+}
