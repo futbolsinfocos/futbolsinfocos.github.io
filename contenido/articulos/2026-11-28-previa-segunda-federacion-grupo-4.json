@@ -1,0 +1,536 @@
+{
+  "slug": "2026-11-28-previa-segunda-federacion-grupo-4",
+  "tipo": "previa",
+  "fecha": "2026-11-28",
+  "etiqueta": "Segunda Federación · Grupo 4",
+  "competicion": "Segunda Federación",
+  "grupo": "espana",
+  "prioridad": 1,
+  "titular": "Badajoz busca rehacerse del 0-7 y Sanluqueño y Antoniano se juegan la cola",
+  "entradilla": "La jornada 13 del Grupo 4 de Segunda Federación ofrece dos partidos a las 19:00. El Badajoz, séptimo, intenta reengancharse a la zona alta tras encajar 12 goles en dos partidos, y Sanluqueño y Antoniano, separados por un punto, se miden en la parte baja.",
+  "cuerpo_markdown": "El Recreativo Huelva lidera con 27 puntos, seis más que el trío formado por Xerez, Estepona y Don Benito, con 21. El Badajoz, con 20, está empatado con el quinto y el sexto, de modo que una victoria lo coloca en la pelea por los puestos altos. Su rival, el Mijas Las Lagunas, es décimo con 15. Abajo, el Sanluqueño (16º, 10 puntos) y el Antoniano (17º, 9) solo tienen por debajo al Tamaraceite, colista con 6.\n\n## Claves de la jornada\n\n- El Badajoz ha ganado cuatro de sus seis partidos en casa y solo ha encajado cuatro goles como local.\n- El Antoniano no ha ganado ningún partido fuera: un empate, cinco derrotas y un solo gol marcado en seis salidas.\n- El Sanluqueño encadena cuatro derrotas consecutivas en liga y no marca desde el 4-1 a Las Palmas B.\n\n## Badajoz - Mijas Las Lagunas\n\n<p class=\"ficha\"><b>19:00</b> · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Badajoz</span><span class=\"fE\" title=\"1-1 vs Linares Deportivo\">E</span><span class=\"fE\" title=\"1-1 vs Ciudad de Lucena\">E</span><span class=\"fG\" title=\"2-1 vs Don Benito\">G</span><span class=\"fP\" title=\"2-5 vs Tenerife\">P</span><span class=\"fP\" title=\"0-7 vs Recreativo Huelva\">P</span><br><span class=\"eq\">Mijas Las Lagunas</span><span class=\"fE\" title=\"0-0 vs Marbella\">E</span><span class=\"fE\" title=\"1-1 vs Recreativo Huelva\">E</span><span class=\"fP\" title=\"1-2 vs Real Jaén\">P</span><span class=\"fP\" title=\"3-4 vs Estepona\">P</span><span class=\"fP\" title=\"0-3 vs Las Palmas B\">P</span></p>\n\nEl séptimo, con 20 puntos, recibe a un Mijas Las Lagunas que suma tres derrotas seguidas. Ganar mantendría al Badajoz a un punto de la zona alta.\n\n[Leer la previa completa →](../previas/2026-11-28-badajoz-mijas-las-lagunas.html)\n\n## Sanluqueño - Antoniano\n\n<p class=\"ficha\"><b>19:00</b> · Estadio El Palmar · Jornada 13</p><p class=\"forma\"><span class=\"eq\">Sanluqueño</span><span class=\"fG\" title=\"4-1 vs Las Palmas B\">G</span><span class=\"fP\" title=\"1-2 vs Ciudad de Lucena\">P</span><span class=\"fP\" title=\"0-4 vs Xerez\">P</span><span class=\"fP\" title=\"0-1 vs Real Betis B\">P</span><span class=\"fP\" title=\"0-3 vs Linares Deportivo\">P</span><br><span class=\"eq\">Antoniano</span><span class=\"fP\" title=\"0-5 vs Recreativo Huelva\">P</span><span class=\"fG\" title=\"4-1 vs Estepona\">G</span><span class=\"fP\" title=\"0-1 vs Atlético Central\">P</span><span class=\"fP\" title=\"0-2 vs Xerez\">P</span><span class=\"fG\" title=\"3-2 vs Puente Genil\">G</span></p>\n\nEl decimosexto recibe al decimoséptimo en El Palmar. El Sanluqueño, con cuatro derrotas seguidas, se mide a un Antoniano que no ha ganado fuera esta temporada.\n\n[Leer la previa completa →](../previas/2026-11-28-sanluqueno-antoniano.html)",
+  "texto_instagram": "⚽ Jornada 13 en el Grupo 4 de Segunda Federación. El Badajoz (7º, 20 pts) quiere olvidar el 0-7 de Huelva en casa, donde ha ganado cuatro de seis, ante un Mijas Las Lagunas que solo ha perdido una vez fuera. Abajo, Sanluqueño (16º, 10 pts) y Antoniano (17º, 9) se miden con un punto de diferencia: el local suma cuatro derrotas seguidas y el visitante no ha ganado fuera.\n\n19:00 Badajoz - Mijas Las Lagunas\n19:00 Sanluqueño - Antoniano",
+  "hashtags": [
+    "#SegundaFederación",
+    "#Grupo4",
+    "#Badajoz",
+    "#MijasLasLagunas",
+    "#Sanluqueño",
+    "#Antoniano"
+  ],
+  "imagenes_web": [
+    "img/2026-11-28/2026-11-28-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "imagenes": [
+    "img/2026-11-28/2026-11-28-previa-segunda-federacion-grupo-4.jpg"
+  ],
+  "proximos": [
+    {
+      "id": 1573058,
+      "fecha": "2026-11-28T19:00:00+01:00",
+      "estadio": null,
+      "ciudad": null,
+      "jornada": "Group 4 - 13",
+      "arbitro": null,
+      "local": "Badajoz",
+      "visitante": "Mijas Las Lagunas",
+      "escudo_local": "https://media.api-sports.io/football/teams/9382.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/22569.png",
+      "contexto": {
+        "local": {
+          "pos": 7,
+          "pts": 20,
+          "pj": 12,
+          "pg": 5,
+          "pe": 5,
+          "pp": 2,
+          "gf": 12,
+          "gc": 15,
+          "dg": -3,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 4,
+            "pe": 1,
+            "pp": 1,
+            "gf": 7,
+            "gc": 4
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Recreativo Huelva",
+              "campo": "fuera",
+              "marcador": "0-7",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-18",
+              "rival": "Tenerife",
+              "campo": "casa",
+              "marcador": "2-5",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Don Benito",
+              "campo": "casa",
+              "marcador": "2-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Ciudad de Lucena",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Linares Deportivo",
+              "campo": "casa",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 10,
+          "pts": 15,
+          "pj": 12,
+          "pg": 3,
+          "pe": 6,
+          "pp": 3,
+          "gf": 21,
+          "gc": 21,
+          "dg": 0,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 1,
+            "pe": 4,
+            "pp": 1,
+            "gf": 7,
+            "gc": 9
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Las Palmas B",
+              "campo": "casa",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Estepona",
+              "campo": "casa",
+              "marcador": "3-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-10",
+              "rival": "Real Jaén",
+              "campo": "casa",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Copa del Rey"
+            },
+            {
+              "fecha": "2026-11-07",
+              "rival": "Recreativo Huelva",
+              "campo": "fuera",
+              "marcador": "1-1",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Marbella",
+              "campo": "fuera",
+              "marcador": "0-0",
+              "resultado": "E",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        }
+      },
+      "historial": null
+    },
+    {
+      "id": 1573061,
+      "fecha": "2026-11-28T19:00:00+01:00",
+      "estadio": "Estadio El Palmar",
+      "ciudad": null,
+      "jornada": "Group 4 - 13",
+      "arbitro": null,
+      "local": "Sanluqueño",
+      "visitante": "Antoniano",
+      "escudo_local": "https://media.api-sports.io/football/teams/9601.png",
+      "escudo_visitante": "https://media.api-sports.io/football/teams/7522.png",
+      "contexto": {
+        "local": {
+          "pos": 16,
+          "pts": 10,
+          "pj": 12,
+          "pg": 2,
+          "pe": 4,
+          "pp": 6,
+          "gf": 15,
+          "gc": 22,
+          "dg": -7,
+          "zona": "",
+          "casa": {
+            "pj": 6,
+            "pg": 2,
+            "pe": 2,
+            "pp": 2,
+            "gf": 10,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Linares Deportivo",
+              "campo": "fuera",
+              "marcador": "0-3",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-14",
+              "rival": "Real Betis B",
+              "campo": "casa",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Xerez",
+              "campo": "casa",
+              "marcador": "0-4",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Ciudad de Lucena",
+              "campo": "fuera",
+              "marcador": "1-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-25",
+              "rival": "Las Palmas B",
+              "campo": "casa",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        },
+        "visitante": {
+          "pos": 17,
+          "pts": 9,
+          "pj": 12,
+          "pg": 2,
+          "pe": 3,
+          "pp": 7,
+          "gf": 13,
+          "gc": 23,
+          "dg": -10,
+          "zona": "",
+          "fuera": {
+            "pj": 6,
+            "pg": 0,
+            "pe": 1,
+            "pp": 5,
+            "gf": 1,
+            "gc": 11
+          },
+          "racha": [
+            {
+              "fecha": "2026-11-22",
+              "rival": "Puente Genil",
+              "campo": "casa",
+              "marcador": "3-2",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-15",
+              "rival": "Xerez",
+              "campo": "fuera",
+              "marcador": "0-2",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-08",
+              "rival": "Atlético Central",
+              "campo": "fuera",
+              "marcador": "0-1",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-11-01",
+              "rival": "Estepona",
+              "campo": "casa",
+              "marcador": "4-1",
+              "resultado": "G",
+              "competicion": "Segunda Federación · Grupo 4"
+            },
+            {
+              "fecha": "2026-10-24",
+              "rival": "Recreativo Huelva",
+              "campo": "fuera",
+              "marcador": "0-5",
+              "resultado": "P",
+              "competicion": "Segunda Federación · Grupo 4"
+            }
+          ]
+        }
+      },
+      "historial": null
+    }
+  ],
+  "forma": {
+    "Mijas Las Lagunas": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Las Palmas B",
+        "campo": "casa",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Estepona",
+        "campo": "casa",
+        "marcador": "3-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-10",
+        "rival": "Real Jaén",
+        "campo": "casa",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Recreativo Huelva",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Marbella",
+        "campo": "fuera",
+        "marcador": "0-0",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Sanluqueño": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Linares Deportivo",
+        "campo": "fuera",
+        "marcador": "0-3",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-14",
+        "rival": "Real Betis B",
+        "campo": "casa",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Xerez",
+        "campo": "casa",
+        "marcador": "0-4",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Ciudad de Lucena",
+        "campo": "fuera",
+        "marcador": "1-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-25",
+        "rival": "Las Palmas B",
+        "campo": "casa",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Antoniano": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Puente Genil",
+        "campo": "casa",
+        "marcador": "3-2",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Xerez",
+        "campo": "fuera",
+        "marcador": "0-2",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-08",
+        "rival": "Atlético Central",
+        "campo": "fuera",
+        "marcador": "0-1",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Estepona",
+        "campo": "casa",
+        "marcador": "4-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-10-24",
+        "rival": "Recreativo Huelva",
+        "campo": "fuera",
+        "marcador": "0-5",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ],
+    "Badajoz": [
+      {
+        "fecha": "2026-11-22",
+        "rival": "Recreativo Huelva",
+        "campo": "fuera",
+        "marcador": "0-7",
+        "resultado": "P",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-18",
+        "rival": "Tenerife",
+        "campo": "casa",
+        "marcador": "2-5",
+        "resultado": "P",
+        "competicion": "Copa del Rey"
+      },
+      {
+        "fecha": "2026-11-15",
+        "rival": "Don Benito",
+        "campo": "casa",
+        "marcador": "2-1",
+        "resultado": "G",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-07",
+        "rival": "Ciudad de Lucena",
+        "campo": "fuera",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      },
+      {
+        "fecha": "2026-11-01",
+        "rival": "Linares Deportivo",
+        "campo": "casa",
+        "marcador": "1-1",
+        "resultado": "E",
+        "competicion": "Segunda Federación · Grupo 4"
+      }
+    ]
+  },
+  "previas_partido": [
+    {
+      "id": 1573058,
+      "slug": "2026-11-28-badajoz-mijas-las-lagunas",
+      "titular": "El Badajoz se agarra a su campo para olvidar el 0-7 de Huelva",
+      "entradilla": "El séptimo, con 20 puntos, recibe a un Mijas Las Lagunas que suma tres derrotas seguidas. Ganar mantendría al Badajoz a un punto de la zona alta.",
+      "parrafos": [
+        "El Badajoz recibe este sábado a las 19:00 al Mijas Las Lagunas en la jornada 13 del Grupo 4 de Segunda Federación. Cinco puntos separan a ambos: el equipo extremeño es séptimo con 20 y el malagueño, décimo con 15.",
+        "El Badajoz llega tocado. Perdió 0-7 en el campo del líder, el Recreativo Huelva, y antes cayó 2-5 ante el Tenerife en la Copa del Rey. Doce goles encajados en dos partidos que contrastan con su firmeza en casa: cuatro victorias, un empate y una derrota en seis partidos, con solo cuatro goles recibidos. Su última victoria fue precisamente como local, 2-1 ante el Don Benito.",
+        "Su problema es el gol. Con 12 tantos en 12 jornadas es uno de los ataques menos productivos del grupo, y su diferencia de goles (-3) es la peor entre los diez primeros, pese a que solo ha perdido dos partidos de liga.",
+        "El Mijas Las Lagunas encadena tres derrotas, todas en su campo: 0-3 ante Las Palmas B, 3-4 ante el Estepona y 1-2 ante el Real Jaén en la Copa. Fuera es otro equipo: solo ha perdido uno de sus seis desplazamientos, con un triunfo y cuatro empates, entre ellos el 1-1 en Huelva y el 0-0 en Marbella.",
+        "En la tabla, el Badajoz está empatado a 20 puntos con Ciudad de Lucena y Linares Deportivo, a uno del segundo puesto. El Mijas, con 21 goles a favor y 21 en contra, es el equipo de los partidos abiertos."
+      ],
+      "precedente": "",
+      "el_dato": "El Mijas Las Lagunas ha empatado cuatro de sus seis partidos fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Fortaleza local",
+          "texto": "El Badajoz ha sumado 13 de sus 20 puntos en casa, donde solo ha encajado cuatro goles."
+        },
+        {
+          "titulo": "Visitante correoso",
+          "texto": "El Mijas Las Lagunas solo ha perdido uno de sus seis partidos lejos de su campo."
+        },
+        {
+          "titulo": "Dos rachas negativas",
+          "texto": "El Badajoz viene de dos derrotas y el Mijas, de tres, contando la Copa."
+        }
+      ]
+    },
+    {
+      "id": 1573061,
+      "slug": "2026-11-28-sanluqueno-antoniano",
+      "titular": "Sanluqueño y Antoniano, un punto de distancia en la parte baja",
+      "entradilla": "El decimosexto recibe al decimoséptimo en El Palmar. El Sanluqueño, con cuatro derrotas seguidas, se mide a un Antoniano que no ha ganado fuera esta temporada.",
+      "parrafos": [
+        "El Sanluqueño y el Antoniano se enfrentan este sábado a las 19:00 en el Estadio El Palmar, en la jornada 13 del Grupo 4 de Segunda Federación. Solo les separa un punto: 10 para el local, 9 para el visitante. Por debajo únicamente queda el Tamaraceite, con 6.",
+        "El Sanluqueño atraviesa su peor momento. Ha perdido sus cuatro últimos partidos y no marca desde el 4-1 a Las Palmas B del 25 de octubre: 0-3 en Linares, 0-1 ante el Real Betis B, 0-4 ante el Xerez y 1-2 en Lucena. En casa su balance es equilibrado, dos victorias, dos empates y dos derrotas, con 10 de sus 15 goles marcados en El Palmar.",
+        "El Antoniano llega con el impulso del 3-2 al Puente Genil, pero sus números fuera son los peores del grupo después de los del Tamaraceite: seis partidos, ningún triunfo, un empate y un solo gol a favor. Todas sus victorias, ante Estepona (4-1) y Puente Genil, han llegado en casa.",
+        "Con 22 y 23 goles encajados, son dos de las defensas más castigadas del grupo. El ganador tomará aire sobre la zona baja."
+      ],
+      "precedente": "",
+      "el_dato": "El Antoniano ha marcado un solo gol en seis partidos fuera de casa.",
+      "claves": [
+        {
+          "titulo": "Sequía local",
+          "texto": "El Sanluqueño lleva cuatro derrotas seguidas y un solo gol en ese tramo."
+        },
+        {
+          "titulo": "Sin triunfos fuera",
+          "texto": "El Antoniano suma cinco derrotas y un empate como visitante."
+        },
+        {
+          "titulo": "Un punto",
+          "texto": "Es la diferencia en la tabla entre el 16º y el 17º."
+        }
+      ]
+    }
+  ]
+}
